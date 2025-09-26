@@ -2,7 +2,8 @@
 
 **Race:** Human  
 **Background:** Knight of Solamnia  
-**Class:** Fighter (Cavalier)  
+**Class:** Fighter (Cavalier)
+![[sturm-brightblade-sturm-brightblade-25158415-422-504.jpg]]
 ### Backstory
 
 Alric was born in a quiet, unremarkable village. As a young teen, he lived a peaceful but ordinary life—until a violent raid struck his home. He witnessed devastation and loss on a scale he had never imagined. Just when all seemed lost, a company of Solamnic Knights, led by Ser Ispin Greenshield, arrived and drove off the attackers. Alric survived thanks to their intervention.
@@ -47,6 +48,7 @@ Alric’s path to knighthood is fueled by loyalty, courage, and the desire to pr
 **Race:** Kender  
 **Background:** Criminal  
 **Class:** Rogue (Thief)  
+![[Kender Skirmisher.webp]]
 ### Backstory
 
 Fizwick drifts through the world like a leaf on the wind. They don’t know where they came from—nor do they seem to care. Ask about their family, their hometown, or even their own childhood, and Fiz will grin, shrug, and say, “Does it matter? I’m here now, aren’t I?” Their memories of the past are hazy at best, disappearing as quickly as they surface.
@@ -72,6 +74,8 @@ Though they rarely plan ahead, Fiz is drawn to those who fight for justice, orde
 **Race:** Wood Elf
 **Background:** Guide
 **Class:** Ranger (Hunter)
+
+![[D5aNHkbWsAA1V7T.jpg]]
 ### Backstory
 
 Elrohir Vanyarin was once known among his kin as a gentle soul. In the verdant groves of Silvanesti, his voice often carried on the wind in song, and his nimble steps graced festivals with dance. He had a gift for poetry, weaving words as delicately as the strings of his lute, and he delighted in sharing music under the starlit canopy of his homeland. Friends and family alike knew him for his warmth and artistry—an elf who embraced life’s beauty in all its forms.
@@ -95,7 +99,9 @@ Even so, fragments of the old Elrohir endure. When he feels safe—rare moments 
 
 **Race:** Human  
 **Background:** Mage of High Sorcery  
-**Class:** Sorcerer (Lunar)  
+**Class:** Sorcerer (Lunar)
+
+![[lunar-sorcerer.jpg]]
 ### Backstory
 
 Davos grew up in desperate poverty, the eldest of three siblings in a family that often went without food. His parents were kind but powerless; it fell to Davos to keep his younger brother and sister alive. His early life was shaped by hunger, scarcity, and the knowledge that survival required cunning as much as strength.
@@ -128,6 +134,8 @@ Trials test skill, morality, and identity.
 **Race:** Dragonborn (Black)  
 **Background:** Farmer  
 **Class:** Cleric  
+
+![[aj966qp76ek61.jpg]]
 ### Backstory
 
 Murk’s story begins in strangeness. As a child, he was cast into Krynn during the great collision of worlds, a fate he neither understood nor controlled. From the moment of his arrival, whispers clung to him. The smallfolk, still haunted by dragon myths and the silence of the gods, called him a bad omen. Scholars and sages studied him with suspicion, unsettled by the subtle chromatic cast to his skin and eyes—traits he himself did not understand. To some, he was a harbinger of doom. To others, a messiah sent to break the godless silence.
