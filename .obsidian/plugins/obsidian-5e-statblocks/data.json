@@ -13,9 +13,9 @@
     "patch": 3
   },
   "paths": [
-    "/"
+    "3-Mechanics/CLI"
   ],
-  "autoParse": false,
+  "autoParse": true,
   "disableSRD": false,
   "tryToRenderLinks": true,
   "debug": false,

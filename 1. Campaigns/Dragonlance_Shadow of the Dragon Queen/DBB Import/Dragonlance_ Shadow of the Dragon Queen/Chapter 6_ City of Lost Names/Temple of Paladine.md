@@ -117,7 +117,7 @@ From nowhere and everywhere comes a powerful voice that inspires confidence and 
 
 “The last to wield this weapon was unworthy. His failure was a step along the path to the world’s destruction. But this new age needs a new hope. Use this weapon to defend the destiny mortals have chosen. Banish the shadow of the Dragon Queen with the light of this most sacred weapon. With the blessing of the gods, ye champions, reclaim the _dragonlance_.”
 
-Any character with the [Divinely Favored feat](https://www.dndbeyond.com/feats/divinely-favored) (from [[2. Mechanics/5e/Characterizations/Feats#Divinely Favored|chapter 1]]) knows this is the voice of the god Paladine.
+Any character with the [Divinely Favored feat](https://www.dndbeyond.com/feats/divinely-favored) (from [[3-Mechanics/SRD/Characterizations/Feats#Divinely Favored|chapter 1]]) knows this is the voice of the god Paladine.
 
 A moment later, a wave of light sweeps through the temple, healing each creature present as if by the [[Heal|heal]] spell. If any characters died during this chapter, they immediately come back to life as if by the [[True Resurrection|true resurrection]] spell, their bodies appearing in the chancel if they’re not already present. The light then vanishes.
 

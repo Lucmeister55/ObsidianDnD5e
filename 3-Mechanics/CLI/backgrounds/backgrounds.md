@@ -1,0 +1,44 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+- json5e-index
+---
+# Index of Backgrounds
+
+- [Acolyte](./acolyte-xphb.md)
+- [Artisan](./artisan-xphb.md)
+- [Charlatan](./charlatan-xphb.md)
+- [Chondathan Freebooter](./chondathan-freebooter-frhof.md)
+- [Criminal](./criminal-xphb.md)
+- [Dead Magic Dweller](./dead-magic-dweller-frhof.md)
+- [Dragon Cultist](./dragon-cultist-frhof.md)
+- [Emerald Enclave Caretaker](./emerald-enclave-caretaker-frhof.md)
+- [Entertainer](./entertainer-xphb.md)
+- [Farmer](./farmer-xphb.md)
+- [Flaming Fist Mercenary](./flaming-fist-mercenary-frhof.md)
+- [Genie Touched](./genie-touched-frhof.md)
+- [Guard](./guard-xphb.md)
+- [Guide](./guide-xphb.md)
+- [Harper](./harper-frhof.md)
+- [Hermit](./hermit-xphb.md)
+- [Ice Fisher](./ice-fisher-frhof.md)
+- [Knight of Solamnia](./knight-of-solamnia-dsotdq.md)
+- [Knight of the Gauntlet](./knight-of-the-gauntlet-frhof.md)
+- [Lords' Alliance Vassal](./lords-alliance-vassal-frhof.md)
+- [Mage of High Sorcery](./mage-of-high-sorcery-dsotdq.md)
+- [Merchant](./merchant-xphb.md)
+- [Moonwell Pilgrim](./moonwell-pilgrim-frhof.md)
+- [Mulhorandi Tomb Raider](./mulhorandi-tomb-raider-frhof.md)
+- [Mythalkeeper](./mythalkeeper-frhof.md)
+- [Noble](./noble-xphb.md)
+- [Purple Dragon Squire](./purple-dragon-squire-frhof.md)
+- [Rashemi Wanderer](./rashemi-wanderer-frhof.md)
+- [Sage](./sage-xphb.md)
+- [Sailor](./sailor-xphb.md)
+- [Scribe](./scribe-xphb.md)
+- [Shadowmasters Exile](./shadowmasters-exile-frhof.md)
+- [Soldier](./soldier-xphb.md)
+- [Spellfire Initiate](./spellfire-initiate-frhof.md)
+- [Wayfarer](./wayfarer-xphb.md)
+- [Zhentarim Mercenary](./zhentarim-mercenary-frhof.md)

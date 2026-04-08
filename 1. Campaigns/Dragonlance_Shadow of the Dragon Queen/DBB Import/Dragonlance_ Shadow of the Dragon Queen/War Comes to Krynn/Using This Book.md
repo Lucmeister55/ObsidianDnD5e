@@ -10,7 +10,7 @@ tags:
 # Using This Book
 This book presents a glimpse of the world of Krynn through the lens of a specific conflict. Rather than providing an overview of the entire world, the book focuses on the region surrounding the city of Kalaman in the nation of Solamnia as the War of the Lance first reaches its borders. Details of the world and the perils facing Kalaman are presented through this introduction, supplemented by reports from Solamnic scholars and soldiers. Beyond this, the book is divided into the sections below.
 
-**[[Chapter 1\_ Character Creation|Chapter 1]]** explores how to create characters prepared to take part in the War of the Lance. It details the peoples of Krynn, such as [[Race Option#Kender|kender]], along with [[2. Mechanics/5e/Characterizations/Feats|feats]], [[2. Mechanics/5e/Characterizations/Backgrounds|backgrounds]], and a [[Sorcerer Subclass|subclass]] to immerse characters in the world.
+**[[Chapter 1\_ Character Creation|Chapter 1]]** explores how to create characters prepared to take part in the War of the Lance. It details the peoples of Krynn, such as [[Race Option#Kender|kender]], along with [[3-Mechanics/SRD/Characterizations/Feats|feats]], [[3-Mechanics/SRD/Characterizations/Backgrounds|backgrounds]], and a [[Sorcerer Subclass|subclass]] to immerse characters in the world.
 
 **[[Chapter 2\_ Prelude to War|Chapter 2]]** provides an overview of this book’s adventure and how to start playing. It also contains a series of short encounters to immerse characters in the world’s mysteries.
 
