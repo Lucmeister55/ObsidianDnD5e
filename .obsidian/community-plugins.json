@@ -5,5 +5,8 @@
   "obsidian-leaflet-plugin",
   "dataview",
   "obsidian-kanban",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "zoom-map",
+  "calendarium",
+  "obsidian-custom-frames"
 ]

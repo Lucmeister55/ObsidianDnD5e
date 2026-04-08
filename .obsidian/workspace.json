@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fa4dfb923d4474bd",
+        "id": "591ef1447b27ad3d",
         "type": "tabs",
         "children": [
           {
-            "id": "067917b8daf09023",
+            "id": "2cc3ab84660fd4e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Chapters/Prelude.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Prelude"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 381.5
   },
   "right": {
     "id": "425c20c728886fc8",
@@ -138,23 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Origin characters.md",
+                "file": "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Chapters/Prelude.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Origin characters"
-            }
-          },
-          {
-            "id": "c0b2e8c1dd23eca8",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "title": "Outline of Prelude"
             }
           },
           {
@@ -163,8 +157,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -188,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -207,35 +201,57 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "550cf2dc1987b388",
+  "active": "2cc3ab84660fd4e6",
   "lastOpenFiles": [
-    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Party",
-    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen",
-    "1. Worlds/Modules",
-    "2. Mechanics",
-    "1. Worlds",
-    "1. Party",
-    "0. DM Screen",
-    "z_Templates",
-    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Party/origin_characters.md",
-    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/map-12.01-kalaman-northern-wastes.png",
-    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Characters",
-    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/player/map-3.01-vogler-player.png",
-    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Documents/DMs Guild/companions/maps/1878331-Road_Ambush_Grid(140ppi-40x30).jpg",
-    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/player",
-    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/player/map-6.01-path-of-memories-player.png",
-    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/player/map-5.08-attack-on-winds-end-player.png",
-    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/player/map-5.07-camp-carrionclay-player.png",
-    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/player/map-5.06-hearts-hollow-player.png",
-    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/player/map-5.05-bluemaw-cave-player.png",
-    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/player/map-5.04-wakenreth-player.png",
-    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/player/map-5.03-sunward-fortress-player.png",
-    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps",
-    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Chapters/Prelude.md",
-    "overview.md",
-    "Chapters/Prelude.md"
+    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Party/Alric.md",
+    "2. Mechanics/5e/README.md",
+    "2. Mechanics/5e/RE&.logo.png",
+    "2. Mechanics/5e/Changelog.md",
+    "2. Mechanics/5e/Spells/# Spellcasting.md",
+    "2. Mechanics/5e/Spells/## Spell Lists.md",
+    "2. Mechanics/5e/Spells (Alt)/Spells B.md",
+    "2. Mechanics/5e/Spells (Alt)/# Spellcasting.md",
+    "2. Mechanics/5e/Classes/Paladin.md",
+    "2. Mechanics/5e/Classes/Barbarian.md",
+    "2. Mechanics/5e/Equipment/Weapons.md",
+    "2. Mechanics/5e/Equipment/Trade Goods.md",
+    "2. Mechanics/5e/Equipment/Tools.md",
+    "2. Mechanics/5e/Equipment/Armor.md",
+    "2. Mechanics/5e/Classes/Sorcerer.md",
+    "2. Mechanics/5e/Classes/Warlock.md",
+    "2. Mechanics/5e/Classes/Wizard.md",
+    "2. Mechanics/5e/Classes/Rogue.md",
+    "2. Mechanics/5e/Classes/Ranger.md",
+    "2. Mechanics/5e/Classes/Monk.md",
+    "2. Mechanics/5e/Classes/Fighter.md",
+    "2. Mechanics/5e/Classes/Druid.md",
+    "2. Mechanics/5e/Classes/Cleric.md",
+    "2. Mechanics/5e/Classes/Bard.md",
+    "2. Mechanics/5e/Classes",
+    "2. Mechanics/5e/Characterizations/Multiclassing.md",
+    "2. Mechanics/5e/Characterizations/Languages.md",
+    "2. Mechanics/5e/Characterizations/Inspiration.md",
+    "2. Mechanics/5e/Characterizations",
+    "2. Mechanics/5e/Treasure (Alt)",
+    "2. Mechanics/5e/Treasure",
+    "2. Mechanics/5e/Spells (Alt)",
+    "2. Mechanics/5e/Spells",
+    "2. Mechanics/5e/Races",
+    "2. Mechanics/5e/Monsters (Alt)",
+    "2. Mechanics/5e/Monsters",
+    "2. Mechanics/5e/Gameplay",
+    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Documents/DMs Guild/companions/maps/1878331-Underground_Ambush-Grid(70).jpg",
+    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Documents/DMs Guild/companions/maps/1878331-Scales_of_War_Map.jpg",
+    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Documents/DMs Guild/companions/maps/1878331-Rocky_Wilderness_40x40_sq_-_res_4096x4096.jpg",
+    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Documents/DMs Guild/companions/maps/1878331-Mountain_Side_-_Night_20x20_sq_-_Res_4096x4096.jpg",
+    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Documents/DMs Guild/companions/maps/1878331-Road_Ambush_Grid(140ppi-40x30).jpg",
+    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Documents/DMs Guild/companions/maps/1878331-Maginificient_Mansion_-_Desert_20x20_sq_-_Res_4096x4096.jpg",
+    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Documents/DMs Guild/companions/maps/1878331-Maginificient_Mansion_-_Desert_-_Night_20x20_sq_-_Res_4096x4096.jpg",
+    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Documents/DMs Guild/companions/maps/1878331-Frozen_Citadel_40x40__-_Grid.jpg",
+    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Documents/DMs Guild/companions/maps/1878331-Farmstead_-_Shadows_30x30_sq_-_Res_4096x4096.jpg"
   ]
 }
