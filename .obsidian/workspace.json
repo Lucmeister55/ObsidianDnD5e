@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d133a0bd415b22d6",
+        "id": "fa4dfb923d4474bd",
         "type": "tabs",
         "children": [
           {
-            "id": "80379ef3c6776dc8",
+            "id": "067917b8daf09023",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Origin characters.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Origin characters"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 425.5
   },
   "right": {
     "id": "425c20c728886fc8",
@@ -150,13 +146,53 @@
               "icon": "lucide-list",
               "title": "Outline of Origin characters"
             }
+          },
+          {
+            "id": "c0b2e8c1dd23eca8",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "a00eb4246640e1bc",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "bb2c05cd53931d2f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "d5a0f1136e707f57",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 467.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,25 +202,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "80379ef3c6776dc8",
+  "active": "550cf2dc1987b388",
   "lastOpenFiles": [
-    "Chapters/Prelude.md",
-    "Overview.md",
-    "Chapters",
-    "Origin characters.md",
-    "attachments/aj966qp76ek61.jpg",
-    "attachments/lunar-sorcerer.jpg",
-    "attachments/D5aNHkbWsAA1V7T.jpg",
-    "attachments/iw6amv00a4i91.jpg",
-    "attachments/knight-of-solamnia.jpg",
-    "attachments/Kender Skirmisher.webp",
-    "attachments/Kender_5e.webp",
-    "attachments/sturm-brightblade-sturm-brightblade-25158415-422-504.jpg",
-    "attachments",
-    "sturm-brightblade-sturm-brightblade-25158415-422-504.jpg",
-    "notes"
+    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Party",
+    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen",
+    "1. Worlds/Modules",
+    "2. Mechanics",
+    "1. Worlds",
+    "1. Party",
+    "0. DM Screen",
+    "z_Templates",
+    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Party/origin_characters.md",
+    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/map-12.01-kalaman-northern-wastes.png",
+    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Characters",
+    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/player/map-3.01-vogler-player.png",
+    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Documents/DMs Guild/companions/maps/1878331-Road_Ambush_Grid(140ppi-40x30).jpg",
+    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/player",
+    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/player/map-6.01-path-of-memories-player.png",
+    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/player/map-5.08-attack-on-winds-end-player.png",
+    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/player/map-5.07-camp-carrionclay-player.png",
+    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/player/map-5.06-hearts-hollow-player.png",
+    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/player/map-5.05-bluemaw-cave-player.png",
+    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/player/map-5.04-wakenreth-player.png",
+    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps/player/map-5.03-sunward-fortress-player.png",
+    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Offical Maps",
+    "1. Worlds/Modules/Dragonlance Shadow of the Dragon Queen/Chapters/Prelude.md",
+    "overview.md",
+    "Chapters/Prelude.md"
   ]
 }
