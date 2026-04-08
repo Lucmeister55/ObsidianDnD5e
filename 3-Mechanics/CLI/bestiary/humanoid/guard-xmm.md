@@ -65,7 +65,7 @@ Guards protect people, places, and things, either for pay or from a sense of dut
     "name": "Spear"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Guard.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/guard-xmm.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ aliases:
 ---
 # Wand of Fear
 *Wand, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Wand of Fear.webp#right)
+![](/3-Mechanics/CLI/items/img/wand-of-fear.webp#right)
 
 - **Weight**: 1.0 lbs.
 

@@ -10,7 +10,7 @@ aliases:
 ---
 # Emerald Enclave Caretaker
 *Source: Forgotten Realms: Heroes of Faerûn p. 29*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/FRHoF/Emerald Enclave Caretaker.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/emerald-enclave-caretaker.webp#right)
 
 - **Ability Scores.** Constitution, Intelligence, Wisdom  
 - **Feat.** [Emerald Enclave Fledgling](/3-Mechanics/CLI/feats/emerald-enclave-fledgling-frhof.md)  

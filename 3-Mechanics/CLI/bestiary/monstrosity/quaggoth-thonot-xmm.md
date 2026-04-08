@@ -80,7 +80,7 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
     "name": "Psionic Defense (3/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Quaggoth Thonot.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/quaggoth-thonot-xmm.webp"
 ```
 ^statblock
 

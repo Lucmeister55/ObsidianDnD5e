@@ -84,8 +84,7 @@ Faerie dragons are cat-size pranksters with draconic features, butterfly-like wi
     "name": "Superior Invisibility"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Faerie Dragon\
-  \ Adult.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/faerie-dragon-adult-xmm.webp"
 ```
 ^statblock
 

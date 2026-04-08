@@ -12,7 +12,7 @@ aliases:
 ---
 # Wand of Paralysis
 *Wand, rare (requires attunement by a spellcaster)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Wand of Paralysis.webp#right)
+![](/3-Mechanics/CLI/items/img/wand-of-paralysis.webp#right)
 
 - **Weight**: 1.0 lbs.
 

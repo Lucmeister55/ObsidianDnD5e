@@ -12,7 +12,7 @@ aliases:
 ---
 # Tymora
 *Source: Forgotten Realms: Heroes of Faerûn p. 126* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Tymora.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-tymora.webp#symbol)
 
 - **Alternate Names**: Lady Luck, Our Smiling Lady
 - **Alignment**: Unaligned

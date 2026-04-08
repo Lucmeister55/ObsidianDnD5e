@@ -97,7 +97,7 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
     "name": "Morningstar"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Ettin.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/ettin-xmm.webp"
 ```
 ^statblock
 

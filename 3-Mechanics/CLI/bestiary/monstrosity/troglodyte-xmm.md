@@ -71,7 +71,7 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
     "name": "Rend"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Troglodyte.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/troglodyte-xmm.webp"
 ```
 ^statblock
 

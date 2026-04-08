@@ -11,7 +11,7 @@ aliases:
 ---
 # Ring of Water Walking
 *Ring, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Ring of Water Walking.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-water-walking.webp#right)
 
 
 While wearing this ring, you cast [Water Walk](/3-Mechanics/CLI/spells/water-walk-xphb.md) from it, targeting only yourself.

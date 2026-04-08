@@ -106,7 +106,7 @@ Green hags frequently know strange magic or forgotten secrets, such as the weakn
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Green Hag.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/green-hag-xmm.webp"
 ```
 ^statblock
 

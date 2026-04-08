@@ -27,7 +27,7 @@ aliases:
 ---
 # Magic Missile
 *1st-level, Evocation*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Magic Missile.webp#right)
+![](/3-Mechanics/CLI/spells/img/magic-missile.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet

@@ -86,7 +86,7 @@ Imps without masters delight in manipulating other creatures and inflating their
 "source":
   - "XMM"
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Imp.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/imp-xmm.webp"
 ```
 ^statblock
 

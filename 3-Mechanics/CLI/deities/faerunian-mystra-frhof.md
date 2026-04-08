@@ -13,7 +13,7 @@ aliases:
 ---
 # Mystra
 *Source: Forgotten Realms: Heroes of Faerûn p. 117* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Mystra.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-mystra.webp#symbol)
 
 - **Alternate Names**: The Lady of Mysteries, The Mother of All Magic, Our Lady of Spells
 - **Alignment**: Unaligned

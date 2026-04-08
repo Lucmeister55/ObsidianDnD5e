@@ -13,7 +13,7 @@ aliases:
 ---
 # Milil
 *Source: Forgotten Realms: Heroes of Faerûn p. 116* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Milil.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-milil.webp#symbol)
 
 - **Alternate Names**: The Lord of All Songs, The First Poet, The Bard of Oghma
 - **Alignment**: Unaligned

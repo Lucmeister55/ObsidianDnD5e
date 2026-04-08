@@ -90,7 +90,7 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
     "name": "Javelin"
 "source":
   - "MM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/MM/Bugbear Chief.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/bugbear-chief.webp"
 ```
 ^statblock
 

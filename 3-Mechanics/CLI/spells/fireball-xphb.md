@@ -34,7 +34,7 @@ aliases:
 ---
 # Fireball
 *3rd-level, Evocation*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Fireball.webp#right)
+![](/3-Mechanics/CLI/spells/img/fireball.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 150 feet

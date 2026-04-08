@@ -10,7 +10,7 @@ aliases:
 ---
 # Lords' Alliance Vassal
 *Source: Forgotten Realms: Heroes of Faerûn p. 32*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/FRHoF/Lords' Alliance Vassal.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/lords-alliance-vassal.webp#right)
 
 - **Ability Scores.** Strength, Intelligence, Charisma  
 - **Feat.** [Lords' Alliance Agent](/3-Mechanics/CLI/feats/lords-alliance-agent-frhof.md)  

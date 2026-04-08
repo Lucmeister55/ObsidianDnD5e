@@ -19,7 +19,7 @@ The gallery roof gives the operators [Total Cover](/3-Mechanics/CLI/tables/cover
 
 ```ad-statblock
 title: Ram
-![](file://D:\ProgramData\CLI\5etools-img/objects/tokens/XDMG/Ram.webp#token)
+![](/3-Mechanics/CLI/objects/token/ram-xdmg.webp#token)
 *Large Siege weapon*
 
 - **Armor Class** 15

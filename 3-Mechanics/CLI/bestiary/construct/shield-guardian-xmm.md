@@ -85,7 +85,7 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
     "name": "Protection"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Shield Guardian.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/shield-guardian-xmm.webp"
 ```
 ^statblock
 

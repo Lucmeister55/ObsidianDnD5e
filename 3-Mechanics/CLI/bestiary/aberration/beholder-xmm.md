@@ -149,7 +149,7 @@ Beholders lurk in cavern complexes they've carved using their eye rays deep in t
     "name": "Glare"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Beholder.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/beholder-xmm.webp"
 ```
 ^statblock
 

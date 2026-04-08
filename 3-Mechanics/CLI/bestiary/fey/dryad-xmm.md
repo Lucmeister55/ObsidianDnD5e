@@ -95,7 +95,7 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
     "name": "Tree Stride"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Dryad.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/dryad-xmm.webp"
 ```
 ^statblock
 

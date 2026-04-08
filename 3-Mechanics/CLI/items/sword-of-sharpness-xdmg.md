@@ -18,7 +18,7 @@ aliases:
 ---
 # Sword of Sharpness
 *Very rare (requires attunement)*  
-![Sword of Sharpness (Greatsword)](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Sword of Sharpness.webp#right)
+![Sword of Sharpness (Greatsword)](/3-Mechanics/CLI/items/img/sword-of-sharpness.webp#right)
 
 
 When you attack an object with this magic weapon and hit, maximize your weapon damage dice against the target.

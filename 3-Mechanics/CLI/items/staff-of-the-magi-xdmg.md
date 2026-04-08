@@ -13,7 +13,7 @@ aliases:
 ---
 # Staff of the Magi
 *Staff, weapon, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Staff of the Magi.webp#right)
+![](/3-Mechanics/CLI/items/img/staff-of-the-magi.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

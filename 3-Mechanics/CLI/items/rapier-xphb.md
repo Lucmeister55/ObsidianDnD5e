@@ -12,7 +12,7 @@ aliases:
 ---
 # Rapier
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Rapier.webp#right)
+![](/3-Mechanics/CLI/items/img/rapier.webp#right)
 
 - **Damage**: 1d8 piercing
 - **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)

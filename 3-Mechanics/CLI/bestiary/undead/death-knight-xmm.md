@@ -111,7 +111,7 @@ Champions of evil, death knights are armor-clad, skeletal warlords. Combining de
     "name": "Lunge"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Death Knight.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/death-knight-xmm.webp"
 ```
 ^statblock
 

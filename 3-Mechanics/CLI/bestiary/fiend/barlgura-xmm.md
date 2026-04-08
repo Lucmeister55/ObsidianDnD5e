@@ -90,7 +90,7 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
     "name": "Leap"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Barlgura.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/barlgura-xmm.webp"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ aliases:
 ---
 # Morgion
 *Source: Dragonlance: Shadow of the Dragon Queen p. 18* 
-![Symbols Left to Right: Mor...](file://D:\ProgramData\CLI\5etools-img/deities/DSotDQ/017-00-040.o-evil-trio.webp#symbol "Symbols Left to Right: Morgion, Nuitari, and Sargonnas")
+![Symbols Left to Right: Mor...](/3-Mechanics/CLI/deities/img/dsotdq-017-00-040-o-evil-trio.webp#symbol "Symbols Left to Right: Morgion, Nuitari, and Sargonnas")
 
 - **Alignment**: Neutral Evil
 - **Category**: Evil

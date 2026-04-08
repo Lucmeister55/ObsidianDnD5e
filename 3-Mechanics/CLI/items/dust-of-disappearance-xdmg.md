@@ -10,7 +10,7 @@ aliases:
 ---
 # Dust of Disappearance
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Dust of Disappearance.webp#right)
+![](/3-Mechanics/CLI/items/img/dust-of-disappearance.webp#right)
 
 
 This powder resembles fine sand. There is enough of it for one use. When you take a [Utilize](/3-Mechanics/CLI/actions.md#Utilize) action to throw the dust into the air, you and each creature and object within a 10-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you have the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible) condition for `dice:2d4|noform|noparens|avg` (`2d4`) minutes. The duration is the same for all subjects, and the dust is consumed when its magic takes effect. Immediately after an affected creature makes an attack roll, deals damage, or casts a spell, the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible) condition ends for that creature.

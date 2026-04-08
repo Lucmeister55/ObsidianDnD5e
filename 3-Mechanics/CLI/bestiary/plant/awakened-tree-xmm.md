@@ -60,7 +60,7 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
     "name": "Slam"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Awakened Tree.webp"
+"image": "/3-Mechanics/CLI/bestiary/plant/token/awakened-tree-xmm.webp"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ aliases:
 ---
 # Knight of the Gauntlet
 *Source: Forgotten Realms: Heroes of Faerûn p. 32*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/FRHoF/Knight of the Gauntlet.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/knight-of-the-gauntlet.webp#right)
 
 - **Ability Scores.** Strength, Intelligence, Wisdom  
 - **Feat.** [Tyro of the Gauntlet](/3-Mechanics/CLI/feats/tyro-of-the-gauntlet-frhof.md)  

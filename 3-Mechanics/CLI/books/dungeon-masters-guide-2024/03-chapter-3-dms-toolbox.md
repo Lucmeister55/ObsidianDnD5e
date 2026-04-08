@@ -10,7 +10,7 @@ aliases:
 # Chapter 3: DM's Toolbox
 *Source: Dungeon Master's Guide (2024), p. 51* 
 
-![A Blob of Annihilation att...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/021-02-001.blob-attack.webp#center "A Blob of Annihilation attacks Sharn, the City of Towers, in the world of Eberron")
+![A Blob of Annihilation att...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/021-02-001-blob-attack.webp#center "A Blob of Annihilation attacks Sharn, the City of Towers, in the world of Eberron")
 
 Whereas "chapters 1" and "2" teach the essentials of being a Dungeon Master, this chapter provides advice on topics that can surface as you prepare or run a D&D game session, as well as rules for adventure elements ranging from chases and doors to traps. It also includes guidance on creating new "backgrounds", "creatures", "magic items", and "spells" to amuse your players.
 
@@ -60,7 +60,7 @@ An organization's ethos doesn't dictate the alignment of its members or even the
 
 ## Chases
 
-![An exciting chase nears its conclusion](file://D:\ProgramData\CLI\5etools-img/book/XDMG/022-02-002.party-gives-chase.webp#center)
+![An exciting chase nears its conclusion](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/022-02-002-party-gives-chase.webp#center)
 
 The rules for movement in combat don't translate to every situation. In particular, they can make a potentially thrilling chase seem dull and predictable. Faster creatures always catch up to slower ones, while creatures with the same Speed never close the distance between each other. Use the following rules to introduce random elements that make chases more exciting.
 
@@ -120,7 +120,7 @@ Complications can be barriers to progress or opportunities for mayhem. Character
 
 A map of a chase can be linear or have many branches, depending on the nature of the chase. For example, a mine cart chase might have few (if any) branches, while a sewer chase might have several.
 
-![An ill-advised attempt to ...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/023-02-003.sylgar-theft.webp#center "An ill-advised attempt to steal Xanathar's pet goldfish, Sylgar, leads to a heated chase")
+![An ill-advised attempt to ...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/023-02-003-sylgar-theft.webp#center "An ill-advised attempt to steal Xanathar's pet goldfish, Sylgar, leads to a heated chase")
 
 ### Chase Complications
 
@@ -136,7 +136,7 @@ Characters can create their own complications to shake off pursuers or slow thei
 
 A character's background represents what the character did prior to becoming an adventurer. Creating a unique background or customizing an existing one from the "Player's Handbook" can reflect the particular theme of your campaign or elements of your world. You can also create a background to help a player craft the story they have in mind for their character.
 
-![You might alter the Sailor...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/024-02-004.seas-of-greyhawk.webp#center "You might alter the Sailor background to reflect a character's youth on the seas of Greyhawk")
+![You might alter the Sailor...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/024-02-004-seas-of-greyhawk.webp#center "You might alter the Sailor background to reflect a character's youth on the seas of Greyhawk")
 
 This section describes, step by step, how you can create backgrounds like the ones in the "Player's Handbook", tailored for your world and the heroes in it.
 
@@ -167,7 +167,7 @@ Assemble a package of equipment worth 50 GP (including unspent gold). Don't incl
 
 ## Creating a Creature
 
-![Baba Yaga invents a new cr...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/025-02-005.baba-yaga.webp#center "Baba Yaga invents a new creature—a fire-breathing Giant Toad!")
+![Baba Yaga invents a new cr...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/025-02-005-baba-yaga.webp#center "Baba Yaga invents a new creature—a fire-breathing Giant Toad!")
 
 Use the approaches and examples in the following sections to build custom creatures for your game.
 
@@ -309,7 +309,7 @@ If the item grants a bonus that other items also grant, it's a good idea to requ
 
 ## Creating a Spell
 
-![Ringlerun's spell research...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/026-02-006.ringlerun-researching.webp#center "Ringlerun's spell research leads in unexpected directions as he unintentionally creates a flying gelatinous cubelet")
+![Ringlerun's spell research...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/026-02-006-ringlerun-researching.webp#center "Ringlerun's spell research leads in unexpected directions as he unintentionally creates a flying gelatinous cubelet")
 
 When creating a new spell, use existing ones as examples. Here are some things to consider:
 
@@ -339,7 +339,7 @@ The following sections discuss curses and magical contagions in detail.
 
 ### Curses
 
-![The curse of demonic posse...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/027-02-007.demonic-possession.webp#center "The curse of demonic possession has devastating effects")
+![The curse of demonic posse...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/027-02-007-demonic-possession.webp#center "The curse of demonic possession has devastating effects")
 
 Every curse has rules that govern it. A curse typically takes one of the forms detailed below.
 
@@ -406,7 +406,7 @@ The best way to avoid hard feelings connected to the death of a beloved characte
 - **Provide Fair Warning.** Let characters face the consequences of their foolish actions, but make sure you give enough cues for the players to recognize self-destructive actions. You might want to ask a player, "Are you sure?" before committing a character to a potentially fatal course of action.  
 - **Fair Encounters.** Your players have to know that you're fair in designing encounters. It's fine to throw tough encounters at them and sometimes to let them face monsters they can't beat. But it's not fair if the players have no way to know they can't win the fight or have no way to escape.  
 
-![Sometimes death—even the d...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/028-02-008.death-passage.webp#center "Sometimes death—even the death of an entire party—is just a passage to new adventures")
+![Sometimes death—even the d...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/028-02-008-death-passage.webp#center "Sometimes death—even the death of an entire party—is just a passage to new adventures")
 
 ### Scaling Lethality
 
@@ -525,7 +525,7 @@ You can use the Dungeon Quirks table to add distinctive character to a dungeon y
 
 ### Mapping a Dungeon
 
-![A dungeon built by giants ...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/029-02-009.giants-dungeon.webp#center "A dungeon built by giants offers enormous adventures")
+![A dungeon built by giants ...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/029-02-009-giants-dungeon.webp#center "A dungeon built by giants offers enormous adventures")
 
 A dungeon can range in size from a few chambers to a huge complex of rooms and passages extending hundreds of feet. The adventurers' goal often lies as far from the dungeon entrance as possible, forcing characters to delve deeper underground or push farther into the heart of the complex.
 
@@ -609,7 +609,7 @@ The States of Ruin table can help you determine the general conditions of a dung
 
 ## Environmental Effects
 
-![A friendly bronze dragon k...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/030-02-010.bronze-dragon-v-ship.webp#center "A friendly bronze dragon keeps a watchful eye on a storm-tossed ship")
+![A friendly bronze dragon k...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/030-02-010-bronze-dragon-v-ship.webp#center "A friendly bronze dragon keeps a watchful eye on a storm-tossed ship")
 
 Characters crossing a frigid tundra might suffer the effects of extreme cold, while a visit to a cloud giant's castle might subject characters to the effects of high altitude. The following sections provide rules for handling these and other environmental effects.
 
@@ -670,13 +670,13 @@ The character has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xph
 
 An indefinite effect is a long-term effect (see above) that lasts until removed by a [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell. It can be suppressed by a Calm Emotions spell.
 
-![Fight, flight, or freeze?](file://D:\ProgramData\CLI\5etools-img/book/XDMG/031-02-011.fight-flight-or-freeze.webp#center)
+![Fight, flight, or freeze?](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/031-02-011-fight-flight-or-freeze.webp#center)
 
 ## Firearms and Explosives
 
 Renaissance-era pistols and muskets appear in the "Player's Handbook". In a campaign involving a crashed spaceship or elements of modern-day Earth, characters might find the items described here.
 
-![When faced with a troll, t...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/032-02-012.troll-v-firearms.webp#center "When faced with a troll, there's no time to figure out the right way to hold a shotgun")
+![When faced with a troll, t...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/032-02-012-troll-v-firearms.webp#center "When faced with a troll, there's no time to figure out the right way to hold a shotgun")
 
 ### Firearms
 
@@ -841,7 +841,7 @@ Hazards are presented in alphabetical order.
 - [Webs](/3-Mechanics/CLI/traps-hazards/webs-xdmg.md)  
 - [Yellow Mold](/3-Mechanics/CLI/traps-hazards/yellow-mold-xdmg.md)  
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XDMG/035-02-015.spiders.webp#center)
+![](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/035-02-015-spiders.webp#center)
 
 ## Marks of Prestige
 
@@ -865,7 +865,7 @@ A letter of recommendation from a person of impeccable reputation can grant adve
 
 A letter of recommendation is worth only as much as the reputation of the person who wrote it and offers no benefit where its writer holds no sway.
 
-![Queen Yolande of Celene is...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/036-02-016.queen-yolande.webp#center "Queen Yolande of Celene is grateful for adventurers' aid")
+![Queen Yolande of Celene is...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/036-02-016-queen-yolande.webp#center "Queen Yolande of Celene is grateful for adventurers' aid")
 
 ### Medals
 
@@ -960,7 +960,7 @@ Nonplayer characters (NPCs) are supporting characters controlled by you, the DM.
 
 The "Monster Manual" contains stat blocks you can use to represent NPCs in your game. You can add details to make them distinctive and memorable. For example, your players will have no trouble remembering the no-nonsense blacksmith with the tattoo of the black rose on her right shoulder or the badly dressed musician with the broken nose. NPCs in your game rarely need much more complexity than that.
 
-![Nonplayer Characters come in all shapes and sizes](file://D:\ProgramData\CLI\5etools-img/book/XDMG/037-02-017.nonplayer-characters.webp#center)
+![Nonplayer Characters come in all shapes and sizes](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/037-02-017-nonplayer-characters.webp#center)
 
 ### Detailed NPCs
 
@@ -984,7 +984,7 @@ You'll need a name for any NPC who plays a prominent role in your campaign. You 
 
 #### Stat Block
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XDMG/038-02-018.lone-npc.webp#center)
+![](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/038-02-018-lone-npc.webp#center)
 
 Choose a stat block from the "Monster Manual" to represent the NPC's game statistics. You don't need to do this if you don't expect the NPC to engage in combat or use any special abilities (such as casting spells). You can customize the stat block using the guidelines under ""Creating a Creature"" in this chapter to better reflect the NPC you have in mind.
 
@@ -1010,7 +1010,7 @@ Describe a secret the NPC is trying to hide or protect. The NPC Secrets table pr
 
 ![NPC Secrets](/3-Mechanics/CLI/tables/npc-secrets-xdmg.md)
 
-![Download PDF](file://D:\ProgramData\CLI\5etools-img/book/XDMG/039-02-019.npc-tracker-sheet.webp#center)
+![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/039-02-019-npc-tracker-sheet.webp#center)
 
 ### Recurring NPCs
 
@@ -1040,7 +1040,7 @@ Here are some NPC archetypes that work well as supporting characters in an adven
 
 Even useful NPCs can slow down the game or overstay their welcome. Consider having NPC party members stick around for no more than a few game sessions or a single adventure before making their exit. NPCs can benefit from time away from the characters now and then.
 
-![As a member of another gro...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/040-02-020.npc-healer.webp#center "As a member of another group of heroes, Niko first joined Sheila, Diana, Eric, and Presto as an NPC healer")
+![As a member of another gro...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/040-02-020-npc-healer.webp#center "As a member of another group of heroes, Niko first joined Sheila, Diana, Eric, and Presto as an NPC healer")
 
 #### Loyalty
 
@@ -1070,7 +1070,7 @@ If the characters own or operate a sailing ship or similar vessel, you can use t
 
 Given their insidious and deadly nature, poisons are a favorite tool among assassins and evil creatures.
 
-![Zarak applies poison to his dagger](file://D:\ProgramData\CLI\5etools-img/book/XDMG/041-02-021.zarak-poison-dagger.webp#center)
+![Zarak applies poison to his dagger](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/041-02-021-zarak-poison-dagger.webp#center)
 
 Poisons come in the following four types:
 
@@ -1151,7 +1151,7 @@ If you want to use the benefits of renown without tracking Renown Scores, you ca
 
 ## Settlements
 
-![Life in a city is full of fantastical surprises!](file://D:\ProgramData\CLI\5etools-img/book/XDMG/042-02-022.city-life.webp#center)
+![Life in a city is full of fantastical surprises!](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/042-02-022-city-life.webp#center)
 
 Your campaign world is likely to include settlements that characters can visit. The characters might even adopt one of these settlements as a home base, in or near which they can build their Bastions when they are of high enough level to do so (see "chapter 8").
 
@@ -1182,9 +1182,9 @@ The following tables allow you to flesh out details about a settlement. You can 
 
 ![Settlement Tables and Tracker; Random Shops](/3-Mechanics/CLI/tables/settlement-tables-and-tracker-random-shops-xdmg.md)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XDMG/043-02-023.flagon-with-coins.webp#center)
+![](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/043-02-023-flagon-with-coins.webp#center)
 
-![Download PDF](file://D:\ProgramData\CLI\5etools-img/book/XDMG/044-02-024.settlement-tracker-sheet.webp#center)
+![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/044-02-024-settlement-tracker-sheet.webp#center)
 
 ## Siege Equipment
 
@@ -1202,7 +1202,7 @@ Siege equipment includes objects designed to assail castles and other walled for
 
 ## Supernatural Gifts
 
-![A magical creature like a ...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/047-02-027.unicorn.webp#center "A magical creature like a unicorn might bestow a supernatural gift")
+![A magical creature like a ...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/047-02-027-unicorn.webp#center "A magical creature like a unicorn might bestow a supernatural gift")
 
 A supernatural gift is a special reward granted by a being or force of great magical power. Supernatural gifts come in two forms:
 

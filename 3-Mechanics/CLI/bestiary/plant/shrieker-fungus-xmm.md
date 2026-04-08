@@ -57,7 +57,7 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
     "name": "Shriek"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Shrieker Fungus.webp"
+"image": "/3-Mechanics/CLI/bestiary/plant/token/shrieker-fungus-xmm.webp"
 ```
 ^statblock
 

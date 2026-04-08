@@ -79,7 +79,7 @@ Nobles encompass a variety of people with social influence. They might be rulers
     "name": "Shield (2/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Noble Prodigy.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/noble-prodigy-xmm.webp"
 ```
 ^statblock
 

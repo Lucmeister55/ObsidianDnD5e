@@ -12,7 +12,7 @@ aliases:
 ---
 # Wand of the War Mage
 *Wand (requires attunement by a spellcaster)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Wand of the War Mage.webp#right)
+![](/3-Mechanics/CLI/items/img/wand-of-the-war-mage.webp#right)
 
 - **Weight**: 1.0 lbs.
 

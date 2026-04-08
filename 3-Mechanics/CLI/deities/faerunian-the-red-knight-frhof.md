@@ -13,7 +13,7 @@ aliases:
 ---
 # The Red Knight
 *Source: Forgotten Realms: Heroes of Faerûn p. 118* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/The Red Knight.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-the-red-knight.webp#symbol)
 
 - **Alternate Names**: The Crimson General, The Grandmaster of the Lanceboard, The Lady of Strategy
 - **Alignment**: Unaligned

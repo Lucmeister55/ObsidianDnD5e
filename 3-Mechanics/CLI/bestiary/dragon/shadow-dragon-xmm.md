@@ -127,7 +127,7 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
     "name": "Veil of Shadow"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Shadow Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/shadow-dragon-xmm.webp"
 ```
 ^statblock
 

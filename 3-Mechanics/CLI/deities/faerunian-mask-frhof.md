@@ -12,7 +12,7 @@ aliases:
 ---
 # Mask
 *Source: Forgotten Realms: Heroes of Faerûn p. 115* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Mask.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-mask.webp#symbol)
 
 - **Alternate Names**: The Lord of Shadows, The Master of All Thieves
 - **Alignment**: Unaligned

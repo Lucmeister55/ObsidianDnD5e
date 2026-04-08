@@ -109,7 +109,7 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
     "name": "Nightmare (Recharge 6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Incubus.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/incubus-xmm.webp"
 ```
 ^statblock
 

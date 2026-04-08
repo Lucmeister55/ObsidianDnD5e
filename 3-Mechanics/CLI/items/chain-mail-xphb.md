@@ -11,7 +11,7 @@ aliases:
 ---
 # Chain Mail
 *Heavy armor*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Chain Mail.webp#right)
+![](/3-Mechanics/CLI/items/img/chain-mail.webp#right)
 
 - **Armor Class**: 16
 - **Strength**: Requires 13 STR.

@@ -77,7 +77,7 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
     "name": "Proboscis"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Stirge.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/stirge-xmm.webp"
 ```
 ^statblock
 

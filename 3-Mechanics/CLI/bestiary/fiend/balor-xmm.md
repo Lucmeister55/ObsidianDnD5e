@@ -93,7 +93,7 @@ Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these d
     "name": "Teleport"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Balor.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/balor-xmm.webp"
 ```
 ^statblock
 

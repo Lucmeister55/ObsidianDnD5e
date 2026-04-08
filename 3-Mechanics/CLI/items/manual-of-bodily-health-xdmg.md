@@ -10,7 +10,7 @@ aliases:
 ---
 # Manual of Bodily Health
 *Wondrous item, very rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Manual of Bodily Health.webp#right)
+![](/3-Mechanics/CLI/items/img/manual-of-bodily-health.webp#right)
 
 - **Weight**: 5.0 lbs.
 

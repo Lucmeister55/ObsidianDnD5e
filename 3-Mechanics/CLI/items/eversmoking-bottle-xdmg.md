@@ -10,7 +10,7 @@ aliases:
 ---
 # Eversmoking Bottle
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Eversmoking Bottle.webp#right)
+![](/3-Mechanics/CLI/items/img/eversmoking-bottle.webp#right)
 
 
 As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you can open or close this bottle.

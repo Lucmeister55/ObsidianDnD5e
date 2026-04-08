@@ -13,7 +13,7 @@ aliases:
 ---
 # Shar
 *Source: Forgotten Realms: Heroes of Faerûn p. 120* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Shar.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-shar.webp#symbol)
 
 - **Alternate Names**: The Mistress of the Night, The Dark Lady, Our Lady of Loss
 - **Alignment**: Unaligned

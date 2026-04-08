@@ -11,7 +11,7 @@ aliases:
 ---
 # Immovable Rod
 *Rod, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Immovable Rod.webp#right)
+![](/3-Mechanics/CLI/items/img/immovable-rod.webp#right)
 
 - **Weight**: 2.0 lbs.
 

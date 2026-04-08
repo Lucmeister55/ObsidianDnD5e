@@ -10,7 +10,7 @@ aliases:
 ---
 # Heward's Handy Haversack
 *Wondrous item, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Hewards Handy Haversack.webp#right)
+![](/3-Mechanics/CLI/items/img/hewards-handy-haversack.webp#right)
 
 - **Weight**: 5.0 lbs.
 

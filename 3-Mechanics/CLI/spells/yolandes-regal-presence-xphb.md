@@ -18,7 +18,7 @@ aliases:
 ---
 # Yolande's Regal Presence
 *5th-level, Enchantment*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Yolande's Regal Presence.webp#right)
+![](/3-Mechanics/CLI/spells/img/yolandes-regal-presence.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** Self (10-foot Emanation)

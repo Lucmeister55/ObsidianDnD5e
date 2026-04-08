@@ -11,7 +11,7 @@ aliases:
 ---
 # Helm of Brilliance
 *Wondrous item, very rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Helm of Brilliance.webp#right)
+![](/3-Mechanics/CLI/items/img/helm-of-brilliance.webp#right)
 
 
 This helm is set with `dice:1d10|noform|noparens|avg` (`1d10`) diamonds, `dice:2d10|noform|noparens|avg` (`2d10`) rubies, `dice:3d10|noform|noparens|avg` (`3d10`) fire opals, and `dice:4d10|noform|noparens|avg` (`4d10`) opals. Any gem pried from the helm crumbles to dust. When all the gems are removed or destroyed, the helm loses its magic.

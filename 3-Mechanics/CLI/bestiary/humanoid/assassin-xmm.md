@@ -100,7 +100,7 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
     "name": "Cunning Action"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Assassin.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/assassin-xmm.webp"
 ```
 ^statblock
 

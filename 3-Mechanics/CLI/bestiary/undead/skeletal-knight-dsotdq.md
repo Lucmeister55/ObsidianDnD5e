@@ -68,7 +68,6 @@ Skeletal knights are relentless in battle and difficult to destroy. They cling t
     "name": "Throwing Axe"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Skeletal\
-  \ Knight.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/skeletal-knight-dsotdq.webp"
 ```
 ^statblock

@@ -72,7 +72,7 @@ aliases:
 ---
 # Nine Lives Stealer
 *Very rare (requires attunement)*  
-![Nine Lives Stealer (Greatsword)](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Nine Lives Stealer.webp#right)
+![Nine Lives Stealer (Greatsword)](/3-Mechanics/CLI/items/img/nine-lives-stealer.webp#right)
 
 
 You gain a +2 bonus to attack rolls and damage rolls made with this magic weapon.

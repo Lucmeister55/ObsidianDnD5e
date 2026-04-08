@@ -81,7 +81,7 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
     "name": "Constrict"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Salamander.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/salamander-xmm.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ aliases:
 ---
 # Ring of Elemental Command (Air)
 *Ring, legendary (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Ring of Elemental Command (Air).webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-elemental-command-air.webp#right)
 
 
 The Ring of Elemental Command (air) is linked to the Elemental Plane of Air. Every Ring of Elemental Command has the following two properties:

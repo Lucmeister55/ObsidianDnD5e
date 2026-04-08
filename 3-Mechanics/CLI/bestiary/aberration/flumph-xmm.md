@@ -121,7 +121,7 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
     "name": "Stench Spray (1/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Flumph.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/flumph-xmm.webp"
 ```
 ^statblock
 

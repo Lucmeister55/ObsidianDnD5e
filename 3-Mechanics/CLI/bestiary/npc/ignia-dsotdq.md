@@ -63,6 +63,6 @@ aliases:
     "name": "Fire Breath (Recharge 5-6)"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Ignia.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/ignia-dsotdq.webp"
 ```
 ^statblock

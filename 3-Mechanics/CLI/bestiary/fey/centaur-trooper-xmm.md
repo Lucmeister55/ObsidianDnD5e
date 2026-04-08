@@ -77,7 +77,7 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
     "name": "Trampling Charge (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Centaur Trooper.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/centaur-trooper-xmm.webp"
 ```
 ^statblock
 

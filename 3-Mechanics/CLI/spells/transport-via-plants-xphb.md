@@ -16,7 +16,7 @@ aliases:
 ---
 # Transport via Plants
 *6th-level, Conjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Transport via Plants.webp#right)
+![](/3-Mechanics/CLI/spells/img/transport-via-plants.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 10 feet

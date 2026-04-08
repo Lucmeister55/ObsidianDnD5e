@@ -96,7 +96,7 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Spirit Naga.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/spirit-naga-xmm.webp"
 ```
 ^statblock
 

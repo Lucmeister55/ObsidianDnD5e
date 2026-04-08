@@ -11,7 +11,7 @@ aliases:
 ---
 # Cauldron of Rebirth
 *Wondrous item, very rare (requires attunement by a druid or warlock)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Cauldron of Rebirth.webp#right)
+![](/3-Mechanics/CLI/items/img/cauldron-of-rebirth.webp#right)
 
 
 This Tiny pot bears relief scenes of heroes on its cast-iron sides.

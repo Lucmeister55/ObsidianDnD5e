@@ -10,7 +10,7 @@ aliases:
 # Chapter 1: Character Options
 *Source: Forgotten Realms: Heroes of Faerûn, p. 11* 
 
-![Presto, Diana, and Eric ba...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/003-01-001.themberchaud-battle.webp#center "Presto, Diana, and Eric battle Themberchaud where he lairs in the duergar city of Gracklstugh")
+![Presto, Diana, and Eric ba...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/003-01-001-themberchaud-battle.webp#center "Presto, Diana, and Eric battle Themberchaud where he lairs in the duergar city of Gracklstugh")
 
 This chapter is full of character options you can use to make characters unique to the Realms: new and revised subclasses, new backgrounds, and new feats. The chapter begins with information on the species of the Forgotten Realms.
 
@@ -34,7 +34,7 @@ Many aasimar are found or adopted by followers of a good deity, such as angels o
 
 In the Old Empires, where gods and demigods rule openly, aasimars are more common. The current generation of aasimar often trace their lineage to a mortal specially chosen to serve a good deity. Many aasimar wander the realms, eventually gravitating to a great city such as Waterdeep, Baldur's Gate, or Calimshan, where their unusual nature isn't particularly remarkable.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/004-01-002.characters.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/004-01-002-characters.webp#center)
 
 ### Dragonborn
 
@@ -58,7 +58,7 @@ Dragonborn can now be found throughout Faerûn. Many reside in the Old Empires, 
 
 ### Dwarves
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/005-01-003.dwarf.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/005-01-003-dwarf.webp#center)
 
 Dwarves, sometimes called the Stout Folk, built grand city-strongholds in Faerûn's ancient past, and dwarves still live in some of these holdings today, defending them from subterranean monsters. Moradin is the chief god of the dwarves, and according to legend, Moradin forged the first dwarves on the Soulforge out of iron, mithral, earth, and stone.
 
@@ -108,7 +108,7 @@ Rock gnomes are the gnomes most commonly encountered by citizens of Faerûn's ci
 
 Rock gnome villages dot the Heartlands region and the Shining Sea's shore. When rock gnomes live among other folk, they tend to form their own communities on the outskirts of town.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/006-01-004.gnome-with-rat.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/006-01-004-gnome-with-rat.webp#center)
 
 #### Forest Gnomes
 
@@ -140,7 +140,7 @@ For most of their history, goliaths have been peaceful folk. Few realms are will
 
 ### Halflings
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/007-01-005.dog-and-halfling-in-armor.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/007-01-005-dog-and-halfling-in-armor.webp#center)
 
 Halflings of Faerûn call themselves hin. Perhaps more than any other species in Faerûn, halflings integrate into multicultural communities, befriending and working alongside other species. As such, halflings can be found in virtually every settlement in Faerûn, but their ancient homeland is Luiren, south of Unther. Prominent communities exist in Amn, in Chondalwood, and along the Sea of Fallen Stars.
 
@@ -164,7 +164,7 @@ The history of the Forgotten Realms has largely been written by humans. Because 
 
 Humans are unusual in that they are among the most ancient species on Faerûn, but for much of that time they went largely unnoticed and had no great influence on world affairs. No one is quite certain where they came from; one theory, based on the Common language's origin in Sigil, is that humans came to Toril from the Outlands.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/008-01-006.elf.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/008-01-006-elf.webp#center)
 
 Regardless, more than thirty thousand years ago, humans inhabited the supercontinent of Merrouroboros and lived in the shadow of the creator races. They had no permanent settlements, no written language, and no tools more advanced than the club.
 
@@ -239,7 +239,7 @@ Finally, the [Spellfire Initiate](/3-Mechanics/CLI/backgrounds/spellfire-initiat
 
 ![Faction Backgrounds](/3-Mechanics/CLI/tables/faction-backgrounds-frhof.md)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/018-01-016.purple-dragon.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/018-01-016-purple-dragon.webp#center)
 
 ## Feats
 
@@ -260,7 +260,7 @@ These feats are in the Origin category.
 - [Tyro of the Gauntlet](/3-Mechanics/CLI/feats/tyro-of-the-gauntlet-frhof.md)  
 - [Zhentarim Ruffian](/3-Mechanics/CLI/feats/zhentarim-ruffian-frhof.md)  
 
-![With her spell Simbul's Sy...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/037-01-035.spell-simbuls-synostodweomer.webp#center "With her spell Simbul's Synostodweomer, the Simbul protects her sister Dove Falconhand in battle")
+![With her spell Simbul's Sy...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/037-01-035-spell-simbuls-synostodweomer.webp#center "With her spell Simbul's Synostodweomer, the Simbul protects her sister Dove Falconhand in battle")
 
 ## General Feats
 
@@ -280,7 +280,7 @@ These feats are in the General category.
 - [Street Justice](/3-Mechanics/CLI/feats/street-justice-frhof.md)  
 - [Zhentarim Tactics](/3-Mechanics/CLI/feats/zhentarim-tactics-frhof.md)  
 
-![Faerûn is home to adventurers great and small](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/038-01-036.adventurers-great-and-small.webp#center)
+![Faerûn is home to adventurers great and small](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/038-01-036-adventurers-great-and-small.webp#center)
 
 ## Epic Boon Feats
 

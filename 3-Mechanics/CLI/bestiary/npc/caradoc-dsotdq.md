@@ -102,6 +102,6 @@ Seneschal of Lord Soth and a former Knight of Solamnia, Caradoc burned when Darg
     "name": "Divisive Whispers"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Caradoc.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/caradoc-dsotdq.webp"
 ```
 ^statblock

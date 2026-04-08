@@ -87,7 +87,7 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Questing Knight.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/questing-knight-xmm.webp"
 ```
 ^statblock
 

@@ -74,7 +74,7 @@ Most fire giants dwell in volcanically active mountains or cavernous depths that
     "name": "Hammer Throw"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Fire Giant.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/fire-giant-xmm.webp"
 ```
 ^statblock
 

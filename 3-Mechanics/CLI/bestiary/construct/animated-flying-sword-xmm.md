@@ -84,8 +84,7 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
     "name": "Slash"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Animated Flying\
-  \ Sword.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-flying-sword-xmm.webp"
 ```
 ^statblock
 

@@ -11,7 +11,7 @@ aliases:
 ---
 # Gem of Seeing
 *Wondrous item, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Gem of Seeing.webp#right)
+![](/3-Mechanics/CLI/items/img/gem-of-seeing.webp#right)
 
 
 This gem has 3 charges. As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you can expend 1 charge. For the next 10 minutes, you have [Truesight](/3-Mechanics/CLI/senses.md#Truesight) out to 120 feet when you peer through the gem.

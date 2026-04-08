@@ -53,6 +53,6 @@ aliases:
     "name": "Breath Weapon"
 "source":
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XPHB/Draconic Spirit.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/draconic-spirit-xphb.webp"
 ```
 ^statblock

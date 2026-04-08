@@ -11,7 +11,7 @@ aliases:
 ---
 # Ring of Animal Influence
 *Ring, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Ring of Animal Influence.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-animal-influence.webp#right)
 
 
 This ring has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. While wearing the ring, you can expend 1 charge to cast one of the following spells (save DC 13) from it:

@@ -70,7 +70,7 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
     "name": "Limited Foresight (Recharge 6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Cyclops Sentry.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/cyclops-sentry-xmm.webp"
 ```
 ^statblock
 

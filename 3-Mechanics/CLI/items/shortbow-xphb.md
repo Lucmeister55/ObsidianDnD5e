@@ -12,7 +12,7 @@ aliases:
 ---
 # Shortbow
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Shortbow.webp#right)
+![](/3-Mechanics/CLI/items/img/shortbow.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320

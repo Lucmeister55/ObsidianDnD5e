@@ -11,7 +11,7 @@ aliases:
 ---
 # Ring Mail
 *Heavy armor*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Ring Mail.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-mail.webp#right)
 
 - **Armor Class**: 14
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.

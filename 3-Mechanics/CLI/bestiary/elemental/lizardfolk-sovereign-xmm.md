@@ -77,8 +77,7 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
     "name": "Charge"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Lizardfolk\
-  \ Sovereign.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/lizardfolk-sovereign-xmm.webp"
 ```
 ^statblock
 

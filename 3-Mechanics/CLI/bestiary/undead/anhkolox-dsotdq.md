@@ -67,6 +67,6 @@ Anhkoloxes are vicious undead creatures created from the bones of bears and othe
     "name": "Entrapping Rend"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Anhkolox.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/anhkolox-dsotdq.webp"
 ```
 ^statblock

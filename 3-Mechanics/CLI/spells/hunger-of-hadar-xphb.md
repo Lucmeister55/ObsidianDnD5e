@@ -20,7 +20,7 @@ aliases:
 ---
 # Hunger of Hadar
 *3rd-level, Conjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Hunger of Hadar.webp#right)
+![](/3-Mechanics/CLI/spells/img/hunger-of-hadar.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 150 feet

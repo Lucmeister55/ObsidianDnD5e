@@ -75,7 +75,7 @@ Kobolds' scales resemble those of chromatic dragons that live near their warrens
     "name": "Dagger"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Kobold Warrior.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/kobold-warrior-xmm.webp"
 ```
 ^statblock
 

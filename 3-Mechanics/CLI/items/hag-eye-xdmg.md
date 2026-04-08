@@ -10,7 +10,7 @@ aliases:
 ---
 # Hag Eye
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Hag Eye.webp#right)
+![](/3-Mechanics/CLI/items/img/hag-eye.webp#right)
 
 
 A Hag Eye has 3 charges. While wearing or holding this item, you can expend 1 charge to cast [Darkvision](/3-Mechanics/CLI/spells/darkvision-xphb.md) (targeting yourself only) or [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md). The Hag Eye regains all expended charges daily at dawn.

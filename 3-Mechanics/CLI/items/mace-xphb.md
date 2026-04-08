@@ -12,7 +12,7 @@ aliases:
 ---
 # Mace
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Mace.webp#right)
+![](/3-Mechanics/CLI/items/img/mace.webp#right)
 
 - **Damage**: 1d6 bludgeoning
 - **Cost**: 5 gp

@@ -99,7 +99,7 @@ Ghosts typically appear as semitransparent versions of the creatures they were i
     "name": "Etherealness"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Ghost.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/ghost-xmm.webp"
 ```
 ^statblock
 

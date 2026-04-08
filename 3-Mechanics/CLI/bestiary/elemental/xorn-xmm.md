@@ -99,7 +99,7 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
     "name": "Charge"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Xorn.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/xorn-xmm.webp"
 ```
 ^statblock
 

@@ -11,7 +11,7 @@ aliases:
 ---
 # Bracers of Defense
 *Wondrous item, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Bracers of Defense.webp#right)
+![](/3-Mechanics/CLI/items/img/bracers-of-defense.webp#right)
 
 
 While wearing these bracers, you gain a +2 bonus to [Armor Class](/3-Mechanics/CLI/variant-rules/armor-class-xphb.md) if you are wearing no armor and using no [Shield](/3-Mechanics/CLI/items/shield-xphb.md).

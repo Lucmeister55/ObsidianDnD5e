@@ -10,7 +10,7 @@ aliases:
 # Chapter 6: Cosmology
 *Source: Dungeon Master's Guide (2024), p. 173* 
 
-![The Lady of Pain appears w...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/084-06-001.the-lady-of-pain.webp#center "The Lady of Pain appears without warning in the bustling streets of Sigil, and the city's residents get out of her way")
+![The Lady of Pain appears w...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/084-06-001-the-lady-of-pain.webp#center "The Lady of Pain appears without warning in the bustling streets of Sigil, and the city's residents get out of her way")
 
 The worlds of D&D are part of an immense cosmos. Most campaigns and adventures play out on worlds on the Material Plane. The rest of the multiverse consists of different planes of existence defined in relation to the Material Plane.
 
@@ -79,7 +79,7 @@ As with the Elemental Planes, one can imagine the perceptible part of the Outer 
 
 Distance is a virtually meaningless concept on the Outer Planes. A perceptible region of a plane might seem quite small on one visit, and on another trip it can stretch on to what seems like infinity. Adventurers could take a guided tour of the Nine Hells, from the first layer to the ninth, in a single day—if the powers of the Nine Hells desire it. Or it could take weeks for travelers to make a grueling trek across a single layer.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XDMG/085-06-002.the-multiverse.webp#center)
+![](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/085-06-002-the-multiverse.webp#center)
 
 #### Layers of the Outer Planes
 
@@ -168,7 +168,7 @@ Some legends describe a great tree, a seedling of Yggdrasil, that the god Corell
 
 Planar travelers can climb among the roots and branches of Yggdrasil to travel from plane to plane or world to world. Some creatures position themselves as expert guides to this vast cosmic network of branching pathways, constantly studying the ever-changing paths as the tree continues its eternal growth.
 
-![A portal to the Beastlands...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/086-06-003.portal-to-the-beastlands.webp#center "A portal to the Beastlands opens amid the branches of the World Tree")
+![A portal to the Beastlands...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/086-06-003-portal-to-the-beastlands.webp#center "A portal to the Beastlands opens amid the branches of the World Tree")
 
 ## Planar Adventuring
 
@@ -264,7 +264,7 @@ The Abyss embodies the loathsome corruption of chaos and evil. A descent into th
 
 It's the nature of the Abyss to contaminate the other planes it touches. Opening a portal to the Abyss from any other plane allows the Abyss to create tiny pockets of Abyssal evil that can eventually become so corrupted that they're drawn into the Abyss. Thus, adventurers exploring a desecrated temple or fetid swamp on the Material Plane can unexpectedly find themselves in a demon-infested environment very much like the Abyss without ever leaving their home plane.
 
-![The detritus of the Planes...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/087-06-004.demonweb-pits.webp#center "The detritus of the Planes is tangled in the Demonweb Pits")
+![The detritus of the Planes...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/087-06-004-demonweb-pits.webp#center "The detritus of the Planes is tangled in the Demonweb Pits")
 
 ### Acheron
 
@@ -306,7 +306,7 @@ What secrets lie buried in the sands of Mithardir? An expedition might involve i
 
 Arcadia thrives with orchards of perfectly lined trees, ruler-straight streams, orderly fields, immaculate roads, and cities laid out in geometrically pleasing shapes. The mountains bear no trace of erosion.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XDMG/088-06-005.arcadia.webp#center)
+![](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/088-06-005-arcadia.webp#center)
 
 Night and day are determined by an orb that floats in the sky above both of Arcadia's layers. Half of the orb radiates sunlight and brings about the day; the other half sheds moonlight and brings on the starry night. The orb rotates evenly without fail, spreading day and night across the entire plane.
 
@@ -354,7 +354,7 @@ As an Astral traveler approaches a Wildspace system, the silver fog of the Astra
 
 A Wildspace system teems with space-dwelling life-forms, including spores, plankton, and larger creatures that resemble fish and aquatic mammals. Creatures and objects in Wildspace age normally and exist on both the Astral Plane and Material Plane simultaneously. This overlap enables creatures to use spells such as [Teleport](/3-Mechanics/CLI/spells/teleport-xphb.md) to travel from Wildspace to a nearby world, or vice versa. A creature or ship traveling from one Wildspace system to another must cross the Astral Plane unless it has some other magical means of traveling from one world to another. (See ""Material Plane"" in this chapter.) "Spelljammer: Adventures in Space" contains extensive information about Wildspace and Astral travel.
 
-![A spelljamming wasp ship a...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/089-06-006.tunarath.webp#center "A spelljamming wasp ship approaches the githyanki city of Tu'Narath")
+![A spelljamming wasp ship a...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/089-06-006-tunarath.webp#center "A spelljamming wasp ship approaches the githyanki city of Tu'Narath")
 
 #### Psychic Wind
 
@@ -410,7 +410,7 @@ The grim inspiration for all other prisons in existence, Carceri is a plane of d
 
 #### Prison Plane
 
-![Unknown horrors are entrap...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/090-06-007.ice-of-carceri.webp#center "Unknown horrors are entrapped in the ice of Carceri")
+![Unknown horrors are entrap...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/090-06-007-ice-of-carceri.webp#center "Unknown horrors are entrapped in the ice of Carceri")
 
 No one can leave Carceri easily. Magical efforts to leave the plane by any spell other than [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) simply fail. Portals and gates that open onto the plane become one-way only. Secret passages out of the plane exist, but they are hidden and well guarded by traps and deadly monsters. And though the River Styx flows between Carceri and its neighbors, the passage is extremely dangerous, and ferries leading out of Carceri are both rare and expensive.
 
@@ -432,7 +432,7 @@ Demiplanes are limited realities shaped according to the will of whoever created
 
 ### Elemental Plane of Air
 
-![Aarakocra scouts return ho...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/091-06-008.plane-of-air.webp#center "Aarakocra scouts return home to a city on the Plane of Air")
+![Aarakocra scouts return ho...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/091-06-008-plane-of-air.webp#center "Aarakocra scouts return home to a city on the Plane of Air")
 
 The Plane of Air is home to constant winds of varying strength. Here and there, chunks of earth drift in the openness, many covered with lush vegetation. These earth motes serve as homes for djinn and other natives of the plane. Other creatures live on cloud banks infused with magic to become solid surfaces, supporting towns and castles.
 
@@ -520,7 +520,7 @@ The cults of Elemental Evil represent fire at its worst: cruel and wantonly dest
 
 Adventurers frequently come to the City of Brass on quests for legendary magic. If it's possible to buy magic items in your campaign, the City of Brass is the most likely place to find any item for sale. The efreet are fond of trading in favors, especially when they have the upper hand in negotiations. Perhaps a magical contagion or poison can be cured only with something that must be purchased in the markets of the city.
 
-![The City of Brass is a hub...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/092-06-009.city-of-brass.webp#center "The City of Brass is a hub for trade from across the multiverse")
+![The City of Brass is a hub...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/092-06-009-city-of-brass.webp#center "The City of Brass is a hub for trade from across the multiverse")
 
 ### Elemental Plane of Water
 
@@ -596,7 +596,7 @@ Normally, creatures in the Border Ethereal can't attack creatures on the overlap
 
 To reach the Deep Ethereal, one typically needs a [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md) spell, a [Gate](/3-Mechanics/CLI/spells/gate-xphb.md) spell, or a magical portal. Visitors to the Deep Ethereal are engulfed by roiling mist. Scattered throughout the plane are curtains of vaporous color, and passing through a curtain leads a traveler to a region of the Border Ethereal connected to a specific Inner Plane, the Material Plane, the Feywild, or the Shadowfell. The color of the curtain indicates the plane whose Border Ethereal the curtain conceals; see the Ethereal Curtains table. The curtains are also distinguishable by texture and temperature, each one reflecting something of the nature of the plane beyond.
 
-![The Radiant Citadel is a r...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/093-06-010.the-radiant-citadel.webp#center "The Radiant Citadel is a refuge in the Ethereal Plane, despite its proximity to a raging ether cyclone")
+![The Radiant Citadel is a r...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/093-06-010-the-radiant-citadel.webp#center "The Radiant Citadel is a refuge in the Ethereal Plane, despite its proximity to a raging ether cyclone")
 
 ![Deep Ethereal; Ethereal Curtains](/3-Mechanics/CLI/tables/deep-ethereal-ethereal-curtains-xdmg.md)
 
@@ -610,7 +610,7 @@ An ether cyclone is a serpentine column that spins through the plane. The cyclon
 
 #### Radiant Citadel
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XDMG/094-06-011.lotus.webp#center)
+![](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/094-06-011-lotus.webp#center)
 
 Against the unending mist and unseen terrors of the Ethereal Plane, the Radiant Citadel stands bright as a bastion of hope. It's a living relic of the ingenuity and collaboration of twenty-seven great civilizations on the Material Plane. Abandoned and lost for ages, the Radiant Citadel was resurrected from its slumber and reclaimed by descendants of those societies.
 
@@ -628,7 +628,7 @@ The Radiant Citadel can serve as a home base for any campaign built around the i
 
 ### Far Realm
 
-![When the Dragon's Tear com...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/095-06-012.the-vast-gate.webp#center "When the Dragon's Tear comet appears above Firestorm Peak, the Vast Gate forms a bridge to the Far Realm")
+![When the Dragon's Tear com...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/095-06-012-the-vast-gate.webp#center "When the Dragon's Tear comet appears above Firestorm Peak, the Vast Gate forms a bridge to the Far Realm")
 
 The Far Realm is outside the known multiverse. In fact, it might be an entirely separate universe with its own physical and magical laws. Where stray energies from the Far Realm leak onto another plane, matter is warped into alien shapes that defy understandable geometry and biology. Aberrations such as mind flayers and beholders are either from this plane or shaped by its strange influence.
 
@@ -698,7 +698,7 @@ Whenever a creature or group of creatures leaves the Feywild after spending at l
 
 The Feywild gives physical expression to powerful emotion and excels at metaphor. When characters venture into the Feywild, they might find themselves robbed of a cherished memory or deep regret, then later find the stolen memories embodied in little figurines or lockets. A mischievous sprite might sneak up behind a character who is laughing loudly and steal their laughter, robbing the character of the ability to laugh until the sprite is found and the laughter—perhaps taking physical form as a bouquet of lovely flowers—reclaimed.
 
-![Fey revel in the Gloaming ...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/096-06-013.the-gloaming-court.webp#center "Fey revel in the Gloaming Court under the watchful eye of the Queen of Air and Darkness")
+![Fey revel in the Gloaming ...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/096-06-013-the-gloaming-court.webp#center "Fey revel in the Gloaming Court under the watchful eye of the Queen of Air and Darkness")
 
 ### Gehenna
 
@@ -768,7 +768,7 @@ Some myths describe a great tree that grew on the First World at the dawn of tim
 
 The most widely known worlds are the ones that have been published as official campaign settings for the D&D game over the years, many of which are shown on the "D&D Settings table" in "chapter 5". If your campaign takes place in one of these settings, your version of it can diverge wildly from what's in print.
 
-![With its magical marvels o...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/097-06-014.eberron-technology.webp#center "With its magical marvels of technology, Eberron is one of countless worlds on the Material Plane")
+![With its magical marvels o...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/097-06-014-eberron-technology.webp#center "With its magical marvels of technology, Eberron is one of countless worlds on the Material Plane")
 
 #### Traveling between Worlds
 
@@ -814,7 +814,7 @@ The Seven Heavens of Mount Celestia rise like a mountain from a shining Silver S
 
 The pervasive goodness of Mount Celestia "bestows blessings" on creatures on the plane (see ""Environmental Effects"" in "chapter 3").
 
-![The Seven Heavens of Mount...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/098-06-015.mount-celestia.webp#center "The Seven Heavens of Mount Celestia beckon virtuous souls toward ever-greater heights")
+![The Seven Heavens of Mount...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/098-06-015-mount-celestia.webp#center "The Seven Heavens of Mount Celestia beckon virtuous souls toward ever-greater heights")
 
 ![Layers of Mount Celestia](/3-Mechanics/CLI/tables/layers-of-mount-celestia-xdmg.md)
 
@@ -852,7 +852,7 @@ The Layers of the Nine Hells table summarizes each layer; detailed descriptions 
 
 #### Avernus
 
-![The first of Nine Hells, A...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/099-06-016.avernus.webp#center "The first of Nine Hells, Avernus, is an eternal battlefield in the Blood War")
+![The first of Nine Hells, A...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/099-06-016-avernus.webp#center "The first of Nine Hells, Avernus, is an eternal battlefield in the Blood War")
 
 By Asmodeus's orders, no planar portals connect directly to the lower layers of the Nine Hells. The first layer, Avernus, is the arrival point for visitors, a rocky wasteland with rivers of blood and clouds of biting flies. Fiery comets occasionally fall from the darkened sky and carve out fuming impact craters. Empty battlefields are littered with weapons and bones, showing where the legions of the Nine Hells prevailed against invading enemies.
 
@@ -916,7 +916,7 @@ Malsheem resembles a gigantic hollowed-out stalagmite. The citadel is also a pri
 
 Asmodeus most often appears as a handsome, bearded man with four large horns, piercing red eyes, and flowing robes. He can also assume other forms and is seldom seen without his ruby-tipped scepter in hand. Asmodeus is the most cunning and well-mannered of archdevils. On the surface, he seems warm, pleasant, and lighthearted, doling out wisdom and small acts of kindness like a caring father. The ultimate evil he represents can be seen only when he wills it so, or if he forgets himself and flies into a rage.
 
-![Asmodeus, the Lord of the ...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/100-06-017.asmodeus.webp#center "Asmodeus, the Lord of the Nine, maintains a veneer of pleasantry while inflicting agony on imprisoned souls")
+![Asmodeus, the Lord of the ...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/100-06-017-asmodeus.webp#center "Asmodeus, the Lord of the Nine, maintains a veneer of pleasantry while inflicting agony on imprisoned souls")
 
 #### Infernal Hierarchy
 
@@ -995,7 +995,7 @@ An adventure in Pandemonium can be a way to explore what happens to characters o
 
 A jagged spike somewhere in Cocytus, called Howler's Crag, is rumored to have a unique magical property: anything yelled from the top of the crag is said to find the ears of its intended recipient—carried on a shrieking, frigid wind—no matter where in the multiverse that person might be.
 
-![Three adventurers brave th...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/101-06-018.winds-of-pandemonium.webp#center "Three adventurers brave the howling winds of Pandemonium in search of Howler's Crag")
+![Three adventurers brave th...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/101-06-018-winds-of-pandemonium.webp#center "Three adventurers brave the howling winds of Pandemonium in search of Howler's Crag")
 
 ### Para-elemental Planes
 
@@ -1045,7 +1045,7 @@ The Shadowfell overlaps the Material Plane in much the same way as the Feywild. 
 
 Shadow dragons and Undead haunt this bleak plane, as do other creatures that thrive in the gloom, including cloakers and darkmantles.
 
-![The Shadowfell is a realm ...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/102-06-019.the-shadowfell.webp#center "The Shadowfell is a realm of death, despair, and dread")
+![The Shadowfell is a realm ...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/102-06-019-the-shadowfell.webp#center "The Shadowfell is a realm of death, despair, and dread")
 
 #### Shadow Crossings
 
@@ -1107,7 +1107,7 @@ The city is the domain of the inscrutable Lady of Pain, a being whose purpose an
 
 "Planescape: Adventures in the Multiverse" includes extensive information on "Sigil".
 
-![In the cosmopolitan street...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/103-06-020.citizens-of-sigil.webp#center "In the cosmopolitan streets of Sigil, creatures from across the multiverse coexist in uneasy peace")
+![In the cosmopolitan street...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/103-06-020-citizens-of-sigil.webp#center "In the cosmopolitan streets of Sigil, creatures from across the multiverse coexist in uneasy peace")
 
 ### Ysgard
 

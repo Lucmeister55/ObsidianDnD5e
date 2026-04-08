@@ -83,7 +83,7 @@ Countless tales surround griffons. Roll on or choose a result from the Griffon T
     "name": "Rend"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Griffon.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/griffon-xmm.webp"
 ```
 ^statblock
 

@@ -82,7 +82,7 @@ Stone giants often ponder the mysteries of natural wonders, such as mountain spi
     "name": "Deflect Missile (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Stone Giant.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/stone-giant-xmm.webp"
 ```
 ^statblock
 

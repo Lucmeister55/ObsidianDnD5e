@@ -10,7 +10,7 @@ aliases:
 ---
 # Figurine of Wondrous Power
 *Wondrous item*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Figurine of Wondrous Power.webp#right)
+![](/3-Mechanics/CLI/items/img/figurine-of-wondrous-power.webp#right)
 
 
 **Items in this group:**

@@ -11,7 +11,7 @@ aliases:
 ---
 # Book of Exalted Deeds
 *Wondrous item, artifact (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Book of Exalted Deeds.webp#right)
+![](/3-Mechanics/CLI/items/img/book-of-exalted-deeds.webp#right)
 
 - **Weight**: 5.0 lbs.
 

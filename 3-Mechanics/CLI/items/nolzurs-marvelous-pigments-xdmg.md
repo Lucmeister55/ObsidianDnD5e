@@ -10,7 +10,7 @@ aliases:
 ---
 # Nolzur's Marvelous Pigments
 *Wondrous item, very rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Nolzurs Marvelous Pigments.webp#right)
+![](/3-Mechanics/CLI/items/img/nolzurs-marvelous-pigments.webp#right)
 
 
 This fine wooden box contains `dice:1d4|noform|noparens|avg` (`1d4`) pots of pigment and a brush (weighing 1 pound in total). Using the brush and expending 1 pot of pigment, you can paint any number of three-dimensional objects and terrain features (such as walls, doors, trees, flowers, weapons, webs, and pits), provided these elements are all confined to a 20-foot [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md). The effort takes 10 minutes (regardless of the number of elements you create), during which time you must remain in the [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md), and requires [Concentration](/3-Mechanics/CLI/conditions.md#Concentration). If your [Concentration](/3-Mechanics/CLI/conditions.md#Concentration) is broken or you leave the [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) before the work is done, all the painted elements vanish, and the pot of pigment is wasted.

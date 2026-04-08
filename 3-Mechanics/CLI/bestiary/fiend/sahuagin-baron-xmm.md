@@ -96,7 +96,7 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
     "name": "Fiendish Blood"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Sahuagin Baron.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/sahuagin-baron-xmm.webp"
 ```
 ^statblock
 

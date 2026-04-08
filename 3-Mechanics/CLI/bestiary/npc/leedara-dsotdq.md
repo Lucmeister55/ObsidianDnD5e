@@ -97,6 +97,6 @@ Leedara died during the Cataclysm over three hundred years ago. Once an elven pr
     "name": "Change Shape"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Leedara.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/leedara-dsotdq.webp"
 ```
 ^statblock

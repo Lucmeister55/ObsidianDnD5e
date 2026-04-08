@@ -10,7 +10,7 @@ aliases:
 # Chapter 8: Bastions
 *Source: Dungeon Master's Guide (2024), p. 334* 
 
-![A Bastion by the sea is mo...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/194-10-001.bastion-by-the-sea.webp#center "A Bastion by the sea is more than just an adventurer's getaway A lot can happen here to fuel stories in the campaign")
+![A Bastion by the sea is mo...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/194-10-001-bastion-by-the-sea.webp#center "A Bastion by the sea is more than just an adventurer's getaway A lot can happen here to fuel stories in the campaign")
 
 A Bastion is a location that belongs to a player character: a home, a stronghold, and a place of power that the character develops over the course of a campaign. A Bastion offers a character temporary refuge from the dangerous world of adventuring, and it provides opportunities for a character to craft magic items, conduct research, harvest poisons, build ships, and carry out a range of other activities.
 
@@ -43,7 +43,7 @@ By default, a Bastion turn occurs every 7 days of in-game time. Here are common 
 
 You can slow the frequency of Bastion turns to better serve the needs of your players and your campaign. For example, if the characters have months between adventures, you can call for a Bastion turn every month instead of every 7 days, so the characters aren't issuing so many orders or reaping too many benefits at once.
 
-![A Rogue's Bastion on the o...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/195-10-002.rogue-bastion.webp#center "A Rogue's Bastion on the outskirts of town contains a Guildhall, a Pub, and more!")
+![A Rogue's Bastion on the o...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/195-10-002-rogue-bastion.webp#center "A Rogue's Bastion on the outskirts of town contains a Guildhall, a Pub, and more!")
 
 ## Bastion Map
 
@@ -145,7 +145,7 @@ Hirelings gather a resource produced in the special facility. During the time re
 
 #### Maintain
 
-![A Bastion grows over time](file://D:\ProgramData\CLI\5etools-img/book/XDMG/196-10-004.bastions-over-time.webp#center)
+![A Bastion grows over time](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/196-10-004-bastions-over-time.webp#center)
 
 All the Bastion's hirelings focus on maintaining the Bastion rather than executing orders in special facilities. Issuing this order prohibits other orders from being issued to the Bastion on the current Bastion turn. Each time the Maintain order is issued, the DM rolls once on the "Bastion Events" table at the end of this chapter. Bastion events are resolved before the next Bastion turn.
 
@@ -167,7 +167,7 @@ Special facilities are presented in alphabetical order. The Special Facilities t
 
 ![Special Facility Descriptions; Special Facilities](/3-Mechanics/CLI/tables/special-facility-descriptions-special-facilities-xdmg.md)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XDMG/197-10-003.key.webp#center)
+![](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/197-10-003-key.webp#center)
 
 > [!embed-facility]- Arcane Study
 > ![Arcane Study](/3-Mechanics/CLI/bastions/arcane-study.md)
@@ -293,7 +293,7 @@ One of your Bastion's hirelings has a criminal past that comes to light when off
 
 #### Extraordinary Opportunity
 
-![A hero's Bastion hosts a s...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/202-10-009.spring-festival.webp#center "A hero's Bastion hosts a spring festival to which everyone is invited")
+![A hero's Bastion hosts a s...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/202-10-009-spring-festival.webp#center "A hero's Bastion hosts a spring festival to which everyone is invited")
 
 Your Bastion is given the opportunity to host an important festival or celebration, fund the research of a powerful spellcaster, or appease a domineering noble. Work with the DM to determine the details.
 
@@ -343,4 +343,4 @@ A player character can lose their Bastion in the following ways:
 
 Regardless of how the Bastion falls, the player can work with the DM to establish a new Bastion and determine how it comes into being. Use the "Special Facility Acquisition" table to determine how many special facilities come with it. The new Bastion also starts with two basic facilities (one Cramped and one Roomy) of the player's choice.
 
-![Download PDF](file://D:\ProgramData\CLI\5etools-img/book/XDMG/203-10-010.bastion-tracker-sheet.webp#center)
+![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/203-10-010-bastion-tracker-sheet.webp#center)

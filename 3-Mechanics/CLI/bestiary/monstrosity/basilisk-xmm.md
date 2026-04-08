@@ -85,7 +85,7 @@ The remains of [Petrified](/3-Mechanics/CLI/conditions.md#Petrified) creatures l
     "name": "Petrifying Gaze (Recharge 4-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Basilisk.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/basilisk-xmm.webp"
 ```
 ^statblock
 

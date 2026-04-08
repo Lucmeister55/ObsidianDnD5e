@@ -110,7 +110,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Sphinx of Secrets.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/sphinx-of-secrets-xmm.webp"
 ```
 ^statblock
 

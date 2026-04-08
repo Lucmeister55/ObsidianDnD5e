@@ -105,7 +105,7 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
     "name": "Burn"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Fire Elemental.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/fire-elemental-xmm.webp"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ aliases:
 ---
 # Rival Coin
 *Wondrous item, common*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Rival Coin.webp#right)
+![](/3-Mechanics/CLI/items/img/rival-coin.webp#right)
 
 
 This gold coin has a creature embossed on each side. The two depicted creatures must be famous rivals or enemies of each other. For example, a Rival Coin might show "Iggwilv" on one side and "Mordenkainen" on the other, or "Venger" on one side and "Tiamat" on the other. One of these figures is on the "heads" side of the coin, the other on the "tails" side.

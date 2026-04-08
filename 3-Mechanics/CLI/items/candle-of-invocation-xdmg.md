@@ -11,7 +11,7 @@ aliases:
 ---
 # Candle of Invocation
 *Wondrous item, very rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Candle of Invocation.webp#right)
+![](/3-Mechanics/CLI/items/img/candle-of-invocation.webp#right)
 
 
 This candle's magic is activated when the candle is lit, which requires a [Magic](/3-Mechanics/CLI/actions.md#Magic) action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from its total burn time.

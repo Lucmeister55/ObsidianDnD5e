@@ -22,7 +22,7 @@ aliases:
 ---
 # Spiritual Weapon
 *2nd-level, Evocation*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Spiritual Weapon.webp#right)
+![](/3-Mechanics/CLI/spells/img/spiritual-weapon.webp#right)
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 60 feet

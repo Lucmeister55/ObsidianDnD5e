@@ -67,7 +67,7 @@ Nobles encompass a variety of people with social influence. They might be rulers
     "name": "Parry"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Noble.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/noble-xmm.webp"
 ```
 ^statblock
 

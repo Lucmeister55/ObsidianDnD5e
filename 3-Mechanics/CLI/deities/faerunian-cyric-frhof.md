@@ -12,7 +12,7 @@ aliases:
 ---
 # Cyric
 *Source: Forgotten Realms: Heroes of Faerûn p. 105* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Cyric.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-cyric.webp#symbol)
 
 - **Alternate Names**: The Dark Sun, The Prince of Lies
 - **Alignment**: Unaligned

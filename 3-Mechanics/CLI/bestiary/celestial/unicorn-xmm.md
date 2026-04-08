@@ -110,7 +110,7 @@ Unicorns dwell in unspoiled forests, particularly where benevolent Fey creatures
     "name": "Shimmering Shield"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Unicorn.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/unicorn-xmm.webp"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ aliases:
 ---
 # Ice Fisher
 *Source: Forgotten Realms: Heroes of Faerûn p. 31*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/FRHoF/Ice Fisher.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/ice-fisher.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Constitution  
 - **Feat.** [Alert](/3-Mechanics/CLI/feats/alert-xphb.md)  

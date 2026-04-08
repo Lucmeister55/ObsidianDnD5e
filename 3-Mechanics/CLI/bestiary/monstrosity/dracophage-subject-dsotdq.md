@@ -83,7 +83,6 @@ Draconians are bipedal monsters born from metallic dragon eggs that have been co
     "name": "Claw"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Dracophage\
-  \ Subject.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/dracophage-subject-dsotdq.webp"
 ```
 ^statblock

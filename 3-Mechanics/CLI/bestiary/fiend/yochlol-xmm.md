@@ -108,7 +108,7 @@ Despite their service to demon lords, yochlols harbor their own vicious whims an
     "name": "Toxic Escape"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Yochlol.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/yochlol-xmm.webp"
 ```
 ^statblock
 

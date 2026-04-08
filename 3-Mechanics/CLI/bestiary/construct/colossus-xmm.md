@@ -100,7 +100,7 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
     "name": "Stomp"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Colossus.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/colossus-xmm.webp"
 ```
 ^statblock
 

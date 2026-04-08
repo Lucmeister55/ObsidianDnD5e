@@ -10,7 +10,7 @@ aliases:
 ---
 # Quaal's Feather Token, Anchor
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Quaals Feather Token (Anchor).webp#right)
+![](/3-Mechanics/CLI/items/img/quaals-feather-token-anchor.webp#right)
 
 
 This object looks like a feather.

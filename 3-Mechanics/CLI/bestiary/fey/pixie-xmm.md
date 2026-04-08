@@ -73,7 +73,7 @@ Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They i
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Pixie.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/pixie-xmm.webp"
 ```
 ^statblock
 

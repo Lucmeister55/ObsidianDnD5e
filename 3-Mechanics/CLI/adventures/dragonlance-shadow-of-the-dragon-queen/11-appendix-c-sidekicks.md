@@ -20,7 +20,7 @@ A sidekick's level should always equal the average level of the adventuring part
 
 The NPCs here can join the characters as sidekicks. Each has a background in the lands of Ansalon, but you can customize these stories as suits your campaign. You can also play these characters as heroes in *Dragonlance: Warriors of Krynn*.
 
-![Representation of Krynn's Three Moons](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/155-10-007.representation-of-krynns-moons.webp#center)
+![Representation of Krynn's Three Moons](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/155-10-007-representation-of-krynns-moons.webp#center)
 
 - [Andir Valmakos](/3-Mechanics/CLI/bestiary/npc/andir-valmakos-dsotdq.md)  
 - [Ayik Ur](/3-Mechanics/CLI/bestiary/npc/ayik-ur-dsotdq.md)  

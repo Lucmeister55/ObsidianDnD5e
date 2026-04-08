@@ -82,7 +82,7 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
     "name": "Hooves"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Pegasus.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/pegasus-xmm.webp"
 ```
 ^statblock
 

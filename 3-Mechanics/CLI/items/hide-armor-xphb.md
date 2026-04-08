@@ -11,7 +11,7 @@ aliases:
 ---
 # Hide Armor
 *Medium armor*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Hide Armor.webp#right)
+![](/3-Mechanics/CLI/items/img/hide-armor.webp#right)
 
 - **Armor Class**: 12 + Dex modifier (max of +2)
 - **Cost**: 10 gp

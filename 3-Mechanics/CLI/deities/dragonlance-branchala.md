@@ -10,7 +10,7 @@ aliases:
 ---
 # Branchala
 *Source: Dragonlance: Shadow of the Dragon Queen p. 14* 
-![Symbols Left to Right: Pal...](file://D:\ProgramData\CLI\5etools-img/deities/DSotDQ/010-00-031.good-god-symbols.webp#symbol "Symbols Left to Right: Paladine, Branchala, and Habbakuk")
+![Symbols Left to Right: Pal...](/3-Mechanics/CLI/deities/img/dsotdq-010-00-031-good-god-symbols.webp#symbol "Symbols Left to Right: Paladine, Branchala, and Habbakuk")
 
 - **Alignment**: Neutral Good
 - **Category**: Good

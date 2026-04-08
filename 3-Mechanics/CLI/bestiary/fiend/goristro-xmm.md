@@ -95,7 +95,7 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
     "name": "Charge"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Goristro.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/goristro-xmm.webp"
 ```
 ^statblock
 

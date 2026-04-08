@@ -10,7 +10,7 @@ aliases:
 ---
 # Solinari
 *Source: Dragonlance: Shadow of the Dragon Queen p. 15* 
-![Symbol of Solinari](file://D:\ProgramData\CLI\5etools-img/deities/DSotDQ/012-00-016.symbol-solinari.webp#symbol)
+![Symbol of Solinari](/3-Mechanics/CLI/deities/img/dsotdq-012-00-016-symbol-solinari.webp#symbol)
 
 - **Alignment**: Lawful Good
 - **Category**: Good

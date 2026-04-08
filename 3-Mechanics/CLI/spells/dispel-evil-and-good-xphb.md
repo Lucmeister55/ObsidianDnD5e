@@ -18,7 +18,7 @@ aliases:
 ---
 # Dispel Evil and Good
 *5th-level, Abjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Dispel Evil and Good.webp#right)
+![](/3-Mechanics/CLI/spells/img/dispel-evil-and-good.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** Self

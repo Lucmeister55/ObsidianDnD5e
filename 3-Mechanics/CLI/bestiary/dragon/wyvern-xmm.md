@@ -65,7 +65,7 @@ Once wyverns overpower a quarry, they carry it to their cavernous lairs to eithe
     "name": "Sting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Wyvern.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/wyvern-xmm.webp"
 ```
 ^statblock
 

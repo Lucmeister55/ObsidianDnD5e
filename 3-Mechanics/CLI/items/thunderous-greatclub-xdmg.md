@@ -13,7 +13,7 @@ aliases:
 ---
 # Thunderous Greatclub
 *Weapon ([greatclub](/3-Mechanics/CLI/items/greatclub-xphb.md)), very rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Thunderous Greatclub.webp#right)
+![](/3-Mechanics/CLI/items/img/thunderous-greatclub.webp#right)
 
 - **Damage**: 1d8 bludgeoning
 - **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)

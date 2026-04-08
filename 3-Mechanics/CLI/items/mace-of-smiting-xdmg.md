@@ -12,7 +12,7 @@ aliases:
 ---
 # Mace of Smiting
 *Weapon ([mace](/3-Mechanics/CLI/items/mace-xphb.md)), rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Mace of Smiting.webp#right)
+![](/3-Mechanics/CLI/items/img/mace-of-smiting.webp#right)
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.

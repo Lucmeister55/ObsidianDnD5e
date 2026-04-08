@@ -12,7 +12,7 @@ aliases:
 ---
 # Javelin of Lightning
 *Weapon ([javelin](/3-Mechanics/CLI/items/javelin-xphb.md)), uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Javelin of Lightning.webp#right)
+![](/3-Mechanics/CLI/items/img/javelin-of-lightning.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120

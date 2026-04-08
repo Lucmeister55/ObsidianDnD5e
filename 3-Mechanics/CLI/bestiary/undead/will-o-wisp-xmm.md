@@ -97,7 +97,7 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
     "name": "Vanish"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Will-o'-Wisp.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/will-o-wisp-xmm.webp"
 ```
 ^statblock
 

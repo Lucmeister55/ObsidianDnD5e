@@ -71,7 +71,7 @@ aliases:
 ---
 # Giant Slayer
 *Rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Giant Slayer.webp#right)
+![](/3-Mechanics/CLI/items/img/giant-slayer.webp#right)
 
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.

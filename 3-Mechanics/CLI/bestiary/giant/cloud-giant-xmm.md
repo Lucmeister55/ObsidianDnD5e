@@ -80,7 +80,7 @@ Most cloud giants inhabit citadels crowning tremendous mountains or magical pala
     "name": "Misty Step"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Cloud Giant.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/cloud-giant-xmm.webp"
 ```
 ^statblock
 

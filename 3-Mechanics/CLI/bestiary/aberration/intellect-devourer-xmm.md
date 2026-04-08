@@ -92,7 +92,7 @@ Intellect devourers serve their mind flayer creators by consuming other creature
     "name": "Steal Body"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Intellect Devourer.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/intellect-devourer-xmm.webp"
 ```
 ^statblock
 

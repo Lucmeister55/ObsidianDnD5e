@@ -130,7 +130,7 @@ Cults can organize around any mystical tradition, but many serve supernatural be
     "name": "Spirit Wail (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Death Cultist.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/death-cultist-xmm.webp"
 ```
 ^statblock
 

@@ -57,7 +57,7 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
     "name": "Rotting Touch"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Violet Fungus.webp"
+"image": "/3-Mechanics/CLI/bestiary/plant/token/violet-fungus-xmm.webp"
 ```
 ^statblock
 

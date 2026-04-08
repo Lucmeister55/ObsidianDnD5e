@@ -101,7 +101,7 @@ Along with psychological threats and physical harm, a chain devil uses its unner
     "name": "Unnerving Gaze"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Chain Devil.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/chain-devil-xmm.webp"
 ```
 ^statblock
 

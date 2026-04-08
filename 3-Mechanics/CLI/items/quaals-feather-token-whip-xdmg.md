@@ -10,7 +10,7 @@ aliases:
 ---
 # Quaal's Feather Token, Whip
 *Wondrous item, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Quaals Feather Token (Whip).webp#right)
+![](/3-Mechanics/CLI/items/img/quaals-feather-token-whip.webp#right)
 
 
 This object looks like a feather.

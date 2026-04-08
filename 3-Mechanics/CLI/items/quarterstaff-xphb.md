@@ -12,7 +12,7 @@ aliases:
 ---
 # Quarterstaff
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Quarterstaff.webp#right)
+![](/3-Mechanics/CLI/items/img/quarterstaff.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

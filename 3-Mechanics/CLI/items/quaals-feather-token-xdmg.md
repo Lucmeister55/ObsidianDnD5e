@@ -10,7 +10,7 @@ aliases:
 ---
 # Quaal's Feather Token
 *Wondrous item*  
-![Quaal's Feather Tokens (Wh...](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Quaals Feather Token.webp#right "Quaal's Feather Tokens (Whip, Anchor, Bird, Swan Boat, Fan, Tree)")
+![Quaal's Feather Tokens (Wh...](/3-Mechanics/CLI/items/img/quaals-feather-token.webp#right "Quaal's Feather Tokens (Whip, Anchor, Bird, Swan Boat, Fan, Tree)")
 
 
 This object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The DM chooses the kind of token or determines it randomly by rolling on the Quaal's Feather Tokens table. The type of token determines its rarity.

@@ -77,7 +77,7 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 "source":
   - "XMM"
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Slaad Tadpole.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/slaad-tadpole-xmm.webp"
 ```
 ^statblock
 

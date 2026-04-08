@@ -10,7 +10,7 @@ aliases:
 ---
 # Artisan
 *Source: Player's Handbook (2024) p. 179*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/XPHB/Artisan.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/artisan.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Intelligence  
 - **Feat.** [Crafter](/3-Mechanics/CLI/feats/crafter-xphb.md)  

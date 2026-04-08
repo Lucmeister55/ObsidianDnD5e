@@ -80,6 +80,6 @@ Draconians are bipedal monsters born from metallic dragon eggs that have been co
     "name": "Dagger"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Kapak Draconian.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/kapak-draconian-dsotdq.webp"
 ```
 ^statblock

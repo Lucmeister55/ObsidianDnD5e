@@ -18,7 +18,7 @@ aliases:
 ---
 # Shapechange
 *9th-level, Transmutation*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Shapechange.webp#right)
+![](/3-Mechanics/CLI/spells/img/shapechange.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** Self

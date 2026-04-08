@@ -13,7 +13,7 @@ aliases:
 ---
 # Torm
 *Source: Forgotten Realms: Heroes of Faerûn p. 125* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Torm.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-torm.webp#symbol)
 
 - **Alternate Names**: The Hand of Righteousness, The Loyal Fury, Torm the True
 - **Alignment**: Unaligned

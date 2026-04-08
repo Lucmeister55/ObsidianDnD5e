@@ -10,7 +10,7 @@ aliases:
 ---
 # Bag of Beans
 *Wondrous item, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Bag of Beans.webp#right)
+![](/3-Mechanics/CLI/items/img/bag-of-beans.webp#right)
 
 
 This heavy cloth bag contains `dice:3d4|noform|noparens|avg` (`3d4`) dry beans when found. The bag weighs half a pound regardless of how many beans it contains and becomes a nonmagical item when it no longer contains any beans.

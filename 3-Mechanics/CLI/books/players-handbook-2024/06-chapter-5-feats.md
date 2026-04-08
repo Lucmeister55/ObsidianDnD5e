@@ -10,7 +10,7 @@ aliases:
 # Chapter 5: Feats
 *Source: Player's Handbook (2024), p. 199* 
 
-![The Weathermay-Foxgrove Tw...](file://D:\ProgramData\CLI\5etools-img/book/XPHB/158-06-001.weathermay-foxgrove-alanik-arthur.webp#center "The Weathermay-Foxgrove Twins, Gennifer and Laurie, along with the investigators Alanik Ray and Arthur Sedgwick, fight to escape the horrors of Castle Ravenloft")
+![The Weathermay-Foxgrove Tw...](/3-Mechanics/CLI/books/players-handbook-2024/img/158-06-001-weathermay-foxgrove-alanik-arthur.webp#center "The Weathermay-Foxgrove Twins, Gennifer and Laurie, along with the investigators Alanik Ray and Arthur Sedgwick, fight to escape the horrors of Castle Ravenloft")
 
 This chapter offers a collection of feats, which are special features not tied to a character class. A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.
 

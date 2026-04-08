@@ -10,7 +10,7 @@ aliases:
 # Chapter 2: Running the Game
 *Source: Dungeon Master's Guide (2024), p. 21* 
 
-![The fiendish villain Venge...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/006-01-001.scrying-venger.webp#center "The fiendish villain Venger uses a Crystal Ball to scry on his nemesis, Tiamat")
+![The fiendish villain Venge...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/006-01-001-scrying-venger.webp#center "The fiendish villain Venger uses a Crystal Ball to scry on his nemesis, Tiamat")
 
 Building on the basics laid out in "chapter 1", this chapter goes into more depth on running a D&D game as Dungeon Master.
 
@@ -101,7 +101,7 @@ Engage players who like storytelling by...
 - Giving NPCs characteristics and connections that the adventurers can explore to uncover new adventure opportunities.  
 - Including plot elements that call back to decisions the adventurers made earlier.  
 
-![Different players enjoy di...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/007-01-002.traveling-party.webp#center "Different players enjoy different aspects of playing D&D")
+![Different players enjoy di...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/007-01-002-traveling-party.webp#center "Different players enjoy different aspects of playing D&D")
 
 ## Group Size
 
@@ -163,7 +163,7 @@ Display the Initiative order to your players so they each know when their charac
 
 Encourage players to roll the dice for their attack rolls and their damage at the same time. You can do the same.
 
-![Adventures requiring steal...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/008-01-003.party-infiltration.webp#center "Adventures requiring stealth, like this infiltration, are ideal for some small parties of adventurers")
+![Adventures requiring steal...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/008-01-003-party-infiltration.webp#center "Adventures requiring stealth, like this infiltration, are ideal for some small parties of adventurers")
 
 ### Absent Players
 
@@ -223,7 +223,7 @@ Two or more DMs can share the creation of a single campaign, working together to
 
 Joint DMs can also team up to run each session of a campaign, with each DM focusing on the aspects of the game they most enjoy or the DMs trading focus from session to session. One DM might run combat description and keep a battle moving while the other focuses on miniatures and music. The two DMs can play two different NPCs in a social interaction encounter. Between sessions, they can collaborate or divide up world-building, encounter creation, and other tasks.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XDMG/009-01-004.metal-cup.webp#center)
+![](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/009-01-004-metal-cup.webp#center)
 
 ## Narration
 
@@ -270,7 +270,7 @@ Sometimes, though, you'll want to give information to just one player. It might 
 - **Aside to Player.** Pull the player into another room, or have the other players leave the room. This approach is best if there's a whole scene that plays out with just one character involved. Try to keep these scenes brief so other players don't get bored or feel left out.  
 - **Secret Message.** If you just have a simple piece of information to convey, you can whisper to the player, pass a note to them, or send them a text or a direct message.  
 
-![A dungeon room offers plen...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/010-01-005.old-office.webp#center "A dungeon room offers plenty of details for adventurers to explore")
+![A dungeon room offers plen...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/010-01-005-old-office.webp#center "A dungeon room offers plenty of details for adventurers to explore")
 
 ## Resolving Outcomes
 
@@ -445,7 +445,7 @@ When you need to make up something on the spot—say, a mages' guild in a town w
 - "Campaign Journal" (described in "chapter 5")  
 - Maps (see "appendix B")  
 
-![When a flying fortress cra...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/011-01-006.falling-fortress.webp#center "When a flying fortress crashes to the ground, unfortunate adventurers in its path might take `dice:18d10|noform|noparens|avg` (`18d10`) damage or more!")
+![When a flying fortress cra...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/011-01-006-falling-fortress.webp#center "When a flying fortress crashes to the ground, unfortunate adventurers in its path might take `dice:18d10|noform|noparens|avg` (`18d10`) damage or more!")
 
 ## Running Social Interaction
 
@@ -528,7 +528,7 @@ A map can help you or your players visualize a location or region that the chara
 
 Often a map is intended for the DM's eyes only. You can copy portions of a DM's map to share with your players as a visual aid while omitting details that should remain hidden from them. Virtual tabletops often use "fog of war" and similar effects to obscure areas and features on the map that you want to keep hidden from the players.
 
-![Exploration draws adventur...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/012-01-007.exploring-party.webp#center "Exploration draws adventurers into all sorts of unusual environments")
+![Exploration draws adventur...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/012-01-007-exploring-party.webp#center "Exploration draws adventurers into all sorts of unusual environments")
 
 Maps designed for use with miniatures (see ""Miniatures"" in this chapter) tend to be player facing, revealing nothing that would spoil the adventure.
 
@@ -572,7 +572,7 @@ Certain situations might call for a balance between ability checks and roleplayi
 
 ### Perception
 
-![In a courtyard full of mon...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/013-01-008.monster-courtyard.webp#center "In a courtyard full of monsters, will characters even notice that the tree has eyes?")
+![In a courtyard full of mon...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/013-01-008-monster-courtyard.webp#center "In a courtyard full of monsters, will characters even notice that the tree has eyes?")
 
 As the DM, you're the interface between your players and the world of the game. You tell them what their characters perceive, so it's important to make sure you're telling them important information about their surroundings. The Perception skill and Wisdom checks made using it are key tools for you. This section offers guidance to help you use the [Perception](/3-Mechanics/CLI/skills.md#Perception) rules in the "Player's Handbook".
 
@@ -657,7 +657,7 @@ Depending on how you planned the stages, the end of a stage might mean the chara
 > Whichever approach you use, running a journey otherwise works the same as described in the rest of the "Travel" section.
 ^journeys-without-destinations
 
-![Download PDF](file://D:\ProgramData\CLI\5etools-img/book/XDMG/014-01-009.travel-planner-sheet.webp#center)
+![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/014-01-009-travel-planner-sheet.webp#center)
 
 #### Weather
 
@@ -705,7 +705,7 @@ Characters traveling in a vehicle use the vehicle's speed in miles per hour (as 
 
 #### Narration during Travel
 
-![Traveling through fantasti...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/015-01-010.fantastical-landscapes.webp#center "Traveling through fantastical landscapes can be a fun and interesting part of any adventure")
+![Traveling through fantasti...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/015-01-010-fantastical-landscapes.webp#center "Traveling through fantastical landscapes can be a fun and interesting part of any adventure")
 
 Just as movies use travel montages to convey long and arduous journeys in a matter of seconds, you can use a few sentences of descriptive text to paint a picture of a journey in your players' minds before moving on. Describe the journey as vividly as you like, but keep momentum by focusing on the most notable details that reinforce the desired mood.
 
@@ -787,7 +787,7 @@ Use the Search DC column of the "Travel Terrain" table as a starting point for s
 
 On a failed check, the character loses the trail but can attempt to find it again by carefully searching the area. It takes 10 minutes to find a trail in a confined area, such as a series of caverns, or 1 hour outdoors.
 
-![A river presents an obstac...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/016-01-011.river-party.webp#center "A river presents an obstacle to characters traveling through the wilderness")
+![A river presents an obstac...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/016-01-011-river-party.webp#center "A river presents an obstacle to characters traveling through the wilderness")
 
 ## Running Combat
 
@@ -858,7 +858,7 @@ It helps to have a system to track damage for groups of monsters. If you aren't 
 
 If you use miniatures to represent monsters, one way to differentiate them is to give each one a unique miniature. If you use identical miniatures to represent multiple monsters, you can tag the miniatures with small stickers of different colors or stickers with different letters or numbers on them.
 
-![Three ogres block a narrow mountain pass](file://D:\ProgramData\CLI\5etools-img/book/XDMG/017-01-012.three-ogres.webp#center)
+![Three ogres block a narrow mountain pass](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/017-01-012-three-ogres.webp#center)
 
 For example, in a combat encounter with three ogres, you could use three identical ogre miniatures tagged with stickers marked A, B, and C, respectively. To track the ogres' Hit Points, you can sort them by letter, then subtract damage from their Hit Points as they take it. Your records might look something like this after a few rounds of combat:
 
@@ -908,9 +908,9 @@ If the miniature you use for a monster takes up an amount of space different fro
 
 An area of effect must be translated onto squares or hexes to determine which potential targets are in the area. If the area has a point of origin, choose an intersection of squares or hexes to be the point of origin, then follow its rules as normal. If an area of effect covers at least half a square or hex, the entire square or hex is affected.
 
-![Creature Size on Squares and Hexes](file://D:\ProgramData\CLI\5etools-img/book/XDMG/018-01-013.creature-size-square-and-hex.webp#center)
+![Creature Size on Squares and Hexes](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/018-01-013-creature-size-square-and-hex.webp#center)
 
-![Cover on Squares and Hexes](file://D:\ProgramData\CLI\5etools-img/book/XDMG/019-01-014.cover-on-squares-hexes.webp#center)
+![Cover on Squares and Hexes](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/019-01-014-cover-on-squares-hexes.webp#center)
 
 #### Line of Sight
 
@@ -949,7 +949,7 @@ As the characters fight monsters, you can reveal information to help the players
 > You can also use [Heroic Inspiration](/3-Mechanics/CLI/variant-rules/heroic-inspiration-xphb.md) to reward roleplaying, immersion in the game, and heroism. Use it to incentivize the kind of behavior you want to see in your game, such as acting in character, taking risks, thinking strategically, cooperating well, or embracing the tropes of a particular genre. Make sure your use of [Heroic Inspiration](/3-Mechanics/CLI/variant-rules/heroic-inspiration-xphb.md) is aligned with the expectations you set out at the start of your game (see ""Ensuring Fun for All"" in "chapter 1").
 ^awarding-heroic-inspiration
 
-![A dragon's arrival makes a...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/020-01-016.dragon-arrives.webp#center "A dragon's arrival makes a simple fight against zombies much more interesting")
+![A dragon's arrival makes a...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/020-01-016-dragon-arrives.webp#center "A dragon's arrival makes a simple fight against zombies much more interesting")
 
 #### Loss of Hit Points
 

@@ -13,7 +13,7 @@ aliases:
 ---
 # Staff of the Adder
 *Staff, weapon, uncommon (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Staff of the Adder.webp#right)
+![](/3-Mechanics/CLI/items/img/staff-of-the-adder.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

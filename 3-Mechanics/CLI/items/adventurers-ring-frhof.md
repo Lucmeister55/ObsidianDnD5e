@@ -11,7 +11,7 @@ aliases:
 ---
 # Adventurer's Ring
 *Ring, common*  
-![](file://D:\ProgramData\CLI\5etools-img/items/FRHoF/Adventurer's Ring.webp#right)
+![](/3-Mechanics/CLI/items/img/adventurers-ring.webp#right)
 
 
 Lamps are a liability on adventures. Delicate and prone to oil spillage, lamps fill a hand that should otherwise be wielding a weapon or casting a spell. Once you try one of our elegant and practical rings, you'll never go back to cumbersome flint and fire.

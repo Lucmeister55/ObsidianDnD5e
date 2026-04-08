@@ -72,7 +72,7 @@ aliases:
 ---
 # Holy Avenger
 *Legendary (requires attunement by a paladin)*  
-![Holy Avenger (Greatsword)](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Holy Avenger.webp#right)
+![Holy Avenger (Greatsword)](/3-Mechanics/CLI/items/img/holy-avenger.webp#right)
 
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. When you hit a Fiend or an Undead with it, that creature takes an extra `dice:2d10|noform|noparens|avg` (`2d10`) Radiant damage.

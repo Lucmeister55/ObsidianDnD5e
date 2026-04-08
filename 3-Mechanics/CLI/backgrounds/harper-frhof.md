@@ -10,7 +10,7 @@ aliases:
 ---
 # Harper
 *Source: Forgotten Realms: Heroes of Faerûn p. 31*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/FRHoF/Harper.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/harper.webp#right)
 
 - **Ability Scores.** Dexterity, Intelligence, Charisma  
 - **Feat.** [Harper Agent](/3-Mechanics/CLI/feats/harper-agent-frhof.md)  

@@ -10,7 +10,7 @@ aliases:
 ---
 # Tome of Clear Thought
 *Wondrous item, very rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Tome of Clear Thought.webp#right)
+![](/3-Mechanics/CLI/items/img/tome-of-clear-thought.webp#right)
 
 - **Weight**: 5.0 lbs.
 

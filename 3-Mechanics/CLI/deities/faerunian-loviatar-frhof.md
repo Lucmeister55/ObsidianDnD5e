@@ -13,7 +13,7 @@ aliases:
 ---
 # Loviatar
 *Source: Forgotten Realms: Heroes of Faerûn p. 114* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Loviatar.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-loviatar.webp#symbol)
 
 - **Alternate Names**: The Maiden of Pain, The Scourge Mistress, The Willing Whip
 - **Alignment**: Unaligned

@@ -61,7 +61,7 @@ Cockatrices combine the features of irate roosters and starving reptiles. They p
     "name": "Petrifying Bite"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Cockatrice.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/cockatrice-xmm.webp"
 ```
 ^statblock
 

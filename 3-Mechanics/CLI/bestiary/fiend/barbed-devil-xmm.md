@@ -95,7 +95,7 @@ Barbed devils rarely collect anything as prosaic as coins and gems. Rather, they
     "name": "Hurl Flame"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Barbed Devil.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/barbed-devil-xmm.webp"
 ```
 ^statblock
 

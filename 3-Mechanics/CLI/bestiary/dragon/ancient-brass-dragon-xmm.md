@@ -132,8 +132,7 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
     "name": "Scorching Sands"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Ancient Brass\
-  \ Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/ancient-brass-dragon-xmm.webp"
 ```
 ^statblock
 

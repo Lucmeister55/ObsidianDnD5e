@@ -12,7 +12,7 @@ aliases:
 ---
 # Greatsword
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Greatsword.webp#right)
+![](/3-Mechanics/CLI/items/img/greatsword.webp#right)
 
 - **Damage**: 2d6 slashing
 - **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)

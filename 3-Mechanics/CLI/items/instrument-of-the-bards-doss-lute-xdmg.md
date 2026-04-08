@@ -12,7 +12,7 @@ aliases:
 ---
 # Instrument of the Bards, Doss Lute
 *Wondrous item, instrument ([lute](/3-Mechanics/CLI/items/lute-xphb.md)), uncommon (requires attunement by a bard)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Doss Lute.webp#right)
+![](/3-Mechanics/CLI/items/img/doss-lute.webp#right)
 
 
 An Instrument of the Bards is superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a bard college. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take `dice:2d4|noform|noparens|avg` (`2d4`) Psychic damage.

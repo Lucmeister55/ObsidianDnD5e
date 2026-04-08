@@ -12,7 +12,7 @@ aliases:
 ---
 # Wand of Polymorph
 *Wand, very rare (requires attunement by a spellcaster)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Wand of Polymorph.webp#right)
+![](/3-Mechanics/CLI/items/img/wand-of-polymorph.webp#right)
 
 - **Weight**: 1.0 lbs.
 

@@ -11,7 +11,7 @@ aliases:
 ---
 # Boots of the Winterlands
 *Wondrous item, uncommon (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Boots of the Winterlands.webp#right)
+![](/3-Mechanics/CLI/items/img/boots-of-the-winterlands.webp#right)
 
 
 These furred boots are snug and feel warm. While wearing them, you gain the following benefits.

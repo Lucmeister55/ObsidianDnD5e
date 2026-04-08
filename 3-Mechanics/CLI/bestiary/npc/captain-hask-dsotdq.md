@@ -87,7 +87,6 @@ aliases:
     "name": "Spellcasting"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Captain\
-  \ Hask.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/captain-hask-dsotdq.webp"
 ```
 ^statblock

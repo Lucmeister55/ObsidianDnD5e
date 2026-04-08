@@ -75,8 +75,7 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
     "name": "Mind Corrosion"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Psychic Gray\
-  \ Ooze.webp"
+"image": "/3-Mechanics/CLI/bestiary/ooze/token/psychic-gray-ooze-xmm.webp"
 ```
 ^statblock
 

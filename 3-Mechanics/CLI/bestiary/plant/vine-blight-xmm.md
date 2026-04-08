@@ -71,7 +71,7 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
     "name": "Entangling Plants (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Vine Blight.webp"
+"image": "/3-Mechanics/CLI/bestiary/plant/token/vine-blight-xmm.webp"
 ```
 ^statblock
 

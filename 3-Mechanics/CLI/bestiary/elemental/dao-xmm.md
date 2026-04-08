@@ -102,7 +102,7 @@ Many dao call the Elemental Plane of Earth home. There, they create cities that 
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Dao.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/dao-xmm.webp"
 ```
 ^statblock
 

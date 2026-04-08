@@ -11,7 +11,7 @@ aliases:
 ---
 # Winter Camouflage
 *Adventuring gear*  
-![](file://D:\ProgramData\CLI\5etools-img/items/FRHoF/Winter Camouflage.webp#right)
+![](/3-Mechanics/CLI/items/img/winter-camouflage.webp#right)
 
 - **Cost**: 50 gp
 - **Weight**: 4.0 lbs.

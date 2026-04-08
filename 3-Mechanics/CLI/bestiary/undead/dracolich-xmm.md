@@ -159,7 +159,7 @@ A dracolich lurks in a corrupted version of the lair it had in life.
     "name": "Terrifying Presence"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Dracolich.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/dracolich-xmm.webp"
 ```
 ^statblock
 

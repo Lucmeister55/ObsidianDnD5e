@@ -19,7 +19,7 @@ aliases:
 ---
 # Moon-Touched Sword
 *Common*  
-![Moon-Touched Sword (Rapier)](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Moon-Touched Sword.webp#right)
+![Moon-Touched Sword (Rapier)](/3-Mechanics/CLI/items/img/moon-touched-sword.webp#right)
 
 
 In [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md), the unsheathed blade of this weapon sheds moonlight, creating [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 15-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 15 feet.

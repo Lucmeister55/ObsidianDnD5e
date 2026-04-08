@@ -173,7 +173,7 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
     "name": "Frightening Gaze"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Lich.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/lich-xmm.webp"
 ```
 ^statblock
 

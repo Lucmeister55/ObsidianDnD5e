@@ -20,7 +20,7 @@ aliases:
 ---
 # Frost Brand
 *Very rare (requires attunement)*  
-![Frost Brand (Scimitar)](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Frost Brand.webp#right)
+![Frost Brand (Scimitar)](/3-Mechanics/CLI/items/img/frost-brand.webp#right)
 
 
 When you hit with an attack roll using this magic weapon, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) Cold damage. In addition, while you hold the weapon, you have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to Fire damage.

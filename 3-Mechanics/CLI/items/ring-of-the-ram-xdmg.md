@@ -12,7 +12,7 @@ aliases:
 ---
 # Ring of the Ram
 *Ring, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Ring of the Ram.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-the-ram.webp#right)
 
 
 This ring has 3 charges and regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. While wearing the ring, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to expend 1 to 3 charges to make a ranged spell attack against one creature you can see within 60 feet of yourself. The ring produces a spectral ram's head and makes its attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes `dice:2d10|noform|noparens|avg` (`2d10`) Force damage and is pushed 5 feet away from you.

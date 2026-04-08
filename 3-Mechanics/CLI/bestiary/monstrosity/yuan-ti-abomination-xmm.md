@@ -118,7 +118,7 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Yuan-ti Abomination.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-abomination-xmm.webp"
 ```
 ^statblock
 

@@ -150,7 +150,7 @@ Wrestler
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Performer Maestro.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/performer-maestro-xmm.webp"
 ```
 ^statblock
 

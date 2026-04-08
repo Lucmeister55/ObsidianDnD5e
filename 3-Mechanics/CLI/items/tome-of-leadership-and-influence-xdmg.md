@@ -10,7 +10,7 @@ aliases:
 ---
 # Tome of Leadership and Influence
 *Wondrous item, very rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Tome of Leadership and Influence.webp#right)
+![](/3-Mechanics/CLI/items/img/tome-of-leadership-and-influence.webp#right)
 
 - **Weight**: 5.0 lbs.
 

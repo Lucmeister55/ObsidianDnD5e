@@ -78,7 +78,7 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Werebear.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/werebear-xmm.webp"
 ```
 ^statblock
 

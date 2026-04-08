@@ -85,7 +85,7 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
     "name": "Haunting Glare (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Graveyard Revenant.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/graveyard-revenant-xmm.webp"
 ```
 ^statblock
 

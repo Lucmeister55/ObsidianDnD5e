@@ -77,8 +77,7 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
     "name": "Gore (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Minotaur of\
-  \ Baphomet.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/minotaur-of-baphomet-xmm.webp"
 ```
 ^statblock
 

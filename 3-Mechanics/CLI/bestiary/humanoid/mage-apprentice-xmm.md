@@ -96,7 +96,7 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Mage Apprentice.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/mage-apprentice-xmm.webp"
 ```
 ^statblock
 

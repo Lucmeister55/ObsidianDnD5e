@@ -86,7 +86,7 @@ At the end of its service, a spectator might discorporate back into nothingness 
     "name": "Spell Reflection"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Spectator.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/spectator-xmm.webp"
 ```
 ^statblock
 

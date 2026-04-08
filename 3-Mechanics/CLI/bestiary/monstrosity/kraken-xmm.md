@@ -159,7 +159,7 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
     "name": "Toxic Ink"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Kraken.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/kraken-xmm.webp"
 ```
 ^statblock
 

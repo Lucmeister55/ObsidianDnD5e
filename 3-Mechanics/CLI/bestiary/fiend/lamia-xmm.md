@@ -93,7 +93,7 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
     "name": "Leap"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Lamia.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/lamia-xmm.webp"
 ```
 ^statblock
 

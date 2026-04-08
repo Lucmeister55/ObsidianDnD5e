@@ -11,7 +11,7 @@ aliases:
 ---
 # Cloak of Displacement
 *Wondrous item, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Cloak of Displacement.webp#right)
+![](/3-Mechanics/CLI/items/img/cloak-of-displacement.webp#right)
 
 
 While you wear this cloak, it magically projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) is 0.

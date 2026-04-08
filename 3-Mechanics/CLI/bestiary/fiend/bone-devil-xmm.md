@@ -102,7 +102,7 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
     "name": "Infernal Sting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Bone Devil.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/bone-devil-xmm.webp"
 ```
 ^statblock
 

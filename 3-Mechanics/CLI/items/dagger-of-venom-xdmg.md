@@ -12,7 +12,7 @@ aliases:
 ---
 # Dagger of Venom
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Dagger of Venom.webp#right)
+![](/3-Mechanics/CLI/items/img/dagger-of-venom.webp#right)
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60

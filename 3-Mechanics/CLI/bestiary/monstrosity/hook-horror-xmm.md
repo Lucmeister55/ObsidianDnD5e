@@ -62,7 +62,7 @@ Hook horrors feed opportunistically on plants, fungi, and any creatures that com
     "name": "Hook"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Hook Horror.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/hook-horror-xmm.webp"
 ```
 ^statblock
 

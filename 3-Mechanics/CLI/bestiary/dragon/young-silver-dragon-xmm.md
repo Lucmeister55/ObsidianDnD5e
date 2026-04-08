@@ -87,8 +87,7 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
     "name": "Paralyzing Breath"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Young Silver\
-  \ Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-silver-dragon-xmm.webp"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ aliases:
 # Chapter 4: Aurora's Whole Realms Catalog
 *Source: Forgotten Realms: Heroes of Faerûn, p. 128* 
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/126-frhof-ac-aurora.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/126-frhof-ac-aurora.webp#center)
 
 > [!readaloud] 
 > 
@@ -63,7 +63,7 @@ Each of Cottle's black coaches is a Carriage (see the "Player's Handbook") keyed
 
 Alternatively, a creature inside the coach can use the combination dial to input a random sequence, teleporting all creatures inside to a random coach in Cottle's fleet.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/143-04-002.black-coach-service.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/143-04-002-black-coach-service.webp#center)
 
 ### Sled Services (4 GP/Day)
 
@@ -71,7 +71,7 @@ Alternatively, a creature inside the coach can use the combination dial to input
 
 Sled service includes a [Scout](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) and six [Axe Beaks](/3-Mechanics/CLI/bestiary/monstrosity/axe-beak-xmm.md) or sled dogs ([Wolves](/3-Mechanics/CLI/bestiary/beast/wolf-xmm.md)). See the "Monster Manual" for these stat blocks.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/144-04-017.sled-services-and-sled-dogs.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/144-04-017-sled-services-and-sled-dogs.webp#center)
 
 ## Vehicles
 

@@ -76,8 +76,7 @@ Cockatrices combine the features of irate roosters and starving reptiles. They p
     "name": "Magical Backlash"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Cockatrice\
-  \ Regent.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/cockatrice-regent-xmm.webp"
 ```
 ^statblock
 

@@ -47,7 +47,6 @@ aliases:
     "name": "Beast's Strike"
 "source":
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XPHB/Beast of the\
-  \ Sea.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/beast-of-the-sea-xphb.webp"
 ```
 ^statblock

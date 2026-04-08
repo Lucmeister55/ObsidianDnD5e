@@ -60,7 +60,7 @@ Beneath the waves dwell merfolk, mysterious creatures that merge the features of
     "name": "Ocean Spear"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Merfolk Skirmisher.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/merfolk-skirmisher-xmm.webp"
 ```
 ^statblock
 

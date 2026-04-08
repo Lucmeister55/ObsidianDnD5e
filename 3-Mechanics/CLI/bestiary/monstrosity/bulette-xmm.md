@@ -70,7 +70,7 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
     "name": "Leap"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Bulette.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/bulette-xmm.webp"
 ```
 ^statblock
 

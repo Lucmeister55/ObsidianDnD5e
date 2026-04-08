@@ -35,7 +35,7 @@ aliases:
 ---
 # Speak with Animals
 *1st-level, Divination (ritual)*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Speak with Animals.webp#right)
+![](/3-Mechanics/CLI/spells/img/speak-with-animals.webp#right)
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Self

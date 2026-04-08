@@ -70,7 +70,7 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
     "name": "Tendril"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Gas Spore Fungus.webp"
+"image": "/3-Mechanics/CLI/bestiary/plant/token/gas-spore-fungus-xmm.webp"
 ```
 ^statblock
 

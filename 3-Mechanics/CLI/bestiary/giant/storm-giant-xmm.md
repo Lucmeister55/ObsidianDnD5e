@@ -90,7 +90,7 @@ Among the tallest giants, storm giants live amid extreme forces of nature. In pa
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Storm Giant.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/storm-giant-xmm.webp"
 ```
 ^statblock
 

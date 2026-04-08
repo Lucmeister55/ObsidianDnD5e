@@ -91,7 +91,7 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
     "name": "Split"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Ochre Jelly.webp"
+"image": "/3-Mechanics/CLI/bestiary/ooze/token/ochre-jelly-xmm.webp"
 ```
 ^statblock
 

@@ -66,6 +66,6 @@ aliases:
     "name": "Heavy Crossbow"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Cudgel Ironsmile.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/cudgel-ironsmile-dsotdq.webp"
 ```
 ^statblock

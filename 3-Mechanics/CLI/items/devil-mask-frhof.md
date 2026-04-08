@@ -11,7 +11,7 @@ aliases:
 ---
 # Devil Mask
 *Adventuring gear*  
-![](file://D:\ProgramData\CLI\5etools-img/items/FRHoF/Devil Mask.webp#right)
+![](/3-Mechanics/CLI/items/img/devil-mask.webp#right)
 
 - **Cost**: 25 gp
 

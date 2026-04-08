@@ -81,8 +81,7 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
     "name": "Poison Breath (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Young Green\
-  \ Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-green-dragon-xmm.webp"
 ```
 ^statblock
 

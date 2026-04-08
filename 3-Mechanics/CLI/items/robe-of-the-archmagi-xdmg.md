@@ -11,7 +11,7 @@ aliases:
 ---
 # Robe of the Archmagi
 *Wondrous item, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Robe of the Archmagi.webp#right)
+![](/3-Mechanics/CLI/items/img/robe-of-the-archmagi.webp#right)
 
 
 This elegant garment is made from exquisite cloth and adorned with runes.

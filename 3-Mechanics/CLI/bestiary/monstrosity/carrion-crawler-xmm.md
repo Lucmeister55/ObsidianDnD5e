@@ -75,7 +75,7 @@ These scavengers avoid ingesting inorganic material. Crypts with funeral armors 
     "name": "Paralyzing Tentacles"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Carrion Crawler.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/carrion-crawler-xmm.webp"
 ```
 ^statblock
 

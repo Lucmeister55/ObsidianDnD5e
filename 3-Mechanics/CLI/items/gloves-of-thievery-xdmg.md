@@ -10,7 +10,7 @@ aliases:
 ---
 # Gloves of Thievery
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Gloves of Thievery.webp#right)
+![](/3-Mechanics/CLI/items/img/gloves-of-thievery.webp#right)
 
 
 These gloves are imperceptible while worn. While wearing them, you gain a +5 bonus to Dexterity ([Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)) checks.

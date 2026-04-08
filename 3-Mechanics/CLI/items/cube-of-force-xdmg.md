@@ -11,7 +11,7 @@ aliases:
 ---
 # Cube of Force
 *Wondrous item, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Cube of Force.webp#right)
+![](/3-Mechanics/CLI/items/img/cube-of-force.webp#right)
 
 
 This cube is about an inch across. Each face has a distinct marking on it. You can press one of those faces, expend the number of charges required for it, and thereby cast the spell associated with it (save DC 17), as shown in the Cube of Force Faces table.

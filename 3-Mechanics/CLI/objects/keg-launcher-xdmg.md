@@ -17,7 +17,7 @@ A back-mounted, wooden catapult flings small kegs of toxic gas. Loading a Keg La
 
 ```ad-statblock
 title: Keg Launcher
-![](file://D:\ProgramData\CLI\5etools-img/objects/tokens/XDMG/Keg Launcher.webp#token)
+![](/3-Mechanics/CLI/objects/token/keg-launcher-xdmg.webp#token)
 *Large Siege weapon*
 
 - **Armor Class** 15

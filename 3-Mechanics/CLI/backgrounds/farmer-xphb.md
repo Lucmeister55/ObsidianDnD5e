@@ -10,7 +10,7 @@ aliases:
 ---
 # Farmer
 *Source: Player's Handbook (2024) p. 180*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/XPHB/Farmer.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/farmer.webp#right)
 
 - **Ability Scores.** Strength, Constitution, Wisdom  
 - **Feat.** [Tough](/3-Mechanics/CLI/feats/tough-xphb.md)  

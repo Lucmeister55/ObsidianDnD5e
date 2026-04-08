@@ -95,7 +95,7 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
     "name": "Paralyzing Tentacles"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Grell.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/grell-xmm.webp"
 ```
 ^statblock
 

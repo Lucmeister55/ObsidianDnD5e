@@ -91,8 +91,7 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
     "name": "Smother"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Animated Rug\
-  \ of Smothering.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-rug-of-smothering-xmm.webp"
 ```
 ^statblock
 

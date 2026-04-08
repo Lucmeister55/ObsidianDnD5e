@@ -12,7 +12,7 @@ aliases:
 ---
 # Rod of Lordly Might
 *Rod, legendary (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Rod of Lordly Might.webp#right)
+![](/3-Mechanics/CLI/items/img/rod-of-lordly-might.webp#right)
 
 - **Weight**: 2.0 lbs.
 

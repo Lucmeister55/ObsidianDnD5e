@@ -11,7 +11,7 @@ aliases:
 ---
 # Amulet of Proof against Detection and Location
 *Wondrous item, uncommon (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Amulet of Proof against Detection and Location.webp#right)
+![](/3-Mechanics/CLI/items/img/amulet-of-proof-against-detection-and-location.webp#right)
 
 - **Weight**: 1.0 lbs.
 

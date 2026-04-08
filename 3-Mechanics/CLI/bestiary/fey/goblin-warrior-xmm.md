@@ -85,7 +85,7 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
     "name": "Nimble Escape"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Goblin Warrior.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/goblin-warrior-xmm.webp"
 ```
 ^statblock
 

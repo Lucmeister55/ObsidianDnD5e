@@ -88,7 +88,7 @@ Quasits are usually overlooked and underestimated by other demons. This drives t
 "source":
   - "XMM"
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Quasit.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/quasit-xmm.webp"
 ```
 ^statblock
 

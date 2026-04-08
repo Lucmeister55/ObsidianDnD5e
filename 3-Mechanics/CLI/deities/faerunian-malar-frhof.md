@@ -13,7 +13,7 @@ aliases:
 ---
 # Malar
 *Source: Forgotten Realms: Heroes of Faerûn p. 114* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Malar.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-malar.webp#symbol)
 
 - **Alternate Names**: The Beastlord, The Bloodgod, The Wild Hunter
 - **Alignment**: Unaligned

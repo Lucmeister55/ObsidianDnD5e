@@ -11,7 +11,7 @@ aliases:
 ---
 # Robe of Stars
 *Wondrous item, very rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Robe of Stars.webp#right)
+![](/3-Mechanics/CLI/items/img/robe-of-stars.webp#right)
 
 
 This black or dark-blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it.

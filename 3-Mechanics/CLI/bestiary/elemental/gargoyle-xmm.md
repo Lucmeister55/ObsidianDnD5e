@@ -105,7 +105,7 @@ Gargoyles seek to ambush foes or creatures that trespass on their territories. W
     "name": "Claw"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Gargoyle.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/gargoyle-xmm.webp"
 ```
 ^statblock
 

@@ -11,7 +11,7 @@ aliases:
 ---
 # Potion of Pugilism
 *Potion, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Potion of Pugilism.webp#right)
+![](/3-Mechanics/CLI/items/img/potion-of-pugilism.webp#right)
 
 - **Weight**: 0.5 lbs.
 

@@ -75,7 +75,7 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
     "name": "Light Hammer"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Bugbear Warrior.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/bugbear-warrior-xmm.webp"
 ```
 ^statblock
 

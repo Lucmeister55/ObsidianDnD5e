@@ -12,7 +12,7 @@ aliases:
 ---
 # Oghma
 *Source: Forgotten Realms: Heroes of Faerûn p. 118* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Oghma.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-oghma.webp#symbol)
 
 - **Alternate Names**: The Binder of What Is Known, The Lord of Knowledge
 - **Alignment**: Unaligned

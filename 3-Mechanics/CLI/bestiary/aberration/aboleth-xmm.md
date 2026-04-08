@@ -154,7 +154,7 @@ Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spac
     "name": "Psychic Drain"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Aboleth.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/aboleth-xmm.webp"
 ```
 ^statblock
 

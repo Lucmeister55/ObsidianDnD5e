@@ -109,7 +109,7 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
     "name": "Shadow Stealth"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Vampire Nightbringer.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/vampire-nightbringer-xmm.webp"
 ```
 ^statblock
 

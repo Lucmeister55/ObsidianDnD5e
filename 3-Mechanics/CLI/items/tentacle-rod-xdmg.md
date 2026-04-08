@@ -12,7 +12,7 @@ aliases:
 ---
 # Tentacle Rod
 *Rod, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Tentacle Rod.webp#right)
+![](/3-Mechanics/CLI/items/img/tentacle-rod.webp#right)
 
 - **Weight**: 2.0 lbs.
 

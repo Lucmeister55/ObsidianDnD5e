@@ -13,7 +13,7 @@ aliases:
 ---
 # Staff of the Woodlands
 *Staff, weapon, rare (requires attunement by a druid)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Staff of the Woodlands.webp#right)
+![](/3-Mechanics/CLI/items/img/staff-of-the-woodlands.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

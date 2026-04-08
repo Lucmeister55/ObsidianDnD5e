@@ -127,7 +127,7 @@ Kuo-toa typically organize their communities around sites they believe to be imp
     "name": "Shield of Faith (2/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Kuo-toa Whip.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/kuo-toa-whip-xmm.webp"
 ```
 ^statblock
 

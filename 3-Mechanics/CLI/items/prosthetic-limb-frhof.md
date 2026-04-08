@@ -10,7 +10,7 @@ aliases:
 ---
 # Prosthetic Limb
 *Wondrous item, common*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Prosthetic Limb.webp#right)
+![](/3-Mechanics/CLI/items/img/prosthetic-limb.webp#right)
 
 
 *A perfect illustration of the notion that magic should make our lives easier. Thanks to the generosity of Sultana Songal, anyone who requires a Prosthetic Limb can have the device for free. Speak to one of our vendors in the Aurora's Emporium nearest you.*

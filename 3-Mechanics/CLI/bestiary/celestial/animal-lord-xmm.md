@@ -197,7 +197,7 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
     "name": "Radiant Strike"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Animal Lord.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/animal-lord-xmm.webp"
 ```
 ^statblock
 

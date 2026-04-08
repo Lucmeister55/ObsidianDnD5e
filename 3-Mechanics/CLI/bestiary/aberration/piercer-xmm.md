@@ -69,7 +69,7 @@ Piercers are the larval form of ropers. Young piercers seek to move as far from 
     "name": "Drop"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Piercer.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/piercer-xmm.webp"
 ```
 ^statblock
 

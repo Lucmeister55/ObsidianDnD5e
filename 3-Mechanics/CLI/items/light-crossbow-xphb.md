@@ -12,7 +12,7 @@ aliases:
 ---
 # Light Crossbow
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Light Crossbow.webp#right)
+![](/3-Mechanics/CLI/items/img/light-crossbow.webp#right)
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320

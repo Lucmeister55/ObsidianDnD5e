@@ -10,7 +10,7 @@ aliases:
 # Chapter 2: Creating a Character
 *Source: Player's Handbook (2024), p. 33* 
 
-![World-traveling explorers ...](file://D:\ProgramData\CLI\5etools-img/book/XPHB/012-02-001.world-traveling-explorers.webp#center "World-traveling explorers Hank, Bobby, Sheila, Diana, and Presto stand on the threshold of their next adventure")
+![World-traveling explorers ...](/3-Mechanics/CLI/books/players-handbook-2024/img/012-02-001-world-traveling-explorers.webp#center "World-traveling explorers Hank, Bobby, Sheila, Diana, and Presto stand on the threshold of their next adventure")
 
 You can make a character for Dungeons & Dragons using the building blocks in this book. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a class (such as "Fighter" or "Wizard"), a background (such as "Sailor" or "Acolyte"), and a species (such as "Human" or "Elf"). You also invent the personality and appearance of your character. Once completed, your character serves as your avatar in the D&D multiverse.
 
@@ -113,7 +113,7 @@ Your background and class both provide starting equipment. Any coins that you ga
 
 Record your chosen equipment on your character sheet. Equipment is described in "chapter 6", but for now you can just write it all down and look up the specifics in that chapter later. There's also space on the sample character sheet to note any coins you have left after purchasing your equipment, as well as treasure you acquire on your adventures.
 
-![Consider how your choices ...](file://D:\ProgramData\CLI\5etools-img/book/XPHB/013-02-002.character-choices.webp#center "Consider how your choices combine to set your character on the path to adventure")
+![Consider how your choices ...](/3-Mechanics/CLI/books/players-handbook-2024/img/013-02-002-character-choices.webp#center "Consider how your choices combine to set your character on the path to adventure")
 
 #### Choose a Species
 
@@ -201,27 +201,27 @@ Ability scores are an essential part of the rules, but they can be more than tha
 
 Note your character's appearance and personality on your character sheet.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XPHB/014-02-003.strength-icon.webp#center)
+![](/3-Mechanics/CLI/books/players-handbook-2024/img/014-02-003-strength-icon.webp#center)
 
 ![Describe Appearance and Personality; Strength](/3-Mechanics/CLI/tables/describe-appearance-and-personality-strength-xphb.md)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XPHB/015-02-004.dexterity-icon.webp#center)
+![](/3-Mechanics/CLI/books/players-handbook-2024/img/015-02-004-dexterity-icon.webp#center)
 
 ![Describe Appearance and Personality; Dexterity](/3-Mechanics/CLI/tables/describe-appearance-and-personality-dexterity-xphb.md)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XPHB/016-02-005.constitution-icon.webp#center)
+![](/3-Mechanics/CLI/books/players-handbook-2024/img/016-02-005-constitution-icon.webp#center)
 
 ![Describe Appearance and Personality; Constitution](/3-Mechanics/CLI/tables/describe-appearance-and-personality-constitution-xphb.md)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XPHB/017-02-006.intelligence-icon.webp#center)
+![](/3-Mechanics/CLI/books/players-handbook-2024/img/017-02-006-intelligence-icon.webp#center)
 
 ![Describe Appearance and Personality; Intelligence](/3-Mechanics/CLI/tables/describe-appearance-and-personality-intelligence-xphb.md)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XPHB/018-02-007.wisdom-icon.webp#center)
+![](/3-Mechanics/CLI/books/players-handbook-2024/img/018-02-007-wisdom-icon.webp#center)
 
 ![Describe Appearance and Personality; Wisdom](/3-Mechanics/CLI/tables/describe-appearance-and-personality-wisdom-xphb.md)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XPHB/019-02-008.charisma-icon.webp#center)
+![](/3-Mechanics/CLI/books/players-handbook-2024/img/019-02-008-charisma-icon.webp#center)
 
 ![Describe Appearance and Personality; Charisma](/3-Mechanics/CLI/tables/describe-appearance-and-personality-charisma-xphb.md)
 
@@ -237,7 +237,7 @@ A creature's alignment broadly describes its ethical attitudes and ideals. Align
 
 The summaries of the alignments below describe the typical behavior of a creature with that alignment; individuals can vary from that behavior.
 
-![Alignments might be visual...](file://D:\ProgramData\CLI\5etools-img/book/XPHB/020-02-009.alignments.webp#center "Alignments might be visualized as a grid like this—along with creatures that embody those alignments")
+![Alignments might be visual...](/3-Mechanics/CLI/books/players-handbook-2024/img/020-02-009-alignments.webp#center "Alignments might be visualized as a grid like this—along with creatures that embody those alignments")
 
 ##### Lawful Good (LG)
 
@@ -375,7 +375,7 @@ As you finish creating your character, consider whether you'd like to make up an
 
 ## Level Advancement
 
-![Adventuring equipment impr...](file://D:\ProgramData\CLI\5etools-img/book/XPHB/021-02-010.adventuring-equipment.webp#center "Adventuring equipment improves as a character progresses through the tiers of play")
+![Adventuring equipment impr...](/3-Mechanics/CLI/books/players-handbook-2024/img/021-02-010-adventuring-equipment.webp#center "Adventuring equipment improves as a character progresses through the tiers of play")
 
 While going on adventures, your character gains experience, represented by [Experience Points](/3-Mechanics/CLI/variant-rules/experience-points-xphb.md) (XP). A character who reaches a specified Experience Point total advances in capability. This advancement is called gaining a level.
 
@@ -512,7 +512,7 @@ For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a leve
 
 If you have the Pact Magic feature from the Warlock class and the Spellcasting feature, you can use the spell slots you gain from Pact Magic to cast spells you have prepared from classes with the Spellcasting feature, and you can use the spell slots you gain from the Spellcasting feature to cast Warlock spells you have prepared.
 
-![A character with Paladin a...](file://D:\ProgramData\CLI\5etools-img/book/XPHB/022-02-011.paladin-warlock-multiclass.webp#center "A character with Paladin and Warlock levels might call on both a mighty oath and an otherworldly patron")
+![A character with Paladin a...](/3-Mechanics/CLI/books/players-handbook-2024/img/022-02-011-paladin-warlock-multiclass.webp#center "A character with Paladin and Warlock levels might call on both a mighty oath and an otherworldly patron")
 
 ## Trinkets
 

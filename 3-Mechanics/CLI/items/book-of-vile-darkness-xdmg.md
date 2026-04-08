@@ -11,7 +11,7 @@ aliases:
 ---
 # Book of Vile Darkness
 *Wondrous item, artifact (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Book of Vile Darkness.webp#right)
+![](/3-Mechanics/CLI/items/img/book-of-vile-darkness.webp#right)
 
 - **Weight**: 5.0 lbs.
 

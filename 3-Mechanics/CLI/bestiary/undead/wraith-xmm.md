@@ -98,7 +98,7 @@ Wraiths might arise from a single powerfully evil soul or other baleful forces. 
     "name": "Create Specter"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Wraith.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/wraith-xmm.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ aliases:
 ---
 # Ring of Protection
 *Ring, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Ring of Protection.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-protection.webp#right)
 
 
 You gain a +1 bonus to [Armor Class](/3-Mechanics/CLI/variant-rules/armor-class-xphb.md) and saving throws while wearing this ring.

@@ -10,7 +10,7 @@ aliases:
 # Chapter 1: The Basics
 *Source: Dungeon Master's Guide (2024), p. 5* 
 
-![You don't need a magical g...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/000-00-001.magic-game-table.webp#center "You don't need a magical game table to play D&D, but wouldn't it be fun?")
+![You don't need a magical g...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/000-00-001-magic-game-table.webp#center "You don't need a magical game table to play D&D, but wouldn't it be fun?")
 
 Dungeons & Dragons is a game in which you and your friends take on roles and tell a shared story. While the "Player's Handbook" teaches you how to play the game and how to create characters who are the heroes of the story, the *Dungeon Master's Guide* is written for the player who presides over the game and makes sure everyone is having fun. This player is the Dungeon Master, or DM. Being a Dungeon Master is a fun, empowering, and rewarding experience, and this chapter walks you through the basics.
 
@@ -144,7 +144,7 @@ Many software tools designed to facilitate online D&D play provide a battle grid
 
 Some players and DMs find it helpful to have information available in the form of cards. You can buy (or make) cards with individual spells, magic items, monster stat blocks, rules reference, and similar information for easy reference.
 
-![What do you do when a die ...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/001-00-002.cocked-die-roll.webp#center "What do you do when a die lands cocked? See the end of this chapter for advice")
+![What do you do when a die ...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/001-00-002-cocked-die-roll.webp#center "What do you do when a die lands cocked? See the end of this chapter for advice")
 
 ## Preparing a Session
 
@@ -163,7 +163,7 @@ A D&D game session usually starts with some out-of-game chatter as everyone sett
 
 A more difficult combat encounter might count as two or three things, and a tense negotiation can use most or all of an hour of play on its own.
 
-![Like Zuggtmoy, the Demon Q...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/002-00-003.zuggtmoy.webp#center "Like Zuggtmoy, the Demon Queen of Fungi, cultivates her fungal gardens, you can carefully cultivate a vibrantly growing campaign!")
+![Like Zuggtmoy, the Demon Q...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/002-00-003-zuggtmoy.webp#center "Like Zuggtmoy, the Demon Queen of Fungi, cultivates her fungal gardens, you can carefully cultivate a vibrantly growing campaign!")
 
 ### Preparation Time
 
@@ -275,7 +275,7 @@ These pages present a short example of play, similar to the ones in the "Player'
 
 The DM starts by asking the players to recap the action of the previous session, most of which consisted of creating characters.
 
-![Sinister shapes lurk near ...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/003-00-004.cave-entrance.webp#center "Sinister shapes lurk near the cave entrance as the adventurers approach")
+![Sinister shapes lurk near ...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/003-00-004-cave-entrance.webp#center "Sinister shapes lurk near the cave entrance as the adventurers approach")
 
 - **Jared (as DM).** Last session, we met our four heroes in the little farming village of High Ery. Who remembers what happened?  
 - **Amy.** We were at a village council meeting about the weird stuff in the river making the fish inedible. We volunteered to investigate.  
@@ -461,7 +461,7 @@ Telling players what to expect prepares them as they imagine what sorts of chara
 
 Being clear about your expectations and making sure you understand your players' expectations in return can help ensure a smooth game. Take your players' opinions and desires seriously, and make sure they take yours just as seriously. Ideally, you'll find a style of play that suits everyone.
 
-![Download PDF](file://D:\ProgramData\CLI\5etools-img/book/XDMG/004-00-005.game-expectations-sheet.webp#center)
+![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/004-00-005-game-expectations-sheet.webp#center)
 
 > [!note] Using the Game Expectations Sheet
 > 
@@ -493,7 +493,7 @@ Common in-game limits apply to topics such as intra-party romance, sex, exploita
 
 That said, D&D is a game that has in-world conflicts and mayhem. Certain core elements of the game are difficult to ignore. For example, taking damage isn't a limit you can work around easily. Similarly, character death is something that happens from time to time, though the game has ways to counteract or avoid it (see ""Death"" in "chapter 3" for suggestions).
 
-![Conflicts between characte...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/005-00-006.character-conflict.webp#center "Conflicts between characters aren't always bad, but they can get in the way of the game")
+![Conflicts between characte...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/005-00-006-character-conflict.webp#center "Conflicts between characters aren't always bad, but they can get in the way of the game")
 
 ##### Communicating Limits
 

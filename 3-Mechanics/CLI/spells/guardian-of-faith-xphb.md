@@ -26,7 +26,7 @@ aliases:
 ---
 # Guardian of Faith
 *4th-level, Conjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Guardian of Faith.webp#right)
+![](/3-Mechanics/CLI/spells/img/guardian-of-faith.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet

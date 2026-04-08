@@ -126,7 +126,7 @@ Cults can organize around any mystical tradition, but many serve supernatural be
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Cultist Hierophant.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/cultist-hierophant-xmm.webp"
 ```
 ^statblock
 

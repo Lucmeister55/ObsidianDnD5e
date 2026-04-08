@@ -16,7 +16,7 @@ aliases:
 
 ```ad-statblock
 title: Apparatus of Kwalish
-![](file://D:\ProgramData\CLI\5etools-img/vehicles/tokens/XDMG/Apparatus of Kwalish.webp#token)
+![](/3-Mechanics/CLI/vehicles/token/apparatus-of-kwalish-xdmg.webp#token)
 *Large vehicle; sea*
 
 - **Creature Capacity** 1 crew, 1 passenger

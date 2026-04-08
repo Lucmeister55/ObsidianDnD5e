@@ -11,7 +11,7 @@ aliases:
 ---
 # Spell Scroll (Cantrip)
 *Scroll, common*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Spell Scroll.webp#right)
+![](/3-Mechanics/CLI/items/img/spell-scroll.webp#right)
 
 - **Cost**: 30 gp
 

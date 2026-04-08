@@ -12,7 +12,7 @@ aliases:
 ---
 # Ring of Free Action
 *Ring, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Ring of Free Action.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-free-action.webp#right)
 
 
 While you wear this ring, [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md) doesn't cost you extra movement. In addition, magic can neither reduce any of your Speeds nor cause you to have the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) or [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) condition.

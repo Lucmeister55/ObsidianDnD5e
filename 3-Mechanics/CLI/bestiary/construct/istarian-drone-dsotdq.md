@@ -68,7 +68,6 @@ Istarian drones are ancient Constructs made of marble and gleaming metal inlaid 
     "name": "Crystalline Spit (Recharge 5-6)"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Istarian\
-  \ Drone.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/istarian-drone-dsotdq.webp"
 ```
 ^statblock

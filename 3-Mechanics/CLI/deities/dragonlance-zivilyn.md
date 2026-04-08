@@ -10,7 +10,7 @@ aliases:
 ---
 # Zivilyn
 *Source: Dragonlance: Shadow of the Dragon Queen p. 17* 
-![Symbol of Zivilyn](file://D:\ProgramData\CLI\5etools-img/deities/DSotDQ/015-00-023.symbol-zivilyn.webp#symbol)
+![Symbol of Zivilyn](/3-Mechanics/CLI/deities/img/dsotdq-015-00-023-symbol-zivilyn.webp#symbol)
 
 - **Alignment**: Neutral
 - **Category**: Neutral

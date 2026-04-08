@@ -99,7 +99,7 @@ Marids hail from the Elemental Plane of Water, where they live in wondrous homes
     "name": "Misty Veil (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Marid.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/marid-xmm.webp"
 ```
 ^statblock
 

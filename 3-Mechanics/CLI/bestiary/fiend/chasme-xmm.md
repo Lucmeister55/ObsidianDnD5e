@@ -84,7 +84,7 @@ Flying forth from the Abyss, chasmes resemble horse-size flies. They incapacitat
     "name": "Drone"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Chasme.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/chasme-xmm.webp"
 ```
 ^statblock
 

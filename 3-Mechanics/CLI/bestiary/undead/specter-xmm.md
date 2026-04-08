@@ -88,7 +88,7 @@ Specters seek creatures and locations that exude evil and feed on the suffering 
     "name": "Life Drain"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Specter.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/specter-xmm.webp"
 ```
 ^statblock
 

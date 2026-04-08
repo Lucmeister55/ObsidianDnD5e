@@ -11,7 +11,7 @@ aliases:
 ---
 # Scale Mail
 *Medium armor*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Scale Mail.webp#right)
+![](/3-Mechanics/CLI/items/img/scale-mail.webp#right)
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.

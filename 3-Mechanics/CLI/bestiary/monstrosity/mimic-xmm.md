@@ -151,7 +151,7 @@ Weapon rack
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Mimic.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/mimic-xmm.webp"
 ```
 ^statblock
 

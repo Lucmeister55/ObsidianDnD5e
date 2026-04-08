@@ -14,7 +14,7 @@ aliases:
 ---
 # Wand of Orcus
 *Weapon ([mace](/3-Mechanics/CLI/items/mace-xphb.md)), wand, artifact (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Wand of Orcus.webp#right)
+![](/3-Mechanics/CLI/items/img/wand-of-orcus.webp#right)
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.

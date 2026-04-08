@@ -10,7 +10,7 @@ aliases:
 ---
 # Quiver of Ehlonna
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Quiver of Ehlonna.webp#right)
+![](/3-Mechanics/CLI/items/img/quiver-of-ehlonna.webp#right)
 
 - **Weight**: 2.0 lbs.
 

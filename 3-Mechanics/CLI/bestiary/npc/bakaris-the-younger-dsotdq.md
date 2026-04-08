@@ -56,7 +56,6 @@ aliases:
     "name": "Parry"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Bakaris\
-  \ the Younger.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/bakaris-the-younger-dsotdq.webp"
 ```
 ^statblock

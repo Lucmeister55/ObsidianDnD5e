@@ -128,7 +128,7 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
     "name": "Smite"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Empyrean.webp"
+"image": "/3-Mechanics/CLI/bestiary/miscellaneous/token/empyrean-xmm.webp"
 ```
 ^statblock
 

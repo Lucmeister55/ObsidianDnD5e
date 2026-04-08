@@ -12,7 +12,7 @@ aliases:
 
 Buried beneath the magically scarred reaches of the Northern Wastes lies an ancient ruin now known as the City of Lost Names. In a bygone age, the city was named Onyari. Built by the Kingpriest of Istar, it soared through the heavens, but it was brought low by enraged dragons who discovered its grim secret: its flight relied on the innate magic of the draconic graveyard it was built on. Now, Onyari's ruins draw the attention of the Red Dragon Army, whose leaders believe they can raise the city into the heavens once more. The black-robed mage [Lohezet](/3-Mechanics/CLI/bestiary/npc/lohezet-dsotdq.md) and the priest [Belephaion](/3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md) lead an expedition to claim the city as a massive weapon of war. The death knight [Lord Soth](/3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md) joins them, following whispers from the Dragon Queen to use the Cataclysmic fire from the depths of Castle Kalaman to raise the dead dragons buried in Onyari's foundations and bring them to her service.
 
-![Soldiers from Kalaman stru...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/069-05-001.chapter-splash.webp#center "Soldiers from Kalaman struggle to survive amid the treacherous canyons of the Northern Wastes")
+![Soldiers from Kalaman stru...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/069-05-001-chapter-splash.webp#center "Soldiers from Kalaman struggle to survive amid the treacherous canyons of the Northern Wastes")
 
 ## Running This Chapter
 
@@ -200,7 +200,7 @@ Hostile Dragon Army patrols scour the Northern Wastes for pre-Cataclysm ruins to
 
 The characters find a stone archway lined with sigils. This gate used to be a teleportation gate—part of a magical transportation system created by Istarian mages. It once stood in Onyari before the city fell. As soon as a character approaches, magical energy swirls within the arch. The magic kicks up nearby debris that animates as a hostile [clay golem](/3-Mechanics/CLI/bestiary/construct/clay-golem-xmm.md).
 
-![Few can survive the flood-...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/070-05-002.canyons-of-northern-wastes.webp#center "Few can survive the flood-prone canyons of the Northern Wastes")
+![Few can survive the flood-...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/070-05-002-canyons-of-northern-wastes.webp#center "Few can survive the flood-prone canyons of the Northern Wastes")
 
 ##### Golem
 
@@ -260,8 +260,8 @@ As they travel the wastes, Darrett and his troops establish temporary camps. The
 As the characters venture into the Northern Wastes, they might want to explore the following areas.
 
 > [!gallery]
-> ![Map 5.1: Kalaman and Northern Wastes](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/071-map-5.01-kalaman-and-northern-wastes.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/072-map-5.01-kalaman-and-northern-wastes-player.webp#gallery)
+> ![Map 5.1: Kalaman and Northern Wastes](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/071-map-5-01-kalaman-and-northern-wastes.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/072-map-5-01-kalaman-and-northern-wastes-player.webp#gallery)
 
 ### A: Wrecker's Edge
 
@@ -300,7 +300,7 @@ If the characters haven't met [Dalamar](/3-Mechanics/CLI/bestiary/npc/dalamar-ds
 
 #### Dalamar
 
-![Dalamar provides a glimpse of lost, ancient ruins](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/073-05-003.dalamar.webp#center)
+![Dalamar provides a glimpse of lost, ancient ruins](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/073-05-003-dalamar.webp#center)
 
 An ambitious elf magic-user, [Dalamar](/3-Mechanics/CLI/bestiary/npc/dalamar-dsotdq.md) (neutral elf [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) has an insatiable thirst for knowledge. This often puts him at odds with other Silvanesti mages, whose conservative methods wear on his patience.
 
@@ -418,7 +418,7 @@ After their recent ordeal, the sea elves are on alert for large groups of people
 
 #### Ishvern Stargazer
 
-![Ishvern](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/074-05-004.ishvern.webp#center)
+![Ishvern](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/074-05-004-ishvern.webp#center)
 
 [Ishvern](/3-Mechanics/CLI/bestiary/npc/ishvern-dsotdq.md) (neutral good, [sea elf scout](/3-Mechanics/CLI/bestiary/humanoid/sea-elf-scout-dsotdq.md)), the de facto leader of the Dimernesti group in their priest's absence, is pious, curious, and insightful. Having survived in the deadliest depths of the Turbidus Ocean for over a century, he knows better than to venture into mysterious places unprepared. He isn't eager to risk his companions' lives without the priest Yearkal's guidance. However, [Ishvern](/3-Mechanics/CLI/bestiary/npc/ishvern-dsotdq.md) fears Yearkal might be lost forever. If others might aid him in fulfilling her spiritual mission, he's eager for their help.
 
@@ -462,8 +462,8 @@ The shrine has the following features:
 The following locations are keyed to map 5.2.
 
 > [!gallery]
-> ![Map 5.2: Blue Phoenix Shrine](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/075-map-5.02-blue-phoenix-shrine.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/076-map-5.02-blue-phoenix-shrine-player.webp#gallery)
+> ![Map 5.2: Blue Phoenix Shrine](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/075-map-5-02-blue-phoenix-shrine.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/076-map-5-02-blue-phoenix-shrine-player.webp#gallery)
 
 #### C1: Shrine Entrance
 
@@ -616,8 +616,8 @@ The ruin has the following features:
 The following locations are keyed to map 5.3.
 
 > [!gallery]
-> ![Map 5.3: Sunward Fortress](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/077-map-5.03-sunward-fortress.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/078-map-5.03-sunward-fortress-player.webp#gallery)
+> ![Map 5.3: Sunward Fortress](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/077-map-5-03-sunward-fortress.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/078-map-5-03-sunward-fortress-player.webp#gallery)
 
 #### D1: Entry Chamber
 
@@ -707,7 +707,7 @@ If the characters don't heal Rone, a [slaad tadpole](/3-Mechanics/CLI/bestiary/a
 
 The creature is a [red slaad](/3-Mechanics/CLI/bestiary/aberration/red-slaad-xmm.md) covered in five [slaad tadpoles](/3-Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm.md). These monsters attack as soon as they spot the characters. A character who succeeds on a DC 16 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check recognizes the monsters as slaadi, denizens of the plane of Limbo.
 
-![A red slaad covered in slaad tadpoles](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/079-05-005.red-slaad-covered-tadpoles.webp#center)
+![A red slaad covered in slaad tadpoles](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/079-05-005-red-slaad-covered-tadpoles.webp#center)
 
 Hidden in the shadows south of the chasm is the mutated draconian [Virruza](/3-Mechanics/CLI/bestiary/npc/virruza-dsotdq.md) (see below). He doesn't attack until someone tries to cross the chasm.
 
@@ -774,8 +774,8 @@ Exposure to Shadowfell magic has caused the upper levels of Wakenreth to deterio
 The ancient door here opens into area E1.
 
 > [!gallery]
-> ![Map 5.4: Wakenreth](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/080-map-5.04-wakenreth.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/081-map-5.04-wakenreth-player.webp#gallery)
+> ![Map 5.4: Wakenreth](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/080-map-5-04-wakenreth.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/081-map-5-04-wakenreth-player.webp#gallery)
 
 #### Wakenreth Features
 
@@ -959,7 +959,7 @@ The leader of a dwarf family and an enthusiast of gnomish engineering, Grasha we
 - **Bond.** "I'll protect my family—their today and their tomorrow."  
 - **Flaw.** "Dangerous? My plans aren't dangerous—you just need to know where to stand."  
 
-![Grasha](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/082-05-006.grasha.webp#center)
+![Grasha](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/082-05-006-grasha.webp#center)
 
 #### An Honest Mistake
 
@@ -999,8 +999,8 @@ The cave is carved from igneous rock. Its entrance sports a cavernous 40-foot-hi
 The following locations are keyed to map 5.5.
 
 > [!gallery]
-> ![Map 5.5: Bluemaw Cave](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/083-map-5.05-bluemaw-cave.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/084-map-5.05-bluemaw-cave-player.webp#gallery)
+> ![Map 5.5: Bluemaw Cave](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/083-map-5-05-bluemaw-cave.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/084-map-5-05-bluemaw-cave-player.webp#gallery)
 
 #### F1: Crystal Cave
 
@@ -1076,7 +1076,7 @@ As characters near Heart's Hollow (or whenever you wish to introduce [Clystran](
 
 After the spiders are defeated, [Clystran](/3-Mechanics/CLI/bestiary/npc/clystran-dsotdq.md) proves friendly—and tremendously excited to meet strangers in the Northern Wastes.
 
-![Clystran](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/085-05-007.clystran.webp#center)
+![Clystran](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/085-05-007-clystran.webp#center)
 
 #### Clystran
 
@@ -1113,8 +1113,8 @@ So long as the characters aren't hostile to [Clystran](/3-Mechanics/CLI/bestiary
 Most structures in Heart's Hollow are carved out of the wall of a deep crater. Patchwork fabrics scavenged from the wastes decorate each home, and lanterns hang in every window. Detail the unique community of Heart's Hollow however you please, including the following locations and landmarks (appearing on map 5.6):
 
 > [!gallery]
-> ![Map 5.6: Hearts Hollow](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/086-map-5.06-hearts-hollow.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/087-map-5.06-hearts-hollow-player.webp#gallery)
+> ![Map 5.6: Hearts Hollow](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/086-map-5-06-hearts-hollow.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/087-map-5-06-hearts-hollow-player.webp#gallery)
 
 - **Breakwater Landing.** Breakwater Landing serves as the town square and bartering place. A slate column marked with chalk serves as a community message board.  
 - **End's Odds.** Run by Grandit "End" Pike (neutral good, hill dwarf [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), End's Odds sells "slightly used" goods and equipment found in the wastes.  
@@ -1199,8 +1199,8 @@ It's difficult to infiltrate Camp Carrionclay. Here are some ways the characters
 The following locations are keyed to map 5.7.
 
 > [!gallery]
-> ![Map 5.7: Camp Carrionclay](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/088-map-5.07-camp-carrionclay.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/089-map-5.07-camp-carrionclay-player.webp#gallery)
+> ![Map 5.7: Camp Carrionclay](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/088-map-5-07-camp-carrionclay.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/089-map-5-07-camp-carrionclay-player.webp#gallery)
 
 #### I1: Wooden Bridge and Lake
 
@@ -1399,8 +1399,8 @@ The battlefield, depicted on map 5.8, has the following features:
 - **Fray.** The 15-foot-wide area marked by the design at the edge of the map represents areas from which danger might appear.  
 
 > [!gallery]
-> ![Map 5.8: Attack On Winds End](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/090-map-5.08-attack-on-winds-end.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/091-map-5.08-attack-on-winds-end-player.webp#gallery)
+> ![Map 5.8: Attack On Winds End](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/090-map-5-08-attack-on-winds-end.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/091-map-5-08-attack-on-winds-end-player.webp#gallery)
 
 #### Wind's End Battlefield Events
 
@@ -1428,4 +1428,4 @@ The characters entering the passage in Wind's End concludes this chapter and mak
 
 The characters will discover what dangers lie beyond this passage in chapter 6.
 
-![The Dragon Army blocks the...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/092-05-008.dragon-army-blockade.webp#center "The Dragon Army blocks the path leading to the City of Lost Names")
+![The Dragon Army blocks the...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/092-05-008-dragon-army-blockade.webp#center "The Dragon Army blocks the path leading to the City of Lost Names")

@@ -95,7 +95,7 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
     "name": "Vow of Revenge (1/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Revenant.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/revenant-xmm.webp"
 ```
 ^statblock
 

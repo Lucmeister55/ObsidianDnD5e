@@ -75,8 +75,7 @@ Crawling claws are severed hands that move and act of their own murderous accord
     "name": "Swarm of Grasping Hands"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Swarm of Crawling\
-  \ Claws.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/swarm-of-crawling-claws-xmm.webp"
 ```
 ^statblock
 

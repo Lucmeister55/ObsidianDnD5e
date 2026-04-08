@@ -111,7 +111,7 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
     "name": "Parry"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Hobgoblin Warlord.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/hobgoblin-warlord-xmm.webp"
 ```
 ^statblock
 

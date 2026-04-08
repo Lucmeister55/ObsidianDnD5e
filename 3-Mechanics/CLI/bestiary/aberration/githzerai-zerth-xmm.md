@@ -113,7 +113,7 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
     "name": "Psionic Defense (2/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Githzerai Zerth.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/githzerai-zerth-xmm.webp"
 ```
 ^statblock
 

@@ -90,7 +90,7 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
     "name": "Injecting Claw"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Red Slaad.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/red-slaad-xmm.webp"
 ```
 ^statblock
 

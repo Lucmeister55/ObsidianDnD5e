@@ -87,7 +87,7 @@ Cloakers delight in frightening foes. In addition to their methods of ambush, cl
     "name": "Phantasms (Recharge after a Short or Long Rest)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Cloaker.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/cloaker-xmm.webp"
 ```
 ^statblock
 

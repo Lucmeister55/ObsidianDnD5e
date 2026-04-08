@@ -98,7 +98,7 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
     "name": "Shadow Stealth"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Shadow.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/shadow-xmm.webp"
 ```
 ^statblock
 

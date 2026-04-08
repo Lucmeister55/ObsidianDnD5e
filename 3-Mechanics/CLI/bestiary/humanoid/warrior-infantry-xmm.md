@@ -87,7 +87,7 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
     "name": "Spear"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Warrior Infantry.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/warrior-infantry-xmm.webp"
 ```
 ^statblock
 

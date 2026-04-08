@@ -10,7 +10,7 @@ aliases:
 ---
 # Sailor
 *Source: Player's Handbook (2024) p. 184*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/XPHB/Sailor.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/sailor.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Wisdom  
 - **Feat.** [Tavern Brawler](/3-Mechanics/CLI/feats/tavern-brawler-xphb.md)  

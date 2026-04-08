@@ -86,7 +86,7 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
     "name": "Slam"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Animated Broom.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-broom-xmm.webp"
 ```
 ^statblock
 

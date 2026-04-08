@@ -59,7 +59,6 @@ Dragonnels are distantly related to chromatic and metallic dragons and resemble 
     "name": "Rend"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Dragon Army\
-  \ Dragonnel.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/dragon-army-dragonnel-dsotdq.webp"
 ```
 ^statblock

@@ -70,7 +70,7 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
     "name": "Fetid Cloud (1/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Dretch.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/dretch-xmm.webp"
 ```
 ^statblock
 

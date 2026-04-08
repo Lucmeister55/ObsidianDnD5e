@@ -92,7 +92,7 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
     "name": "Gear Flinger"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Modron Monodrone.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/modron-monodrone-xmm.webp"
 ```
 ^statblock
 

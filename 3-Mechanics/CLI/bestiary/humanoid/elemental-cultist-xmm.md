@@ -131,7 +131,7 @@ Cults can organize around any mystical tradition, but many serve supernatural be
     "name": "Elemental Absorption (1/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Elemental Cultist.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/elemental-cultist-xmm.webp"
 ```
 ^statblock
 

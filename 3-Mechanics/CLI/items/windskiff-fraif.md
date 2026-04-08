@@ -10,7 +10,7 @@ aliases:
 ---
 # Windskiff
 *Wondrous item, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/FRAiF/Windskiff.webp#right)
+![](/3-Mechanics/CLI/items/img/windskiff.webp#right)
 
 - **Cost**: 4,000 gp
 

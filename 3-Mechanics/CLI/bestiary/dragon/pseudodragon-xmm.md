@@ -105,7 +105,7 @@ Many pseudodragons prefer the finer things in life. These diminutive dragons mig
 "source":
   - "XMM"
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Pseudodragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/pseudodragon-xmm.webp"
 ```
 ^statblock
 

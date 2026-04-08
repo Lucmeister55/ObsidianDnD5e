@@ -12,7 +12,7 @@ aliases:
 ---
 # Rod of Resurrection
 *Rod, legendary (requires attunement by a cleric, druid, or paladin)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Rod of Resurrection.webp#right)
+![](/3-Mechanics/CLI/items/img/rod-of-resurrection.webp#right)
 
 - **Weight**: 2.0 lbs.
 

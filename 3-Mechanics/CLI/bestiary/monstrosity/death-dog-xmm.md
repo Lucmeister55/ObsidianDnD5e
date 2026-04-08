@@ -90,7 +90,7 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
     "name": "Bite"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Death Dog.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/death-dog-xmm.webp"
 ```
 ^statblock
 

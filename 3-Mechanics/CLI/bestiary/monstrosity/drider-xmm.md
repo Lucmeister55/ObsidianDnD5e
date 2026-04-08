@@ -94,7 +94,7 @@ Driders also appear when whole communities are transformed by a wicked god's wra
     "name": "Magic of the Spider Queen (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Drider.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/drider-xmm.webp"
 ```
 ^statblock
 

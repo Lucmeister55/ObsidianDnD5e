@@ -129,8 +129,7 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
     "name": "Pounce"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Ancient Silver\
-  \ Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/ancient-silver-dragon-xmm.webp"
 ```
 ^statblock
 

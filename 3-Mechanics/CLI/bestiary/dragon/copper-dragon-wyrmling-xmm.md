@@ -78,8 +78,7 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
     "name": "Slowing Breath"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Copper Dragon\
-  \ Wyrmling.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/copper-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

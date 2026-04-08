@@ -12,7 +12,7 @@ aliases:
 ---
 # Longbow
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Longbow.webp#right)
+![](/3-Mechanics/CLI/items/img/longbow.webp#right)
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600

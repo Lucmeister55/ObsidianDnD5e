@@ -11,7 +11,7 @@ aliases:
 ---
 # Boots of Speed
 *Wondrous item, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Boots of Speed.webp#right)
+![](/3-Mechanics/CLI/items/img/boots-of-speed.webp#right)
 
 
 While you wear these boots, you can take a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) to click the boots' heels together. If you do, the boots double your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md), and any creature that makes an [Opportunity Attack](/3-Mechanics/CLI/actions.md#Opportunity%20Attack) against you has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on the attack roll. If you click your heels together again, you end the effect.

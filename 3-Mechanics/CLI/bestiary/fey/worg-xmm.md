@@ -62,7 +62,7 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
     "name": "Bite"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Worg.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/worg-xmm.webp"
 ```
 ^statblock
 

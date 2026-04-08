@@ -133,7 +133,7 @@ Cults can organize around any mystical tradition, but many serve supernatural be
     "name": "Counterspell (2/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Aberrant Cultist.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/aberrant-cultist-xmm.webp"
 ```
 ^statblock
 

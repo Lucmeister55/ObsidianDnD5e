@@ -13,7 +13,7 @@ aliases:
 ---
 # Talona
 *Source: Forgotten Realms: Heroes of Faerûn p. 123* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Talona.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-talona.webp#symbol)
 
 - **Alternate Names**: Lady of Poison, Mistress of Disease, The Plague Crone
 - **Alignment**: Unaligned

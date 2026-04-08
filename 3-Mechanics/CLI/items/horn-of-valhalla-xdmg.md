@@ -10,7 +10,7 @@ aliases:
 ---
 # Horn of Valhalla
 *Wondrous item*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Horn of Valhalla.webp#right)
+![](/3-Mechanics/CLI/items/img/horn-of-valhalla.webp#right)
 
 
 You can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to blow this horn. In response, warrior spirits from the plane of Ysgard appear in unoccupied spaces within 60 feet of you. Each spirit uses the [Berserker](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) stat block and returns to Ysgard after 1 hour or when it drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). The spirits look like living, breathing warriors, and they have [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md) to the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) and [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) conditions. Once you use the horn, it can't be used again until 7 days have passed.

@@ -20,7 +20,7 @@ aliases:
 ---
 # Bigby's Hand
 *5th-level, Evocation*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Bigby's Hand.webp#right)
+![](/3-Mechanics/CLI/spells/img/bigbys-hand.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet

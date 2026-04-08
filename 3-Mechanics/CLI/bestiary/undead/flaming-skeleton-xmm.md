@@ -90,7 +90,7 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
     "name": "Hurl Flame"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Flaming Skeleton.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/flaming-skeleton-xmm.webp"
 ```
 ^statblock
 

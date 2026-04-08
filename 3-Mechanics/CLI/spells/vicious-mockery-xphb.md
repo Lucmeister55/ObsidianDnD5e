@@ -16,7 +16,7 @@ aliases:
 ---
 # Vicious Mockery
 *cantrip, Enchantment*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Vicious Mockery.webp#right)
+![](/3-Mechanics/CLI/spells/img/vicious-mockery.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

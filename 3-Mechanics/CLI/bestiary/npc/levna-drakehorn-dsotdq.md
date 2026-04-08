@@ -67,6 +67,6 @@ Though a recent inductee into the Order of the Rose, [Levna](/3-Mechanics/CLI/be
     "name": "Protection"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Levna Drakehorn.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/levna-drakehorn-dsotdq.webp"
 ```
 ^statblock

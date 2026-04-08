@@ -89,7 +89,7 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
     "name": "Life-Draining Root"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Gulthias Blight.webp"
+"image": "/3-Mechanics/CLI/bestiary/plant/token/gulthias-blight-xmm.webp"
 ```
 ^statblock
 

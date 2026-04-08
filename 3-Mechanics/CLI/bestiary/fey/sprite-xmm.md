@@ -79,7 +79,7 @@ Sprites oppose any creatures that seek to harm places of natural magic and beaut
 "source":
   - "XMM"
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Sprite.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/sprite-xmm.webp"
 ```
 ^statblock
 

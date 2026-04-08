@@ -10,7 +10,7 @@ aliases:
 ---
 # Tome of Understanding
 *Wondrous item, very rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Tome of Understanding.webp#right)
+![](/3-Mechanics/CLI/items/img/tome-of-understanding.webp#right)
 
 - **Weight**: 5.0 lbs.
 

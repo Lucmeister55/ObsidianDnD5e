@@ -13,7 +13,7 @@ aliases:
 ---
 # Asmodeus
 *Source: Forgotten Realms: Heroes of Faerûn p. 100* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Asmodeus.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-asmodeus.webp#symbol)
 
 - **Alternate Names**: The Cloven, The Lord of the Ninth, Old Hoof and Horn
 - **Alignment**: Unaligned

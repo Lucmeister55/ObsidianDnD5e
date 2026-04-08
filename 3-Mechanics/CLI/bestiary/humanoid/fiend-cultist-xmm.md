@@ -127,7 +127,7 @@ Cults can organize around any mystical tradition, but many serve supernatural be
     "name": "Hellish Rebuke"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Fiend Cultist.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/fiend-cultist-xmm.webp"
 ```
 ^statblock
 

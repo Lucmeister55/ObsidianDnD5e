@@ -10,7 +10,7 @@ aliases:
 ---
 # Goliath
 *Source: Player's Handbook (2024) p. 192. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
-![](file://D:\ProgramData\CLI\5etools-img/races/XPHB/Goliath.webp#right)
+![](/3-Mechanics/CLI/races/img/goliath.webp#right)
 
 - **Ability Scores**: None
 - **Type**: humanoid

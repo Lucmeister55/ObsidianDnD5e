@@ -91,7 +91,7 @@ Each couatl goes through a period of renewal at the end of an age. In a couatl's
     "name": "Divine Aid (2/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Couatl.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/couatl-xmm.webp"
 ```
 ^statblock
 

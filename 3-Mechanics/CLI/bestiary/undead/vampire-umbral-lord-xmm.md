@@ -161,8 +161,7 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
     "name": "Beguile"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Vampire Umbral\
-  \ Lord.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/vampire-umbral-lord-xmm.webp"
 ```
 ^statblock
 

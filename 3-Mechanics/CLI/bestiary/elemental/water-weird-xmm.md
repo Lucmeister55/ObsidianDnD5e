@@ -76,7 +76,7 @@ Water weirds might protect a site for generations and learn much about their sur
     "name": "Surge"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Water Weird.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/water-weird-xmm.webp"
 ```
 ^statblock
 

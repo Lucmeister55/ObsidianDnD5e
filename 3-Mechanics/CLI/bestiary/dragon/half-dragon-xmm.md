@@ -84,7 +84,7 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
     "name": "Leap"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Half-Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/half-dragon-xmm.webp"
 ```
 ^statblock
 

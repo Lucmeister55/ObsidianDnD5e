@@ -110,7 +110,7 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Night Hag.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/night-hag-xmm.webp"
 ```
 ^statblock
 

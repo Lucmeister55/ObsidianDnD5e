@@ -101,7 +101,7 @@ Various supernatural conditions might bring black puddings into being. Roll on o
     "name": "Split"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Black Pudding.webp"
+"image": "/3-Mechanics/CLI/bestiary/ooze/token/black-pudding-xmm.webp"
 ```
 ^statblock
 

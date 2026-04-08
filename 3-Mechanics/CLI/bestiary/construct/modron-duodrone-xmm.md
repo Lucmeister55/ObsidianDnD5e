@@ -94,7 +94,7 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
     "name": "Clockwork Blade"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Modron Duodrone.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/modron-duodrone-xmm.webp"
 ```
 ^statblock
 

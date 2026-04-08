@@ -10,7 +10,7 @@ aliases:
 ---
 # Tiefling
 *Source: Player's Handbook (2024) p. 197. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
-![](file://D:\ProgramData\CLI\5etools-img/races/XPHB/Tiefling.webp#right)
+![](/3-Mechanics/CLI/races/img/tiefling.webp#right)
 
 - **Ability Scores**: None
 - **Type**: humanoid
@@ -63,5 +63,5 @@ The infernal legacy connects tieflings not only to Gehenna but also the Nine Hel
 
 
 > [!gallery]
-![Infernal Tiefling, Chthoni...](file://D:\ProgramData\CLI\5etools-img/races/XPHB/156-05-029.infernal-chthonic-abyssal.webp "Infernal Tiefling, Chthonic Tiefling, Abyssal Tiefling")
-![](file://D:\ProgramData\CLI\5etools-img/races/XPHB/157-05-028.armored-tiefling.webp)
+![Infernal Tiefling, Chthoni...](/3-Mechanics/CLI/races/img/156-05-029-infernal-chthonic-abyssal.webp "Infernal Tiefling, Chthonic Tiefling, Abyssal Tiefling")
+![](/3-Mechanics/CLI/races/img/157-05-028-armored-tiefling.webp)

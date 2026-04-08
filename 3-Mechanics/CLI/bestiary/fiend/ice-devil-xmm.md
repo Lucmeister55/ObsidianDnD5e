@@ -102,7 +102,7 @@ Ice devils usually lurk in frozen realms, particularly the frigid layer of Cania
     "name": "Ice Wall (Recharge 6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Ice Devil.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/ice-devil-xmm.webp"
 ```
 ^statblock
 

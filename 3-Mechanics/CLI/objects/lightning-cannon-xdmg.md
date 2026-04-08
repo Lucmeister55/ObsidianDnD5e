@@ -17,7 +17,7 @@ A Lightning Cannon is a small, bronze cannon inlaid with arcane runes and mounte
 
 ```ad-statblock
 title: Lightning Cannon
-![](file://D:\ProgramData\CLI\5etools-img/objects/tokens/XDMG/Lightning Cannon.webp#token)
+![](/3-Mechanics/CLI/objects/token/lightning-cannon-xdmg.webp#token)
 *Medium Siege weapon*
 
 - **Armor Class** 19

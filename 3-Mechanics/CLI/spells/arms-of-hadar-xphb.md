@@ -20,7 +20,7 @@ aliases:
 ---
 # Arms of Hadar
 *1st-level, Conjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Arms of Hadar.webp#right)
+![](/3-Mechanics/CLI/spells/img/arms-of-hadar.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** Self (10-foot Emanation)

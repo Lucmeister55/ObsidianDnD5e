@@ -99,7 +99,7 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
     "name": "Healing Word (1/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Empyrean Iota.webp"
+"image": "/3-Mechanics/CLI/bestiary/miscellaneous/token/empyrean-iota-xmm.webp"
 ```
 ^statblock
 

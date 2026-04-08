@@ -12,7 +12,7 @@ aliases:
 ---
 # Heavy Crossbow
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Heavy Crossbow.webp#right)
+![](/3-Mechanics/CLI/items/img/heavy-crossbow.webp#right)
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400

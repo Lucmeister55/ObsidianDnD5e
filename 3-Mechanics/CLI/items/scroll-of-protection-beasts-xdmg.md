@@ -11,7 +11,7 @@ aliases:
 ---
 # Scroll of Protection (Beasts)
 *Scroll, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Scroll of Protection.webp#right)
+![](/3-Mechanics/CLI/items/img/scroll-of-protection.webp#right)
 
 
 Using a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to read the scroll creates a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you. For 5 minutes, {{item.detail2}} can't enter or affect anything in the area. However, if you move in such a way that an Beast would be inside the area, the effect ends.

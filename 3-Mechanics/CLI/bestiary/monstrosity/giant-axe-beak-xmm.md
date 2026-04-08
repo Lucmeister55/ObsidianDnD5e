@@ -72,7 +72,7 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
     "name": "Talons"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Giant Axe Beak.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/giant-axe-beak-xmm.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ aliases:
 ---
 # Shield of the Cavalier
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), very rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Shield of the Cavalier.webp#right)
+![](/3-Mechanics/CLI/items/img/shield-of-the-cavalier.webp#right)
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

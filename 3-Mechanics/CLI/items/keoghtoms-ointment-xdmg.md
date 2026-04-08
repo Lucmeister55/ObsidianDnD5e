@@ -10,7 +10,7 @@ aliases:
 ---
 # Keoghtom's Ointment
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Keoghtoms Ointment.webp#right)
+![](/3-Mechanics/CLI/items/img/keoghtoms-ointment.webp#right)
 
 
 This glass jar, 3 inches in diameter, contains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 1/2 pound.

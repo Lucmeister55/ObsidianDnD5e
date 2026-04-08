@@ -31,7 +31,7 @@ aliases:
 ---
 # Chromatic Orb
 *1st-level, Evocation*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Chromatic Orb.webp#right)
+![](/3-Mechanics/CLI/spells/img/chromatic-orb.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

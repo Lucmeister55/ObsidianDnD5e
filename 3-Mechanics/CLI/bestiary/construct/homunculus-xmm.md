@@ -85,7 +85,7 @@ A homunculus's appearance reflects its creator's tastes. Roll on or choose a res
     "name": "Bite"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Homunculus.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/homunculus-xmm.webp"
 ```
 ^statblock
 

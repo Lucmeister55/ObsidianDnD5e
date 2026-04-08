@@ -14,7 +14,7 @@ At the edge of the Solamnic province of Hinterlund lies the quiet fishing villag
 
 Before running this chapter, make sure each character has a reason for attending the funeral of Ispin Greenshield and experienced a fateful event during their journey to Vogler, as detailed in chapter 2.
 
-![Draconians spy on the unsu...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/036-03-001.chapter-splash.webp#center "Draconians spy on the unsuspecting villagers of Vogler")
+![Draconians spy on the unsu...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/036-03-001-chapter-splash.webp#center "Draconians spy on the unsuspecting villagers of Vogler")
 
 ## Running This Chapter
 
@@ -60,8 +60,8 @@ The characters' visit to Vogler overlaps with the kickoff of the Kingfisher Fest
 While in Vogler, the characters might visit any of the locations in this section. These sites are marked on map 3.1.
 
 > [!gallery]
-> ![Map 3.1: Vogler](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/037-map-3.01-vogler.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/038-map-3.01-vogler-player.webp#gallery)
+> ![Map 3.1: Vogler](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/037-map-3-01-vogler.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/038-map-3-01-vogler-player.webp#gallery)
 
 #### The Brass Crab
 
@@ -134,7 +134,7 @@ Once the characters have reconnected with one another and explored Vogler to the
 
 Becklin is hard to miss, as she's dressed in the full-plate armor and horned helmet of the Knights of Solamnia. Though she's never met the characters before, she recognizes one or more of them from Ispin's descriptions. Becklin introduces herself, offers her condolences, and invites the characters to come with her to the Brass Crab if they aren't already there. She explains that the service is meant to be a celebration of Ispin's life, and people will be encouraged to share over-the-top stories about him—like the inflated tales he was known for sharing.
 
-![Becklin Uth Viharin](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/039-03-002.berklin-uth-viharin.webp#center)
+![Becklin Uth Viharin](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/039-03-002-berklin-uth-viharin.webp#center)
 
 #### Becklin Uth Viharin
 
@@ -160,7 +160,7 @@ The region's commonfolk generally don't hold the Knights of Solamnia in high reg
 
 ### Sending Off a Friend
 
-![Cudgel Ironsmile and Beckl...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/040-03-003.cudgel-and-becklin.webp#center "Cudgel Ironsmile and Becklin Uth Viharin send off their friend Ispin Greenshield")
+![Cudgel Ironsmile and Beckl...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/040-03-003-cudgel-and-becklin.webp#center "Cudgel Ironsmile and Becklin Uth Viharin send off their friend Ispin Greenshield")
 
 The funeral takes place at dusk on the stage and dock extending from the rear of the Brass Crab. Becklin encourages the characters to linger near the dock, while many mourning locals in small fishing craft assemble in the nearby water. When you're ready for the funeral to begin, Becklin takes the stage next to a simple boat, within which rests the body of Ispin Greenshield. Read or paraphrase the following:
 
@@ -201,7 +201,7 @@ Characters are invited to participate in this comic tale telling. They're welcom
 
 During the storytelling, after one or two characters or others have told tales, a finely dressed local named [Bakaris the Younger](/3-Mechanics/CLI/bestiary/npc/bakaris-the-younger-dsotdq.md) lets out an exaggerated yawn. If left to continue, he eventually blurts out, "We've heard this a thousand times!" or "You're telling it worse than he did!" Bakaris cares nothing for Ispin's death or the locals' mourning—he's only here for the free ale, which he claims is the worst he's ever tasted. The other mourners grumble, but nobody directly confronts the heckler.
 
-![Bakaris the Younger](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/041-03-004.bakaris-the-younger.webp#center)
+![Bakaris the Younger](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/041-03-004-bakaris-the-younger.webp#center)
 
 #### Establishing Bakaris
 
@@ -299,7 +299,7 @@ Becklin sent Darrett to fetch baked hand pies from the Fishbowl for the two of t
 
 If the characters join him on the short walk, Darrett tells them he grew up in Vogler. He peppers the characters with questions about themselves, their travels, their weapons, and anything else about the world beyond Vogler. He knows all about the Kingfisher Festival and shares the following details:
 
-![Darrett Highwater](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/042-03-005.darrett-highwater.webp#center)
+![Darrett Highwater](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/042-03-005-darrett-highwater.webp#center)
 
 - The annual festival celebrates the victory of a Knight of Solamnia, Lord Decater Vogler, over the forces of the Empire of Istar. This battle occurred hundreds of years ago, long before the Cataclysm, and sparked the village's founding.  
 - Today's festivities include music, food, and games associated with the town's founding.  
@@ -378,7 +378,7 @@ Vogler's village circle is the heart of the Kingfisher Festival's events. Here, 
 
 ### Festivities
 
-![The people of Vogler celeb...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/043-03-006.kingfisher-festival.webp#center "The people of Vogler celebrate during the Kingfisher Festival")
+![The people of Vogler celeb...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/043-03-006-kingfisher-festival.webp#center "The people of Vogler celebrate during the Kingfisher Festival")
 
 Traditional Kingfisher Festival events commemorate Vogler's founding and history. Characters might participate in an annual competition, the season's inaugural fish catch, where fishers try to catch the biggest fish during a set period. Darrett and other friendly locals encourage the characters to participate.
 
@@ -418,7 +418,7 @@ Repeat these rolls for every 10 minutes a character participates in the fish cat
 | 20 | 18 | Benebog the Line Breaker (8 ft. long) |
 ^fish-to-catch
 
-![Raven Uth Vogler](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/044-03-007.raven-uth-vogler.webp#center)
+![Raven Uth Vogler](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/044-03-007-raven-uth-vogler.webp#center)
 
 ##### Benebog the Line Breaker
 
@@ -519,8 +519,8 @@ After these mercenaries are defeated, proceed with the "Gragonis Arrives" encoun
 #### High Hill Battlefield Features
 
 > [!gallery]
-> ![Map 3.2: Battle of High Hill](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/045-map-3.02-battle-of-high-hill.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/046-map-3.02-battle-of-high-hill-player.webp#gallery)
+> ![Map 3.2: Battle of High Hill](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/045-map-3-02-battle-of-high-hill.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/046-map-3-02-battle-of-high-hill-player.webp#gallery)
 
 The battlefield, shown on map 3.2, has the following features:
 
@@ -667,7 +667,7 @@ At the outset, Raven is inclined to draft a letter to the commander of the camp 
 - On her return, Cudgel found Jeyev and other loyal mercenaries had heard of the events at High Hill. They had restrained several soldiers loyal to Gragonis but who didn't have orders to participate in the reenactment.  
 - During the night, Jeyev's scouts came across a large military force to the northwest of the village, much too large and organized to be a mere mercenary band. This is the same army the characters likely spotted, and Jeyev's scouts can confirm everything from the "Sighting the Enemy" section.  
 
-![Jeyev Veldrews](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/047-03-008.jeyev-veldrews.webp#center)
+![Jeyev Veldrews](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/047-03-008-jeyev-veldrews.webp#center)
 
 ### Vogler's Response
 
@@ -725,7 +725,7 @@ The area atop the cliffs is wooded, but an open field lies below and behind the 
 
 #### The Gnomeflinger
 
-![Gnomeflinger](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/048-03-009.gnomeflinger.webp#center)
+![Gnomeflinger](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/048-03-009-gnomeflinger.webp#center)
 
 Thornwall Keep sits directly across from the Dragon Army soldiers' clifftop vantage. Atop Thornwall Keep sits the creation of the tinker gnome Than: a people-launching device called a gnomeflinger (described in appendix A). If using the gnomeflinger comes up, Becklin or Darrett suggests consulting with Than first.
 
@@ -961,8 +961,8 @@ The battlefield includes the following features:
 - **Fray.** The 15-foot-wide area marked by the design at the edge of the map represents draconians facing off against Vogler's remaining defenders. This area and the village beyond the map are "difficult terrain". A creature that enters the Fray for the first time on a turn or starts its turn there must succeed on a DC 16 Dexterity saving throw or take `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) slashing damage from opportunistic foes. The Fray can't be damaged and remains until the battle ends.  
 
 > [!gallery]
-> ![Map 3.3: Escape From Vogler](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/049-map-3.03-escape-from-vogler.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/050-map-3.03-escape-from-vogler-player.webp#gallery)
+> ![Map 3.3: Escape From Vogler](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/049-map-3-03-escape-from-vogler.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/050-map-3-03-escape-from-vogler-player.webp#gallery)
 
 #### Vogler Battlefield Events
 
@@ -995,7 +995,7 @@ After the boilerdrak's baaz draconians are defeated, the commander of the dracon
 
 After Gholcag and the draconians are defeated, the battlefield encounter ends.
 
-![Fewmaster Gholcag](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/051-03-010.fewmaster-gholcag.webp#center)
+![Fewmaster Gholcag](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/051-03-010-fewmaster-gholcag.webp#center)
 
 ### The Final Boat
 
@@ -1018,7 +1018,7 @@ A character who looks at the helmet he carries recognizes it's the helmet of a K
 
 #### Last Glimpse of Vogler
 
-![Evacuees flee the Dragon Army's invasion of Vogler](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/052-03-011.evacuees-flee.webp#center)
+![Evacuees flee the Dragon Army's invasion of Vogler](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/052-03-011-evacuees-flee.webp#center)
 
 The characters escape Vogler on the last boat, a small fishing vessel barely large enough for the characters, Darrett, Mayor Raven, Jeyev, and a few other locals. Read or paraphrase the following as the characters leave Vogler behind:
 

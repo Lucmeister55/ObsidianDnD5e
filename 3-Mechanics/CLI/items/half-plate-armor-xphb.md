@@ -11,7 +11,7 @@ aliases:
 ---
 # Half Plate Armor
 *Medium armor*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Half Plate Armor.webp#right)
+![](/3-Mechanics/CLI/items/img/half-plate-armor.webp#right)
 
 - **Armor Class**: 15 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.

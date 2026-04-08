@@ -87,7 +87,7 @@ Horned devils, also known as cornugons or malebranche, are infernal warriors tha
     "name": "Infernal Tail"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Horned Devil.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/horned-devil-xmm.webp"
 ```
 ^statblock
 

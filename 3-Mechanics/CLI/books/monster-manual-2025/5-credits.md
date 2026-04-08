@@ -30,8 +30,8 @@ aliases:
 - **Based on the Monster Manual (2014) by.** Christopher Perkins (lead), Jeremy Crawford, Peter Lee, Mike Mearls, Robert J. Schwalb, Matt Sernett, Chris Sims, Rodney Thompson, Steve Townshend, James Wyatt  
 - **Building on the original game created by.** Gary Gygax and Dave Arneson and then developed by many others over the past 50 years  
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/028-29-001.title-splash.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/028-29-001-title-splash.webp#center)
 
 > [!gallery]
-> ![On the Cover: On this cove...](file://D:\ProgramData\CLI\5etools-img/book/XMM/029-29-002.traditional-cover.webp#gallery "On the Cover: On this cover by Tyler Jacobson, adventurers Vajra Safahr and Minsc test their mettle against a beholder and its horde of horrors. Will they prove themselves heroes or lunch?")
-> ![On the Alt-Cover: Got some...](file://D:\ProgramData\CLI\5etools-img/book/XMM/030-29-003.alt-cover.webp#gallery "On the Alt-Cover: Got something on your mind? A mind flayer offers one of its brain-consuming brood as an alternative in this aberrant illustration by Olena Richards.")
+> ![On the Cover: On this cove...](/3-Mechanics/CLI/books/monster-manual-2025/img/029-29-002-traditional-cover.webp#gallery "On the Cover: On this cover by Tyler Jacobson, adventurers Vajra Safahr and Minsc test their mettle against a beholder and its horde of horrors. Will they prove themselves heroes or lunch?")
+> ![On the Alt-Cover: Got some...](/3-Mechanics/CLI/books/monster-manual-2025/img/030-29-003-alt-cover.webp#gallery "On the Alt-Cover: Got something on your mind? A mind flayer offers one of its brain-consuming brood as an alternative in this aberrant illustration by Olena Richards.")

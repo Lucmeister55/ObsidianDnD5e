@@ -52,7 +52,6 @@ aliases:
     "name": "Reaping Scythe"
 "source":
   - "XDMG"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XDMG/Avatar of\
-  \ Death.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/avatar-of-death-xdmg.webp"
 ```
 ^statblock

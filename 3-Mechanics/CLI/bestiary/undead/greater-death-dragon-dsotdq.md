@@ -98,7 +98,6 @@ A death dragon's bones burn with violet Cataclysmic fire, which it can unleash i
     "name": "Cataclysmic Rush (Costs 2 Actions)"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Greater\
-  \ Death Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/greater-death-dragon-dsotdq.webp"
 ```
 ^statblock

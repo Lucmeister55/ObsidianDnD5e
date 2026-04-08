@@ -69,7 +69,7 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
     "name": "Rapport Spores"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Myconid Adult.webp"
+"image": "/3-Mechanics/CLI/bestiary/plant/token/myconid-adult-xmm.webp"
 ```
 ^statblock
 

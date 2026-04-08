@@ -90,7 +90,7 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
     "name": "Invitation"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Haunting Revenant.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/haunting-revenant-xmm.webp"
 ```
 ^statblock
 

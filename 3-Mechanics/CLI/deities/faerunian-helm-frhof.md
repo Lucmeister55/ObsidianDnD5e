@@ -13,7 +13,7 @@ aliases:
 ---
 # Helm
 *Source: Forgotten Realms: Heroes of Faerûn p. 108* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Helm.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-helm.webp#symbol)
 
 - **Alternate Names**: He of the Unsleeping Eyes, The Vigilant, The Watcher
 - **Alignment**: Unaligned

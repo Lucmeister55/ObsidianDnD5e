@@ -10,7 +10,7 @@ aliases:
 ---
 # Genie Touched
 *Source: Forgotten Realms: Heroes of Faerûn p. 30*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/FRHoF/Genie Touched.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/genie-touched.webp#right)
 
 - **Ability Scores.** Dexterity, Wisdom, Charisma  
 - **Feat.** [Magic Initiate](/3-Mechanics/CLI/feats/magic-initiate-xphb.md) (Wizard)  

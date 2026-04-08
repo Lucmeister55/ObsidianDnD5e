@@ -26,5 +26,5 @@ aliases:
 - Special thanks to Ed Greenwood, Jeff Grubb, and all the many people who have created and contributed to the Forgotten Realms over its fantastic history.  
 
 > [!gallery]
-> ![On the Cover: Vajra Safahr...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/181-07-002.cover-thumbnail.webp#gallery "On the Cover: Vajra Safahr, Karlach, Minsc, Boo, and Jarlaxle array themselves for battle in the ruins of Myth Drannor in this majestic illustration from Billy Christian.")
-> ![On the Alt-Cover: Vajra Sa...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/182-07-003.alt-cover-thumbnail.webp#gallery "On the Alt-Cover: Vajra Safahr, Karlach, and Jarlaxle Baenre lead an army—and a gold dragon—into battle in this scintillating illustration from Dominik Mayer.")
+> ![On the Cover: Vajra Safahr...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/181-07-002-cover-thumbnail.webp#gallery "On the Cover: Vajra Safahr, Karlach, Minsc, Boo, and Jarlaxle array themselves for battle in the ruins of Myth Drannor in this majestic illustration from Billy Christian.")
+> ![On the Alt-Cover: Vajra Sa...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/182-07-003-alt-cover-thumbnail.webp#gallery "On the Alt-Cover: Vajra Safahr, Karlach, and Jarlaxle Baenre lead an army—and a gold dragon—into battle in this scintillating illustration from Dominik Mayer.")

@@ -10,7 +10,7 @@ aliases:
 # Chapter 2: A Guide to the Realms
 *Source: Forgotten Realms: Heroes of Faerûn, p. 45* 
 
-![Minsc, Boo, and Delina exp...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/039-02-001.minsc-boo-and-delina-explore.webp#center "Minsc, Boo, and Delina explore the ruins of Myth Drannor.")
+![Minsc, Boo, and Delina exp...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/039-02-001-minsc-boo-and-delina-explore.webp#center "Minsc, Boo, and Delina explore the ruins of Myth Drannor.")
 
 The continent of Faerûn stretches between the Trackless Sea to the west and the Sunrise Mountains to the east on a world called Toril. A place of varied cultures and peoples, Faerûn contains diverse realms, including kingdoms, city-states, and carefully maintained alliances of rural communities. While many of these realms are ruled by humans, who are the most populous species in Faerûn today, people of all sorts—including dragonborn, goliaths, orcs, tieflings, and more—mingle in those realms, as well as mountainous dwarven kingdoms, hidden elven enclaves, and other communities. Except in the most remote or insular places, Faerûnians are accustomed to seeing people of different cultures, ethnicities, and species.
 
@@ -34,7 +34,7 @@ Individual days of a tenday have no special names. Instead, they are denoted by 
 
 Every realm, faith, and culture across Faerûn has its own special festivals and holidays, the observances of which are governed by the cycles of the sun, the moon, the stars, or some other event. In addition, the Calendar of Harptos specifies five annual festivals keyed to the changing of the seasons and one quadrennial festival that are observed in almost every land, with particular celebrations varying based on local traditions and popular faiths.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/040-02-002.calendar-of-harptos.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/040-02-002-calendar-of-harptos.webp#center)
 
 #### Midwinter
 
@@ -100,7 +100,7 @@ Some of the most commonly found and widely accepted currencies in the Realms are
 
 ## Adventurers
 
-![Deryan Kaya summons a hord...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/041-02-003.deryan-kaya-summons.webp#center "Deryan Kaya summons a horde of constructs to fight off a blue dragon.")
+![Deryan Kaya summons a hord...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/041-02-003-deryan-kaya-summons.webp#center "Deryan Kaya summons a horde of constructs to fight off a blue dragon.")
 
 Adventurers have a long history in Faerûn. Children are told stories of great adventurers like Storm Silverhand, Drizzt Do'Urden, and Alias. While most people eventually put away their dreams of heroic adventure in favor of more practical matters, a few leave their homes to embark on a life of peril, hoping to become heroes who find great rewards. Individuals who suffer great tragedy in their lives might turn to adventuring out of desperation. Some adventurers are forced into the occupation when they or others are placed in sudden danger. A few individuals simply grow bored with their lives and dream of something more, becoming adventurers to reinvent themselves or find new meaning in their lives.
 
@@ -115,8 +115,8 @@ Regardless, authority figures often turn to adventurers to solve unusual problem
 ## Regions of the Realms
 
 > [!gallery]
-> ![Map: Forgotten Realms](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/042-map-02.001-forgotten-realms-dm.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/043-map-02.001-forgotten-realms-players.webp#gallery)
+> ![Map: Forgotten Realms](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/042-map-02-001-forgotten-realms-dm.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/043-map-02-001-forgotten-realms-players.webp#gallery)
 
 Faerûn is frequently divided into various regions that share common cultural characteristics. The ten regions of the Forgotten Realms setting are as follows:
 
@@ -151,8 +151,8 @@ Many realms, ethnicities, and cultural groups in Faerûn have their own language
 ^overview
 
 > [!gallery]
-> ![Map: Anauroch](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/044-map-02.002-anauroch.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/045-map-02.002-anauroch-player.webp#gallery)
+> ![Map: Anauroch](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/044-map-02-002-anauroch.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/045-map-02-002-anauroch-player.webp#gallery)
 
 Despite the harsh conditions in Anauroch, people still eke out an existence there. Remnants of Netheril returned from a long retreat to the Shadowfell and resettled with designs on spreading their power and influence once again. Nomadic peoples adapted to the trials of the region travel and live comfortably within the wastes. Travelers and fortune seekers from afar also carve out a niche in the desert, seeking fortunes and relics of the past beneath the sands and ice.
 
@@ -232,7 +232,7 @@ A small cluster of peaks on the southeast edge of the Plain of Standing Stones i
 
 The rocky pinnacle of Heroes' Helm in central Anauroch rises four hundred feet and is shaped like the helmet of a mighty warrior, complete with two caves where the warrior's eyes would be. The caves lead to an expansive central cavern, home to an ancient blue dragon named Ghondalaath.
 
-![Netherese ruins in Anauroc...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/046-02-004.netherese-ruins-in-anauroch.webp#center "Netherese ruins in Anauroch show the influence of the Shadowfell.")
+![Netherese ruins in Anauroc...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/046-02-004-netherese-ruins-in-anauroch.webp#center "Netherese ruins in Anauroch show the influence of the Shadowfell.")
 
 ##### Hlaungadath
 
@@ -290,8 +290,8 @@ For many in Anauroch, life is spent on the move, as staying still often means de
 ^overview
 
 > [!gallery]
-> ![Map: Aglarond and Thay](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/047-map-02.003-aglarond-and-thay.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/048-map-02.003-aglarond-and-thay-player.webp#gallery)
+> ![Map: Aglarond and Thay](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/047-map-02-003-aglarond-and-thay.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/048-map-02-003-aglarond-and-thay-player.webp#gallery)
 
 For centuries, the Red Wizards of Thay have threatened Faerûn, but no one has felt that threat more acutely than the realms of Aglarond and Rashemen, who have fought off Thayan raids and invasions and kept Thay bottled up within its old borders. To do this, Aglarondans and Rashemi have had to learn arcane magic powerful enough to match that of the Red Wizards.
 
@@ -340,8 +340,8 @@ Elves who settled this forest millennia ago were called Yuir. Over centuries, hu
 #### Rashemen
 
 > [!gallery]
-> ![Map: Rashemen](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/049-map-02.004-rashemen.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/050-map-02.004-rashemen-player.webp#gallery)
+> ![Map: Rashemen](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/049-map-02-004-rashemen.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/050-map-02-004-rashemen-player.webp#gallery)
 
 An infamously insular realm of deep forests, high mountains, and wind-blasted heaths, Rashemen is home to magical practices considered strange by outsiders but also respected as frightfully potent. The warriors of Rashemen are berserkers known for their fierce frenzy in battle. The ruler of the realm, titled the Iron Lord, is chosen from among the berserkers by a council of mask-wearing spellcasters called hathrans. The hathrans are leaders in many aspects of Rashemen's society, drawing their magic from pacts with powerful spirits that dwell in the realm's magical woodlands. The current Iron Lord is Mangan Uruk, who has held the position for a generation.
 
@@ -407,7 +407,7 @@ A vast and ancient fortress that predates the Red Wizards of Thay, the Citadel w
 
 Thay began as a colony of the distant Mulhorandi empire, and Delhumide was Thay's capital. Now the old city is a dangerous ruin inhabited by fiends, evil fey, and desperate folk. These threats keep the region around the ruins sparsely populated, but adventurers brave the ruins in search of lost Thayan treasures.
 
-![Szass Tam rules Thay from ...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/051-02-005.thay-citadel.webp#center "Szass Tam rules Thay from the Citadel, his fortress on Thaymount.")
+![Szass Tam rules Thay from ...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/051-02-005-thay-citadel.webp#center "Szass Tam rules Thay from the Citadel, his fortress on Thaymount.")
 
 ##### Plateau of Thay and Thaymount
 
@@ -433,8 +433,8 @@ Thay is divided into districts called tharchs, many named after a prominent city
 ^overview
 
 > [!gallery]
-> ![Map: Forgotten Lands](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/052-map-02.005-forgotten-lands.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/053-map-02.005-forgotten-lands-player.webp#gallery)
+> ![Map: Forgotten Lands](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/052-map-02-005-forgotten-lands.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/053-map-02-005-forgotten-lands-player.webp#gallery)
 
 Faerûn's northeast quadrant is a land of lost magical secrets, buried ancient empires, and literal mountains of unclaimed wealth. Between the Sea of Fallen Stars to the south and the Great Glacier to the north, merchant-princes and archdruids struggle for dominion over a harsh, beautiful wilderness and its bounteous resources. Even the land itself vies for supremacy; for every ruler who claims to control a realm, there lies a magical glacier, a shifting labyrinthine forest, or a monster-plagued mountain that proves nothing in these parts can truly be controlled.
 
@@ -512,7 +512,7 @@ As in other lands that touch the Earthspur Mountains, the gem trade is strong in
 
 One of the oldest extant settlements along the Sea of Fallen Stars, Procampur was built atop an underground dwarven town called Proeskampalar. Procampur is known for its walled city districts, with slate-roofed buildings. More than its handsome architecture, though, Procampur is reputedly the single richest independent city along the northern Inner Sea. Hundreds of gem cutters and goldsmiths call the place home, and it would be a popular target for pirates if not for its incomparable fortifications and vigilant local government.
 
-![The White Worm takes Karla...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/054-02-006.white-worm.webp#center "The White Worm takes Karlach, Astarion, and Shadowheart by surprise.")
+![The White Worm takes Karla...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/054-02-006-white-worm.webp#center "The White Worm takes Karlach, Astarion, and Shadowheart by surprise.")
 
 #### Life in the Forgotten Lands
 
@@ -550,8 +550,8 @@ For all their talk of autonomy and self-determination, the people of the Forgott
 ^overview
 
 > [!gallery]
-> ![Map: Heartlands](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/055-map-02.006-heartlands.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/056-map-02.006-heartlands-player.webp#gallery)
+> ![Map: Heartlands](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/055-map-02-006-heartlands.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/056-map-02-006-heartlands-player.webp#gallery)
 
 The Heartlands comprises four realms, each with borders that have fluctuated over the centuries. Its folk have hardy frontier spirits, for their lands are ripe with crops, resources, and danger. Monsters lurk in every forest and mountain range. No matter the threat, the people of the Heartlands must be ready to defend their homes.
 
@@ -663,7 +663,7 @@ The young realm of Sembia aggressively pursues both trade and territorial expans
 
 Half a century ago, a dale called Moondale enjoyed a prosperous trade relationship with neighboring Sembian cities before being peacefully annexed into Sembia. It was renamed Ordulin and now serves as Sembia's capital. Every seven years, the merchant councils of Sembia's other cities convene and appoint an Overmaster from their ranks to govern Sembia from Ordulin. They have gone to great lengths to foster Sembian pride in the city and erase its cultural roots as a former dale.
 
-![The ruins of Myth Drannor ...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/057-02-007.ruins-of-myth-drannor.webp#center "The ruins of Myth Drannor lie at the heart of Cormanthor.")
+![The ruins of Myth Drannor ...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/057-02-007-ruins-of-myth-drannor.webp#center "The ruins of Myth Drannor lie at the heart of Cormanthor.")
 
 #### Life in the Heartlands
 
@@ -693,8 +693,8 @@ Pools of radiance are open wounds in the Weave—powerful, naturally occurring f
 ^overview
 
 > [!gallery]
-> ![Map: Lands of Intrigue](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/058-map-02.007-lands-of-intrigue.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/059-map-02.007-lands-of-intrigue-player.webp#gallery)
+> ![Map: Lands of Intrigue](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/058-map-02-007-lands-of-intrigue.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/059-map-02-007-lands-of-intrigue-player.webp#gallery)
 
 The Lands of Intrigue maintain civil relations with each other, even as they jostle for authority over Faerûn's commerce. Though Amn, Calimshan, and Tethyr might not have raised swords against each other in the last few hundred years, they've spied on each other, made aggressive trade deals, and exchanged land with each other in delicate dances of thinly veiled mistrust.
 
@@ -812,7 +812,7 @@ Balagos, a red dragon of the Troll Mountains, keeps some of his hoard at a secon
 
 Velen is haunted, but its citizens don't mind. Many of the city's dead remain there as ghosts for unknown reasons, coexisting with the living. The autonomous Duchy of Velen gained its independence from Tethyr in 1424 DR. It maintains a friendly relationship with its western neighbor, using its impressive naval fleet to defend itself and Tethyr from Nelanther pirates.
 
-![kaya educates](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/060-02-008.deryan-kaya-educates.webp#center)
+![kaya educates](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/060-02-008-deryan-kaya-educates.webp#center)
 
 #### Life in the Lands of Intrigue
 
@@ -850,8 +850,8 @@ Before the Lands of Intrigue existed, there was Shanatar. This ancient shield dw
 ^overview
 
 > [!gallery]
-> ![Map: The North](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/061-map-02.008-the-north.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/062-map-02.008-the-north-player.webp#gallery)
+> ![Map: The North](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/061-map-02-008-the-north.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/062-map-02-008-the-north-player.webp#gallery)
 
 Nothing lasts forever in the North. Frost giants, white dragons, and marauders threaten the land, and winter is always near, ready to destroy whatever remains. The region was ravaged by the War of the Silver Marches—a sweeping conflict between Many-Arrows, Menzoberranzan, and the cities of the Lords' Alliance—and again more recently by violence between giants. And yet, the North abounds with fertile river valleys, mineral deposits, deep forests, and startling natural beauty. It is a wilderness of violent extremes, hidden wonders, and isolated strongholds struggling to survive against all odds.
 
@@ -945,7 +945,7 @@ Icespire Peak is the tallest of the Sword Mountains, visible from far away as Ph
 
 Thousands of dwarf, elf, human, and orc corpses lie beneath this saltwater swamp, which was created many centuries ago through fell magic. The swamp is home to two ancient black dragons: Voaraghamanthar the Black Death and his twin brother Waervaerendor the Rapacious Raider. The two dragons share a psychic link and are indistinguishable, so they're often mistaken for a single dragon. Efforts to drain the swamp or redirect the High Road away from its borders have been fruitless; the swamp merely expands to fill any abandoned space.
 
-![Ice caves leading to the U...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/063-02-009.ice-caves.webp#center "Ice caves leading to the Underdark have tempted many adventurers into danger.")
+![Ice caves leading to the U...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/063-02-009-ice-caves.webp#center "Ice caves leading to the Underdark have tempted many adventurers into danger.")
 
 ##### Phandalin
 
@@ -987,8 +987,8 @@ However dragons and giants might rage, there is no power greater than the winter
 ^overview
 
 > [!gallery]
-> ![Map: Old Empires](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/064-map-02.009-old-empires.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/065-map-02.009-old-empires-player.webp#gallery)
+> ![Map: Old Empires](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/064-map-02-009-old-empires.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/065-map-02-009-old-empires-player.webp#gallery)
 
 The realms of the Old Empires are the most ancient extant civilizations in Faerûn. For over three thousand years the people of Mulhorand, Chessenta, and Unther have alternately flourished and floundered, rising to unparalleled heights and surviving unprecedented disasters. The result is three realms that share wide swaths of history and aspects of culture peculiar to outsiders: strict theocratic governments,
 
@@ -1066,7 +1066,7 @@ The large city of Messemprar is by far the finest and most hospitable settlement
 
 Supposedly, Unthalass was once the greatest city in the Realms: a paradise of flowering gardens, alabaster statues, and palatial limestone manors. Anyone who visits the city as it is now would scarcely believe such legends. Everything here has been sacrificed in the name of the god-king Gilgeam's hunger for conquest. The mud-brick streets overflow with filth and even blood, for Gilgeam brooks no dissent within his capital. The tyrant himself rules all of Unther from an imposing granite fortress in Unthalass called the Citadel of Black Ash.
 
-![Ningal, Chosen of Selûne, ...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/066-02-010.messemprars-terraced-gardens.webp#center "Ningal, Chosen of Selûne, takes her ease in Messemprar's terraced gardens.")
+![Ningal, Chosen of Selûne, ...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/066-02-010-messemprars-terraced-gardens.webp#center "Ningal, Chosen of Selûne, takes her ease in Messemprar's terraced gardens.")
 
 #### Life in the Old Empires
 
@@ -1100,8 +1100,8 @@ The people of the Old Empires are masters of unusual technology and forms of mag
 ^overview
 
 > [!gallery]
-> ![Map: Sword Coast](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/067-map-02.010-sword-coast.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/068-map-02.010-sword-coast-player.webp#gallery)
+> ![Map: Sword Coast](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/067-map-02-010-sword-coast.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/068-map-02-010-sword-coast-player.webp#gallery)
 
 The lands around and between the two coastal cities of Waterdeep and Baldur's Gate have been tested relentlessly over the past century, enduring the rise and fall of draconic and elemental cults, the scheming of illithids and dead gods, and even being dragged into the Nine Hells.
 
@@ -1189,7 +1189,7 @@ An infernal portal hides in the catacombs beneath the dwarven ruins known as Dra
 
 The elven city of Evereska is often called "a pocket of Evermeet," and it shares that fabled land's elusive mystique. Evereska is rumored to exist in a great valley in the mountains near Anauroch, protected by a mythal and defended by elf warriors who ride giant eagles.
 
-![Adventurers face too many ...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/069-02-011.trolls-in-the-trollclaws.webp#center "Adventurers face too many trolls in the Trollclaws.")
+![Adventurers face too many ...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/069-02-011-trolls-in-the-trollclaws.webp#center "Adventurers face too many trolls in the Trollclaws.")
 
 ##### Fields of the Dead
 
@@ -1243,8 +1243,8 @@ Several thriving and unique island realms call the Trackless Sea home, but cultu
 #### Lantan
 
 > [!gallery]
-> ![Map: Lantan](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/070-map-02.011-lantan.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/071-map-02.011-lantan-player.webp#gallery)
+> ![Map: Lantan](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/070-map-02-011-lantan.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/071-map-02-011-lantan-player.webp#gallery)
 
 Folk on the mainland know little of the reclusive realm of Lantan apart from its people's devotion to Gond, the god of invention. Complex locks, oil lamps, tripwires, and light-beam intruder alarms have origins on the island. If a trap in a Faerûnian dungeon has a complex mechanism involved, odds are the technology originated in Lantan. The archipelago is governed by a theocratic twelve-person council called the Ayrorch, high-ranking members of the Church of Gond. Gnomes make up much of the island's population and most of the council.
 
@@ -1275,8 +1275,8 @@ Up until recently, Mintarn enjoyed unprecedented prosperity by offering its merc
 #### Moonshae Isles
 
 > [!gallery]
-> ![Map: Moonshae Isles](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/072-map-02.012-moonshae-isles.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/073-map-02.012-moonshae-isles-player.webp#gallery)
+> ![Map: Moonshae Isles](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/072-map-02-012-moonshae-isles.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/073-map-02-012-moonshae-isles-player.webp#gallery)
 
 Fey abound and giants lurk in the misty Moonshae Isles, an archipelago steeped in fey magic. These wondrous isles are home to two cultures: the rugged, seafaring Norlanders and the practical, hard-working Ffolk. These cultures once warred with each other but have come together under the ruling Kendrick dynasty. Ffolk worship the Earthmother, a divine embodiment of the Moonshae Isles. Springs of natural magic called moonwells are her windows into the world. Druids and rangers tend the moonwells and protect them from a new, insidious curse called the Rusting. This curse threatens to transform moonwells into pools of stinking oil and living things into rusted iron. See chapter 5 of "Forgotten Realms: Adventures in Faerûn" for more on the Moonshae Isles.
 
@@ -1311,8 +1311,8 @@ The island of Snowdown is a blight on the Moonshaes. The Rusting first manifeste
 #### Other Islands and Ocean Sites
 
 > [!gallery]
-> ![Map: Nelanther](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/074-map-02.013-nelanther.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/075-map-02.013-nelanther-player.webp#gallery)
+> ![Map: Nelanther](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/074-map-02-013-nelanther.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/075-map-02-013-nelanther-player.webp#gallery)
 
 Beyond the major islands and archipelagos, unaffiliated islands dot the sea—and some mysterious sites lie hidden under the waves.
 
@@ -1352,7 +1352,7 @@ Red dragons and fire giants war constantly on the volcanic island of Tuern, far 
 
 Whales come to die for reasons unknown at a set of islands called the Whalebones. The shores are littered with their bleached-white bones. Rocs perch on the mountaintops while petty self-proclaimed "kings" of the tiny islets squabble among each other for power.
 
-![Whalers in the Trackless S...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/076-02-012.whalers-in-the-trackless-sea.webp#center "Whalers in the Trackless Sea sometimes find more than they bargained for.")
+![Whalers in the Trackless S...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/076-02-012-whalers-in-the-trackless-sea.webp#center "Whalers in the Trackless Sea sometimes find more than they bargained for.")
 
 #### Life in the Trackless Sea
 
@@ -1386,8 +1386,8 @@ Inhabitants of the Trackless Sea are ever-wary of Umberlee, the Wavemother. Cult
 ^overview
 
 > [!gallery]
-> ![Map: Vilhon Reach](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/077-map-02.014-vilhon-reach.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/078-map-02.014-vilhon-reach-player.webp#gallery)
+> ![Map: Vilhon Reach](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/077-map-02-014-vilhon-reach.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/078-map-02-014-vilhon-reach-player.webp#gallery)
 
 The subtropical Vilhon Reach lies southwest of the Sea of Fallen Stars, situated along its eponymous gulf. [Nature](/3-Mechanics/CLI/skills.md#Nature) is more respected here than in other areas of Faerûn, a result of both the Emerald Enclave's enormous influence on the region and the region's history of natural disasters.
 
@@ -1511,7 +1511,7 @@ Very little is known about Ixinos, a small forested island at the entrance to th
 
 Half of the independent city of Reth crumbled into the sea during the catastrophic events of the Spellplague. Some adventurers take the plunge, battling kuo-toa in those underwater ruins to find the lost treasures therein.
 
-![The Seven Sentinels of Sil...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/079-02-013.seven-sentinels-of-silvanus.webp#center "The Seven Sentinels of Silvanus protect Ilighôn, home of the Emerald Enclave.")
+![The Seven Sentinels of Sil...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/079-02-013-seven-sentinels-of-silvanus.webp#center "The Seven Sentinels of Silvanus protect Ilighôn, home of the Emerald Enclave.")
 
 #### Life in the Vilhon Reach
 
@@ -1555,7 +1555,7 @@ The city of Mezro is widely thought to have been destroyed in the Spellplague. I
 
 Port Nyanzaru hugs the coastline at the south end of the Bay of Chult. It's a colorful, musical, aroma-filled, vibrant city—the only city in Chult that isn't in ruins or overrun by monstrous creatures. The city is run by seven influential merchant princes. Other than trade, the biggest attractions are the weekly dinosaur races through the streets. Locals and visitors alike wager princely sums on the races' outcomes. The city also boasts grand bazaars, glorious mansions and temples, circuses, and gladiatorial contests.
 
-![The island of Evermeet was...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/080-02-014.island-of-evermeet.webp#center "The island of Evermeet was created in the Sundering.")
+![The island of Evermeet was...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/080-02-014-island-of-evermeet.webp#center "The island of Evermeet was created in the Sundering.")
 
 #### Evermeet
 

@@ -24,7 +24,7 @@ aliases:
 ---
 # Druidcraft
 *cantrip, Transmutation*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Druidcraft.webp#right)
+![](/3-Mechanics/CLI/spells/img/druidcraft.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet

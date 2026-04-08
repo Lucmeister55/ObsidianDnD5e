@@ -11,7 +11,7 @@ aliases:
 ---
 # Potion of Vitality
 *Potion, very rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Potion of Vitality.webp#right)
+![](/3-Mechanics/CLI/items/img/potion-of-vitality.webp#right)
 
 - **Weight**: 0.5 lbs.
 

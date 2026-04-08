@@ -10,7 +10,7 @@ aliases:
 ---
 # Mirror of Life Trapping
 *Wondrous item, very rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Mirror of Life Trapping.webp#right)
+![](/3-Mechanics/CLI/items/img/mirror-of-life-trapping.webp#right)
 
 - **Weight**: 50.0 lbs.
 

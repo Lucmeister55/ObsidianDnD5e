@@ -10,7 +10,7 @@ aliases:
 ---
 # Sovereign Glue
 *Wondrous item, legendary*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Sovereign Glue.webp#right)
+![](/3-Mechanics/CLI/items/img/sovereign-glue.webp#right)
 
 
 This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with [Oil of Slipperiness](/3-Mechanics/CLI/items/oil-of-slipperiness-xdmg.md). When found, a container contains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) ounces.

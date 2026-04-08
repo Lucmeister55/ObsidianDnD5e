@@ -88,7 +88,7 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
     "name": "Rampage (2/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Gnoll Demoniac.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/gnoll-demoniac-xmm.webp"
 ```
 ^statblock
 

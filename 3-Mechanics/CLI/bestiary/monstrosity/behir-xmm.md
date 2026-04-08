@@ -94,7 +94,7 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
     "name": "Swallow"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Behir.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/behir-xmm.webp"
 ```
 ^statblock
 

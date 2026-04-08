@@ -87,7 +87,7 @@ Iron golems preserve and protect their charges for generations. Roll on or choos
     "name": "Poison Breath (Recharge 6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Iron Golem.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/iron-golem-xmm.webp"
 ```
 ^statblock
 

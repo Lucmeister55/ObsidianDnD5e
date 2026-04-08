@@ -28,7 +28,7 @@ aliases:
 ---
 # Cone of Cold
 *5th-level, Evocation*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Cone of Cold.webp#right)
+![](/3-Mechanics/CLI/spells/img/cone-of-cold.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** Self (60-foot Cone)

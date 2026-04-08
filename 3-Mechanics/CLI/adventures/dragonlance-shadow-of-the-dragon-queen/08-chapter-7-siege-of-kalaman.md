@@ -12,7 +12,7 @@ aliases:
 
 The Red Dragon Army has failed to raise the City of Lost Names into the heavens. The characters have deprived the Dragon Army of its city-sized battle platform, but as the smoke clears, a citadel flies free of the ruins, its course set for Kalaman.
 
-![With its flying citadel lo...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/111-07-001.chapter-splash.webp#center "With its flying citadel looming overhead, the Dragon Army prepares to lay siege to the city of Kalaman")
+![With its flying citadel lo...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/111-07-001-chapter-splash.webp#center "With its flying citadel looming overhead, the Dragon Army prepares to lay siege to the city of Kalaman")
 
 ## Running This Chapter
 
@@ -52,7 +52,7 @@ After the characters see the flying citadel, Darrett seeks them out. If they hav
 
 Darrett encourages the characters to rest, then set off for the coast as soon as they're ready. If [Clystran](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) (see chapter 5) is with Darrett's troops, he can guide them, hastening the characters' journey.
 
-![Darrett Highwater Wearing Solamnic Armor](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/112-07-002.darrett-highwater.webp#center)
+![Darrett Highwater Wearing Solamnic Armor](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/112-07-002-darrett-highwater.webp#center)
 
 ### To the Coast
 
@@ -229,7 +229,7 @@ The people of Kalaman face a long, anxious night waiting for the Dragon Army's a
 | 4 | Highmaster's Message (see below) |
 ^night-encounters
 
-![A sivak draconian swoops down to attack](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/113-07-003.sivak-draconian.webp#center)
+![A sivak draconian swoops down to attack](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/113-07-003-sivak-draconian.webp#center)
 
 #### Testing the Defenses
 
@@ -403,8 +403,8 @@ The battlefield includes the following features:
 - **Fray.** The 15-foot-wide area marked by the design at the edge of the map represents areas from which dangers might appear.  
 
 > [!gallery]
-> ![Map 7.1: Assault on Hawkers Grove](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/114-map-7.01-assault-on-hawkers-grove.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/115-map-7.01-assault-on-hawkers-grove-player.webp#gallery)
+> ![Map 7.1: Assault on Hawkers Grove](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/114-map-7-01-assault-on-hawkers-grove.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/115-map-7-01-assault-on-hawkers-grove-player.webp#gallery)
 
 #### Hawker's Grove Battlefield Events
 
@@ -447,7 +447,7 @@ As the characters near the flying citadel, they must succeed on a DC 14 group De
 
 #### Red Ruin
 
-![The Dragon Army's ace drag...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/116-07-004.red-ruin.webp#center "The Dragon Army's ace dragonnel rider, Red Ruin, soars toward her target")
+![The Dragon Army's ace drag...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/116-07-004-red-ruin.webp#center "The Dragon Army's ace dragonnel rider, Red Ruin, soars toward her target")
 
 After the characters avoid or contend with the dragonnels, [Clystran](/3-Mechanics/CLI/bestiary/npc/clystran-dsotdq.md) breaks away from the Dragon Army flight path he had been following, rushing the characters toward the base of the flying citadel. Read the following text as the characters approach:
 
@@ -523,8 +523,8 @@ Maps 7.2 and 7.3 depict the flying citadel. Unless otherwise noted, the followin
 The lowest levels of the flying citadel are unworked tunnels. The characters find an entrance to these depths through a fissure in the citadel's base.
 
 > [!gallery]
-> ![Map 7.2: Flying Citadel Sublevels](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/117-map-7.02-flying-citadel-sublevels.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/118-map-7.02-flying-citadel-sublevels-player.webp#gallery)
+> ![Map 7.2: Flying Citadel Sublevels](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/117-map-7-02-flying-citadel-sublevels.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/118-map-7-02-flying-citadel-sublevels-player.webp#gallery)
 
 #### S1: Tunnels
 
@@ -552,7 +552,7 @@ The Bastion of Takhisis had countless enemies, many of whom were interred in the
 
 This chamber is a crooked seam in the rock. The passage to the east splits, with both routes connecting to area S3. One path enters area S3 through a broken crypt in that room's wall, while the other descends 15 feet and leads to a gouge in the floor of that area.
 
-![Leedara](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/119-07-005.leedara.webp#center)
+![Leedara](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/119-07-005-leedara.webp#center)
 
 The elf waiting here is [Leedara](/3-Mechanics/CLI/bestiary/npc/leedara-dsotdq.md) (a neutral [ghost](/3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) detailed in chapter 3) in her guise as a living Silvanesti elf. She's here to aid the characters in confounding [Lord Soth](/3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md)'s plans and imparts the following information:
 
@@ -694,7 +694,7 @@ The doorway to this tomb can be accessed by pushing its statue aside with a succ
 
 A [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals the mirror on the ceiling radiates an aura of necromancy. If the characters return Cithcillion's bones to the slab, the reflection in the mirror is of him as he was in life. His reflected image opens its eyes and speaks:
 
-![Cithcillion](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/120-07-006.cithcillion.webp#center)
+![Cithcillion](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/120-07-006-cithcillion.webp#center)
 
 > [!readaloud] 
 > 
@@ -750,7 +750,7 @@ The priests' quarters (depicted on map 7.2) are where many of the temple's faith
 
 The corridors on this level are guarded by two [skeletal knights](/3-Mechanics/CLI/bestiary/undead/skeletal-knight-dsotdq.md) (see appendix B). The knights guard the door to the sanctuary (area S12), and they notice anyone using the southeast stairs to area S3.
 
-![Lorry Wanwillow](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/121-07-007.lorry-wanwillow.webp#center)
+![Lorry Wanwillow](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/121-07-007-lorry-wanwillow.webp#center)
 
 #### S11: Rubble and Ruin
 
@@ -896,8 +896,8 @@ These bare stone cells once quartered the temple's priests. They are currently e
 The City of Lost Names was built on a foundation of pillaged dragon bones, which gave it much of its magic. The Bastion of Takhisis (depicted on map 7.3) now carries that magic's legacy, empowered by the Mourning Flame that burns in the Mourning Sanctum at the temple's heart.
 
 > [!gallery]
-> ![Map 7.3: Bastion of Takhisis](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/122-map-7.03-bastion-of-takhisis.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/123-map-7.03-bastion-of-takhisis-player.webp#gallery)
+> ![Map 7.3: Bastion of Takhisis](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/122-map-7-03-bastion-of-takhisis.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/123-map-7-03-bastion-of-takhisis-player.webp#gallery)
 
 #### S21: Ruined Hall
 
@@ -949,7 +949,7 @@ If the soldier [Caradoc](/3-Mechanics/CLI/bestiary/npc/caradoc-dsotdq.md) is pos
 
 #### S23: Mourning Sanctum
 
-![Wersten Kern loyally serve...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/124-07-008.werstern-kern.webp#center "Wersten Kern loyally serves Lord Soth and stands guard over the Mourning Sanctum")
+![Wersten Kern loyally serve...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/124-07-008-werstern-kern.webp#center "Wersten Kern loyally serves Lord Soth and stands guard over the Mourning Sanctum")
 
 > [!readaloud] 
 > 
@@ -991,7 +991,7 @@ Two [skeletal knights](/3-Mechanics/CLI/bestiary/undead/skeletal-knight-dsotdq.m
 
 A cleric of Sargonnas or a character who succeeds on a DC 12 Intelligence ([Religion](/3-Mechanics/CLI/skills.md#Religion)) check recognizes the images on the walls represent the god Sargonnas.
 
-![Lord Soth glimpses his pas...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/125-07-009.lord-soth-glimpse.webp#center "Lord Soth glimpses his past betrayals in the Mirror of Reflected Pasts")
+![Lord Soth glimpses his pas...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/125-07-009-lord-soth-glimpse.webp#center "Lord Soth glimpses his past betrayals in the Mirror of Reflected Pasts")
 
 #### S25: Lord Soth's Throne Room
 
@@ -1041,8 +1041,8 @@ Allow the characters to decide how they're going to escape the citadel. If they 
 - **Ruins.** Ruined Istarian buildings lie scattered across the area.  
 
 > [!gallery]
-> ![Map 7.4: Flying Citadel Surface](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/126-map-7.04-flying-citadel-surface.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/127-map-7.04-flying-citadel-surface-player.webp#gallery)
+> ![Map 7.4: Flying Citadel Surface](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/126-map-7-04-flying-citadel-surface.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/127-map-7-04-flying-citadel-surface-player.webp#gallery)
 
 The hundreds of Dragon Army troops outside the citadel are largely too preoccupied with their own escape to pay the characters any attention.
 
@@ -1067,7 +1067,7 @@ Before the characters escape, they're confronted by [Karavarix](/3-Mechanics/CLI
 
 [Karavarix](/3-Mechanics/CLI/bestiary/npc/karavarix-dsotdq.md) is a chaotic evil [greater death dragon](/3-Mechanics/CLI/bestiary/undead/greater-death-dragon-dsotdq.md) (see appendix B) who hasn't been affected by the destruction of the brazier in the Mourning Sanctum (area S23). In life, she was the gold dragon [Sarlamir](/3-Mechanics/CLI/bestiary/npc/sarlamir-dsotdq.md) slew during his quest to the flying city of Onyari—and [Karavarix](/3-Mechanics/CLI/bestiary/npc/karavarix-dsotdq.md) still seeks revenge. Before she attacks, she roars, "[Sarlamir](/3-Mechanics/CLI/bestiary/npc/sarlamir-dsotdq.md)! I won't be driven from the skies again. I'll have my revenge on you and all humans!" Characters who explored the catacombs beneath Castle Kalaman (detailed in chapter 4) recall the name [Sarlamir](/3-Mechanics/CLI/bestiary/npc/sarlamir-dsotdq.md), the dragon he slew, and the statue in his tomb with gold dragon features. [Karavarix](/3-Mechanics/CLI/bestiary/npc/karavarix-dsotdq.md) then fights until destroyed.
 
-![Karavarix](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/128-07-010.karavarix.webp#center)
+![Karavarix](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/128-07-010-karavarix.webp#center)
 
 #### Escaping the Bastion
 
@@ -1095,7 +1095,7 @@ The characters land a quarter mile from Kalaman's west wall. There is little ris
 
 ### Clash of Fallen Flames
 
-![Dragon Highmaster Kansaldi...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/129-07-011.dragon-highmaster-kansaldi.webp#center "Dragon Highmaster Kansaldi Fire-Eyes scours the battlefield astride the red dragon Ignia")
+![Dragon Highmaster Kansaldi...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/129-07-011-dragon-highmaster-kansaldi.webp#center "Dragon Highmaster Kansaldi Fire-Eyes scours the battlefield astride the red dragon Ignia")
 
 When the characters start their return to Kalaman, read the following text:
 
@@ -1133,8 +1133,8 @@ The battlefield includes the following features:
 - **Fray.** The 15-foot-wide area marked by the design at the edge of the map represents dozens of Dragon Army troops trying to retreat. This area and the battlefield beyond the map are "difficult terrain". A creature that starts its turn in the Fray or that enters the Fray for the first time during a turn must succeed on a DC 16 Dexterity saving throw or take `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) slashing damage from attacks by opportunistic foes.  
 
 > [!gallery]
-> ![Map 7.5: Clash Of Fallen Flames](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/130-map-7.05-clash-of-fallen-flames.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/131-map-7.05-clash-of-fallen-flames-player.webp#gallery)
+> ![Map 7.5: Clash Of Fallen Flames](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/130-map-7-05-clash-of-fallen-flames.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/131-map-7-05-clash-of-fallen-flames-player.webp#gallery)
 
 #### Clash of Fallen Flames Events
 

@@ -87,7 +87,7 @@ Azers are living bronze folk who work the primal elements of creation to craft w
     "name": "Hellish Rebuke (2/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Azer Pyromancer.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/azer-pyromancer-xmm.webp"
 ```
 ^statblock
 

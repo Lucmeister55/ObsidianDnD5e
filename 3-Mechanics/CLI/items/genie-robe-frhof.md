@@ -11,7 +11,7 @@ aliases:
 ---
 # Genie Robe
 *Adventuring gear*  
-![](file://D:\ProgramData\CLI\5etools-img/items/FRHoF/Genie Robe.webp#right)
+![](/3-Mechanics/CLI/items/img/genie-robe.webp#right)
 
 - **Cost**: 50 gp
 - **Weight**: 6.0 lbs.

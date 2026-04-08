@@ -10,7 +10,7 @@ aliases:
 ---
 # Chime of Opening
 *Wondrous item, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Chime of Opening.webp#right)
+![](/3-Mechanics/CLI/items/img/chime-of-opening.webp#right)
 
 - **Weight**: 1.0 lbs.
 

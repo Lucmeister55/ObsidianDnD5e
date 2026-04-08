@@ -106,7 +106,7 @@ Wights might return from the dead for a multitude of sinister reasons. Roll on o
     "name": "Life Drain"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Wight.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/wight-xmm.webp"
 ```
 ^statblock
 

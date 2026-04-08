@@ -104,7 +104,7 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
     "name": "Teleport (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Mezzoloth.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/mezzoloth-xmm.webp"
 ```
 ^statblock
 

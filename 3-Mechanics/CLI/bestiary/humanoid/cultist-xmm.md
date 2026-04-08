@@ -112,7 +112,7 @@ Cults can organize around any mystical tradition, but many serve supernatural be
     "name": "Ritual Sickle"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Cultist.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/cultist-xmm.webp"
 ```
 ^statblock
 

@@ -11,7 +11,7 @@ aliases:
 ---
 # Mantle of Spell Resistance
 *Wondrous item, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Mantle of Spell Resistance.webp#right)
+![](/3-Mechanics/CLI/items/img/mantle-of-spell-resistance.webp#right)
 
 
 You have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws against spells while you wear this cloak.

@@ -22,7 +22,7 @@ aliases:
 ---
 # Alustriel's Mooncloak
 *5th-level, Abjuration*  
-![Alustriel Silverhand uses ...](file://D:\ProgramData\CLI\5etools-img/spells/FRHoF/Alustriel's Mooncloak.webp#right "Alustriel Silverhand uses her mooncloak to protect her allies.")
+![Alustriel Silverhand uses ...](/3-Mechanics/CLI/spells/img/alustriels-mooncloak.webp#right "Alustriel Silverhand uses her mooncloak to protect her allies.")
 
 - **Casting time:** 1 Action
 - **Range:** Self (20-foot Emanation)

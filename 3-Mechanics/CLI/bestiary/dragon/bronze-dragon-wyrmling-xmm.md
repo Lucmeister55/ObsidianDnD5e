@@ -82,8 +82,7 @@ Bronze dragons usually make their homes near or under the sea.
     "name": "Repulsion Breath"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Bronze Dragon\
-  \ Wyrmling.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/bronze-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

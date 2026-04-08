@@ -13,7 +13,7 @@ aliases:
 ---
 # Talos
 *Source: Forgotten Realms: Heroes of Faerûn p. 123* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Talos.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-talos.webp#symbol)
 
 - **Alternate Names**: The Destroyer, Storm Lord, The Raging One
 - **Alignment**: Unaligned

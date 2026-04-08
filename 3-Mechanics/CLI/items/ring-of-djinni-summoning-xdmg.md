@@ -12,7 +12,7 @@ aliases:
 ---
 # Ring of Djinni Summoning
 *Ring, legendary (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Ring of Djinni Summoning.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-djinni-summoning.webp#right)
 
 
 While wearing this ring, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to summon a particular [Djinni](/3-Mechanics/CLI/bestiary/elemental/djinni-xmm.md) from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 feet of yourself. It remains as long as you maintain [Concentration](/3-Mechanics/CLI/conditions.md#Concentration), to a maximum of 1 hour, or until it drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).

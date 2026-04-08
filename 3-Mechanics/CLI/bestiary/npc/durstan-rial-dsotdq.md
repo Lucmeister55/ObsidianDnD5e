@@ -67,7 +67,6 @@ aliases:
     "name": "Parry"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Durstan\
-  \ Rial.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/durstan-rial-dsotdq.webp"
 ```
 ^statblock

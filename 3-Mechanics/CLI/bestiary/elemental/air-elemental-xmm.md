@@ -93,7 +93,7 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
     "name": "Whirlwind (Recharge 4-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Air Elemental.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/air-elemental-xmm.webp"
 ```
 ^statblock
 

@@ -62,7 +62,7 @@ Crawling claws are severed hands that move and act of their own murderous accord
     "name": "Slam"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Crawling Claw.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/crawling-claw-xmm.webp"
 ```
 ^statblock
 

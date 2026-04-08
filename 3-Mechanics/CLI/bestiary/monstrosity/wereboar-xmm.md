@@ -81,7 +81,7 @@ Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Wereboar.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/wereboar-xmm.webp"
 ```
 ^statblock
 

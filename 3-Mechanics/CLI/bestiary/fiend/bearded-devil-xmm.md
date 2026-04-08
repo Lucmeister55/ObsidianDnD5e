@@ -86,7 +86,7 @@ Bearded devils' eponymous beards consist of grotesque, tentacle-like growths. Th
     "name": "Infernal Glaive"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Bearded Devil.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/bearded-devil-xmm.webp"
 ```
 ^statblock
 

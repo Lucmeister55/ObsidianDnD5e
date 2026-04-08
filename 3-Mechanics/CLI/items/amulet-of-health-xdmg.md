@@ -11,7 +11,7 @@ aliases:
 ---
 # Amulet of Health
 *Wondrous item, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Amulet of Health.webp#right)
+![](/3-Mechanics/CLI/items/img/amulet-of-health.webp#right)
 
 - **Weight**: 1.0 lbs.
 

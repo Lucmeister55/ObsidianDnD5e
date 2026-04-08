@@ -10,7 +10,7 @@ aliases:
 ---
 # Shadowmasters Exile
 *Source: Forgotten Realms: Heroes of Faerûn p. 35*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/FRHoF/Shadowmasters Exile.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/shadowmasters-exile.webp#right)
 
 - **Ability Scores.** Dexterity, Intelligence, Charisma  
 - **Feat.** [Savage Attacker](/3-Mechanics/CLI/feats/savage-attacker-xphb.md)  

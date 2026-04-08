@@ -100,7 +100,7 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Cambion.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/cambion-xmm.webp"
 ```
 ^statblock
 

@@ -79,7 +79,7 @@ Bodyguards, belligerents, and laborers, toughs rely on their physical strength t
     "name": "Heavy Crossbow"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Tough Boss.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/tough-boss-xmm.webp"
 ```
 ^statblock
 

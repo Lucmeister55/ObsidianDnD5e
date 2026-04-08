@@ -12,7 +12,7 @@ aliases:
 ---
 # Shield of Missile Attraction
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), cursed item, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Shield of Missile Attraction.webp#right)
+![](/3-Mechanics/CLI/items/img/shield-of-missile-attraction.webp#right)
 
 - **Armor Class**: 2
 - **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items)

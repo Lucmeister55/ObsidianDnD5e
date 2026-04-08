@@ -102,7 +102,7 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Bandit Deceiver.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/bandit-deceiver-xmm.webp"
 ```
 ^statblock
 

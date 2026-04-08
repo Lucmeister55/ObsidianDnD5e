@@ -60,6 +60,6 @@ aliases:
     "name": "Club"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Tatina Rookledust.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/tatina-rookledust-dsotdq.webp"
 ```
 ^statblock

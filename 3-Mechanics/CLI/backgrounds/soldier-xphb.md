@@ -10,7 +10,7 @@ aliases:
 ---
 # Soldier
 *Source: Player's Handbook (2024) p. 185. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/XPHB/Soldier.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/soldier.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Constitution  
 - **Feat.** [Savage Attacker](/3-Mechanics/CLI/feats/savage-attacker-xphb.md)  

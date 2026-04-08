@@ -96,7 +96,7 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
     "name": "Shadow Stealth"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Shadow Demon.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/shadow-demon-xmm.webp"
 ```
 ^statblock
 

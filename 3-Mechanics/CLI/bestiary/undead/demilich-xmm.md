@@ -111,7 +111,7 @@ Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of
     "name": "Necrosis"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Demilich.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/demilich-xmm.webp"
 ```
 ^statblock
 

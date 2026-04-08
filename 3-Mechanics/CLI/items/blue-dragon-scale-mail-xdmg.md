@@ -12,7 +12,7 @@ aliases:
 ---
 # Blue Dragon Scale Mail
 *Medium armor ([scale mail](/3-Mechanics/CLI/items/scale-mail-xphb.md)), very rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Dragon Scale Mail.webp#right)
+![](/3-Mechanics/CLI/items/img/dragon-scale-mail.webp#right)
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.

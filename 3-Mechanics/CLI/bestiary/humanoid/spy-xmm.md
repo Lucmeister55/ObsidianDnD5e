@@ -89,7 +89,7 @@ Spies gather information and disseminate lies, manipulating people to gain the r
     "name": "Cunning Action"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Spy.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/spy-xmm.webp"
 ```
 ^statblock
 

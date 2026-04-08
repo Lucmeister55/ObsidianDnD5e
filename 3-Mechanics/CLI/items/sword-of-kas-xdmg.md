@@ -13,7 +13,7 @@ aliases:
 ---
 # Sword of Kas
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), artifact (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Sword of Kas.webp#right)
+![](/3-Mechanics/CLI/items/img/sword-of-kas.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 slashing

@@ -149,7 +149,7 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
     "name": "World-Shaking Movement"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Tarrasque.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/tarrasque-xmm.webp"
 ```
 ^statblock
 

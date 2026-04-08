@@ -77,7 +77,7 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
     "name": "Pseudopod"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Gray Ooze.webp"
+"image": "/3-Mechanics/CLI/bestiary/ooze/token/gray-ooze-xmm.webp"
 ```
 ^statblock
 

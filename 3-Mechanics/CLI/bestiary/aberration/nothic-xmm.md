@@ -77,7 +77,7 @@ Some nothics seek to end the curse that warped them into their bizarre forms, bu
     "name": "Weird Insight (Recharge 6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Nothic.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/nothic-xmm.webp"
 ```
 ^statblock
 

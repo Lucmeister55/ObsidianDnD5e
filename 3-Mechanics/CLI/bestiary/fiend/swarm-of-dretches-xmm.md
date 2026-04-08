@@ -84,7 +84,7 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
     "name": "Rend"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Swarm of Dretches.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/swarm-of-dretches-xmm.webp"
 ```
 ^statblock
 

@@ -90,7 +90,7 @@ While many hydras claim their own territories, wicked deities might use them to 
     "name": "Bite"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Hydra.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/hydra-xmm.webp"
 ```
 ^statblock
 

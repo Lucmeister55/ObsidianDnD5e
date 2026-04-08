@@ -32,7 +32,7 @@ aliases:
 ---
 # Scrying
 *5th-level, Divination*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Scrying.webp#right)
+![](/3-Mechanics/CLI/spells/img/scrying.webp#right)
 
 - **Casting time:** 10 minutes
 - **Range:** Self

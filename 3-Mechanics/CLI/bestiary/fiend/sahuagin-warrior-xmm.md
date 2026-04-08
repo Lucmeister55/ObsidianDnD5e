@@ -81,7 +81,7 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
     "name": "Aquatic Charge"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Sahuagin Warrior.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/sahuagin-warrior-xmm.webp"
 ```
 ^statblock
 

@@ -143,6 +143,6 @@ aliases:
     "name": "Bite (Costs 2 Actions)"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Lorry Wanwillow.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/lorry-wanwillow-dsotdq.webp"
 ```
 ^statblock

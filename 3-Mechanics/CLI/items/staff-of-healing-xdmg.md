@@ -13,7 +13,7 @@ aliases:
 ---
 # Staff of Healing
 *Staff, weapon, rare (requires attunement by a bard, cleric, or druid)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Staff of Healing.webp#right)
+![](/3-Mechanics/CLI/items/img/staff-of-healing.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

@@ -70,7 +70,7 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
     "name": "Rend"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Troll Limb.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/troll-limb-xmm.webp"
 ```
 ^statblock
 

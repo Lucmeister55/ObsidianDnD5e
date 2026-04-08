@@ -12,7 +12,7 @@ aliases:
 ---
 # Staff of Flowers
 *Staff, weapon, common*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Staff of Flowers.webp#right)
+![](/3-Mechanics/CLI/items/img/staff-of-flowers.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

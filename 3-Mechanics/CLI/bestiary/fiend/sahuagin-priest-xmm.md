@@ -91,7 +91,7 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
     "name": "Fiendish Aid (2/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Sahuagin Priest.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/sahuagin-priest-xmm.webp"
 ```
 ^statblock
 

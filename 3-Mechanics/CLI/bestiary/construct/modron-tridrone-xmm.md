@@ -94,7 +94,7 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
     "name": "Clockwork Spear"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Modron Tridrone.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/modron-tridrone-xmm.webp"
 ```
 ^statblock
 

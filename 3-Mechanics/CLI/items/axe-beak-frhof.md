@@ -11,7 +11,7 @@ aliases:
 ---
 # Axe Beak
 *Mount*  
-![](file://D:\ProgramData\CLI\5etools-img/items/FRHoF/Axe Beak.webp#right)
+![](/3-Mechanics/CLI/items/img/axe-beak.webp#right)
 
 - **Cost**: 50 gp
 

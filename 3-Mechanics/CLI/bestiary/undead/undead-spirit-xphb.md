@@ -68,6 +68,6 @@ aliases:
     "name": "Rotting Claw (Putrid Only)"
 "source":
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XPHB/Undead Spirit.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/undead-spirit-xphb.webp"
 ```
 ^statblock

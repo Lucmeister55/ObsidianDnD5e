@@ -123,8 +123,7 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
     "name": "Shield (2/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Mind Flayer\
-  \ Arcanist.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/mind-flayer-arcanist-xmm.webp"
 ```
 ^statblock
 

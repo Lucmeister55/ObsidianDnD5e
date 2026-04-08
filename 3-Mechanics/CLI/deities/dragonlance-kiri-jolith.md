@@ -10,7 +10,7 @@ aliases:
 ---
 # Kiri-Jolith
 *Source: Dragonlance: Shadow of the Dragon Queen p. 14* 
-![Symbols Left to Right: Kir...](file://D:\ProgramData\CLI\5etools-img/deities/DSotDQ/011-00-038.o-good-trio.webp#symbol "Symbols Left to Right: Kiri-Jolith, Majere, and Mishakal")
+![Symbols Left to Right: Kir...](/3-Mechanics/CLI/deities/img/dsotdq-011-00-038-o-good-trio.webp#symbol "Symbols Left to Right: Kiri-Jolith, Majere, and Mishakal")
 
 - **Alignment**: Lawful Good
 - **Category**: Good

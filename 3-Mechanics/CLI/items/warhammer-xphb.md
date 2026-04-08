@@ -12,7 +12,7 @@ aliases:
 ---
 # Warhammer
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Warhammer.webp#right)
+![](/3-Mechanics/CLI/items/img/warhammer.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 bludgeoning

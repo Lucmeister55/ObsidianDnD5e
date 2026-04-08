@@ -138,7 +138,7 @@ Kuo-toa typically organize their communities around sites they believe to be imp
     "name": "Sticky Shield"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Kuo-toa.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/kuo-toa-xmm.webp"
 ```
 ^statblock
 

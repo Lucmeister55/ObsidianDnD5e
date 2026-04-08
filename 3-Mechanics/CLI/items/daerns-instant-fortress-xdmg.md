@@ -11,7 +11,7 @@ aliases:
 ---
 # Daern's Instant Fortress
 *Wondrous item, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Daerns Instant Fortress.webp#right)
+![](/3-Mechanics/CLI/items/img/daerns-instant-fortress.webp#right)
 
 
 As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you can place this 1-inch adamantine statuette on the ground and, using a command word, cause it to grow rapidly into a square adamantine tower. Repeating the command word causes the tower to revert to statuette form, which works only if the tower is empty. Each creature in the area where the tower appears is pushed to an unoccupied space outside but next to the tower. Objects in the area that aren't being worn or carried are also pushed clear of the tower.

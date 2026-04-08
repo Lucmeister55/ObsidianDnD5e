@@ -10,7 +10,7 @@ aliases:
 ---
 # Bag of Tricks
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Bag of Tricks.webp#right)
+![](/3-Mechanics/CLI/items/img/bag-of-tricks.webp#right)
 
 
 **Items in this group:**

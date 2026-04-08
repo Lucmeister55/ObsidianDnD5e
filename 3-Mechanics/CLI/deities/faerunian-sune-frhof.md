@@ -13,7 +13,7 @@ aliases:
 ---
 # Sune
 *Source: Forgotten Realms: Heroes of Faerûn p. 122* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Sune.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-sune.webp#symbol)
 
 - **Alternate Names**: Lady Firehair, The Lady of Love, The Princess of Passion
 - **Alignment**: Unaligned

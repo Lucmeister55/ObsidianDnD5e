@@ -72,7 +72,7 @@ Hell hounds have greater cunning than normal canines. They're skilled trackers a
     "name": "Fire Breath (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Hell Hound.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/hell-hound-xmm.webp"
 ```
 ^statblock
 

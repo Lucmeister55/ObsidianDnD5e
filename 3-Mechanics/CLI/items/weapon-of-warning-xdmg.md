@@ -72,7 +72,7 @@ aliases:
 ---
 # Weapon of Warning
 *Uncommon (requires attunement)*  
-![Weapon of Warning (Trident)](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Weapon of Warning.webp#right)
+![Weapon of Warning (Trident)](/3-Mechanics/CLI/items/img/weapon-of-warning.webp#right)
 
 
 As long as this weapon is within your reach and you are attuned to it, you and allies within 30 feet of you gain the following benefits.

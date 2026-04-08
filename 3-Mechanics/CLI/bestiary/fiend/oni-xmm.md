@@ -106,7 +106,7 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
     "name": "Invisibility"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Oni.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/oni-xmm.webp"
 ```
 ^statblock
 

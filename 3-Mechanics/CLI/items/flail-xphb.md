@@ -12,7 +12,7 @@ aliases:
 ---
 # Flail
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Flail.webp#right)
+![](/3-Mechanics/CLI/items/img/flail.webp#right)
 
 - **Damage**: 1d8 bludgeoning
 - **Cost**: 10 gp

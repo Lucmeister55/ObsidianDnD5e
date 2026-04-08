@@ -80,7 +80,7 @@ Remorhazes are centipede-like terrors that burrow through snow and ice to ambush
     "name": "Swallow"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Remorhaz.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/remorhaz-xmm.webp"
 ```
 ^statblock
 

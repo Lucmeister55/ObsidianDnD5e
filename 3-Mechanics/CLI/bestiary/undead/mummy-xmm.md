@@ -102,7 +102,7 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
     "name": "Dreadful Glare"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Mummy.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/mummy-xmm.webp"
 ```
 ^statblock
 

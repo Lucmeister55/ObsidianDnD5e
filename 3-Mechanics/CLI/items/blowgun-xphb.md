@@ -12,7 +12,7 @@ aliases:
 ---
 # Blowgun
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Blowgun.webp#right)
+![](/3-Mechanics/CLI/items/img/blowgun.webp#right)
 
 - **Damage**: 1 piercing
 - **Range**: 25/100

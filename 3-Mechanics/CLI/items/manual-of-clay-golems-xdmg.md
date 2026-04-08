@@ -10,7 +10,7 @@ aliases:
 ---
 # Manual of Clay Golems
 *Wondrous item, very rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Manual of Clay Golems.webp#right)
+![](/3-Mechanics/CLI/items/img/manual-of-clay-golems.webp#right)
 
 - **Weight**: 5.0 lbs.
 

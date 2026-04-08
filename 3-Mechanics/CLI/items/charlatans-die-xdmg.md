@@ -11,7 +11,7 @@ aliases:
 ---
 # Charlatan's Die
 *Wondrous item, common (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Charlatans Die.webp#right)
+![](/3-Mechanics/CLI/items/img/charlatans-die.webp#right)
 
 
 Whenever you roll this six-sided die, you can control which number it rolls.

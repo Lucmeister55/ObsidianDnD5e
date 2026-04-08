@@ -10,4 +10,4 @@ aliases:
 # Atlas of Faerûn
 *Source: Forgotten Realms: Heroes of Faerûn* 
 
-![Atlas of Faerûn](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/180-map-faerun.webp#center)
+![Atlas of Faerûn](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/180-map-faerun.webp#center)

@@ -76,8 +76,7 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Lizardfolk\
-  \ Geomancer.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/lizardfolk-geomancer-xmm.webp"
 ```
 ^statblock
 

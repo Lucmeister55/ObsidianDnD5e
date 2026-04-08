@@ -46,7 +46,6 @@ aliases:
     "name": "Beast's Strike"
 "source":
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XPHB/Beast of the\
-  \ Sky.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/beast-of-the-sky-xphb.webp"
 ```
 ^statblock

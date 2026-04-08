@@ -90,7 +90,7 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
     "name": "Arcane Sword"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Helmed Horror.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/helmed-horror-xmm.webp"
 ```
 ^statblock
 

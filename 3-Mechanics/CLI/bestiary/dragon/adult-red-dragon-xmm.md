@@ -116,7 +116,7 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
     "name": "Pounce"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Adult Red Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/adult-red-dragon-xmm.webp"
 ```
 ^statblock
 

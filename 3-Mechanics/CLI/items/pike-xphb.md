@@ -12,7 +12,7 @@ aliases:
 ---
 # Pike
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Pike.webp#right)
+![](/3-Mechanics/CLI/items/img/pike.webp#right)
 
 - **Damage**: 1d10 piercing
 - **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)

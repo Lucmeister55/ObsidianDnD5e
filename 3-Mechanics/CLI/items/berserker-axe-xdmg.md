@@ -17,7 +17,7 @@ aliases:
 ---
 # Berserker Axe
 *Cursed item, rare (requires attunement)*  
-![Berserker axe (Battleaxe)](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Berserker Axe.webp#right)
+![Berserker axe (Battleaxe)](/3-Mechanics/CLI/items/img/berserker-axe.webp#right)
 
 - **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items)
 

@@ -97,7 +97,7 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
     "name": "Deathly Wail (1/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Banshee.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/banshee-xmm.webp"
 ```
 ^statblock
 

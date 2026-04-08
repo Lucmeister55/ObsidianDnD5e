@@ -10,7 +10,7 @@ aliases:
 ---
 # Deck of Many Things
 *Wondrous item, legendary*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Deck of Many Things.webp#right)
+![](/3-Mechanics/CLI/items/img/deck-of-many-things.webp#right)
 
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have thirteen cards, but some have twenty-two. Use the appropriate column of the Deck of Many Things table when randomly determining cards drawn from the deck.

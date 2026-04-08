@@ -96,7 +96,7 @@ On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those t
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Efreeti.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/efreeti-xmm.webp"
 ```
 ^statblock
 

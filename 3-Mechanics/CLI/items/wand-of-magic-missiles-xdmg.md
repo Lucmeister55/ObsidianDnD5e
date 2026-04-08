@@ -11,7 +11,7 @@ aliases:
 ---
 # Wand of Magic Missiles
 *Wand, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Wand of Magic Missiles.webp#right)
+![](/3-Mechanics/CLI/items/img/wand-of-magic-missiles.webp#right)
 
 - **Weight**: 1.0 lbs.
 

@@ -17,7 +17,7 @@ This wagon-sized device is designed to look roughly like a dragon. Before it can
 
 ```ad-statblock
 title: Boilerdrak
-![](file://D:\ProgramData\CLI\5etools-img/objects/tokens/DSotDQ/Boilerdrak.webp#token)
+![](/3-Mechanics/CLI/objects/token/boilerdrak-dsotdq.webp#token)
 *Large Siege weapon*
 
 - **Armor Class** 15

@@ -79,7 +79,7 @@ Wererats can shape-shift from their humanoid forms into giant rats or humanoid-r
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Wererat.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/wererat-xmm.webp"
 ```
 ^statblock
 

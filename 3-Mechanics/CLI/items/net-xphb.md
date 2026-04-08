@@ -11,7 +11,7 @@ aliases:
 ---
 # Net
 *Adventuring gear*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Net.webp#right)
+![](/3-Mechanics/CLI/items/img/net.webp#right)
 
 - **Cost**: 1 gp
 - **Weight**: 3.0 lbs.

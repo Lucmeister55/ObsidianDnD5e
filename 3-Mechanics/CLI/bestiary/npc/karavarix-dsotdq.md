@@ -89,6 +89,6 @@ aliases:
     "name": "Cataclysmic Rush (Costs 2 Actions)"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Karavarix.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/karavarix-dsotdq.webp"
 ```
 ^statblock

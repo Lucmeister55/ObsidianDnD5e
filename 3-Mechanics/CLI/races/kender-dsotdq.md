@@ -10,7 +10,7 @@ aliases:
 ---
 # Kender
 *Source: Dragonlance: Shadow of the Dragon Queen p. 27*  
-![](file://D:\ProgramData\CLI\5etools-img/races/DSotDQ/Kender.webp#right)
+![](/3-Mechanics/CLI/races/img/kender.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small

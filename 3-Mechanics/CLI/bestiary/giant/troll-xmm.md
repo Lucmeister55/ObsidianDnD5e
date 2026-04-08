@@ -81,7 +81,7 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
     "name": "Charge"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Troll.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/troll-xmm.webp"
 ```
 ^statblock
 

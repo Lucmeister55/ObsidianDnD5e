@@ -75,7 +75,7 @@ Many dragon turtles live in secluded lairs or ruins deep underwater, and they mi
     "name": "Steam Breath (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Dragon Turtle.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/dragon-turtle-xmm.webp"
 ```
 ^statblock
 

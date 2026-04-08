@@ -112,7 +112,7 @@ Ultroloths strive to achieve planes-spanning plots. Roll on or choose a result f
     "name": "Fiendish Guile (Recharge 4-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Ultroloth.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/ultroloth-xmm.webp"
 ```
 ^statblock
 

@@ -87,6 +87,6 @@ Changed by days of strange experiments involving draconian blood and exposure to
     "name": "Hurl Flame"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Virruza.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/virruza-dsotdq.webp"
 ```
 ^statblock

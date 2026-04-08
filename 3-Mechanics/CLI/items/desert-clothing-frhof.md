@@ -11,7 +11,7 @@ aliases:
 ---
 # Desert Clothing
 *Adventuring gear*  
-![](file://D:\ProgramData\CLI\5etools-img/items/FRHoF/Desert Clothing.webp#right)
+![](/3-Mechanics/CLI/items/img/desert-clothing.webp#right)
 
 - **Cost**: 10 gp
 - **Weight**: 4.0 lbs.

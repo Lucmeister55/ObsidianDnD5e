@@ -11,7 +11,7 @@ aliases:
 ---
 # Cloak of Protection
 *Wondrous item, uncommon (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Cloak of Protection.webp#right)
+![](/3-Mechanics/CLI/items/img/cloak-of-protection.webp#right)
 
 
 You gain a +1 bonus to [Armor Class](/3-Mechanics/CLI/variant-rules/armor-class-xphb.md) and saving throws while you wear this cloak.

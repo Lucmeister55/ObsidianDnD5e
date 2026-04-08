@@ -11,7 +11,7 @@ aliases:
 ---
 # Padded Armor
 *Light armor*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Padded Armor.webp#right)
+![](/3-Mechanics/CLI/items/img/padded-armor.webp#right)
 
 - **Armor Class**: 11 + Dex modifier
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.

@@ -61,7 +61,6 @@ aliases:
     "name": "Berserk Lashing (Clay Only)"
 "source":
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XPHB/Construct\
-  \ Spirit.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/construct-spirit-xphb.webp"
 ```
 ^statblock

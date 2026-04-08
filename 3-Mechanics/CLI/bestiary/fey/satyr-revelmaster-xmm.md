@@ -84,7 +84,7 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
     "name": "Fey Melody (Recharge 4-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Satyr Revelmaster.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/satyr-revelmaster-xmm.webp"
 ```
 ^statblock
 

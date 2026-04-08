@@ -94,7 +94,7 @@ Poltergeists telekinetically move objects in the places they lurk. Roll on or ch
     "name": "Vanish"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Poltergeist.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/poltergeist-xmm.webp"
 ```
 ^statblock
 

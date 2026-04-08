@@ -12,7 +12,7 @@ aliases:
 ---
 # Morningstar
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Morningstar.webp#right)
+![](/3-Mechanics/CLI/items/img/morningstar.webp#right)
 
 - **Damage**: 1d8 piercing
 - **Cost**: 15 gp

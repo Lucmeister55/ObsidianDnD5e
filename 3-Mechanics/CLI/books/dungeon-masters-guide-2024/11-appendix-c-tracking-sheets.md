@@ -14,36 +14,36 @@ You can find all the tracking sheets found throughout the "Dungeon Master's Guid
 
 ## Game Expectations
 
-![Download PDF](file://D:\ProgramData\CLI\5etools-img/book/XDMG/240-13-001.game-expectations-sheet.webp#center)
+![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/240-13-001-game-expectations-sheet.webp#center)
 
 ## Travel Planner
 
-![Download PDF](file://D:\ProgramData\CLI\5etools-img/book/XDMG/241-13-002.travel-planner-sheet.webp#center)
+![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/241-13-002-travel-planner-sheet.webp#center)
 
 ## NPC Tracker
 
-![Download PDF](file://D:\ProgramData\CLI\5etools-img/book/XDMG/242-13-003.npc-tracker-sheet.webp#center)
+![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/242-13-003-npc-tracker-sheet.webp#center)
 
 ## Settlement Tracker
 
-![Download PDF](file://D:\ProgramData\CLI\5etools-img/book/XDMG/243-13-004.settlement-tracker-sheet.webp#center)
+![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/243-13-004-settlement-tracker-sheet.webp#center)
 
 ## Campaign Journal
 
-![Download PDF](file://D:\ProgramData\CLI\5etools-img/book/XDMG/244-13-005.campaign-journal-sheet.webp#center)
+![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/244-13-005-campaign-journal-sheet.webp#center)
 
 ## DM's Character Tracker
 
-![Download PDF](file://D:\ProgramData\CLI\5etools-img/book/XDMG/245-13-006.dms-character-tracker-sheet.webp#center)
+![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/245-13-006-dms-character-tracker-sheet.webp#center)
 
 ## Campaign Conflicts
 
-![Download PDF](file://D:\ProgramData\CLI\5etools-img/book/XDMG/246-13-007.campaign-conflicts-sheet.webp#center)
+![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/246-13-007-campaign-conflicts-sheet.webp#center)
 
 ## Magic Item Tracker
 
-![Download PDF](file://D:\ProgramData\CLI\5etools-img/book/XDMG/247-13-008.magic-item-tracker-sheet.webp#center)
+![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/247-13-008-magic-item-tracker-sheet.webp#center)
 
 ## Bastion Tracker
 
-![Download PDF](file://D:\ProgramData\CLI\5etools-img/book/XDMG/248-13-009.bastion-tracker-sheet.webp#center)
+![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/248-13-009-bastion-tracker-sheet.webp#center)

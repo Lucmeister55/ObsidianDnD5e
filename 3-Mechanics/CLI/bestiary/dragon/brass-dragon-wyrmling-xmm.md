@@ -82,8 +82,7 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
     "name": "Sleep Breath"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Brass Dragon\
-  \ Wyrmling.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/brass-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

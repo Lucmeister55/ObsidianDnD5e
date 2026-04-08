@@ -12,7 +12,7 @@ aliases:
 ---
 # Whip
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Whip.webp#right)
+![](/3-Mechanics/CLI/items/img/whip.webp#right)
 
 - **Damage**: 1d4 slashing
 - **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Reach](/3-Mechanics/CLI/item-properties.md#Reach)

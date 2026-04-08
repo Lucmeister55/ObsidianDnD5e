@@ -10,7 +10,7 @@ aliases:
 ---
 # Quaal's Feather Token, Bird
 *Wondrous item, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Quaals Feather Token (Bird).webp#right)
+![](/3-Mechanics/CLI/items/img/quaals-feather-token-bird.webp#right)
 
 
 This object looks like a feather.

@@ -13,7 +13,7 @@ aliases:
 ---
 # Trident of Fish Command
 *Weapon ([trident](/3-Mechanics/CLI/items/trident-xphb.md)), uncommon (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Trident of Fish Command.webp#right)
+![](/3-Mechanics/CLI/items/img/trident-of-fish-command.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 piercing

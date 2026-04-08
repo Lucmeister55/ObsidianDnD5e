@@ -111,7 +111,7 @@ Solars can resurrect the dead and often use that power to enlist mortal aid. The
     "name": "Radiant Teleport"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Solar.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/solar-xmm.webp"
 ```
 ^statblock
 

@@ -84,7 +84,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
     "name": "Sleep (1/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Dust Mephit.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/dust-mephit-xmm.webp"
 ```
 ^statblock
 

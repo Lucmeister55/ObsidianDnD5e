@@ -10,7 +10,7 @@ aliases:
 ---
 # Gem of Brightness
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Gem of Brightness.webp#right)
+![](/3-Mechanics/CLI/items/img/gem-of-brightness.webp#right)
 
 
 This prism has 50 charges. While you are holding it, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action and use one of three command words to cause one of the following effects:

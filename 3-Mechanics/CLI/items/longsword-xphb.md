@@ -12,7 +12,7 @@ aliases:
 ---
 # Longsword
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Longsword.webp#right)
+![](/3-Mechanics/CLI/items/img/longsword.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 slashing

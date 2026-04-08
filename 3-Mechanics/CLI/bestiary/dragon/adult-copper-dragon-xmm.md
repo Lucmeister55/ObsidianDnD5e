@@ -127,8 +127,7 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
     "name": "Pounce"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Adult Copper\
-  \ Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/adult-copper-dragon-xmm.webp"
 ```
 ^statblock
 

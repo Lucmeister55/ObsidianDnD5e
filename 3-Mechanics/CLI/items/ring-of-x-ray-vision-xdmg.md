@@ -12,7 +12,7 @@ aliases:
 ---
 # Ring of X-ray Vision
 *Ring, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Ring of X-ray Vision.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-x-ray-vision.webp#right)
 
 
 While wearing this ring, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to gain X-ray vision with a range of 30 feet for 1 minute. To you, solid objects within that radius appear transparent and don't prevent light from passing through them. The vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances or a thin sheet of lead block the vision.

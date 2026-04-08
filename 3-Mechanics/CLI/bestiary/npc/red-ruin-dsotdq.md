@@ -74,6 +74,6 @@ Known for her incredible awareness and reflexes, the dragonnel-flying ace Red Ru
     "name": "Explosive Hand Crossbow (Recharge 5-6)"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Red Ruin.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/red-ruin-dsotdq.webp"
 ```
 ^statblock

@@ -72,7 +72,7 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
     "name": "Gnash"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Tree Blight.webp"
+"image": "/3-Mechanics/CLI/bestiary/plant/token/tree-blight-xmm.webp"
 ```
 ^statblock
 

@@ -80,7 +80,7 @@ Chuuls don't age and can lie dormant in hidden places for millennia before threa
     "name": "Paralyzing Tentacles"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Chuul.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/chuul-xmm.webp"
 ```
 ^statblock
 

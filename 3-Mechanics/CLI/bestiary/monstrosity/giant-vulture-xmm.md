@@ -60,7 +60,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Gouge"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Giant Vulture.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/giant-vulture-xmm.webp"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ aliases:
 ---
 # Cube of Summoning
 *Wondrous item, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Cube of Summoning.webp#right)
+![](/3-Mechanics/CLI/items/img/cube-of-summoning.webp#right)
 
 
 This Tiny cube looks like a jack-in-the-box. When you wind its crank as a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, a merry tune emits from the box, the lid pops open, a creature appears in the nearest unoccupied space, and the lid closes. The lid can't otherwise be opened.

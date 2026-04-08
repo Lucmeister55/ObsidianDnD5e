@@ -72,7 +72,7 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
     "name": "Claw"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Ghoul.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/ghoul-xmm.webp"
 ```
 ^statblock
 

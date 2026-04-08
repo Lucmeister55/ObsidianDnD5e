@@ -10,7 +10,7 @@ aliases:
 ---
 # Purple Dragon Squire
 *Source: Forgotten Realms: Heroes of Faerûn p. 34*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/FRHoF/Purple Dragon Squire.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/purple-dragon-squire.webp#right)
 
 - **Ability Scores.** Strength, Wisdom, Charisma  
 - **Feat.** [Purple Dragon Rook](/3-Mechanics/CLI/feats/purple-dragon-rook-frhof.md)  

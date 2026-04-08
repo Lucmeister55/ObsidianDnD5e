@@ -85,7 +85,7 @@ Treants defend and are shaped by secrets of the forest. Roll on or choose a resu
     "name": "Animate Trees (1/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Treant.webp"
+"image": "/3-Mechanics/CLI/bestiary/plant/token/treant-xmm.webp"
 ```
 ^statblock
 

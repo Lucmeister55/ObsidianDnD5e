@@ -10,7 +10,7 @@ aliases:
 ---
 # Driftglobe
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Driftglobe.webp#right)
+![](/3-Mechanics/CLI/items/img/driftglobe.webp#right)
 
 - **Weight**: 1.0 lbs.
 

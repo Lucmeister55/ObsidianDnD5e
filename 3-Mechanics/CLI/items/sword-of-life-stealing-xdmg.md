@@ -20,7 +20,7 @@ aliases:
 ---
 # Sword of Life Stealing
 *Rare (requires attunement)*  
-![Sword of Life Stealing (Longsword)](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Sword of Life Stealing.webp#right)
+![Sword of Life Stealing (Longsword)](/3-Mechanics/CLI/items/img/sword-of-life-stealing.webp#right)
 
 
 When you attack a creature with this magic weapon and roll a 20 on the `dice:d20|noform|noparens|avg` (`d20`) for the attack roll, that target takes an extra 15 Necrotic damage if it isn't a Construct or an Undead, and you gain [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to the amount of Necrotic damage taken.

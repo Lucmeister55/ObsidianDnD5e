@@ -11,7 +11,7 @@ aliases:
 ---
 # Locking Spellbook
 *Adventuring gear*  
-![](file://D:\ProgramData\CLI\5etools-img/items/FRHoF/Locking Spellbook.webp#right)
+![](/3-Mechanics/CLI/items/img/locking-spellbook.webp#right)
 
 - **Cost**: 35 gp
 - **Weight**: 3.0 lbs.

@@ -83,7 +83,7 @@ Screeching, vulturelike demons, vrocks soar from the Abyss to spread ruin and sl
     "name": "Stunning Screech (1/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Vrock.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/vrock-xmm.webp"
 ```
 ^statblock
 

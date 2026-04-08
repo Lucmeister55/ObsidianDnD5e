@@ -69,7 +69,7 @@ Magmins might be conjured by magic-users to harry foes or might escape the Eleme
     "name": "Ignited Illumination"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Magmin.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/magmin-xmm.webp"
 ```
 ^statblock
 

@@ -99,7 +99,7 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Doppelganger.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/doppelganger-xmm.webp"
 ```
 ^statblock
 

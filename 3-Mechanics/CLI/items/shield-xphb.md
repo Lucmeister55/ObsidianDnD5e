@@ -11,7 +11,7 @@ aliases:
 ---
 # Shield
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md))*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Shield.webp#right)
+![](/3-Mechanics/CLI/items/img/shield.webp#right)
 
 - **Armor Class**: 2
 - **Cost**: 10 gp

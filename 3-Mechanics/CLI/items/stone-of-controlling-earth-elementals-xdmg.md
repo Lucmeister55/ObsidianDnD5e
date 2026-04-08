@@ -10,7 +10,7 @@ aliases:
 ---
 # Stone of Controlling Earth Elementals
 *Wondrous item, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Stone of Controlling Earth Elementals.webp#right)
+![](/3-Mechanics/CLI/items/img/stone-of-controlling-earth-elementals.webp#right)
 
 
 While touching this 5-pound stone to the ground, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to summon an [Earth Elemental](/3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md). The elemental appears in an unoccupied space you choose within 30 feet of yourself, obeys your commands, and takes its turn immediately after you on your [Initiative](/3-Mechanics/CLI/variant-rules/initiative-xphb.md) count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md). The stone can't be used this way again until the next dawn.

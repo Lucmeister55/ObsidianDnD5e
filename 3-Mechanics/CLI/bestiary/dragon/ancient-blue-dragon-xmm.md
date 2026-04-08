@@ -116,8 +116,7 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
     "name": "Tail Swipe"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Ancient Blue\
-  \ Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/ancient-blue-dragon-xmm.webp"
 ```
 ^statblock
 

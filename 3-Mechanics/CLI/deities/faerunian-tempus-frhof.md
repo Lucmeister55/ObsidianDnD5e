@@ -12,7 +12,7 @@ aliases:
 ---
 # Tempus
 *Source: Forgotten Realms: Heroes of Faerûn p. 124* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Tempus.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-tempus.webp#symbol)
 
 - **Alternate Names**: The Foehammer, The Lord of Battles
 - **Alignment**: Unaligned

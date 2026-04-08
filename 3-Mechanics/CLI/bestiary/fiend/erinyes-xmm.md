@@ -99,7 +99,7 @@ When not in the service of a diabolical master, erinyes hunt wicked souls. They 
     "name": "Parry"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Erinyes.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/erinyes-xmm.webp"
 ```
 ^statblock
 

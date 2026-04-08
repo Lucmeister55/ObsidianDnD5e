@@ -13,7 +13,7 @@ aliases:
 ---
 # Deneir
 *Source: Forgotten Realms: Heroes of Faerûn p. 105* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Deneir.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-deneir.webp#symbol)
 
 - **Alternate Names**: The First Scribe, The Lord of All Glyphs and Images, The Scribe of Oghma
 - **Alignment**: Unaligned

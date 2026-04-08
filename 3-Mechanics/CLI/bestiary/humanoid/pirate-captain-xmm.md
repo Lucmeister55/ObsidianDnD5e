@@ -105,7 +105,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
     "name": "Riposte"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Pirate Captain.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/pirate-captain-xmm.webp"
 ```
 ^statblock
 

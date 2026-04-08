@@ -10,7 +10,7 @@ aliases:
 ---
 # Chondathan Freebooter
 *Source: Forgotten Realms: Heroes of Faerûn p. 28*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/FRHoF/Chondathan Freebooter.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/chondathan-freebooter.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Wisdom  
 - **Feat.** [Skilled](/3-Mechanics/CLI/feats/skilled-xphb.md)  

@@ -74,7 +74,7 @@ The curse affecting kenku allows them to vocally communicate only by mimicking s
     "name": "Eldritch Lantern (Recharge 4-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Kenku.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/kenku-xmm.webp"
 ```
 ^statblock
 

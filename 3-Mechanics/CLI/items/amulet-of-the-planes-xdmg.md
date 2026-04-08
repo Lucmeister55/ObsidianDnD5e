@@ -11,7 +11,7 @@ aliases:
 ---
 # Amulet of the Planes
 *Wondrous item, very rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Amulet of the Planes.webp#right)
+![](/3-Mechanics/CLI/items/img/amulet-of-the-planes.webp#right)
 
 - **Weight**: 1.0 lbs.
 

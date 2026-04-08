@@ -11,7 +11,7 @@ aliases:
 ---
 # Scroll of Protection
 *Scroll, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Scroll of Protection.webp#right)
+![](/3-Mechanics/CLI/items/img/scroll-of-protection.webp#right)
 
 
 Each Scroll of Protection works against creatures of a specific creature type chosen by the DM or determined by rolling on the following table.

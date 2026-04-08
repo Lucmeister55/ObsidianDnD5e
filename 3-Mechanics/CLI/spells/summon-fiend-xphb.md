@@ -18,7 +18,7 @@ aliases:
 ---
 # Summon Fiend
 *6th-level, Conjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Summon Fiend.webp#right)
+![](/3-Mechanics/CLI/spells/img/summon-fiend.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

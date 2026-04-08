@@ -10,7 +10,7 @@ aliases:
 ---
 # Zhentarim Mercenary
 *Source: Forgotten Realms: Heroes of Faerûn p. 36*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/FRHoF/Zhentarim Mercenary.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/zhentarim-mercenary.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Charisma  
 - **Feat.** [Zhentarim Ruffian](/3-Mechanics/CLI/feats/zhentarim-ruffian-frhof.md)  

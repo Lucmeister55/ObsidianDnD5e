@@ -84,7 +84,7 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
     "name": "Portent (Recharge 4-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Cyclops Oracle.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/cyclops-oracle-xmm.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ aliases:
 ---
 # Shortsword
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Shortsword.webp#right)
+![](/3-Mechanics/CLI/items/img/shortsword.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)

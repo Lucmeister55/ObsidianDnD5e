@@ -72,6 +72,6 @@ aliases:
     "name": "Longbow"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Undead Soldier.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/undead-soldier-dsotdq.webp"
 ```
 ^statblock

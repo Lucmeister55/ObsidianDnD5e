@@ -59,7 +59,7 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
     "name": "Claw"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Manes.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/manes-xmm.webp"
 ```
 ^statblock
 

@@ -77,7 +77,7 @@ Hippogriff migrations might take months or years, and sages frequently predict t
     "name": "Rend"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Hippogriff.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/hippogriff-xmm.webp"
 ```
 ^statblock
 

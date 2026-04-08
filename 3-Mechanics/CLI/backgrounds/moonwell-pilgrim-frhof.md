@@ -10,7 +10,7 @@ aliases:
 ---
 # Moonwell Pilgrim
 *Source: Forgotten Realms: Heroes of Faerûn p. 33*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/FRHoF/Moonwell Pilgrim.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/moonwell-pilgrim.webp#right)
 
 - **Ability Scores.** Constitution, Wisdom, Charisma  
 - **Feat.** [Magic Initiate](/3-Mechanics/CLI/feats/magic-initiate-xphb.md) (Druid)  

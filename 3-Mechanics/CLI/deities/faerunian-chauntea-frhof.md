@@ -12,7 +12,7 @@ aliases:
 ---
 # Chauntea
 *Source: Forgotten Realms: Heroes of Faerûn p. 104* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Chauntea.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-chauntea.webp#symbol)
 
 - **Alternate Names**: The Grain Goddess, The Great Mother
 - **Alignment**: Unaligned

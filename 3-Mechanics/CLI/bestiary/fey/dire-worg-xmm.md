@@ -81,7 +81,7 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
     "name": "Warp Step"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Dire Worg.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/dire-worg-xmm.webp"
 ```
 ^statblock
 

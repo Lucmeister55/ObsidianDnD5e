@@ -11,7 +11,7 @@ aliases:
 ---
 # Splint Armor
 *Heavy armor*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Splint Armor.webp#right)
+![](/3-Mechanics/CLI/items/img/splint-armor.webp#right)
 
 - **Armor Class**: 17
 - **Strength**: Requires 15 STR.

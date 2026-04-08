@@ -21,7 +21,7 @@ The coach is designed for a crew of two: a driver and a gunner. The driver can t
 
 ```ad-statblock
 title: Flamethrower Coach
-![](file://D:\ProgramData\CLI\5etools-img/objects/tokens/XDMG/Flamethrower Coach.webp#token)
+![](/3-Mechanics/CLI/objects/token/flamethrower-coach-xdmg.webp#token)
 *Large Siege weapon*
 
 - **Armor Class** 19

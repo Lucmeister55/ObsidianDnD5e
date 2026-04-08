@@ -69,7 +69,7 @@ Gricks' origins are unclear, but some suggest these creatures arise from natural
     "name": "Tentacles"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Grick Ancient.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/grick-ancient-xmm.webp"
 ```
 ^statblock
 

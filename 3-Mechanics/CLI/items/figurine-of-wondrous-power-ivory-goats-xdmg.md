@@ -10,7 +10,7 @@ aliases:
 ---
 # Figurine of Wondrous Power, Ivory Goats
 *Wondrous item, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Figurine of Wondrous Power (Ivory Goats).webp#right)
+![](/3-Mechanics/CLI/items/img/figurine-of-wondrous-power-ivory-goats.webp#right)
 
 
 A [Figurine of Wondrous Power](/3-Mechanics/CLI/items/figurine-of-wondrous-power-xdmg.md) is a statuette small enough to fit in a pocket. If you take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to throw the figurine to a point on the ground within 60 feet of yourself, the figurine becomes a living creature specified in the figurine's description below. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.

@@ -83,7 +83,7 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
     "name": "Chilling Gaze"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Yeti.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/yeti-xmm.webp"
 ```
 ^statblock
 

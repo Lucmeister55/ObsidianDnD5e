@@ -12,7 +12,7 @@ aliases:
 ---
 # Rod of Absorption
 *Rod, very rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Rod of Absorption.webp#right)
+![](/3-Mechanics/CLI/items/img/rod-of-absorption.webp#right)
 
 - **Weight**: 2.0 lbs.
 

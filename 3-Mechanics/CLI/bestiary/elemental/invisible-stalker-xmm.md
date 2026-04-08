@@ -101,7 +101,7 @@ In rare cases, an invisible stalker lingers in the world without a spellcaster c
     "name": "Vortex"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Invisible Stalker.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/invisible-stalker-xmm.webp"
 ```
 ^statblock
 

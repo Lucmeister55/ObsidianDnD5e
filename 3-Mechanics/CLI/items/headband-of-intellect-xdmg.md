@@ -11,7 +11,7 @@ aliases:
 ---
 # Headband of Intellect
 *Wondrous item, uncommon (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Headband of Intellect.webp#right)
+![](/3-Mechanics/CLI/items/img/headband-of-intellect.webp#right)
 
 
 Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is 19 or higher without it.

@@ -34,7 +34,7 @@ aliases:
 ---
 # Water Breathing
 *3rd-level, Transmutation (ritual)*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Water Breathing.webp#right)
+![](/3-Mechanics/CLI/spells/img/water-breathing.webp#right)
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** 30 feet

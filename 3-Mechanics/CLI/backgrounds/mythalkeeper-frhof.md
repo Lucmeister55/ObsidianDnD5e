@@ -10,7 +10,7 @@ aliases:
 ---
 # Mythalkeeper
 *Source: Forgotten Realms: Heroes of Faerûn p. 34*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/FRHoF/Mythalkeeper.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/mythalkeeper.webp#right)
 
 - **Ability Scores.** Intelligence, Wisdom, Charisma  
 - **Feat.** [Crafter](/3-Mechanics/CLI/feats/crafter-xphb.md)  

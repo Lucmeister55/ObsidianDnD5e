@@ -10,7 +10,7 @@ aliases:
 # Chapter 3: Gods of Faerûn
 *Source: Forgotten Realms: Heroes of Faerûn, p. 95* 
 
-![Selûne the Moonmaiden, and...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/081-03-001.selune-and-shar.webp#center "Selûne the Moonmaiden, and Shar, Mistress of the Night, are sisters and divine rivals.")
+![Selûne the Moonmaiden, and...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/081-03-001-selune-and-shar.webp#center "Selûne the Moonmaiden, and Shar, Mistress of the Night, are sisters and divine rivals.")
 
 When the people of Faerûn find themselves in need, they turn to their gods. The gods play a role in the lives of nearly everyone, from the mightiest lord to the most unfortunate urchin.
 
@@ -79,7 +79,7 @@ Divine magic provides a direct means of communing with the gods and calling on t
 
 ### Priesthood
 
-![A priest of Lathander lead...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/082-03-002.priest-of-lathander.webp#center "A priest of Lathander leads followers in a religious ceremony.")
+![A priest of Lathander lead...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/082-03-002-priest-of-lathander.webp#center "A priest of Lathander leads followers in a religious ceremony.")
 
 Priesthood is a vocation, where those who undertake the profession hone their abilities through a system of apprenticeship. At a small temple, a novice or an acolyte studies under the single priest available. Larger temples accommodate groups of acolytes, each learning under the direction of one or more mentors responsible for training them in performing the gods' rites and tending their followers.
 
@@ -97,7 +97,7 @@ Some places take these restrictions a step further. A tyrant might outlaw worshi
 
 The gods show their favor toward mortals in myriad ways. A fortunate few have their minds and souls opened to the power of magic. There is no formula for who receives this divine insight, as the gods keep their own counsel concerning their selections. Some of the favored ignore or deny their gift, while others embrace it wholeheartedly.
 
-![Enver Gortash, Chosen of B...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/083-03-003.enver-gortash.webp#center "Enver Gortash, Chosen of Bane, plans his takeover of the city of Baldur's Gate.")
+![Enver Gortash, Chosen of B...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/083-03-003-enver-gortash.webp#center "Enver Gortash, Chosen of Bane, plans his takeover of the city of Baldur's Gate.")
 
 Some who display the potential for divine magic develop and practice their abilities in a temple, a sacred grove, or another spiritual place, perhaps in the company of fellow students. Other practitioners of divine magic discover and nurture their gods-given power on their own.
 

@@ -72,7 +72,7 @@ Knights are skilled warriors trained for war and tested in battle. Many serve th
     "name": "Parry"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Knight.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/knight-xmm.webp"
 ```
 ^statblock
 

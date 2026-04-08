@@ -10,7 +10,7 @@ aliases:
 ---
 # Zeboim
 *Source: Dragonlance: Shadow of the Dragon Queen p. 19* 
-![Symbol of Zeboim](file://D:\ProgramData\CLI\5etools-img/deities/DSotDQ/018-00-030.symbol-zeboim.webp#symbol)
+![Symbol of Zeboim](/3-Mechanics/CLI/deities/img/dsotdq-018-00-030-symbol-zeboim.webp#symbol)
 
 - **Alignment**: Chaotic Evil
 - **Category**: Evil

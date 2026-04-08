@@ -96,7 +96,7 @@ Sea hags cloak themselves in illusions to work their schemes. Roll on or choose 
     "name": "Illusory Appearance"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Sea Hag.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/sea-hag-xmm.webp"
 ```
 ^statblock
 

@@ -14,7 +14,7 @@ aliases:
 ---
 # Divine Smite
 *1st-level, Evocation*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Divine Smite.webp#right)
+![](/3-Mechanics/CLI/spells/img/divine-smite.webp#right)
 
 - **Casting time:** 1 Bonus Action, which you take immediately after hitting a target with a Melee weapon or an [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md)
 - **Range:** Self

@@ -116,7 +116,7 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
     "name": "Divine Aid (3/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Archpriest.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/archpriest-xmm.webp"
 ```
 ^statblock
 

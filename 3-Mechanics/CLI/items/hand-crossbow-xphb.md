@@ -12,7 +12,7 @@ aliases:
 ---
 # Hand Crossbow
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Hand Crossbow.webp#right)
+![](/3-Mechanics/CLI/items/img/hand-crossbow.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120

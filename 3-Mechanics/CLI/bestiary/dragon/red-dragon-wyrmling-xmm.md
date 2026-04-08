@@ -78,8 +78,7 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
     "name": "Fire Breath (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Red Dragon\
-  \ Wyrmling.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/red-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

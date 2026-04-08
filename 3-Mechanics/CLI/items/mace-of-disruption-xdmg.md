@@ -13,7 +13,7 @@ aliases:
 ---
 # Mace of Disruption
 *Weapon ([mace](/3-Mechanics/CLI/items/mace-xphb.md)), rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Mace of Disruption.webp#right)
+![](/3-Mechanics/CLI/items/img/mace-of-disruption.webp#right)
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.

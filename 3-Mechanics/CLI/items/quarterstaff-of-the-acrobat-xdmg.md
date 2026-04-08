@@ -13,7 +13,7 @@ aliases:
 ---
 # Quarterstaff of the Acrobat
 *Staff, weapon ([quarterstaff](/3-Mechanics/CLI/items/quarterstaff-xphb.md)), very rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Quarterstaff of the Acrobat.webp#right)
+![](/3-Mechanics/CLI/items/img/quarterstaff-of-the-acrobat.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

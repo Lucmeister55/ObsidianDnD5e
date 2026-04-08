@@ -110,7 +110,7 @@ These angels act where they can against overwhelming evil, but to avoid the atte
     "name": "Divine Aid (2/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Planetar.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/planetar-xmm.webp"
 ```
 ^statblock
 

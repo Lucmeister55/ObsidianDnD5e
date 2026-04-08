@@ -32,8 +32,8 @@ aliases:
         - **Based on the Player's Handbook (2014) designed by.** Jeremy Crawford (lead), Bruce R. Cordell, Tom LaPille, Peter Lee, Mike Mearls, Robert J. Schwalb, Rodney Thompson, James Wyatt    
         - **Building on the original game created by.** Gary Gygax and Dave Arneson and then developed by many others over the past 50 years    
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XPHB/credits.webp#center)
+![](/3-Mechanics/CLI/books/players-handbook-2024/img/credits.webp#center)
 
 > [!gallery]
-> ![On the Cover: Guided by a ...](file://D:\ProgramData\CLI\5etools-img/book/XPHB/credits2.webp#gallery "On the Cover: Guided by a gold dragon, the elf queen Yolande and the heroes of Valor's Call test their bravery against evil in this daring scene illustrated by Tyler Jacobson.")
-> ![On the Alt-Cover: Nothing'...](file://D:\ProgramData\CLI\5etools-img/book/XPHB/credits3.webp#gallery "On the Alt-Cover: Nothing's better than sharing stories with friends. Heroes pause to share tea and tales with a gold dragon in this serene illustration from Wylie Beckert.")
+> ![On the Cover: Guided by a ...](/3-Mechanics/CLI/books/players-handbook-2024/img/credits2.webp#gallery "On the Cover: Guided by a gold dragon, the elf queen Yolande and the heroes of Valor's Call test their bravery against evil in this daring scene illustrated by Tyler Jacobson.")
+> ![On the Alt-Cover: Nothing'...](/3-Mechanics/CLI/books/players-handbook-2024/img/credits3.webp#gallery "On the Alt-Cover: Nothing's better than sharing stories with friends. Heroes pause to share tea and tales with a gold dragon in this serene illustration from Wylie Beckert.")

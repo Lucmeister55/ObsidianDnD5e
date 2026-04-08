@@ -10,7 +10,7 @@ aliases:
 ---
 # Helm of Comprehending Languages
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Helm of Comprehending Languages.webp#right)
+![](/3-Mechanics/CLI/items/img/helm-of-comprehending-languages.webp#right)
 
 
 While wearing this helm, you can cast [Comprehend Languages](/3-Mechanics/CLI/spells/comprehend-languages-xphb.md) from it.

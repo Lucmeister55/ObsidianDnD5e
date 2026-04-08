@@ -11,7 +11,7 @@ aliases:
 ---
 # Talisman of the Sphere
 *Wondrous item, legendary (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Talisman of the Sphere.webp#right)
+![](/3-Mechanics/CLI/items/img/talisman-of-the-sphere.webp#right)
 
 - **Weight**: 1.0 lbs.
 

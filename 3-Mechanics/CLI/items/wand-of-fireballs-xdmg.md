@@ -12,7 +12,7 @@ aliases:
 ---
 # Wand of Fireballs
 *Wand, rare (requires attunement by a spellcaster)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Wand of Fireballs.webp#right)
+![](/3-Mechanics/CLI/items/img/wand-of-fireballs.webp#right)
 
 - **Weight**: 1.0 lbs.
 

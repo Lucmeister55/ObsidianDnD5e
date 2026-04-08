@@ -11,7 +11,7 @@ aliases:
 ---
 # Scarab of Protection
 *Wondrous item, legendary (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Scarab of Protection.webp#right)
+![](/3-Mechanics/CLI/items/img/scarab-of-protection.webp#right)
 
 - **Weight**: 1.0 lbs.
 

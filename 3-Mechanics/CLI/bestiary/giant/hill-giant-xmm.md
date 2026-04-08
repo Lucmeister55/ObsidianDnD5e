@@ -65,7 +65,7 @@ Disaster, invasion, or want might drive hill giants from their homes into other 
     "name": "Trash Lob"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Hill Giant.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/hill-giant-xmm.webp"
 ```
 ^statblock
 

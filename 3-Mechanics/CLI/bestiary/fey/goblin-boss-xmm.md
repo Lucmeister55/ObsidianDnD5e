@@ -93,7 +93,7 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
     "name": "Redirect Attack"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Goblin Boss.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/goblin-boss-xmm.webp"
 ```
 ^statblock
 

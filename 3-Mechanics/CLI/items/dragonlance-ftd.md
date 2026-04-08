@@ -16,7 +16,7 @@ aliases:
 ---
 # Dragonlance
 *Legendary (requires attunement)*  
-![By Paladine's might, a dragonlance is restored](file://D:\ProgramData\CLI\5etools-img/items/FTD/Dragonlance.webp#right)
+![By Paladine's might, a dragonlance is restored](/3-Mechanics/CLI/items/img/dragonlance.webp#right)
 
 
 A dragonlance is a renowned weapon forged from rare metal with the aid of powerful artifacts associated with Bahamut. Different lances are forged for use by foot soldiers (as pikes) and by riders (as lances), but the magical properties of the weapons are the same.

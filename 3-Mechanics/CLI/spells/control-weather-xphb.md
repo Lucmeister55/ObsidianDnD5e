@@ -20,7 +20,7 @@ aliases:
 ---
 # Control Weather
 *8th-level, Transmutation*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Control Weather.webp#right)
+![](/3-Mechanics/CLI/spells/img/control-weather.webp#right)
 
 - **Casting time:** 10 minutes
 - **Range:** Self (5-mile Sphere)

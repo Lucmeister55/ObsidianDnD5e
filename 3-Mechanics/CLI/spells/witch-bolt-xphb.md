@@ -30,7 +30,7 @@ aliases:
 ---
 # Witch Bolt
 *1st-level, Evocation*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Witch Bolt.webp#right)
+![](/3-Mechanics/CLI/spells/img/witch-bolt.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

@@ -12,7 +12,7 @@ aliases:
 ---
 # Animated Shield
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), very rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Animated Shield.webp#right)
+![](/3-Mechanics/CLI/items/img/animated-shield.webp#right)
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

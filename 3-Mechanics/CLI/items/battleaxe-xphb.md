@@ -12,7 +12,7 @@ aliases:
 ---
 # Battleaxe
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Battleaxe.webp#right)
+![](/3-Mechanics/CLI/items/img/battleaxe.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 slashing

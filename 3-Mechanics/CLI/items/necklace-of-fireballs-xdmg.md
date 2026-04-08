@@ -10,7 +10,7 @@ aliases:
 ---
 # Necklace of Fireballs
 *Wondrous item, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Necklace of Fireballs.webp#right)
+![](/3-Mechanics/CLI/items/img/necklace-of-fireballs.webp#right)
 
 - **Weight**: 1.0 lbs.
 

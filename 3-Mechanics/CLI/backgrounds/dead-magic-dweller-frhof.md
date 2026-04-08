@@ -10,7 +10,7 @@ aliases:
 ---
 # Dead Magic Dweller
 *Source: Forgotten Realms: Heroes of Faerûn p. 28*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/FRHoF/Dead Magic Dweller.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/dead-magic-dweller.webp#right)
 
 - **Ability Scores.** Strength, Constitution, Wisdom  
 - **Feat.** [Healer](/3-Mechanics/CLI/feats/healer-xphb.md)  

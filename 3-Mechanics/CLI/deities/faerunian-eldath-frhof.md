@@ -13,7 +13,7 @@ aliases:
 ---
 # Eldath
 *Source: Forgotten Realms: Heroes of Faerûn p. 106* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Eldath.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-eldath.webp#symbol)
 
 - **Alternate Names**: The Guardian of Groves, The Quiet One, The Mother of the Waters
 - **Alignment**: Unaligned

@@ -64,6 +64,6 @@ aliases:
     "name": "Animate Trees (1/Day)"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Duskwalker.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/duskwalker-dsotdq.webp"
 ```
 ^statblock

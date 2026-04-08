@@ -13,7 +13,7 @@ aliases:
 ---
 # Amaunator
 *Source: Forgotten Realms: Heroes of Faerûn p. 100* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Amaunator.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-amaunator.webp#symbol)
 
 - **Alternate Names**: The Keeper of the Eternal Sun, The Light of Law, The Yellow God
 - **Alignment**: Unaligned

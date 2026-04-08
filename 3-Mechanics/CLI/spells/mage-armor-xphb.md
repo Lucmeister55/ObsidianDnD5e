@@ -28,7 +28,7 @@ aliases:
 ---
 # Mage Armor
 *1st-level, Abjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Mage Armor.webp#right)
+![](/3-Mechanics/CLI/spells/img/mage-armor.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** Touch

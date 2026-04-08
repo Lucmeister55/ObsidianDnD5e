@@ -81,7 +81,6 @@ Wersten Kern is Lord Soth's standard bearer and champion. As with many of Soth's
     "name": "Spellcasting"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Wersten\
-  \ Kern.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/wersten-kern-dsotdq.webp"
 ```
 ^statblock

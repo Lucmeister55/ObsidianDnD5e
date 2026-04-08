@@ -11,7 +11,7 @@ aliases:
 ---
 # Talisman of Ultimate Evil
 *Wondrous item, legendary (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Talisman of Ultimate Evil.webp#right)
+![](/3-Mechanics/CLI/items/img/talisman-of-ultimate-evil.webp#right)
 
 - **Weight**: 1.0 lbs.
 

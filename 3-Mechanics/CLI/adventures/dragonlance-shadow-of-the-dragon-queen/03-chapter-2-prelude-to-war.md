@@ -14,7 +14,7 @@ The Dragon Queen's conquest of Ansalon has begun. The eastern half of the contin
 
 *Dragonlance: Shadow of the Dragon Queen* tells the tale of the Dragon Army's first strike into Solamnia and thrusts a group of heroes into the path of a world-altering war. This chapter provides an overview of the adventure presented in the chapters to come, as well as details on how to further involve the characters in the plot.
 
-![Dragon Highmaster Kansaldi...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/029-02-001.chapter-splash.webp#center "Dragon Highmaster Kansaldi Fire-Eyes leads the Red Dragon Army to war against Solamnia")
+![Dragon Highmaster Kansaldi...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/029-02-001-chapter-splash.webp#center "Dragon Highmaster Kansaldi Fire-Eyes leads the Red Dragon Army to war against Solamnia")
 
 ## Overview
 
@@ -119,7 +119,7 @@ This chapter pits the characters and their allies against the full might of the 
 
 ## The Dragon Queen's Threat
 
-![After centuries of secrecy...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/030-02-002.dragon-queen-followers.webp#center "After centuries of secrecy, the followers of the Dragon Queen emerge prepared for war")
+![After centuries of secrecy...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/030-02-002-dragon-queen-followers.webp#center "After centuries of secrecy, the followers of the Dragon Queen emerge prepared for war")
 
 Throughout this adventure, most of the characters' foes are servants of Takhisis the Dragon Queen, an evil god who seeks to conquer Krynn. Her agents are many, but her organized forces are known as the Dragon Armies. This book's introduction provides additional details on Takhisis and the Dragon Armies. As the adventure unfolds, the characters find themselves opposed by several of the Dragon Queen's agents. The characters' goal in this adventure isn't to lay low the entirety of the Dragon Armies or to stop the threat of the Dragon Queen herself. Rather, their deeds will oppose the Red Dragon Army's forces seeking to conquer the Kalaman region.
 
@@ -181,7 +181,7 @@ Ispin Greenshield wished to have his life celebrated in a simple way, with frien
 
 Each character has agreed to attend Ispin's funeral and has set off on the road to Vogler. The extent of this undertaking might vary for each character. Characters who travel by sea disembark at the port of Kalaman (detailed in chapter 4) and then travel by road to Vogler. The characters' travels are largely uneventful until the final leg of their journey (see the "Preludes" section). Chapter 3 gives characters who have not been traveling together the opportunity to reunite and share details of their journeys.
 
-![Handout 2.1](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/031-02-003.becklins-letter.webp#center)
+![Handout 2.1](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/031-02-003-becklins-letter.webp#center)
 
 > [!readaloud] 
 > 
@@ -316,7 +316,7 @@ Read or paraphrase the following text to describe the vision the characters have
 > You stand at the center of a forest clearing. Clashing steel echoes from the thicket beyond. As you look around, you realize piles of bodies cover the ground. One of the fallen clutches something against their chest. You're not sure what it is, but you feel the urge to reach for it. Before you can, the object glows and then flashes with intense light.
 ^0b5
 
-![Kiri-Jolith, God of War, i...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/032-02-004.kiri-jolith.webp#center "Kiri-Jolith, God of War, is one of many deities seeking followers to carry their faith back to Krynn")
+![Kiri-Jolith, God of War, i...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/032-02-004-kiri-jolith.webp#center "Kiri-Jolith, God of War, is one of many deities seeking followers to carry their faith back to Krynn")
 
 The characters wake after having the vision and find nothing out of the ordinary. They realize the object in the vision was an amulet. The amulet bears a design they might not recognize, but is the symbol of the god the character's player chose during character creation. The echoes of battle don't mean anything in particular to the characters but feel like a bad omen.
 
@@ -400,7 +400,7 @@ Characters who examine the tapestries recognize each of the three moons and thei
 
 A character who succeeds on a DC 10 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check realizes that while the doors in the room should lead outside, no other entrances into the Barb were visible from the exterior.
 
-![A Spellbook Emblazoned wit...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/033-02-005.spellbook.webp#center "A Spellbook Emblazoned with the Symbol of the Mages of High Sorcery")
+![A Spellbook Emblazoned wit...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/033-02-005-spellbook.webp#center "A Spellbook Emblazoned with the Symbol of the Mages of High Sorcery")
 
 #### Rules of the Trial
 
@@ -446,7 +446,7 @@ Touching the key at the center causes the walls of the maze to vanish. The key c
 
 Upon completing the trial and passing through the door, the characters emerge into the atrium of the Barb. Rovina congratulates them on passing the challenge and deems their apprenticeship complete. They are now ready to take the next step on the path to becoming members of the Mages of High Sorcery.
 
-![After completing the Trial...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/034-02-006.scroll-mcguffin.webp#center "After completing the Trial of the Barb, an adventurer receives this scroll and instructions to take it to Wyhan in Kalaman")
+![After completing the Trial...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/034-02-006-scroll-mcguffin.webp#center "After completing the Trial of the Barb, an adventurer receives this scroll and instructions to take it to Wyhan in Kalaman")
 
 Rovina hands each character an ornate scroll and a spellbook emblazoned with the symbol of the Mages of High Sorcery. She says the books are meant for the characters, either to use as spellbooks or to fill with their discoveries. The scrolls are meant for the mage who will lead the characters on the next step of their journey: a black-robed mage named [Wyhan](/3-Mechanics/CLI/bestiary/npc/wyhan-dsotdq.md) who resides in the city of Kalaman near Vogler. The characters have already received their invitation to Ispin Greenshield's funeral, and Kalaman is conveniently nearby.
 
@@ -484,7 +484,7 @@ Rhys doesn't know this, but the soldiers who hired him weren't merely solders—
 
 #### Fallen Caravan
 
-![A terrifying new enemy inf...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/035-02-007.draconian-om-nom-nom.webp#center "A terrifying new enemy infiltrates the shadows of Solamnia: draconians")
+![A terrifying new enemy inf...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/035-02-007-draconian-om-nom-nom.webp#center "A terrifying new enemy infiltrates the shadows of Solamnia: draconians")
 
 Rhys leads the characters down the road. Once they approach the place where Rhys and the soldiers were ambushed, Rhys refuses to go any farther. He tells the characters the soldiers should be just ahead.
 

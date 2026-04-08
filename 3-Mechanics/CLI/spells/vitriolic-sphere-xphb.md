@@ -24,7 +24,7 @@ aliases:
 ---
 # Vitriolic Sphere
 *4th-level, Evocation*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Vitriolic Sphere.webp#right)
+![](/3-Mechanics/CLI/spells/img/vitriolic-sphere.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 150 feet

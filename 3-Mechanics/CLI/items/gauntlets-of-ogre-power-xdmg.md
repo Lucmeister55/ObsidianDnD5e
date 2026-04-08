@@ -11,7 +11,7 @@ aliases:
 ---
 # Gauntlets of Ogre Power
 *Wondrous item, uncommon (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Gauntlets of Ogre Power.webp#right)
+![](/3-Mechanics/CLI/items/img/gauntlets-of-ogre-power.webp#right)
 
 
 Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is 19 or higher without them.

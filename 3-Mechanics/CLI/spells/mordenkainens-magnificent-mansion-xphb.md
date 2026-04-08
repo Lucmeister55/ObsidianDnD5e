@@ -16,7 +16,7 @@ aliases:
 ---
 # Mordenkainen's Magnificent Mansion
 *7th-level, Conjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Mordenkainen's Magnificent Mansion.webp#right)
+![](/3-Mechanics/CLI/spells/img/mordenkainens-magnificent-mansion.webp#right)
 
 - **Casting time:** 1 minute
 - **Range:** 300 feet

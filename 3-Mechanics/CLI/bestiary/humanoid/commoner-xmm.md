@@ -135,7 +135,7 @@ Youngster
     "name": "Club"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Commoner.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/commoner-xmm.webp"
 ```
 ^statblock
 

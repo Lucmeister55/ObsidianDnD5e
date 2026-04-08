@@ -10,7 +10,7 @@ aliases:
 ---
 # Cloak of Billowing
 *Wondrous item, common*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Cloak of Billowing.webp#right)
+![](/3-Mechanics/CLI/items/img/cloak-of-billowing.webp#right)
 
 
 While wearing this cloak, you can take a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) to make it billow dramatically for 1 minute.

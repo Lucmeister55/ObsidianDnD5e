@@ -28,7 +28,7 @@ aliases:
 ---
 # Summon Aberration
 *4th-level, Conjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Summon Aberration.webp#right)
+![](/3-Mechanics/CLI/spells/img/summon-aberration.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

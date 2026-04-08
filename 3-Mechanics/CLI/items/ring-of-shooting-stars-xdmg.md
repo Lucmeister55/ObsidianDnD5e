@@ -12,7 +12,7 @@ aliases:
 ---
 # Ring of Shooting Stars
 *Ring, very rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Ring of Shooting Stars.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-shooting-stars.webp#right)
 
 
 You can cast [Dancing Lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md) or [Light](/3-Mechanics/CLI/spells/light-xphb.md) from the ring.

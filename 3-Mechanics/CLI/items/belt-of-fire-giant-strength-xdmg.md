@@ -11,7 +11,7 @@ aliases:
 ---
 # Belt of Fire Giant Strength
 *Wondrous item, very rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Belt of Giant Strength (Fire).webp#right)
+![](/3-Mechanics/CLI/items/img/belt-of-giant-strength-fire.webp#right)
 
 
 While wearing this belt, your Strength score changes to 25. The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score.

@@ -80,7 +80,7 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
     "name": "Ethereal Stride"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Nightmare.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/nightmare-xmm.webp"
 ```
 ^statblock
 

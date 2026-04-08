@@ -11,7 +11,7 @@ aliases:
 ---
 # Bracers of Archery
 *Wondrous item, uncommon (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Bracers of Archery.webp#right)
+![](/3-Mechanics/CLI/items/img/bracers-of-archery.webp#right)
 
 
 While wearing these bracers, you have proficiency with the [Longbow](/3-Mechanics/CLI/items/longbow-xphb.md) and [Shortbow](/3-Mechanics/CLI/items/shortbow-xphb.md), and you gain a +2 bonus to damage rolls made with such weapons.

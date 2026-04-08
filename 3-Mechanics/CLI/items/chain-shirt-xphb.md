@@ -11,7 +11,7 @@ aliases:
 ---
 # Chain Shirt
 *Medium armor*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Chain Shirt.webp#right)
+![](/3-Mechanics/CLI/items/img/chain-shirt.webp#right)
 
 - **Armor Class**: 13 + Dex modifier (max of +2)
 - **Cost**: 50 gp

@@ -13,7 +13,7 @@ aliases:
 ---
 # Auril
 *Source: Forgotten Realms: Heroes of Faerûn p. 101* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Auril.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-auril.webp#symbol)
 
 - **Alternate Names**: The Cold Crone, The Frostmaiden, Icedawn
 - **Alignment**: Unaligned

@@ -12,7 +12,7 @@ aliases:
 ---
 # Ring of Invisibility
 *Ring, legendary (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Ring of Invisibility.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-invisibility.webp#right)
 
 
 While wearing this ring, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to give yourself the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible) condition. You remain [Invisible](/3-Mechanics/CLI/conditions.md#Invisible) until the ring is removed or until you take a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) to become visible again.

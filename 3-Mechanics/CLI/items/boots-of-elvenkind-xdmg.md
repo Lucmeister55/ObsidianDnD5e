@@ -10,7 +10,7 @@ aliases:
 ---
 # Boots of Elvenkind
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Boots of Elvenkind.webp#right)
+![](/3-Mechanics/CLI/items/img/boots-of-elvenkind.webp#right)
 
 
 While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks.

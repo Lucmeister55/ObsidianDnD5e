@@ -77,7 +77,7 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
     "name": "Hooves"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Warhorse Skeleton.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/warhorse-skeleton-xmm.webp"
 ```
 ^statblock
 

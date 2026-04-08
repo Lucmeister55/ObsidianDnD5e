@@ -53,7 +53,6 @@ aliases:
     "name": "Healing Touch (Celestial Only; Recharges after a Long Rest)"
 "source":
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XPHB/Otherworldly\
-  \ Steed.webp"
+"image": "/3-Mechanics/CLI/bestiary/miscellaneous/token/otherworldly-steed-xphb.webp"
 ```
 ^statblock

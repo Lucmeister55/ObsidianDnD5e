@@ -69,6 +69,6 @@ The youthful archer [Ayik](/3-Mechanics/CLI/bestiary/npc/ayik-ur-dsotdq.md) is t
     "name": "Longbow"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Ayik Ur.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/ayik-ur-dsotdq.webp"
 ```
 ^statblock

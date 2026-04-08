@@ -111,7 +111,7 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
     "name": "Psionic Defense"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Githzerai Psion.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/githzerai-psion-xmm.webp"
 ```
 ^statblock
 

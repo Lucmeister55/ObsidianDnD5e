@@ -10,7 +10,7 @@ aliases:
 ---
 # Charlatan
 *Source: Player's Handbook (2024) p. 180*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/XPHB/Charlatan.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/charlatan.webp#right)
 
 - **Ability Scores.** Dexterity, Constitution, Charisma  
 - **Feat.** [Skilled](/3-Mechanics/CLI/feats/skilled-xphb.md)  

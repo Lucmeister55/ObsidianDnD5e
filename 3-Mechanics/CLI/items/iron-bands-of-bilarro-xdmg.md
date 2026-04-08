@@ -10,7 +10,7 @@ aliases:
 ---
 # Iron Bands of Bilarro
 *Wondrous item, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Iron Bands of Bilarro.webp#right)
+![](/3-Mechanics/CLI/items/img/iron-bands-of-bilarro.webp#right)
 
 - **Weight**: 1.0 lbs.
 

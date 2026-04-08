@@ -10,7 +10,7 @@ aliases:
 ---
 # Flaming Fist Mercenary
 *Source: Forgotten Realms: Heroes of Faerûn p. 30*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/FRHoF/Flaming Fist Mercenary.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/flaming-fist-mercenary.webp#right)
 
 - **Ability Scores.** Strength, Constitution, Charisma  
 - **Feat.** [Tough](/3-Mechanics/CLI/feats/tough-xphb.md)  

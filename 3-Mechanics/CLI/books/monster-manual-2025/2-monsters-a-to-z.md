@@ -435,7 +435,7 @@ Aarakocra are birdlike folk who soar the skies of countless worlds and the endle
 > [!embed-monster]- Aarakocra Skirmisher
 > ![Aarakocra Skirmisher](/3-Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/031-01-001.two-aarakocra.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/031-01-001-two-aarakocra.webp#center)
 
 ### Aboleth
 
@@ -470,7 +470,7 @@ Aboleths' alien goals and methods are often mysterious to other creatures. Roll 
 
 **Aboleth Lairs.** Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spaces for their terrestrial servants and to hold treasures that would be damaged by water.
 
-![A gnome cultist consults an all-knowing aboleth](file://D:\ProgramData\CLI\5etools-img/book/XMM/032-01-002.aboleth-and-cultist.webp#center)
+![A gnome cultist consults an all-knowing aboleth](/3-Mechanics/CLI/books/monster-manual-2025/img/032-01-002-aboleth-and-cultist.webp#center)
 
 > [!embed-monster]- Aboleth
 > ![Aboleth](/3-Mechanics/CLI/bestiary/aberration/aboleth-xmm.md#^statblock)
@@ -504,7 +504,7 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
 | 6 | Swirling storm clouds. |
 ^air-elemental-compositions
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/033-01-003.air-elemental.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/033-01-003-air-elemental.webp#center)
 
 > [!embed-monster]- Air Elemental
 > ![Air Elemental](/3-Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md#^statblock)
@@ -584,7 +584,7 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
 | 10 | Whale |
 ^sage-animal-lord-appearances
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/034-01-004.animal-lords.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/034-01-004-animal-lords.webp#center)
 
 > [!embed-monster]- Animal Lord
 > ![Animal Lord](/3-Mechanics/CLI/bestiary/celestial/animal-lord-xmm.md#^statblock)
@@ -622,7 +622,7 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 | 10 | The will of a powerful psychic being. |
 ^animated-object-catalysts
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/035-01-005.group-of-animated-items.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/035-01-005-group-of-animated-items.webp#center)
 
 > [!embed-monster]- Animated Armor
 > ![Animated Armor](/3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md#^statblock)
@@ -669,12 +669,12 @@ Ankheg tunnels are roughly cylindrical and are often littered with the remains o
 | 8 | A viciously mauled scarecrow. |
 ^ankheg-tunnel-discoveries
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/036-01-006.ankheg.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/036-01-006-ankheg.webp#center)
 
 > [!embed-monster]- Ankheg
 > ![Ankheg](/3-Mechanics/CLI/bestiary/monstrosity/ankheg-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/037-01-007.arcanaloth.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/037-01-007-arcanaloth.webp#center)
 
 ### Arcanaloth
 
@@ -729,7 +729,7 @@ Every arch-hag has a unique weakness tied to a fateful encounter the hag had in 
 
 **Arch-hag Lairs.** Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop a storm cloud, or—in the case of the arch-hag Baba Yaga—a hut atop giant chicken legs. The interiors of these lairs frequently change or exhibit bewildering features.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/038-01-008.arch-hags.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/038-01-008-arch-hags.webp#center)
 
 > [!embed-monster]- Arch-hag
 > ![Arch-hag](/3-Mechanics/CLI/bestiary/fey/arch-hag-xmm.md#^statblock)
@@ -759,7 +759,7 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
 | 6 | Using poison with a distinctive color or smell. |
 ^assassin-modus-operandi
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/039-01-009.assassin.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/039-01-009-assassin.webp#center)
 
 > [!embed-monster]- Assassin
 > ![Assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md#^statblock)
@@ -777,7 +777,7 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
 > 
 > Just because we protect the forest doesn't mean it's defenseless.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/040-01-010.awakened-plant.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/040-01-010-awakened-plant.webp#center)
 
 > [!embed-monster]- Awakened Shrub
 > ![Awakened Shrub](/3-Mechanics/CLI/bestiary/plant/awakened-shrub-xmm.md#^statblock)
@@ -800,7 +800,7 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
 > 
 > The thing's got an axe for a face and a giant, angry rooster for everything else—of course I want to ride it!
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/041-01-011.axe-beak.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/041-01-011-axe-beak.webp#center)
 
 > [!embed-monster]- Axe Beak
 > ![Axe Beak](/3-Mechanics/CLI/bestiary/monstrosity/axe-beak-xmm.md#^statblock)
@@ -820,7 +820,7 @@ Azers are living bronze folk who work the primal elements of creation to craft w
 > [!embed-monster]- Azer Pyromancer
 > ![Azer Pyromancer](/3-Mechanics/CLI/bestiary/elemental/azer-pyromancer-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/042-01-012.azers.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/042-01-012-azers.webp#center)
 
 > [!embed-monster]- Azer Sentinel
 > ![Azer Sentinel](/3-Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm.md#^statblock)
@@ -836,7 +836,7 @@ Azers are living bronze folk who work the primal elements of creation to craft w
 
 Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these demonic warlords seethe with wrath, their rage erupting in waves of fire and as a pair of vicious weapons: a sword of crackling lightning and a whip of lashing flames. A balor's fury persists until the moment of its demise, at which point it explodes—a last act of vengeance against those who slew it. Demon lords and evil gods harness balors' rage by making balors commanders of armies or guardians of grave secrets.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/043-02-001.balor.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/043-02-001-balor.webp#center)
 
 > [!embed-monster]- Balor
 > ![Balor](/3-Mechanics/CLI/bestiary/fiend/balor-xmm.md#^statblock)
@@ -870,7 +870,7 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 | 6 | Takes what they need to survive. |
 ^bandit-motivations
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/044-02-002.group-of-bandits.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/044-02-002-group-of-bandits.webp#center)
 
 > [!embed-monster]- Bandit
 > ![Bandit](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md#^statblock)
@@ -909,7 +909,7 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
 | 6 | Slay those more beautiful than it was in life. |
 ^banshee-sorrows
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/045-02-003.banshees.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/045-02-003-banshees.webp#center)
 
 > [!embed-monster]- Banshee
 > ![Banshee](/3-Mechanics/CLI/bestiary/undead/banshee-xmm.md#^statblock)
@@ -927,7 +927,7 @@ Barbed devils often serve as guards and accountants for ice devil generals, pit 
 
 Barbed devils rarely collect anything as prosaic as coins and gems. Rather, they pride themselves on having the multiverse's greatest collection of one kind of thing—typically items of rare pedigree or emblems of power. Barbed devils refuse to steal what they covet; instead they strike bargains to claim both treasure and mortal souls.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/046-02-004.barbed-devil.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/046-02-004-barbed-devil.webp#center)
 
 > [!embed-monster]- Barbed Devil
 > ![Barbed Devil](/3-Mechanics/CLI/bestiary/fiend/barbed-devil-xmm.md#^statblock)
@@ -945,7 +945,7 @@ Barlguras cooperate with other demons, particularly other barlguras, so long as 
 
 Barlguras vary in appearance, but all have powerful frames and hands capable of climbing swiftly and delivering crushing blows. If brute force isn't enough to overwhelm their foes, barlguras can use demonic magic to conjure terrifying illusions and grasping vines. Most barlguras resemble nightmarish apes, and some bear exaggerated versions of features of predators common to the lands the barlguras inhabit. Many embed trophies from past hunts in their demonic bodies.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/047-02-005.barlgura.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/047-02-005-barlgura.webp#center)
 
 > [!embed-monster]- Barlgura
 > ![Barlgura](/3-Mechanics/CLI/bestiary/fiend/barlgura-xmm.md#^statblock)
@@ -981,7 +981,7 @@ The remains of [Petrified](/3-Mechanics/CLI/conditions.md#Petrified) creatures l
 | 8 | A victim now being used as a nest for insects or other vermin. |
 ^petrified-basilisk-victims
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/048-02-006.basilisk.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/048-02-006-basilisk.webp#center)
 
 > [!embed-monster]- Basilisk
 > ![Basilisk](/3-Mechanics/CLI/bestiary/monstrosity/basilisk-xmm.md#^statblock)
@@ -999,12 +999,12 @@ Left to their own devices, bearded devils encourage mortals to act callously and
 
 Bearded devils' eponymous beards consist of grotesque, tentacle-like growths. These squirming, barb-riddled beards carry poison capable of preventing magical healing. Bearded devils are also known for their distinctive glaives, through which they channel hellish energy. Those struck by these unnatural weapons suffer infernal wounds that grow worse until stanched or magically healed.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/049-02-007.bearded-devil.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/049-02-007-bearded-devil.webp#center)
 
 > [!embed-monster]- Bearded Devil
 > ![Bearded Devil](/3-Mechanics/CLI/bestiary/fiend/bearded-devil-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/050-02-008.behir.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/050-02-008-behir.webp#center)
 
 ### Behir
 
@@ -1045,7 +1045,7 @@ Beholders are a particular threat to adventurers because both gravitate toward m
 
 **Beholder Lairs.** Beholders lurk in cavern complexes they've carved using their eye rays deep in the Underdark or in lairs created for them by their servants.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/051-02-009.beholder.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/051-02-009-beholder.webp#center)
 
 > [!embed-monster]- Beholder
 > ![Beholder](/3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md#^statblock)
@@ -1065,7 +1065,7 @@ Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fight
 > [!embed-monster]- Berserker
 > ![Berserker](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/052-02-010.group-of-berserkers.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/052-02-010-group-of-berserkers.webp#center)
 
 ### Black Dragons
 
@@ -1085,17 +1085,17 @@ Black dragons hoard tarnished symbols of hope and relics of fallen empires. The 
 > [!embed-monster]- Black Dragon Wyrmling
 > ![Black Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/black-dragon-wyrmling-xmm.md#^statblock)
 
-![Black Dragon Wyrmling](file://D:\ProgramData\CLI\5etools-img/book/XMM/053-02-011.black-dragon-wyrmling.webp#center)
+![Black Dragon Wyrmling](/3-Mechanics/CLI/books/monster-manual-2025/img/053-02-011-black-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Young Black Dragon
 > ![Young Black Dragon](/3-Mechanics/CLI/bestiary/dragon/young-black-dragon-xmm.md#^statblock)
 
-![An adult black dragon uses...](file://D:\ProgramData\CLI\5etools-img/book/XMM/054-02-012.adult-black-dragon.webp#center "An adult black dragon uses its acid breath to melt the construct defenders of a clockwork fortress")
+![An adult black dragon uses...](/3-Mechanics/CLI/books/monster-manual-2025/img/054-02-012-adult-black-dragon.webp#center "An adult black dragon uses its acid breath to melt the construct defenders of a clockwork fortress")
 
 > [!embed-monster]- Adult Black Dragon
 > ![Adult Black Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-black-dragon-xmm.md#^statblock)
 
-![As terrifying as it is tit...](file://D:\ProgramData\CLI\5etools-img/book/XMM/055-02-013.ancient-black-dragon.webp#center "As terrifying as it is titanic, an ancient black dragon eradicates unwanted life in its despoiled territory")
+![As terrifying as it is tit...](/3-Mechanics/CLI/books/monster-manual-2025/img/055-02-013-ancient-black-dragon.webp#center "As terrifying as it is titanic, an ancient black dragon eradicates unwanted life in its despoiled territory")
 
 > [!embed-monster]- Ancient Black Dragon
 > ![Ancient Black Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-black-dragon-xmm.md#^statblock)
@@ -1125,7 +1125,7 @@ Various supernatural conditions might bring black puddings into being. Roll on o
 | 6 | Necrotic material animated by aimless spirits. |
 ^black-pudding-sources
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/056-02-014.black-pudding.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/056-02-014-black-pudding.webp#center)
 
 > [!embed-monster]- Black Pudding
 > ![Black Pudding](/3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md#^statblock)
@@ -1143,7 +1143,7 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 > 
 > It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.
 
-![Twig Blight](file://D:\ProgramData\CLI\5etools-img/book/XMM/057-638741964748722131.webp#center)
+![Twig Blight](/3-Mechanics/CLI/books/monster-manual-2025/img/057-638741964748722131.webp#center)
 
 > [!embed-monster]- Twig Blight
 > ![Twig Blight](/3-Mechanics/CLI/bestiary/plant/twig-blight-xmm.md#^statblock)
@@ -1151,7 +1151,7 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 > [!embed-monster]- Needle Blight
 > ![Needle Blight](/3-Mechanics/CLI/bestiary/plant/needle-blight-xmm.md#^statblock)
 
-![Left to Right: Vine Blight...](file://D:\ProgramData\CLI\5etools-img/book/XMM/058-02-016.vine-tree-needle-blights.webp#center "Left to Right: Vine Blight, Tree Blight, and Needle Blight")
+![Left to Right: Vine Blight...](/3-Mechanics/CLI/books/monster-manual-2025/img/058-02-016-vine-tree-needle-blights.webp#center "Left to Right: Vine Blight, Tree Blight, and Needle Blight")
 
 > [!embed-monster]- Vine Blight
 > ![Vine Blight](/3-Mechanics/CLI/bestiary/plant/vine-blight-xmm.md#^statblock)
@@ -1159,7 +1159,7 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 > [!embed-monster]- Tree Blight
 > ![Tree Blight](/3-Mechanics/CLI/bestiary/plant/tree-blight-xmm.md#^statblock)
 
-![Gulthias Blight](file://D:\ProgramData\CLI\5etools-img/book/XMM/059-02-017.gulthias-blight.webp#center)
+![Gulthias Blight](/3-Mechanics/CLI/books/monster-manual-2025/img/059-02-017-gulthias-blight.webp#center)
 
 > [!embed-monster]- Gulthias Blight
 > ![Gulthias Blight](/3-Mechanics/CLI/bestiary/plant/gulthias-blight-xmm.md#^statblock)
@@ -1173,7 +1173,7 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 
 Blink dogs glimmer with a magic that allows them to teleport, "blinking" from one spot to another. These dogs use this power to chase prey, baffle foes, and express joy. They're frequently found among Feywild folk, such as centaurs and pixies—often as members of rollicking hunts between worlds.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/060-02-018.blink-dog.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/060-02-018-blink-dog.webp#center)
 
 > [!embed-monster]- Blink Dog
 > ![Blink Dog](/3-Mechanics/CLI/bestiary/fey/blink-dog-xmm.md#^statblock)
@@ -1215,7 +1215,7 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
 | 10 | A tarrasque that just died. |
 ^blob-of-annihilation-contents
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/061-02-019.blob-of-annihilation.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/061-02-019-blob-of-annihilation.webp#center)
 
 > [!embed-monster]- Blob of Annihilation
 > ![Blob of Annihilation](/3-Mechanics/CLI/bestiary/ooze/blob-of-annihilation-xmm.md#^statblock)
@@ -1235,7 +1235,7 @@ Regalia of rulership and artistic masterpieces fill blue dragons' hoards. These 
 
 **Blue Dragon Lairs.** Blue dragons dwell in arid lands. Their lairs might be death traps meant to entomb invaders or ostentatious fortresses where they plot domination.
 
-![Blue Dragon Wyrmling](file://D:\ProgramData\CLI\5etools-img/book/XMM/062-02-020.blue-dragon-wyrmling.webp#center)
+![Blue Dragon Wyrmling](/3-Mechanics/CLI/books/monster-manual-2025/img/062-02-020-blue-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Blue Dragon Wyrmling
 > ![Blue Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/blue-dragon-wyrmling-xmm.md#^statblock)
@@ -1243,12 +1243,12 @@ Regalia of rulership and artistic masterpieces fill blue dragons' hoards. These 
 > [!embed-monster]- Young Blue Dragon
 > ![Young Blue Dragon](/3-Mechanics/CLI/bestiary/dragon/young-blue-dragon-xmm.md#^statblock)
 
-![An adult blue dragon invad...](file://D:\ProgramData\CLI\5etools-img/book/XMM/063-02-021.adult-blue-dragon.webp#center "An adult blue dragon invades the territory of a silver dragon rival")
+![An adult blue dragon invad...](/3-Mechanics/CLI/books/monster-manual-2025/img/063-02-021-adult-blue-dragon.webp#center "An adult blue dragon invades the territory of a silver dragon rival")
 
 > [!embed-monster]- Adult Blue Dragon
 > ![Adult Blue Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm.md#^statblock)
 
-![Shattering the enemy's def...](file://D:\ProgramData\CLI\5etools-img/book/XMM/064-02-022.ancient-blue-dragon.webp#center "Shattering the enemy's defenses, an ancient blue dragon leads its armies in conquest")
+![Shattering the enemy's def...](/3-Mechanics/CLI/books/monster-manual-2025/img/064-02-022-ancient-blue-dragon.webp#center "Shattering the enemy's defenses, an ancient blue dragon leads its armies in conquest")
 
 > [!embed-monster]- Ancient Blue Dragon
 > ![Ancient Blue Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-blue-dragon-xmm.md#^statblock)
@@ -1282,7 +1282,7 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
 | 4 | Slay someone or steal something as part of its pact with a wicked magic-user. |
 ^bone-devil-objectives
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/065-02-023.bone-devil.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/065-02-023-bone-devil.webp#center)
 
 > [!embed-monster]- Bone Devil
 > ![Bone Devil](/3-Mechanics/CLI/bestiary/fiend/bone-devil-xmm.md#^statblock)
@@ -1300,7 +1300,7 @@ Bone nagas typically obey those who resurrected them, serving their creators as 
 
 In rare cases, bone nagas continue to pursue the goals they had while alive instead of serving other creatures. Most free-willed bone nagas are evil beings raised from spirit naga remains, but in unusual instances, bone nagas created from guardian nagas continue good, albeit confused, existences.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/066-02-024.bone-naga.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/066-02-024-bone-naga.webp#center)
 
 > [!embed-monster]- Bone Naga
 > ![Bone Naga](/3-Mechanics/CLI/bestiary/undead/bone-naga-xmm.md#^statblock)
@@ -1320,7 +1320,7 @@ Brass dragons collect eclectic objects. While such items might seem like knickkn
 
 **Brass Dragon Lairs.** Brass dragons usually dwell in secret caves and canyons near well-traveled routes.
 
-![Brass Dragon Wyrmling](file://D:\ProgramData\CLI\5etools-img/book/XMM/067-02-025.brass-dragon-wyrmling.webp#center)
+![Brass Dragon Wyrmling](/3-Mechanics/CLI/books/monster-manual-2025/img/067-02-025-brass-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Brass Dragon Wyrmling
 > ![Brass Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/brass-dragon-wyrmling-xmm.md#^statblock)
@@ -1328,12 +1328,12 @@ Brass dragons collect eclectic objects. While such items might seem like knickkn
 > [!embed-monster]- Young Brass Dragon
 > ![Young Brass Dragon](/3-Mechanics/CLI/bestiary/dragon/young-brass-dragon-xmm.md#^statblock)
 
-![An adult brass dragon rids...](file://D:\ProgramData\CLI\5etools-img/book/XMM/068-02-026.adult-brass-dragon.webp#center "An adult brass dragon rids its new lair of unwelcome undead")
+![An adult brass dragon rids...](/3-Mechanics/CLI/books/monster-manual-2025/img/068-02-026-adult-brass-dragon.webp#center "An adult brass dragon rids its new lair of unwelcome undead")
 
 > [!embed-monster]- Adult Brass Dragon
 > ![Adult Brass Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-brass-dragon-xmm.md#^statblock)
 
-![An ancient brass dragon pr...](file://D:\ProgramData\CLI\5etools-img/book/XMM/069-02-027.ancient-brass-dragon.webp#center "An ancient brass dragon protects travelers from an oncoming sandstorm")
+![An ancient brass dragon pr...](/3-Mechanics/CLI/books/monster-manual-2025/img/069-02-027-ancient-brass-dragon.webp#center "An ancient brass dragon protects travelers from an oncoming sandstorm")
 
 > [!embed-monster]- Ancient Brass Dragon
 > ![Ancient Brass Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-brass-dragon-xmm.md#^statblock)
@@ -1351,7 +1351,7 @@ Bronze dragons enjoy the power and endless possibilities of the sea, and they of
 
 **Bronze Dragon Lairs.** Bronze dragons usually make their homes near or under the sea.
 
-![Bronze Dragon Wyrmling](file://D:\ProgramData\CLI\5etools-img/book/XMM/070-02-028.bronze-dragon-wyrmling.webp#center)
+![Bronze Dragon Wyrmling](/3-Mechanics/CLI/books/monster-manual-2025/img/070-02-028-bronze-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Bronze Dragon Wyrmling
 > ![Bronze Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/bronze-dragon-wyrmling-xmm.md#^statblock)
@@ -1359,12 +1359,12 @@ Bronze dragons enjoy the power and endless possibilities of the sea, and they of
 > [!embed-monster]- Young Bronze Dragon
 > ![Young Bronze Dragon](/3-Mechanics/CLI/bestiary/dragon/young-bronze-dragon-xmm.md#^statblock)
 
-![An adult bronze dragon def...](file://D:\ProgramData\CLI\5etools-img/book/XMM/071-02-029.adult-bronze-dragon.webp#center "An adult bronze dragon defends the deep from a ravenous giant shark")
+![An adult bronze dragon def...](/3-Mechanics/CLI/books/monster-manual-2025/img/071-02-029-adult-bronze-dragon.webp#center "An adult bronze dragon defends the deep from a ravenous giant shark")
 
 > [!embed-monster]- Adult Bronze Dragon
 > ![Adult Bronze Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-bronze-dragon-xmm.md#^statblock)
 
-![An ancient bronze dragon u...](file://D:\ProgramData\CLI\5etools-img/book/XMM/072-02-030.ancient-bronze-dragon.webp#center "An ancient bronze dragon uses its repulsion breath to protect a community from rampaging Water elementals")
+![An ancient bronze dragon u...](/3-Mechanics/CLI/books/monster-manual-2025/img/072-02-030-ancient-bronze-dragon.webp#center "An ancient bronze dragon uses its repulsion breath to protect a community from rampaging Water elementals")
 
 > [!embed-monster]- Ancient Bronze Dragon
 > ![Ancient Bronze Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-bronze-dragon-xmm.md#^statblock)
@@ -1384,7 +1384,7 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
 > [!embed-monster]- Bugbear Warrior
 > ![Bugbear Warrior](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/073-02-031.bugbears.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/073-02-031-bugbears.webp#center)
 
 ### Bulettes
 
@@ -1398,7 +1398,7 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
 > [!embed-monster]- Bulette
 > ![Bulette](/3-Mechanics/CLI/bestiary/monstrosity/bulette-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/074-02-032.bulettes.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/074-02-032-bulettes.webp#center)
 
 > [!embed-monster]- Bulette Pup
 > ![Bulette Pup](/3-Mechanics/CLI/bestiary/monstrosity/bulette-pup-xmm.md#^statblock)
@@ -1418,7 +1418,7 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
 > [!embed-monster]- Bullywug Warrior
 > ![Bullywug Warrior](/3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/075-02-033.bullywugs.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/075-02-033-bullywugs.webp#center)
 
 ## Monsters (C)
 
@@ -1453,7 +1453,7 @@ Cambions come into being in disparate ways. Roll on or choose a result from the 
 | 6 | Taking part in fiendish rituals. |
 ^cambion-origins
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/076-03-001.cambion.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/076-03-001-cambion.webp#center)
 
 > [!embed-monster]- Cambion
 > ![Cambion](/3-Mechanics/CLI/bestiary/fiend/cambion-xmm.md#^statblock)
@@ -1473,7 +1473,7 @@ Carrion crawlers scour sewers, battlefields, necropolises, and fetid wildernesse
 
 These scavengers avoid ingesting inorganic material. Crypts with funeral armors sucked clean of their corpses and eerily pristine catacombs are signs of infestation by carrion crawlers.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/077-03-002.carrion-crawlers.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/077-03-002-carrion-crawlers.webp#center)
 
 > [!embed-monster]- Carrion Crawler
 > ![Carrion Crawler](/3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm.md#^statblock)
@@ -1487,7 +1487,7 @@ These scavengers avoid ingesting inorganic material. Crypts with funeral armors 
 
 Centaurs are defenders of forests, plains, and sites of primeval power. With upper bodies like humans' and the lower bodies of horses, centaurs charge into battle against those who would harm their allies.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/078-03-003.centaurs.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/078-03-003-centaurs.webp#center)
 
 > [!embed-monster]- Centaur Warden
 > ![Centaur Warden](/3-Mechanics/CLI/bestiary/fey/centaur-warden-xmm.md#^statblock)
@@ -1518,7 +1518,7 @@ Along with psychological threats and physical harm, a chain devil uses its unner
 | 4 | The viewer at their lowest point in life. |
 ^chain-devil-masks
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/079-03-004.chain-devil.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/079-03-004-chain-devil.webp#center)
 
 > [!embed-monster]- Chain Devil
 > ![Chain Devil](/3-Mechanics/CLI/bestiary/fiend/chain-devil-xmm.md#^statblock)
@@ -1532,7 +1532,7 @@ Along with psychological threats and physical harm, a chain devil uses its unner
 
 Flying forth from the Abyss, chasmes resemble horse-size flies. They incapacitate foes by producing a mind-numbing droning, then use their proboscises to drain victims of life. In the Abyss, most chasmes obsequiously serve more powerful demons and search for captives to press into demonic hordes.
 
-![Chasme](file://D:\ProgramData\CLI\5etools-img/book/XMM/080-03-005.chasme.webp#center)
+![Chasme](/3-Mechanics/CLI/books/monster-manual-2025/img/080-03-005-chasme.webp#center)
 
 > [!embed-monster]- Chasme
 > ![Chasme](/3-Mechanics/CLI/bestiary/fiend/chasme-xmm.md#^statblock)
@@ -1548,7 +1548,7 @@ Violent and unpredictable, chimeras combine the deadliest traits of lions, rams,
 
 Owing to their draconic instincts, chimeras are greedy creatures that hoard treasures within cavernous lairs. They're undiscerning about what they collect, gathering shiny objects alongside trophies and bones from their recent kills. Brave souls seeking to distract or temporarily appease a chimera can do so by offering it treasure and food.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/081-03-006.chimera.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/081-03-006-chimera.webp#center)
 
 > [!embed-monster]- Chimera
 > ![Chimera](/3-Mechanics/CLI/bestiary/monstrosity/chimera-xmm.md#^statblock)
@@ -1566,7 +1566,7 @@ Many chuuls serve aboleth overlords, carrying out their whims amid lightless sea
 
 Chuuls don't age and can lie dormant in hidden places for millennia before threats, ancient orders, or strange compulsions awaken them.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/082-03-007.chuul.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/082-03-007-chuul.webp#center)
 
 > [!embed-monster]- Chuul
 > ![Chuul](/3-Mechanics/CLI/bestiary/aberration/chuul-xmm.md#^statblock)
@@ -1594,7 +1594,7 @@ These golems obey their creators' orders and protect what their makers value mos
 | 4 | Remove any who enter its creator's workshop. |
 ^clay-golem-orders
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/083-03-008.clay-golem.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/083-03-008-clay-golem.webp#center)
 
 > [!embed-monster]- Clay Golem
 > ![Clay Golem](/3-Mechanics/CLI/bestiary/construct/clay-golem-xmm.md#^statblock)
@@ -1612,7 +1612,7 @@ Cloakers sometimes gather in Underdark enclaves, but they rarely build settlemen
 
 Cloakers delight in frightening foes. In addition to their methods of ambush, cloakers can create illusory duplicates of themselves and emit surreal moans that non-cloakers find terrifying in unexplainable, primal ways. Cloakers might antagonize explorers lost in the Underdark for days, terrorizing and scattering them before attacking. They rarely converse with other beings, except to whisper eerie riddles to those they're about to consume.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/084-03-009.cloaker.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/084-03-009-cloaker.webp#center)
 
 > [!embed-monster]- Cloaker
 > ![Cloaker](/3-Mechanics/CLI/bestiary/aberration/cloaker-xmm.md#^statblock)
@@ -1628,7 +1628,7 @@ Cloud giants use the power of the skies to observe and subtly influence the worl
 
 Most cloud giants inhabit citadels crowning tremendous mountains or magical palaces that drift amid the clouds. Many of these giants believe they possess similarly lofty status or purpose. Some view themselves as godlike beings who can manipulate and steal from terrestrial beings with impunity. Others claim their long lives and place among the clouds grant them unique perspectives, so they chronicle what they witness in the world below without interfering. In either case, cloud giants often possess fabulous magical treasures, either claimed from across the world or created by (and gigantically sized for) themselves.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/085-03-010.cloud-giants.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/085-03-010-cloud-giants.webp#center)
 
 > [!embed-monster]- Cloud Giant
 > ![Cloud Giant](/3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md#^statblock)
@@ -1645,7 +1645,7 @@ Cockatrices combine the features of irate roosters and starving reptiles. They p
 > [!embed-monster]- Cockatrice
 > ![Cockatrice](/3-Mechanics/CLI/bestiary/monstrosity/cockatrice-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/086-03-011.cockatrice.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/086-03-011-cockatrice.webp#center)
 
 > [!embed-monster]- Cockatrice Regent
 > ![Cockatrice Regent](/3-Mechanics/CLI/bestiary/monstrosity/cockatrice-regent-xmm.md#^statblock)
@@ -1663,7 +1663,7 @@ Droves of faithful artisans craft a colossus in a shape to honor their deity, th
 
 Most colossi were created in ages past and now lie dormant in secluded wilderness, awakening only when disturbed or called on to serve once more.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/087-03-012.colossus.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/087-03-012-colossus.webp#center)
 
 > [!embed-monster]- Colossus
 > ![Colossus](/3-Mechanics/CLI/bestiary/construct/colossus-xmm.md#^statblock)
@@ -1755,7 +1755,7 @@ Weaver
 
 Youngster
 
-![Commoners of varied specie...](file://D:\ProgramData\CLI\5etools-img/book/XMM/088-03-013.commoners.webp#center "Commoners of varied species and professions go about their day")
+![Commoners of varied specie...](/3-Mechanics/CLI/books/monster-manual-2025/img/088-03-013-commoners.webp#center "Commoners of varied species and professions go about their day")
 
 > [!embed-monster]- Commoner
 > ![Commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md#^statblock)
@@ -1776,17 +1776,17 @@ Copper dragons typically live in caverns amid picturesque hills and rock formati
 > [!embed-monster]- Copper Dragon Wyrmling
 > ![Copper Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/copper-dragon-wyrmling-xmm.md#^statblock)
 
-![Copper Dragon Wyrmling](file://D:\ProgramData\CLI\5etools-img/book/XMM/089-03-014.copper-dragon-wyrmling.webp#center)
+![Copper Dragon Wyrmling](/3-Mechanics/CLI/books/monster-manual-2025/img/089-03-014-copper-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Young Copper Dragon
 > ![Young Copper Dragon](/3-Mechanics/CLI/bestiary/dragon/young-copper-dragon-xmm.md#^statblock)
 
-![Surrounded by guardians of...](file://D:\ProgramData\CLI\5etools-img/book/XMM/090-03-015.adult-copper-dragon.webp#center "Surrounded by guardians of the forest, an adult copper dragon bequeaths a magic sword to a worthy hero")
+![Surrounded by guardians of...](/3-Mechanics/CLI/books/monster-manual-2025/img/090-03-015-adult-copper-dragon.webp#center "Surrounded by guardians of the forest, an adult copper dragon bequeaths a magic sword to a worthy hero")
 
 > [!embed-monster]- Adult Copper Dragon
 > ![Adult Copper Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-copper-dragon-xmm.md#^statblock)
 
-![An ancient copper dragon w...](file://D:\ProgramData\CLI\5etools-img/book/XMM/091-03-016.ancient-copper-dragon.webp#center "An ancient copper dragon watches over its allies' boisterous young")
+![An ancient copper dragon w...](/3-Mechanics/CLI/books/monster-manual-2025/img/091-03-016-ancient-copper-dragon.webp#center "An ancient copper dragon watches over its allies' boisterous young")
 
 > [!embed-monster]- Ancient Copper Dragon
 > ![Ancient Copper Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-copper-dragon-xmm.md#^statblock)
@@ -1804,7 +1804,7 @@ Motivated by eternal mandates, couatls sometimes behave in inscrutable or antago
 
 Each couatl goes through a period of renewal at the end of an age. In a couatl's lifecycle, an age might correspond to a celestial calendar or some divine chronology. Near the age's end, the couatl lays a wondrous, rainbow-hued egg. When the age ends, the couatl dies. For a period—perhaps a single day, perhaps until an annual solar event—the couatl's work is unattended. Once this time passes, the same couatl that laid the egg hatches from it, fully grown and renewed to serve for another age.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/092-03-017.cuoatl.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/092-03-017-cuoatl.webp#center)
 
 > [!embed-monster]- Couatl
 > ![Couatl](/3-Mechanics/CLI/bestiary/celestial/couatl-xmm.md#^statblock)
@@ -1822,7 +1822,7 @@ Crawling claws are severed hands that move and act of their own murderous accord
 > 
 > Is it possible for any creature, any living being, to be inherently evil? Such an assertion may itself facilitate the committing of evil acts. By defining a person as evil, we give them free rein to behave as they will, absolving them from the wickedness of their words and the evil of their hands.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/093-03-018.crawling-claws.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/093-03-018-crawling-claws.webp#center)
 
 > [!embed-monster]- Crawling Claw
 > ![Crawling Claw](/3-Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md#^statblock)
@@ -1881,7 +1881,7 @@ Cultists use magic and extreme measures to spread radical beliefs. Some privatel
 > 
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
 
-![A death cultist and his fo...](file://D:\ProgramData\CLI\5etools-img/book/XMM/094-03-019.death-cultists.webp#center "A death cultist and his followers summon Orcus, Demon Lord of Undeath")
+![A death cultist and his fo...](/3-Mechanics/CLI/books/monster-manual-2025/img/094-03-019-death-cultists.webp#center "A death cultist and his followers summon Orcus, Demon Lord of Undeath")
 
 > [!embed-monster]- Cultist
 > ![Cultist](/3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md#^statblock)
@@ -1892,7 +1892,7 @@ Cultists use magic and extreme measures to spread radical beliefs. Some privatel
 > [!embed-monster]- Cultist Hierophant
 > ![Cultist Hierophant](/3-Mechanics/CLI/bestiary/humanoid/cultist-hierophant-xmm.md#^statblock)
 
-![An aberrant cultist and an...](file://D:\ProgramData\CLI\5etools-img/book/XMM/095-03-020.elemental-aberrant-cultists.webp#center "An aberrant cultist and an elemental cultist clash, unleashing the magic of their otherworldly patrons")
+![An aberrant cultist and an...](/3-Mechanics/CLI/books/monster-manual-2025/img/095-03-020-elemental-aberrant-cultists.webp#center "An aberrant cultist and an elemental cultist clash, unleashing the magic of their otherworldly patrons")
 
 > [!embed-monster]- Aberrant Cultist
 > ![Aberrant Cultist](/3-Mechanics/CLI/bestiary/humanoid/aberrant-cultist-xmm.md#^statblock)
@@ -1921,7 +1921,7 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
 > [!embed-monster]- Cyclops Sentry
 > ![Cyclops Sentry](/3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/096-03-021.cyclops.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/096-03-021-cyclops.webp#center)
 
 ## Monsters (D)
 
@@ -1940,7 +1940,7 @@ Many dao call the Elemental Plane of Earth home. There, they create cities that 
 > 
 > On the Elemental Plane of Earth, galaxies of gemstones twinkle over vaults of treasure. If dao are there, so is wealth worth hunting.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/097-04-001.dao.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/097-04-001-dao.webp#center)
 
 > [!embed-monster]- Dao
 > ![Dao](/3-Mechanics/CLI/bestiary/elemental/dao-xmm.md#^statblock)
@@ -1960,7 +1960,7 @@ Darkmantles share similarities with piercers and ropers and often hunt near thos
 > 
 > Just assume there's no such thing as a stalactite.
 
-![Darkmantle](file://D:\ProgramData\CLI\5etools-img/book/XMM/098-04-002.darkmantle.webp#center)
+![Darkmantle](/3-Mechanics/CLI/books/monster-manual-2025/img/098-04-002-darkmantle.webp#center)
 
 > [!embed-monster]- Darkmantle
 > ![Darkmantle](/3-Mechanics/CLI/bestiary/aberration/darkmantle-xmm.md#^statblock)
@@ -1994,7 +1994,7 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
 | 6 | Wicked symbols to gradually appear on and spread across the victim's body. |
 ^death-dog-malady-symptoms
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/099-04-003.death-dog.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/099-04-003-death-dog.webp#center)
 
 > [!embed-monster]- Death Dog
 > ![Death Dog](/3-Mechanics/CLI/bestiary/monstrosity/death-dog-xmm.md#^statblock)
@@ -2008,7 +2008,7 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
 
 Champions of evil, death knights are armor-clad, skeletal warlords. Combining devastating martial prowess and blasphemous magic, these undying tyrants lead unholy legions against the living or brood in cursed citadels. Every death knight is haunted by a legacy of tragedy and dishonor that drives it to commit greater evils.
 
-![A death knight and its asp...](file://D:\ProgramData\CLI\5etools-img/book/XMM/100-04-004.death-knight.webp#center "A death knight and its aspirants march to war against the living")
+![A death knight and its asp...](/3-Mechanics/CLI/books/monster-manual-2025/img/100-04-004-death-knight.webp#center "A death knight and its aspirants march to war against the living")
 
 > [!embed-monster]- Death Knight
 > ![Death Knight](/3-Mechanics/CLI/bestiary/undead/death-knight-xmm.md#^statblock)
@@ -2035,7 +2035,7 @@ No matter how death tyrants come into being, bizarre impulses drive their deathl
 > 
 > A cluster of tiny lights descended from a dark crevice in the ceiling. These motes cast an eerie glow on the great, alien skull that hung beneath them.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/101-04-005.death-tyrant.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/101-04-005-death-tyrant.webp#center)
 
 > [!embed-monster]- Death Tyrant
 > ![Death Tyrant](/3-Mechanics/CLI/bestiary/undead/death-tyrant-xmm.md#^statblock)
@@ -2051,12 +2051,12 @@ A demilich is a skull harboring the remnants of a lich's wicked essence. If the 
 
 **Demilich Lairs.** Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of these is the Tomb of Horrors, lair of the infamous Acererak.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/102-04-006.demilich.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/102-04-006-demilich.webp#center)
 
 > [!embed-monster]- Demilich
 > ![Demilich](/3-Mechanics/CLI/bestiary/undead/demilich-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/103-04-007.deva.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/103-04-007-deva.webp#center)
 
 ### Deva
 
@@ -2103,7 +2103,7 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
 > 
 > The murderous fury of a displacer beast is fit only for nightmares, of which I've been haunted since narrowly escaping one's ambush. I'm certain that beast stalks me still.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/104-04-008.displacer-beasts.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/104-04-008-displacer-beasts.webp#center)
 
 > [!embed-monster]- Displacer Beast
 > ![Displacer Beast](/3-Mechanics/CLI/bestiary/monstrosity/displacer-beast-xmm.md#^statblock)
@@ -2119,7 +2119,7 @@ As genies of wind and skies, djinn personify freedom and might. They can control
 
 While many djinn create airy palaces on stormy coasts or high in the clouds, untold numbers dwell on the Elemental Plane of Air. In floating cities, djinn collect tales and experiences from across the planes of existence, sharing them in fabulous forums, libraries, and theaters. The greatest of these cities is the Citadel of Ice and Steel, in which wind-sculpted towers contain a city-size trove of incredible knowledge and treasures that defy belief.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/105-04-009.djinni.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/105-04-009-djinni.webp#center)
 
 > [!embed-monster]- Djinni
 > ![Djinni](/3-Mechanics/CLI/bestiary/elemental/djinni-xmm.md#^statblock)
@@ -2153,7 +2153,7 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
 > 
 > Meeting yourself is the surest way to realize you're not as charming as you think you are.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/106-04-010.doppelganger.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/106-04-010-doppelganger.webp#center)
 
 > [!embed-monster]- Doppelganger
 > ![Doppelganger](/3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md#^statblock)
@@ -2195,7 +2195,7 @@ There are untold profane routes by which a dragon might become a dracolich. Howe
 > 
 > And naught will be left save shattered thrones with no rulers. But the dead dragons shall rule the world entire...
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/107-04-011.dracolich.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/107-04-011-dracolich.webp#center)
 
 > [!embed-monster]- Dracolich
 > ![Dracolich](/3-Mechanics/CLI/bestiary/undead/dracolich-xmm.md#^statblock)
@@ -2211,7 +2211,7 @@ Dragon turtles are mighty creatures with shells large enough to be mistaken for 
 
 Many dragon turtles live in secluded lairs or ruins deep underwater, and they might not be spotted by surface dwellers for generations. Like both their namesakes, dragon turtles can have exceptionally long lives. Some recall the wonders of ages past or remarkable individuals that passed through their realms long ago. Such dragon turtles might be convinced to share their tales or provide guidance through their territories in exchange for treasures they've never glimpsed on the ocean floor.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/108-04-012.dragon-turtle.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/108-04-012-dragon-turtle.webp#center)
 
 > [!embed-monster]- Dragon Turtle
 > ![Dragon Turtle](/3-Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm.md#^statblock)
@@ -2229,7 +2229,7 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 > 
 > Ah, the infinite wonders of the Abyss. If there's anything you don't like, you'll find it here.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/109-04-013.dretches.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/109-04-013-dretches.webp#center)
 
 > [!embed-monster]- Dretch
 > ![Dretch](/3-Mechanics/CLI/bestiary/fiend/dretch-xmm.md#^statblock)
@@ -2262,7 +2262,7 @@ Driders also appear when whole communities are transformed by a wicked god's wra
 | 6 | A punishment from a spiteful god, like Lolth or the Queen of Air and Darkness. |
 ^drider-metamorphoses
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/110-04-014.drider.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/110-04-014-drider.webp#center)
 
 > [!embed-monster]- Drider
 > ![Drider](/3-Mechanics/CLI/bestiary/monstrosity/drider-xmm.md#^statblock)
@@ -2290,7 +2290,7 @@ Druids use primal magic, traditional teachings, and bonds with animals and eldri
 | 6 | A warden who minds the underpinnings of reality and protects against extraplanar threats. |
 ^druid-traditions
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/111-04-015.druid.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/111-04-015-druid.webp#center)
 
 > [!embed-monster]- Druid
 > ![Druid](/3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md#^statblock)
@@ -2318,7 +2318,7 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
 | 6 | A shambling mound or treant that the dryad lives in or around as a Fey symbiote. |
 ^dryad-sanctuaries
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/112-04-016.dryads.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/112-04-016-dryads.webp#center)
 
 > [!embed-monster]- Dryad
 > ![Dryad](/3-Mechanics/CLI/bestiary/fey/dryad-xmm.md#^statblock)
@@ -2356,7 +2356,7 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 > 
 > The foundations of our homes, the strength of our weapons, the vaults of our greatest secrets—earth is nothing less than the grip of reality itself. It is the mightiest element. This cannot be denied.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/113-05-001.earth-elemental.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/113-05-001-earth-elemental.webp#center)
 
 > [!embed-monster]- Earth Elemental
 > ![Earth Elemental](/3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md#^statblock)
@@ -2376,7 +2376,7 @@ On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those t
 > 
 > Imagine seas of platinum and liquid flame, the Crimson Pillar with fires hot enough to sear the gods, and the infinite delights of the City of Brass. Now imagine what my master offers...
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/114-05-002.efreeti.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/114-05-002-efreeti.webp#center)
 
 > [!embed-monster]- Efreeti
 > ![Efreeti](/3-Mechanics/CLI/bestiary/elemental/efreeti-xmm.md#^statblock)
@@ -2410,9 +2410,9 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
 | 8 | Series of dramatic rock formations. |
 ^elemental-alterations
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/115-05-003.elemental-cataclysm.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/115-05-003-elemental-cataclysm.webp#center)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/116-05-004.landscape.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/116-05-004-landscape.webp#center)
 
 > [!embed-monster]- Elemental Cataclysm
 > ![Elemental Cataclysm](/3-Mechanics/CLI/bestiary/elemental/elemental-cataclysm-xmm.md#^statblock)
@@ -2444,7 +2444,7 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 > 
 > One day I might be the god of storms—mind countless followers, answer prayers, change whole worlds—but, until then, I do what I please.
 
-![Celestial and fiendish emp...](file://D:\ProgramData\CLI\5etools-img/book/XMM/117-05-005.empyrean.webp#center "Celestial and fiendish empyreans observe the cosmos attended by sigil-like empyrean iotas")
+![Celestial and fiendish emp...](/3-Mechanics/CLI/books/monster-manual-2025/img/117-05-005-empyrean.webp#center "Celestial and fiendish empyreans observe the cosmos attended by sigil-like empyrean iotas")
 
 > [!embed-monster]- Empyrean Iota
 > ![Empyrean Iota](/3-Mechanics/CLI/bestiary/miscellaneous/empyrean-iota-xmm.md#^statblock)
@@ -2465,7 +2465,7 @@ Erinyes often serve archdevils and guard the order of the Nine Hells against tre
 
 When not in the service of a diabolical master, erinyes hunt wicked souls. They pursue quarries relentlessly, across the multiverse and for ages if need be. While they might be summoned to serve evil magic-users, erinyes also listen for oaths and curses sworn in their names. In rare cases, wronged mortals who call out with just rage might be heard by an erinyes who appears to take vengeance on their behalf. Once erinyes are so summoned, they won't leave without claiming the soul of either their quarry or the mortal who summoned them.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/118-05-006.erinyes.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/118-05-006-erinyes.webp#center)
 
 > [!embed-monster]- Erinyes
 > ![Erinyes](/3-Mechanics/CLI/bestiary/fiend/erinyes-xmm.md#^statblock)
@@ -2483,7 +2483,7 @@ Ettercaps frequently overhunt their environment. Left unchecked, ettercaps might
 
 Ettercaps avoid fire, which can quickly burn through their webs and the dead trees where they make their homes.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/119-05-007.ettercap.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/119-05-007-ettercap.webp#center)
 
 > [!embed-monster]- Ettercap
 > ![Ettercap](/3-Mechanics/CLI/bestiary/monstrosity/ettercap-xmm.md#^statblock)
@@ -2523,7 +2523,7 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
 > 
 > Twice the malice, aggressiveness, and appetite—the ettin demonstrates that two heads aren't necessarily better than one.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/120-05-008.ettin.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/120-05-008-ettin.webp#center)
 
 > [!embed-monster]- Ettin
 > ![Ettin](/3-Mechanics/CLI/bestiary/giant/ettin-xmm.md#^statblock)
@@ -2539,7 +2539,7 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
 
 Faerie dragons are cat-size pranksters with draconic features, butterfly-like wings, and scales of warm hues as youths and cool hues as adults.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/121-06-001.faerie-dragons.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/121-06-001-faerie-dragons.webp#center)
 
 > [!embed-monster]- Faerie Dragon Adult
 > ![Faerie Dragon Adult](/3-Mechanics/CLI/bestiary/dragon/faerie-dragon-adult-xmm.md#^statblock)
@@ -2578,7 +2578,7 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
 > 
 > All the elements bow to fire. The strongest earth melts. Water boils. Even air ignites. We are all souls of flame, and we know what it is to burn.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/122-06-002.fire-elemental.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/122-06-002-fire-elemental.webp#center)
 
 > [!embed-monster]- Fire Elemental
 > ![Fire Elemental](/3-Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md#^statblock)
@@ -2596,7 +2596,7 @@ Fire giants have broad frames, skin tones in a variety of rocklike shades, and h
 
 Most fire giants dwell in volcanically active mountains or cavernous depths that house their fortress-forges. Evil fire giants tend to be martially minded, and they craft mighty arms to conquer their neighbors and seize valuable resources. More temperate fire giants trade their works for what they need, and they might share the ancient techniques of Giant artisans with other craftspeople. In either case, fire giants are prone to undertaking ambitious designs, and they rarely appreciate interruptions in their titanic workshops.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/123-06-003.fire-giants.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/123-06-003-fire-giants.webp#center)
 
 > [!embed-monster]- Fire Giant
 > ![Fire Giant](/3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md#^statblock)
@@ -2630,7 +2630,7 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
 > 
 > I never cared for warmth. I never needed a body. My will is enough, and my work will be the legacy that makes my every sacrifice worthwhile!
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/124-06-004.flame-skulls.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/124-06-004-flame-skulls.webp#center)
 
 > [!embed-monster]- Flameskull
 > ![Flameskull](/3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md#^statblock)
@@ -2664,7 +2664,7 @@ Flesh golems appear in varied forms. Roll on or choose a result from the Flesh G
 > 
 > The barrier between the mortal and the divine lies shattered—open is the mold for new gods. It was I who invaded the divine. Not with a spear but with a stitch. Not with my heresies but with my heart.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/125-06-005.flesh-golem.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/125-06-005-flesh-golem.webp#center)
 
 > [!embed-monster]- Flesh Golem
 > ![Flesh Golem](/3-Mechanics/CLI/bestiary/construct/flesh-golem-xmm.md#^statblock)
@@ -2716,7 +2716,7 @@ Flumphs dwell in psychically charged regions or near creatures with psionic magi
 
 *Rarely seen; potentially no human equivalent
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/126-06-006.flumph.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/126-06-006-flumph.webp#center)
 
 > [!embed-monster]- Flumph
 > ![Flumph](/3-Mechanics/CLI/bestiary/aberration/flumph-xmm.md#^statblock)
@@ -2746,7 +2746,7 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
 > 
 > All-Father Annam banished his son, Karontor, for Karontor's part in the fomorian assault on the Feywild. That day, the ordning—the hierarchy of the giants and their gods—changed forever, and the fomorians were part of it no more.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/127-00-067.fomorian.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/127-00-067-fomorian.webp#center)
 
 > [!embed-monster]- Fomorian
 > ![Fomorian](/3-Mechanics/CLI/bestiary/giant/fomorian-xmm.md#^statblock)
@@ -2766,7 +2766,7 @@ Frost giants often travel far to find food and goods. This leads many to become 
 > 
 > The small folk have barely anything worth looting, so they shouldn't much mind when we take it from them.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/128-06-008.frost-giants.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/128-06-008-frost-giants.webp#center)
 
 > [!embed-monster]- Frost Giant
 > ![Frost Giant](/3-Mechanics/CLI/bestiary/giant/frost-giant-xmm.md#^statblock)
@@ -2783,12 +2783,12 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 > [!embed-monster]- Gas Spore Fungus
 > ![Gas Spore Fungus](/3-Mechanics/CLI/bestiary/plant/gas-spore-fungus-xmm.md#^statblock)
 
-![A gas spore and clusters o...](file://D:\ProgramData\CLI\5etools-img/book/XMM/129-06-009.fungi.webp#center "A gas spore and clusters of shriekers and violet fungi grow in the Underdark")
+![A gas spore and clusters o...](/3-Mechanics/CLI/books/monster-manual-2025/img/129-06-009-fungi.webp#center "A gas spore and clusters of shriekers and violet fungi grow in the Underdark")
 
 > [!embed-monster]- Shrieker Fungus
 > ![Shrieker Fungus](/3-Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm.md#^statblock)
 
-![Violet Fungus Necrohulk](file://D:\ProgramData\CLI\5etools-img/book/XMM/130-06-010.violet-fungus-necrohulk.webp#center)
+![Violet Fungus Necrohulk](/3-Mechanics/CLI/books/monster-manual-2025/img/130-06-010-violet-fungus-necrohulk.webp#center)
 
 > [!embed-monster]- Violet Fungus
 > ![Violet Fungus](/3-Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md#^statblock)
@@ -2811,7 +2811,7 @@ Galeb duhr are effectively immortal, with lifespans similar in length to mountai
 
 Some mountain dwellers view galeb duhr as aloof allies and might entrust these long-lived beings with secrets or treasures for future generations. Others speak of galeb duhr songs, barely audible harmonizations by groups of galeb duhr that are said to influence earthquakes and volcanic eruptions.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/131-07-001.galeb-duhr.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/131-07-001-galeb-duhr.webp#center)
 
 > [!embed-monster]- Galeb Duhr
 > ![Galeb Duhr](/3-Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm.md#^statblock)
@@ -2863,7 +2863,7 @@ Gargoyles have a variety of appearances. Roll on or choose a result from the Gar
 > 
 > Where evil passes in the Elemental Plane of Earth, it stains the rock and spoils the soil. Malice vanishes amid other elements, but in the dismal dark, the wicked shape it into nightmares.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/132-07-002.gargoyle.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/132-07-002-gargoyle.webp#center)
 
 > [!embed-monster]- Gargoyle
 > ![Gargoyle](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md#^statblock)
@@ -2891,7 +2891,7 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
 | 6 | Tablet bearing a mysterious message. |
 ^gelatinous-cube-debris
 
-![Gelatinous Cube](file://D:\ProgramData\CLI\5etools-img/book/XMM/133-07-003.gelatinous-cube.webp#center)
+![Gelatinous Cube](/3-Mechanics/CLI/books/monster-manual-2025/img/133-07-003-gelatinous-cube.webp#center)
 
 > [!embed-monster]- Gelatinous Cube
 > ![Gelatinous Cube](/3-Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md#^statblock)
@@ -2905,7 +2905,7 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
 
 Ghasts are reeking, undying corpses closely related to ghouls. They hunger for the vices they enjoyed in life as much as they do for rotting flesh.
 
-![Ghast](file://D:\ProgramData\CLI\5etools-img/book/XMM/134-07-004.ghast.webp#center)
+![Ghast](/3-Mechanics/CLI/books/monster-manual-2025/img/134-07-004-ghast.webp#center)
 
 > [!embed-monster]- Ghast
 > ![Ghast](/3-Mechanics/CLI/bestiary/undead/ghast-xmm.md#^statblock)
@@ -2924,7 +2924,7 @@ Ghosts arise when living creatures die in a state of extreme emotion or having l
 
 Ghosts typically appear as semitransparent versions of the creatures they were in life, though some bear evidence of the wounds that killed them or have nightmarish distortions to their forms. Many have extreme reactions to actions, objects, or individuals that remind them of emotionally charged aspects of their lives. Particularly desperate or vengeful ghosts might possess the living to fulfill their ends.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/135-07-005.ghost.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/135-07-005-ghost.webp#center)
 
 > [!embed-monster]- Ghost
 > ![Ghost](/3-Mechanics/CLI/bestiary/undead/ghost-xmm.md#^statblock)
@@ -2942,7 +2942,7 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
 > 
 > On a plain of teeth, in a temple of filth, the starving king wastes no morsel. Every coffin a banquet. Every slab a platter. Now is the time of feasting!
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/136-07-006.ghoul.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/136-07-006-ghoul.webp#center)
 
 > [!embed-monster]- Ghoul
 > ![Ghoul](/3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md#^statblock)
@@ -2979,7 +2979,7 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
 > 
 > Alas, the Elder Elves made a fatal mistake. When the Dragon's Tear comet next returned, the Vast Gate—still keyed to the Far Realm of alien entities—linked to the comet and opened again. And what emerged, ululating profanities, sang unnameable hungers into an unguarded world.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/137-07-007.gibbering-mouther.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/137-07-007-gibbering-mouther.webp#center)
 
 > [!embed-monster]- Gibbering Mouther
 > ![Gibbering Mouther](/3-Mechanics/CLI/bestiary/aberration/gibbering-mouther-xmm.md#^statblock)
@@ -2999,7 +2999,7 @@ The victory of the gith was short-lived. As Gith was forging her own burgeoning 
 
 When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaakith's line has continued to the githyanki's current ruler, Vlaakith the Lich-Queen. This undead tyrant compels her people to wage endless wars against mind flayers, githzerai, and any others that threaten githyanki supremacy.
 
-![Left to Right: Githyanki D...](file://D:\ProgramData\CLI\5etools-img/book/XMM/138-07-008.group-of-githyanki.webp#center "Left to Right: Githyanki Dracomancer, Githyanki Knight, and Githyanki Warrior")
+![Left to Right: Githyanki D...](/3-Mechanics/CLI/books/monster-manual-2025/img/138-07-008-group-of-githyanki.webp#center "Left to Right: Githyanki Dracomancer, Githyanki Knight, and Githyanki Warrior")
 
 > [!embed-monster]- Githyanki Warrior
 > ![Githyanki Warrior](/3-Mechanics/CLI/bestiary/aberration/githyanki-warrior-xmm.md#^statblock)
@@ -3043,7 +3043,7 @@ Githzerai psychically create serene, hidden sanctuaries in chaotic reaches of th
 > 
 > We githzerai crave a challenge, so that when Zerthimon returns, he shall find us ready. Thus we traveled to howling Limbo to make our new home.
 
-![Left to Right: Githzerai Z...](file://D:\ProgramData\CLI\5etools-img/book/XMM/139-07-009.group-of-githzerai.webp#center "Left to Right: Githzerai Zerth, Githzerai Psion, and Githzerai Monk")
+![Left to Right: Githzerai Z...](/3-Mechanics/CLI/books/monster-manual-2025/img/139-07-009-group-of-githzerai.webp#center "Left to Right: Githzerai Zerth, Githzerai Psion, and Githzerai Monk")
 
 > [!embed-monster]- Githzerai Monk
 > ![Githzerai Monk](/3-Mechanics/CLI/bestiary/aberration/githzerai-monk-xmm.md#^statblock)
@@ -3069,7 +3069,7 @@ In the Abyss, glabrezus act as lone hunters or deceitful advisers to greater dem
 > 
 > Your companion's life, or what you've journeyed through infinity in search of! Make your choice.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/140-07-010.glabrezu.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/140-07-010-glabrezu.webp#center)
 
 > [!embed-monster]- Glabrezu
 > ![Glabrezu](/3-Mechanics/CLI/bestiary/fiend/glabrezu-xmm.md#^statblock)
@@ -3100,7 +3100,7 @@ Gladiators are professional fighters who pit themselves against one another, mon
 > [!embed-monster]- Gladiator
 > ![Gladiator](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md#^statblock)
 
-![In an undersea arena, the ...](file://D:\ProgramData\CLI\5etools-img/book/XMM/141-07-011.gladiator.webp#center "In an undersea arena, the crowd goes wild as a gladiator triumphs over a giant squid")
+![In an undersea arena, the ...](/3-Mechanics/CLI/books/monster-manual-2025/img/141-07-011-gladiator.webp#center "In an undersea arena, the crowd goes wild as a gladiator triumphs over a giant squid")
 
 ### Gnolls
 
@@ -3115,7 +3115,7 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 > 
 > Yeenoghu claims gnolls not as his brood but as maggots purposefully released to infest a despised carcass. They are a pernicious rot the Beast of Butchery spreads across mortal worlds. Whatever they once were, they were remade and are now his.
 
-![Gnoll Warriors rampage aft...](file://D:\ProgramData\CLI\5etools-img/book/XMM/142-07-012.group-of-gnolls.webp#center "Gnoll Warriors rampage after a gnoll pack lord, a gnoll fang of Yeenoghu, and a gnoll demoniac")
+![Gnoll Warriors rampage aft...](/3-Mechanics/CLI/books/monster-manual-2025/img/142-07-012-group-of-gnolls.webp#center "Gnoll Warriors rampage after a gnoll pack lord, a gnoll fang of Yeenoghu, and a gnoll demoniac")
 
 > [!embed-monster]- Gnoll Warrior
 > ![Gnoll Warrior](/3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md#^statblock)
@@ -3146,7 +3146,7 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 > 
 > Bree-yark!
 
-![A goblin boss, a goblin he...](file://D:\ProgramData\CLI\5etools-img/book/XMM/143-07-013.group-of-goblins.webp#center "A goblin boss, a goblin hexer, and a goblin Warrior prepare to strike against a bitter foe")
+![A goblin boss, a goblin he...](/3-Mechanics/CLI/books/monster-manual-2025/img/143-07-013-group-of-goblins.webp#center "A goblin boss, a goblin hexer, and a goblin Warrior prepare to strike against a bitter foe")
 
 > [!embed-monster]- Goblin Minion
 > ![Goblin Minion](/3-Mechanics/CLI/bestiary/fey/goblin-minion-xmm.md#^statblock)
@@ -3173,7 +3173,7 @@ Gold dragons favor grasslands and pristine forests, frequently dwelling near awe
 
 **Gold Dragon Lairs.** Gold dragons make their homes in places of natural and magical wonder.
 
-![Gold Dragon Wyrmling](file://D:\ProgramData\CLI\5etools-img/book/XMM/144-07-014.gold-dragon-wyrmling.webp#center)
+![Gold Dragon Wyrmling](/3-Mechanics/CLI/books/monster-manual-2025/img/144-07-014-gold-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Gold Dragon Wyrmling
 > ![Gold Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/gold-dragon-wyrmling-xmm.md#^statblock)
@@ -3181,12 +3181,12 @@ Gold dragons favor grasslands and pristine forests, frequently dwelling near awe
 > [!embed-monster]- Young Gold Dragon
 > ![Young Gold Dragon](/3-Mechanics/CLI/bestiary/dragon/young-gold-dragon-xmm.md#^statblock)
 
-![An adult gold dragon guard...](file://D:\ProgramData\CLI\5etools-img/book/XMM/145-07-015.adult-gold-dragon.webp#center "An adult gold dragon guards the site of a mysterious seal from intruders")
+![An adult gold dragon guard...](/3-Mechanics/CLI/books/monster-manual-2025/img/145-07-015-adult-gold-dragon.webp#center "An adult gold dragon guards the site of a mysterious seal from intruders")
 
 > [!embed-monster]- Adult Gold Dragon
 > ![Adult Gold Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-gold-dragon-xmm.md#^statblock)
 
-![The pure of heart have not...](file://D:\ProgramData\CLI\5etools-img/book/XMM/146-07-016.ancient-gold-dragon.webp#center "The pure of heart have nothing to fear in the presence of an ancient gold dragon")
+![The pure of heart have not...](/3-Mechanics/CLI/books/monster-manual-2025/img/146-07-016-ancient-gold-dragon.webp#center "The pure of heart have nothing to fear in the presence of an ancient gold dragon")
 
 > [!embed-monster]- Ancient Gold Dragon
 > ![Ancient Gold Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon-xmm.md#^statblock)
@@ -3224,7 +3224,7 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 > 
 > Notable among my eccentric ancestor's scattered designs was a schematic of a swamp-dwelling bovine monster and an ominous note: "Do better."
 
-![A gorgon petrifies victims...](file://D:\ProgramData\CLI\5etools-img/book/XMM/147-07-017.gorgon.webp#center "A gorgon petrifies victims with its deadly breath, then tramples them to pieces")
+![A gorgon petrifies victims...](/3-Mechanics/CLI/books/monster-manual-2025/img/147-07-017-gorgon.webp#center "A gorgon petrifies victims with its deadly breath, then tramples them to pieces")
 
 > [!embed-monster]- Gorgon
 > ![Gorgon](/3-Mechanics/CLI/bestiary/construct/gorgon-xmm.md#^statblock)
@@ -3247,7 +3247,7 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
 > 
 > Plot and strategize, bait and scheme, but hubris is no armor against ruin incarnate, and greater beings than you have fallen under the onslaught of the Abyss.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/148-07-018.goristro.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/148-07-018-goristro.webp#center)
 
 > [!embed-monster]- Goristro
 > ![Goristro](/3-Mechanics/CLI/bestiary/fiend/goristro-xmm.md#^statblock)
@@ -3261,7 +3261,7 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
 
 Gray oozes are predatory, corrosive slimes that blend in with stony surroundings.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/149-07-019.gray-ooze.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/149-07-019-gray-ooze.webp#center)
 
 > [!embed-monster]- Gray Ooze
 > ![Gray Ooze](/3-Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md#^statblock)
@@ -3282,7 +3282,7 @@ Despite their might, most green dragons disdain physical violence, viewing comba
 
 **Green Dragon Lairs.** Green dragons lair in ancient forests, often shaping stands of massive trees into compounds of interwoven branches, hollow trunks, and caverns amid mighty roots. They might also dwell amid forested ruins, particularly the former homes of those they've conquered.
 
-![Green Dragon Wyrmling](file://D:\ProgramData\CLI\5etools-img/book/XMM/150-07-020.green-dragon-wyrmling.webp#center)
+![Green Dragon Wyrmling](/3-Mechanics/CLI/books/monster-manual-2025/img/150-07-020-green-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Green Dragon Wyrmling
 > ![Green Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/green-dragon-wyrmling-xmm.md#^statblock)
@@ -3290,17 +3290,17 @@ Despite their might, most green dragons disdain physical violence, viewing comba
 > [!embed-monster]- Young Green Dragon
 > ![Young Green Dragon](/3-Mechanics/CLI/bestiary/dragon/young-green-dragon-xmm.md#^statblock)
 
-![An adult green dragon shadows its prey](file://D:\ProgramData\CLI\5etools-img/book/XMM/151-07-021.adult-green-dragon.webp#center)
+![An adult green dragon shadows its prey](/3-Mechanics/CLI/books/monster-manual-2025/img/151-07-021-adult-green-dragon.webp#center)
 
 > [!embed-monster]- Adult Green Dragon
 > ![Adult Green Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-green-dragon-xmm.md#^statblock)
 
-![An ancient green dragon ma...](file://D:\ProgramData\CLI\5etools-img/book/XMM/152-07-022.ancient-green-dragon.webp#center "An ancient green dragon manipulates the fates of its pawns from deep within its forest lair")
+![An ancient green dragon ma...](/3-Mechanics/CLI/books/monster-manual-2025/img/152-07-022-ancient-green-dragon.webp#center "An ancient green dragon manipulates the fates of its pawns from deep within its forest lair")
 
 > [!embed-monster]- Ancient Green Dragon
 > ![Ancient Green Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-green-dragon-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/153-07-023.green-hags.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/153-07-023-green-hags.webp#center)
 
 ### Green Hag
 
@@ -3361,7 +3361,7 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
 > 
 > For meal, my hunger grinds within my teeth. For might, my hunger clenches in my grip. But for what we're told we mustn't know, my hunger snaps a raptor's beak and makes my mind a muscle that knows only how to chew.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/154-07-024.grell.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/154-07-024-grell.webp#center)
 
 > [!embed-monster]- Grell
 > ![Grell](/3-Mechanics/CLI/bestiary/aberration/grell-xmm.md#^statblock)
@@ -3377,7 +3377,7 @@ Gricks are wormlike predators that burst from hiding—flailing and snapping—t
 
 Gricks' origins are unclear, but some suggest these creatures arise from natural worms or similar invertebrates mutated by magical phenomena. Many cite the presence of gricks in a region as evidence of portals to other planes of existence, legendary magic items, or powerful supernatural beings.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/155-07-025.grick.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/155-07-025-grick.webp#center)
 
 > [!embed-monster]- Grick
 > ![Grick](/3-Mechanics/CLI/bestiary/aberration/grick-xmm.md#^statblock)
@@ -3414,7 +3414,7 @@ Countless tales surround griffons. Roll on or choose a result from the Griffon T
 > 
 > People think we flew high over the city to avoid weather vanes and laundry lines and whatnot. Truth is, if the griffons smelled how much horse meat trotted just below, folks would have worse than joy-flying mages and stirges to worry about!
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/156-07-026.griffon.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/156-07-026-griffon.webp#center)
 
 > [!embed-monster]- Griffon
 > ![Griffon](/3-Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md#^statblock)
@@ -3448,7 +3448,7 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
 > 
 > We thought we'd discovered a new people living deeper than we believed possible. The truth was something far worse.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/157-07-027.grimlock.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/157-07-027-grimlock.webp#center)
 
 > [!embed-monster]- Grimlock
 > ![Grimlock](/3-Mechanics/CLI/bestiary/aberration/grimlock-xmm.md#^statblock)
@@ -3480,7 +3480,7 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
 | 8 | The vulnerabilities of a legendary monster. |
 ^guardian-naga-lore
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/158-07-028.guardian-naga.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/158-07-028-guardian-naga.webp#center)
 
 > [!embed-monster]- Guardian Naga
 > ![Guardian Naga](/3-Mechanics/CLI/bestiary/celestial/guardian-naga-xmm.md#^statblock)
@@ -3498,7 +3498,7 @@ Guards protect people, places, and things, either for pay or from a sense of dut
 > 
 > To distinguish between Waterdeep's different groups of guardians, keep this handy mnemonic in mind: the Guard guards the walls while the Watch watches all.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/159-07-029.guards.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/159-07-029-guards.webp#center)
 
 > [!embed-monster]- Guard
 > ![Guard](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md#^statblock)
@@ -3523,7 +3523,7 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
 > 
 > What blessing demands more yet inspires greater works than the blood of Tiamat?
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/160-08-001.half-dragon.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/160-08-001-half-dragon.webp#center)
 
 > [!embed-monster]- Half-Dragon
 > ![Half-Dragon](/3-Mechanics/CLI/bestiary/dragon/half-dragon-xmm.md#^statblock)
@@ -3541,7 +3541,7 @@ Harpies dwell in remote, dismal places tainted by tragedy and despair. Some tale
 
 Every harpy sings a distinct song. While some songs are said to be heartbreaking in their beauty, others are wretched squawking and compel only the magically enthralled.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/161-08-002.group-of-harpies.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/161-08-002-group-of-harpies.webp#center)
 
 > [!embed-monster]- Harpy
 > ![Harpy](/3-Mechanics/CLI/bestiary/monstrosity/harpy-xmm.md#^statblock)
@@ -3557,7 +3557,7 @@ Spawned from the pits of Acheron, Gehenna, and the Nine Hells, hell hounds enfor
 
 Hell hounds have greater cunning than normal canines. They're skilled trackers and work together well in packs, often employing tricks and ambushes. Hell hounds enjoy hearing prey scream in their scorching jaws and fiery breath. They often go out of their way to draw out the terror of their victims' final moments.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/162-08-003.hell-hound.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/162-08-003-hell-hound.webp#center)
 
 > [!embed-monster]- Hell Hound
 > ![Hell Hound](/3-Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md#^statblock)
@@ -3587,7 +3587,7 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
 | 6 | Stand sentry in a gallery of mundane armors. |
 ^helmed-horror-directives
 
-![A helmed horror proves imm...](file://D:\ProgramData\CLI\5etools-img/book/XMM/163-08-004.helmed-horror.webp#center "A helmed horror proves immune to a mage's Lightning Bolt spell")
+![A helmed horror proves imm...](/3-Mechanics/CLI/books/monster-manual-2025/img/163-08-004-helmed-horror.webp#center "A helmed horror proves immune to a mage's Lightning Bolt spell")
 
 > [!embed-monster]- Helmed Horror
 > ![Helmed Horror](/3-Mechanics/CLI/bestiary/construct/helmed-horror-xmm.md#^statblock)
@@ -3619,7 +3619,7 @@ When on the Material Plane or otherwise left to their own devices, hezrous reckl
 | 6 | Intimidate someone into following orders. |
 ^demonic-undertakings
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/164-08-005.hezrou.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/164-08-005-hezrou.webp#center)
 
 > [!embed-monster]- Hezrou
 > ![Hezrou](/3-Mechanics/CLI/bestiary/fiend/hezrou-xmm.md#^statblock)
@@ -3637,7 +3637,7 @@ Among hidden valleys, pristine waterfalls, and game-filled slopes, hill giants u
 
 Disaster, invasion, or want might drive hill giants from their homes into other people's lands. Some displaced hill giants might steal what they need or seek revenge for their losses by causing ruin among smaller beings. Others might take up lives of raiding or serve other giants in return for protection.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/165-08-006.hill-giants.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/165-08-006-hill-giants.webp#center)
 
 > [!embed-monster]- Hill Giant
 > ![Hill Giant](/3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md#^statblock)
@@ -3667,7 +3667,7 @@ Hippogriff migrations might take months or years, and sages frequently predict t
 | 6 | Portal to the Feywild or an Upper Plane. |
 ^hippogriff-destination
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/166-08-007.hippogriff.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/166-08-007-hippogriff.webp#center)
 
 > [!embed-monster]- Hippogriff
 > ![Hippogriff](/3-Mechanics/CLI/bestiary/monstrosity/hippogriff-xmm.md#^statblock)
@@ -3701,7 +3701,7 @@ Many hobgoblins serve the violent god Maglubiyet, whose hunger for conquest matc
 | 6 | Help shortsighted merchants undermine a government or despoil the environment. |
 ^hobgoblin-strategies
 
-![A hobgoblin warlord overse...](file://D:\ProgramData\CLI\5etools-img/book/XMM/167-08-008.hobgoblins.webp#center "A hobgoblin warlord oversees a hobgoblin captain and hobgoblin warriors marching to war")
+![A hobgoblin warlord overse...](/3-Mechanics/CLI/books/monster-manual-2025/img/167-08-008-hobgoblins.webp#center "A hobgoblin warlord oversees a hobgoblin captain and hobgoblin warriors marching to war")
 
 > [!embed-monster]- Hobgoblin Warrior
 > ![Hobgoblin Warrior](/3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md#^statblock)
@@ -3712,7 +3712,7 @@ Many hobgoblins serve the violent god Maglubiyet, whose hunger for conquest matc
 > [!embed-monster]- Hobgoblin Warlord
 > ![Hobgoblin Warlord](/3-Mechanics/CLI/bestiary/fey/hobgoblin-warlord-xmm.md#^statblock)
 
-![Homunculi are as varied as...](file://D:\ProgramData\CLI\5etools-img/book/XMM/168-08-009.group-of-homunculus.webp#center "Homunculi are as varied as the magic-users who create them")
+![Homunculi are as varied as...](/3-Mechanics/CLI/books/monster-manual-2025/img/168-08-009-group-of-homunculus.webp#center "Homunculi are as varied as the magic-users who create them")
 
 ### Homunculus
 
@@ -3755,7 +3755,7 @@ Hook horrors are beaked predators whose forelimbs end in massive, hook-like claw
 
 Hook horrors feed opportunistically on plants, fungi, and any creatures that come close enough to hook. To perceive their surroundings, hook horrors echolocate via a range of noises, from banging on rocks and their own bodies to vocalizations that sound like strange squawks, screams, or clicks. Only hook horrors know the meaning of these noises, but many people who explore the Underdark or live near deep-reaching caves have sought the sources of such sounds only to fall victim to hungry hook horrors.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/169-08-010.hook-horror.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/169-08-010-hook-horror.webp#center)
 
 > [!embed-monster]- Hook Horror
 > ![Hook Horror](/3-Mechanics/CLI/bestiary/monstrosity/hook-horror-xmm.md#^statblock)
@@ -3769,7 +3769,7 @@ Hook horrors feed opportunistically on plants, fungi, and any creatures that com
 
 Horned devils, also known as cornugons or malebranche, are infernal warriors that exact the will of diabolical generals and lead other devils in battle. Their bodies and weapons are forged in the Nine Hells, and they torment their foes with diabolical flames and pernicious wounds.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/170-08-011.horned-devil.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/170-08-011-horned-devil.webp#center)
 
 > [!embed-monster]- Horned Devil
 > ![Horned Devil](/3-Mechanics/CLI/bestiary/fiend/horned-devil-xmm.md#^statblock)
@@ -3799,7 +3799,7 @@ While many hydras claim their own territories, wicked deities might use them to 
 | 4 | Protect a font of poison that pollutes a river. |
 ^hydra-lairs
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/171-08-012.hydra.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/171-08-012-hydra.webp#center)
 
 > [!embed-monster]- Hydra
 > ![Hydra](/3-Mechanics/CLI/bestiary/monstrosity/hydra-xmm.md#^statblock)
@@ -3825,7 +3825,7 @@ Ice devils usually lurk in frozen realms, particularly the frigid layer of Cania
 > 
 > Part of the charm of ice devils is that they always think they're smarter than you. Mmm—there are few pleasures sweeter than proving a devil wrong.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/172-09-001.ice-devil.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/172-09-001-ice-devil.webp#center)
 
 > [!embed-monster]- Ice Devil
 > ![Ice Devil](/3-Mechanics/CLI/bestiary/fiend/ice-devil-xmm.md#^statblock)
@@ -3845,7 +3845,7 @@ Imps without masters delight in manipulating other creatures and inflating their
 > 
 > I can tell you what I know, but wouldn't you rather I tell you what'll let you do what you know you're going to do anyway?
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/173-09-002.imp.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/173-09-002-imp.webp#center)
 
 > [!embed-monster]- Imp
 > ![Imp](/3-Mechanics/CLI/bestiary/fiend/imp-xmm.md#^statblock)
@@ -3879,7 +3879,7 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
 | 8 | A visitor with an eerie or enigmatic message. |
 ^incubus-nightmares
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/174-09-003.incubus.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/174-09-003-incubus.webp#center)
 
 > [!embed-monster]- Incubus
 > ![Incubus](/3-Mechanics/CLI/bestiary/fiend/incubus-xmm.md#^statblock)
@@ -3897,7 +3897,7 @@ Intellect devourers serve their mind flayer creators by consuming other creature
 > 
 > I know Durgan, and that wasn't Durgan. It was like something was wearing Durgan... like some sort of suit... a Durgan suit.
 
-![Intellect Devourer](file://D:\ProgramData\CLI\5etools-img/book/XMM/175-09-004.intellect-devourer.webp#center)
+![Intellect Devourer](/3-Mechanics/CLI/books/monster-manual-2025/img/175-09-004-intellect-devourer.webp#center)
 
 > [!embed-monster]- Intellect Devourer
 > ![Intellect Devourer](/3-Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm.md#^statblock)
@@ -3931,7 +3931,7 @@ In rare cases, an invisible stalker lingers in the world without a spellcaster c
 > 
 > As detectives, we seek truth by eliminating the impossible, ever mindful that the impossible might also be seeking to eliminate us.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/176-09-005.invisible-stalker.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/176-09-005-invisible-stalker.webp#center)
 
 > [!embed-monster]- Invisible Stalker
 > ![Invisible Stalker](/3-Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md#^statblock)
@@ -3959,14 +3959,14 @@ Iron golems preserve and protect their charges for generations. Roll on or choos
 | 4 | Stand atop the resting place of a powerful magic item. |
 ^iron-golem-orders
 
-![Iron Golem](file://D:\ProgramData\CLI\5etools-img/book/XMM/177-09-006.iron-golem.webp#center)
+![Iron Golem](/3-Mechanics/CLI/books/monster-manual-2025/img/177-09-006-iron-golem.webp#center)
 
 > [!embed-monster]- Iron Golem
 > ![Iron Golem](/3-Mechanics/CLI/bestiary/construct/iron-golem-xmm.md#^statblock)
 
 ## Monsters (J)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/178-10-001.jackalwere.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/178-10-001-jackalwere.webp#center)
 
 ### Jackalwere
 
@@ -4010,7 +4010,7 @@ The curse affecting kenku allows them to vocally communicate only by mimicking s
 > [!embed-monster]- Kenku
 > ![Kenku](/3-Mechanics/CLI/bestiary/monstrosity/kenku-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/179-11-001.kenku.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/179-11-001-kenku.webp#center)
 
 ### Knights
 
@@ -4021,7 +4021,7 @@ The curse affecting kenku allows them to vocally communicate only by mimicking s
 
 Knights are skilled warriors trained for war and tested in battle. Many serve the rulers of a realm, a religion, or an order devoted to a cause.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/180-11-002.knights.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/180-11-002-knights.webp#center)
 
 > [!embed-monster]- Knight
 > ![Knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md#^statblock)
@@ -4043,7 +4043,7 @@ Kobolds' scales resemble those of chromatic dragons that live near their warrens
 > [!embed-monster]- Kobold Warrior
 > ![Kobold Warrior](/3-Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/181-11-003.kobolds.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/181-11-003-kobolds.webp#center)
 
 > [!embed-monster]- Winged Kobold
 > ![Winged Kobold](/3-Mechanics/CLI/bestiary/dragon/winged-kobold-xmm.md#^statblock)
@@ -4083,7 +4083,7 @@ Krakens rarely appear on the surface, but when they do, they herald times of cha
 > 
 > A kraken dreams of casting its tentacles into the heavens and strangling that which birthed it, and when its dream exceeds its reach, it settles for the occasional passing ship.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/182-11-004.kraken.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/182-11-004-kraken.webp#center)
 
 > [!embed-monster]- Kraken
 > ![Kraken](/3-Mechanics/CLI/bestiary/monstrosity/kraken-xmm.md#^statblock)
@@ -4149,9 +4149,9 @@ Lacking information about what their other gods look like, kuo-toa priests inven
 > 
 > When the Corpse Moon rises and the Chum-Tide washes in, up rise the Gogglers from their pits beneath the waves. Burbling and noisome they come, fishing night's shores as we do dawn's waves.
 
-![An adventurer stumbles on ...](file://D:\ProgramData\CLI\5etools-img/book/XMM/183-11-005.kuo-toa-archpriest.webp#center "An adventurer stumbles on a kuo-toa archpriest and servants of its strange gods")
+![An adventurer stumbles on ...](/3-Mechanics/CLI/books/monster-manual-2025/img/183-11-005-kuo-toa-archpriest.webp#center "An adventurer stumbles on a kuo-toa archpriest and servants of its strange gods")
 
-![Kuo-toa](file://D:\ProgramData\CLI\5etools-img/book/XMM/184-11-006.kuo-toa.webp#center)
+![Kuo-toa](/3-Mechanics/CLI/books/monster-manual-2025/img/184-11-006-kuo-toa.webp#center)
 
 > [!embed-monster]- Kuo-toa
 > ![Kuo-toa](/3-Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md#^statblock)
@@ -4159,7 +4159,7 @@ Lacking information about what their other gods look like, kuo-toa priests inven
 > [!embed-monster]- Kuo-toa Whip
 > ![Kuo-toa Whip](/3-Mechanics/CLI/bestiary/aberration/kuo-toa-whip-xmm.md#^statblock)
 
-![A kuo-toa whip and kuo-toa...](file://D:\ProgramData\CLI\5etools-img/book/XMM/185-11-007.kuo-toa-monitor-and-whip.webp#center "A kuo-toa whip and kuo-toa monitor lead a midnight raid")
+![A kuo-toa whip and kuo-toa...](/3-Mechanics/CLI/books/monster-manual-2025/img/185-11-007-kuo-toa-monitor-and-whip.webp#center "A kuo-toa whip and kuo-toa monitor lead a midnight raid")
 
 > [!embed-monster]- Kuo-toa Monitor
 > ![Kuo-toa Monitor](/3-Mechanics/CLI/bestiary/aberration/kuo-toa-monitor-xmm.md#^statblock)
@@ -4194,7 +4194,7 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
 | 6 | Slay a monster and retrieve a specific organ. |
 ^lamia-pacts
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/186-12-001.lamia.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/186-12-001-lamia.webp#center)
 
 > [!embed-monster]- Lamia
 > ![Lamia](/3-Mechanics/CLI/bestiary/fiend/lamia-xmm.md#^statblock)
@@ -4210,7 +4210,7 @@ Souls condemned to the Lower Planes often become larvae—repulsive, maggot-like
 
 Larvae that survive on the Lower Planes long enough can eventually transform into other sorts of lesser Fiends.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/187-12-002.swarm-of-larvae.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/187-12-002-swarm-of-larvae.webp#center)
 
 > [!embed-monster]- Larva
 > ![Larva](/3-Mechanics/CLI/bestiary/fiend/larva-xmm.md#^statblock)
@@ -4227,7 +4227,7 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
 
 The least of all devils, lemures arise from wicked souls, their mortal memories scoured away. Only vague limbs and anguished features jut from these slurries of infernal proto-matter.
 
-![Lemure](file://D:\ProgramData\CLI\5etools-img/book/XMM/188-12-003.lemures.webp#center)
+![Lemure](/3-Mechanics/CLI/books/monster-manual-2025/img/188-12-003-lemures.webp#center)
 
 > [!embed-monster]- Lemure
 > ![Lemure](/3-Mechanics/CLI/bestiary/fiend/lemure-xmm.md#^statblock)
@@ -4276,7 +4276,7 @@ Spirit jars are typically small, well-made objects that were meaningful to a lic
 > 
 > Ambition can become an addiction of the mind and spirit. It builds beyond a driving flame into an insidious inferno that burns a mage hollow until only the desire for more magical power remains
 
-![An ancient lich and her gh...](file://D:\ProgramData\CLI\5etools-img/book/XMM/189-12-004.litches.webp#center "An ancient lich and her ghast gravecaller attendants ¤arp reality with forbidden magic")
+![An ancient lich and her gh...](/3-Mechanics/CLI/books/monster-manual-2025/img/189-12-004-litches.webp#center "An ancient lich and her ghast gravecaller attendants ¤arp reality with forbidden magic")
 
 > [!embed-monster]- Lich
 > ![Lich](/3-Mechanics/CLI/bestiary/undead/lich-xmm.md#^statblock)
@@ -4296,7 +4296,7 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
 > [!embed-monster]- Lizardfolk Sovereign
 > ![Lizardfolk Sovereign](/3-Mechanics/CLI/bestiary/elemental/lizardfolk-sovereign-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/190-12-005.lizardfolk.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/190-12-005-lizardfolk.webp#center)
 
 ## Monsters (M)
 
@@ -4333,7 +4333,7 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 > 
 > Have you gazed on the Runes of Chaos, held the Death Moon Orb in your trembling hands, entered the Devouring Portal and walked the Paths of the Doomed, or sat at the left hand of Szass Tam during the Ritual of Twin Burnings? No? Then speak not to me of wizards. Speak not to me of Thay.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/191-13-001.mages.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/191-13-001-mages.webp#center)
 
 > [!embed-monster]- Mage Apprentice
 > ![Mage Apprentice](/3-Mechanics/CLI/bestiary/humanoid/mage-apprentice-xmm.md#^statblock)
@@ -4355,7 +4355,7 @@ Magmins divide all things into two categories: things that are on fire and thing
 
 Magmins might be conjured by magic-users to harry foes or might escape the Elemental Plane of Fire through portals or rifts that lead to other realms. They're attracted to places of intense heat, such as volcanoes and rivers of magma. If they can't find such favored conditions, magmins eagerly burn structures or start wildfires to entertain themselves.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/192-13-002.magmin.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/192-13-002-magmin.webp#center)
 
 > [!embed-monster]- Magmin
 > ![Magmin](/3-Mechanics/CLI/bestiary/elemental/magmin-xmm.md#^statblock)
@@ -4374,7 +4374,7 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
 > [!embed-monster]- Manes
 > ![Manes](/3-Mechanics/CLI/bestiary/fiend/manes-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/193-13-003.manes.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/193-13-003-manes.webp#center)
 
 > [!embed-monster]- Manes Vaporspawn
 > ![Manes Vaporspawn](/3-Mechanics/CLI/bestiary/fiend/manes-vaporspawn-xmm.md#^statblock)
@@ -4408,7 +4408,7 @@ Despite their ravenous tendencies, manticores enjoy speaking with those they're 
 | 8 | Try to locate something from its vantage point in the sky. |
 ^manticore-negotiations
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/194-13-004.manticore.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/194-13-004-manticore.webp#center)
 
 > [!embed-monster]- Manticore
 > ![Manticore](/3-Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md#^statblock)
@@ -4424,7 +4424,7 @@ Marids surge with the power of the seas, using it to manipulate the waves or cre
 
 Marids hail from the Elemental Plane of Water, where they live in wondrous homes drifting amid the endless ocean. Among these is the Citadel of Ten Thousand Pearls—a coral sphere studded with dozens of domed theaters and libraries—and the air-filled, cosmopolitan City of Glass.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/195-13-005.marid.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/195-13-005-marid.webp#center)
 
 > [!embed-monster]- Marid
 > ![Marid](/3-Mechanics/CLI/bestiary/elemental/marid-xmm.md#^statblock)
@@ -4438,7 +4438,7 @@ Marids hail from the Elemental Plane of Water, where they live in wondrous homes
 
 Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged blades. With these cursed weapons and experience from countless battles, they lead other demons to slaughter virtuous souls. They often command droves of weaker demons.
 
-![Marilith](file://D:\ProgramData\CLI\5etools-img/book/XMM/196-13-006.mariliths.webp#center)
+![Marilith](/3-Mechanics/CLI/books/monster-manual-2025/img/196-13-006-mariliths.webp#center)
 
 > [!embed-monster]- Marilith
 > ![Marilith](/3-Mechanics/CLI/bestiary/fiend/marilith-xmm.md#^statblock)
@@ -4468,7 +4468,7 @@ Medusas are born or created through preternatural circumstances. Roll on or choo
 | 6 | The victim of a bite from a magical serpent or reptilian god in disguise. |
 ^medusa-fates
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/197-13-007.medusa.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/197-13-007-medusa.webp#center)
 
 > [!embed-monster]- Medusa
 > ![Medusa](/3-Mechanics/CLI/bestiary/monstrosity/medusa-xmm.md#^statblock)
@@ -4488,7 +4488,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 > 
 > I am Seamusxanthuszenus, Slayer of Fiends, Merchant Most Excellent, Purveyor of Death!
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/198-13-008.mephits.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/198-13-008-mephits.webp#center)
 
 > [!embed-monster]- Dust Mephit
 > ![Dust Mephit](/3-Mechanics/CLI/bestiary/elemental/dust-mephit-xmm.md#^statblock)
@@ -4502,7 +4502,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 > [!embed-monster]- Mud Mephit
 > ![Mud Mephit](/3-Mechanics/CLI/bestiary/elemental/mud-mephit-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/199-13-009.mephit-pair.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/199-13-009-mephit-pair.webp#center)
 
 > [!embed-monster]- Smoke Mephit
 > ![Smoke Mephit](/3-Mechanics/CLI/bestiary/elemental/smoke-mephit-xmm.md#^statblock)
@@ -4519,7 +4519,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 
 Beneath the waves dwell merfolk, mysterious creatures that merge the features of humans and sea creatures. Some are curious about land dwellers, while others view them with suspicion.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/200-13-010.merfolk.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/200-13-010-merfolk.webp#center)
 
 > [!embed-monster]- Merfolk Skirmisher
 > ![Merfolk Skirmisher](/3-Mechanics/CLI/bestiary/elemental/merfolk-skirmisher-xmm.md#^statblock)
@@ -4542,7 +4542,7 @@ Merrow raid coastal settlements and merfolk communities to steal weapons and tre
 > 
 > Sages trace merrows' origins to aquatic ogres, depraved merfolk, and worse. Such broad theories reveal little about these monsters but overmuch of the dread lurking beyond our certain shores.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/201-13-011.merrow.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/201-13-011-merrow.webp#center)
 
 > [!embed-monster]- Merrow
 > ![Merrow](/3-Mechanics/CLI/bestiary/monstrosity/merrow-xmm.md#^statblock)
@@ -4572,7 +4572,7 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
 | 6 | Souls, whether as larvae or captured spirits. |
 ^mezzoloth-payments
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/202-13-012.mezzoloth.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/202-13-012-mezzoloth.webp#center)
 
 > [!embed-monster]- Mezzoloth
 > ![Mezzoloth](/3-Mechanics/CLI/bestiary/fiend/mezzoloth-xmm.md#^statblock)
@@ -4660,7 +4660,7 @@ Topiary
 
 Weapon rack
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/203-13-013.mimic.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/203-13-013-mimic.webp#center)
 
 > [!embed-monster]- Mimic
 > ![Mimic](/3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md#^statblock)
@@ -4692,7 +4692,7 @@ Mind flayers are infamous plotters and manipulators, concocting plans that reach
 | 6 | Sacrifice the mental energy of a planet's populace to take control of a githyanki bastion. |
 ^mind-flayer-machinations
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/204-13-014.mind-flayer.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/204-13-014-mind-flayer.webp#center)
 
 > [!embed-monster]- Mind Flayer
 > ![Mind Flayer](/3-Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md#^statblock)
@@ -4723,7 +4723,7 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
 | 4 | The ruins of a buried palace or temple. |
 ^minotaur-mazes
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/205-13-015.minotaur.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/205-13-015-minotaur.webp#center)
 
 > [!embed-monster]- Minotaur of Baphomet
 > ![Minotaur of Baphomet](/3-Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm.md#^statblock)
@@ -4765,27 +4765,27 @@ In rare cases, a modron goes rogue and develops its own will. In these cases, ot
 > 
 > The guide swore "beep boop" meant "hello, friend." I don't know why they're after us!
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/206-13-016.modron-monodrone.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/206-13-016-modron-monodrone.webp#center)
 
 > [!embed-monster]- Modron Monodrone
 > ![Modron Monodrone](/3-Mechanics/CLI/bestiary/construct/modron-monodrone-xmm.md#^statblock)
 
-![Modron Duodrone](file://D:\ProgramData\CLI\5etools-img/book/XMM/207-13-017.modron-duodrone.webp#center)
+![Modron Duodrone](/3-Mechanics/CLI/books/monster-manual-2025/img/207-13-017-modron-duodrone.webp#center)
 
 > [!embed-monster]- Modron Duodrone
 > ![Modron Duodrone](/3-Mechanics/CLI/bestiary/construct/modron-duodrone-xmm.md#^statblock)
 
-![Modron Tridrone](file://D:\ProgramData\CLI\5etools-img/book/XMM/208-13-018.modron-tridrone.webp#center)
+![Modron Tridrone](/3-Mechanics/CLI/books/monster-manual-2025/img/208-13-018-modron-tridrone.webp#center)
 
 > [!embed-monster]- Modron Tridrone
 > ![Modron Tridrone](/3-Mechanics/CLI/bestiary/construct/modron-tridrone-xmm.md#^statblock)
 
-![Modron Quadrone](file://D:\ProgramData\CLI\5etools-img/book/XMM/209-13-019.modron-quadrone.webp#center)
+![Modron Quadrone](/3-Mechanics/CLI/books/monster-manual-2025/img/209-13-019-modron-quadrone.webp#center)
 
 > [!embed-monster]- Modron Quadrone
 > ![Modron Quadrone](/3-Mechanics/CLI/bestiary/construct/modron-quadrone-xmm.md#^statblock)
 
-![Modron Pentadrone](file://D:\ProgramData\CLI\5etools-img/book/XMM/210-13-020.modron-pentadrone.webp#center)
+![Modron Pentadrone](/3-Mechanics/CLI/books/monster-manual-2025/img/210-13-020-modron-pentadrone.webp#center)
 
 > [!embed-monster]- Modron Pentadrone
 > ![Modron Pentadrone](/3-Mechanics/CLI/bestiary/construct/modron-pentadrone-xmm.md#^statblock)
@@ -4803,12 +4803,12 @@ Mummies pursue those who offend them, typically mortals who desecrate their rest
 
 A mummy might look frail, but its body possesses supernatural strength, and its gaze can strike fear in the bravest hearts. Those who escape a mummy's grasp might find themselves subject to a terrible curse. Victims of a mummy's curse gradually wither, their bodies rotting away until they're reduced to dust. This curse can be healed only by the [Remove Curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/211-13-021.mummy.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/211-13-021-mummy.webp#center)
 
 > [!embed-monster]- Mummy
 > ![Mummy](/3-Mechanics/CLI/bestiary/undead/mummy-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/212-13-022.mummy-lord.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/212-13-022-mummy-lord.webp#center)
 
 > [!embed-monster]- Mummy Lord
 > ![Mummy Lord](/3-Mechanics/CLI/bestiary/undead/mummy-lord-xmm.md#^statblock)
@@ -4822,7 +4822,7 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
 
 Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. These ambulatory fungal creatures tend to their sanctuaries and avoid becoming embroiled in the conflicts of other creatures. They use specialized spores to communicate, to alert one another to danger, and to defend themselves. When myconids encounter others beings, they use mind-linking spores to allow nearby creatures to telepathically share thoughts. Nevertheless, myconids' goals remain mysterious to most non-fungal creatures.
 
-![Myconids tend to the fungi...](file://D:\ProgramData\CLI\5etools-img/book/XMM/213-13-023.group-of-myconids.webp#center "Myconids tend to the fungi in their hidden gardens, whether mysterious mushrooms or their own community members")
+![Myconids tend to the fungi...](/3-Mechanics/CLI/books/monster-manual-2025/img/213-13-023-group-of-myconids.webp#center "Myconids tend to the fungi in their hidden gardens, whether mysterious mushrooms or their own community members")
 
 > [!embed-monster]- Myconid Sprout
 > ![Myconid Sprout](/3-Mechanics/CLI/bestiary/plant/myconid-sprout-xmm.md#^statblock)
@@ -4853,7 +4853,7 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
 > 
 > The Blood War—that ageless clash between devils and demons—helps ensure the balance of the multiverse. At times it makes unlikely allies, but never delude yourself into believing there's a lesser of two evil. I won't be thanking a demon for every day I'm spared a devil's lash.
 
-![Nalfeshnee](file://D:\ProgramData\CLI\5etools-img/book/XMM/214-14-001.nalfeshnee.webp#center)
+![Nalfeshnee](/3-Mechanics/CLI/books/monster-manual-2025/img/214-14-001-nalfeshnee.webp#center)
 
 > [!embed-monster]- Nalfeshnee
 > ![Nalfeshnee](/3-Mechanics/CLI/bestiary/fiend/nalfeshnee-xmm.md#^statblock)
@@ -4869,7 +4869,7 @@ Night hags seek mortals to torment and turn to evil. By day, night hags use supe
 
 Night hags maintain networks of nefarious customers and collect rumors from across the Lower Planes. These hags might part with their secrets in exchange for magic items and other wicked prices.
 
-![Night Hag](file://D:\ProgramData\CLI\5etools-img/book/XMM/215-14-002.night-hags.webp#center)
+![Night Hag](/3-Mechanics/CLI/books/monster-manual-2025/img/215-14-002-night-hags.webp#center)
 
 > [!embed-monster]- Night Hag
 > ![Night Hag](/3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md#^statblock)
@@ -4899,7 +4899,7 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
 | 6 | A wicked cavalier, such as a death knight, an erinyes, an incubus, or a vampire. |
 ^nightmare-riders
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/216-14-003.nightmares.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/216-14-003-nightmares.webp#center)
 
 > [!embed-monster]- Nightmare
 > ![Nightmare](/3-Mechanics/CLI/bestiary/fiend/nightmare-xmm.md#^statblock)
@@ -4913,7 +4913,7 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
 
 Nobles encompass a variety of people with social influence. They might be rulers, wealthy merchants, callous bureaucrats, or the idle elite.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/217-14-004.nobles.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/217-14-004-nobles.webp#center)
 
 > [!embed-monster]- Noble
 > ![Noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md#^statblock)
@@ -4936,7 +4936,7 @@ Some nothics seek to end the curse that warped them into their bizarre forms, bu
 > 
 > Deeper. Deeper and Deeper. Deeper and creeper. Creeping they come. Up from the place that isn't a place. They come to feed. Feed on what I know. So I hide. I hide away. Away in the secret dark. Secret and dark, like all that I know I shouldn't know!
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/218-14-005.nothic.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/218-14-005-nothic.webp#center)
 
 > [!embed-monster]- Nothic
 > ![Nothic](/3-Mechanics/CLI/bestiary/aberration/nothic-xmm.md#^statblock)
@@ -4966,7 +4966,7 @@ Nycaloths and other yugoloths frequently serve as mercenary forces in extraplana
 | 4 | Liberate an imprisoned fiendish ally. |
 ^yugoloth-incursions
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/219-14-006.nycaloth.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/219-14-006-nycaloth.webp#center)
 
 > [!embed-monster]- Nycaloth
 > ![Nycaloth](/3-Mechanics/CLI/bestiary/fiend/nycaloth-xmm.md#^statblock)
@@ -5000,7 +5000,7 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
 | 6 | A spotless suit of metal armor. |
 ^ochre-jelly-leftovers
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/220-15-001.ochre-jelly.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/220-15-001-ochre-jelly.webp#center)
 
 > [!embed-monster]- Ochre Jelly
 > ![Ochre Jelly](/3-Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md#^statblock)
@@ -5016,7 +5016,7 @@ Ogres are selfish raiders and hulking gluttons spawned of hateful supernatural f
 
 Ogres trace their origins to wrathful deities such as Erythnul, Takhisis, and Vaprak. They magically emerge from the earth of lands corrupted by evil gods, sinister magic, or ancient curses. Some bear evidence of the places that spawned them, sporting rocky calluses, mossy growths, or frozen scars.
 
-![Ogres](file://D:\ProgramData\CLI\5etools-img/book/XMM/221-15-002.ogres.webp#center)
+![Ogres](/3-Mechanics/CLI/books/monster-manual-2025/img/221-15-002-ogres.webp#center)
 
 > [!embed-monster]- Ogre
 > ![Ogre](/3-Mechanics/CLI/bestiary/giant/ogre-xmm.md#^statblock)
@@ -5047,7 +5047,7 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
 | 4 | Playing drums that keep everyone awake. |
 ^oni-troubles
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/222-15-003.oni.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/222-15-003-oni.webp#center)
 
 > [!embed-monster]- Oni
 > ![Oni](/3-Mechanics/CLI/bestiary/fiend/oni-xmm.md#^statblock)
@@ -5075,7 +5075,7 @@ Otyughs often bury themselves amid trash heaps and observe their surroundings wi
 | 4 | Telepathically transmits an image of a large gemstone, crooked weapon, or soggy pastry. |
 ^otyugh-lures
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/223-15-004.otyugh.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/223-15-004-otyugh.webp#center)
 
 > [!embed-monster]- Otyugh
 > ![Otyugh](/3-Mechanics/CLI/bestiary/aberration/otyugh-xmm.md#^statblock)
@@ -5103,7 +5103,7 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
 | 4 | Passages through the earth or hollow trees. |
 ^owlbear-den-features
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/224-15-005.owlbear.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/224-15-005-owlbear.webp#center)
 
 > [!embed-monster]- Owlbear
 > ![Owlbear](/3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md#^statblock)
@@ -5140,7 +5140,7 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
 > 
 > Pegasi are the cherished steeds of our creator, Corellon. To see one is a blessing, but to ride one proves nothing less than the love of the gods.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/225-16-001.pegasus.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/225-16-001-pegasus.webp#center)
 
 > [!embed-monster]- Pegasus
 > ![Pegasus](/3-Mechanics/CLI/bestiary/celestial/pegasus-xmm.md#^statblock)
@@ -5220,7 +5220,7 @@ Wrestler
 > 
 > Welcome, one! Welcome, all! Welcome to the short, and welcome to the tall! Welcome angels, welcome fiends, welcome to all from walks between! Welcome to the Carnival!
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/226-16-002.performers.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/226-16-002-performers.webp#center)
 
 > [!embed-monster]- Performer
 > ![Performer](/3-Mechanics/CLI/bestiary/humanoid/performer-xmm.md#^statblock)
@@ -5254,7 +5254,7 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
 | 4 | A portal opens to the Lower Planes. |
 ^peryton-superstitions
 
-![A peryton's humanoid-shape...](file://D:\ProgramData\CLI\5etools-img/book/XMM/227-16-003.peryton.webp#center "A peryton's humanoid-shaped shadow suggests the monster's supernatural origin")
+![A peryton's humanoid-shape...](/3-Mechanics/CLI/books/monster-manual-2025/img/227-16-003-peryton.webp#center "A peryton's humanoid-shaped shadow suggests the monster's supernatural origin")
 
 > [!embed-monster]- Peryton
 > ![Peryton](/3-Mechanics/CLI/bestiary/monstrosity/peryton-xmm.md#^statblock)
@@ -5274,7 +5274,7 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
 > 
 > Some sages say you unknowingly occupy the same ethereally coterminous point as a phase spider an average of four times each year.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/228-16-004.phase-spider.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/228-16-004-phase-spider.webp#center)
 
 > [!embed-monster]- Phase Spider
 > ![Phase Spider](/3-Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm.md#^statblock)
@@ -5294,7 +5294,7 @@ Piercers are the larval form of ropers. Young piercers seek to move as far from 
 > 
 > Rule 8: Never trust a stalactite
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/229-16-005.piercer.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/229-16-005-piercer.webp#center)
 
 > [!embed-monster]- Piercer
 > ![Piercer](/3-Mechanics/CLI/bestiary/aberration/piercer-xmm.md#^statblock)
@@ -5328,7 +5328,7 @@ Pirates might be allies, foes, wild cards, or some combination thereof. While th
 | 8 | Whale | A treasure chest |
 ^pirate-flags
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/230-16-006.pirates.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/230-16-006-pirates.webp#center)
 
 > [!embed-monster]- Pirate
 > ![Pirate](/3-Mechanics/CLI/bestiary/humanoid/pirate-xmm.md#^statblock)
@@ -5352,7 +5352,7 @@ Pit fiends are the nobility of the Nine Hells, and many rule Lower Planar fiefdo
 
 Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures with their mere presence. Despite their size and incredible physical and magical might, pit fiends are as likely to try to corrupt foes as they are to destroy them outright. Pit fiends' arrogance can lead them to underestimate mortal foes—a failing that can lead to their downfall.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/231-16-007.pit-fiend.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/231-16-007-pit-fiend.webp#center)
 
 > [!embed-monster]- Pit Fiend
 > ![Pit Fiend](/3-Mechanics/CLI/bestiary/fiend/pit-fiend-xmm.md#^statblock)
@@ -5366,7 +5366,7 @@ Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures 
 
 Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They invisibly observe those who enter their wooded homes, revealing themselves to those with friendly intentions. Those who are unfriendly become the targets of pixies' pranks.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/232-16-008.pixies.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/232-16-008-pixies.webp#center)
 
 > [!embed-monster]- Pixie
 > ![Pixie](/3-Mechanics/CLI/bestiary/fey/pixie-xmm.md#^statblock)
@@ -5399,7 +5399,7 @@ These angels act where they can against overwhelming evil, but to avoid the atte
 | 6 | Reveal the true name of a devil to banish it. |
 ^planetar-quests
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/233-16-009.planetar.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/233-16-009-planetar.webp#center)
 
 > [!embed-monster]- Planetar
 > ![Planetar](/3-Mechanics/CLI/bestiary/celestial/planetar-xmm.md#^statblock)
@@ -5431,7 +5431,7 @@ Poltergeists telekinetically move objects in the places they lurk. Roll on or ch
 | 8 | Uncannily stacks books, furniture, or utensils. |
 ^poltergeist-activities
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/234-16-010.poltergeist.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/234-16-010-poltergeist.webp#center)
 
 > [!embed-monster]- Poltergeist
 > ![Poltergeist](/3-Mechanics/CLI/bestiary/undead/poltergeist-xmm.md#^statblock)
@@ -5469,7 +5469,7 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 > 
 > Shining One, light my hours. Enkindle my soul, and inspire my deeds. Chase the shadows from my path, and let me walk in your brilliance.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/235-16-011.priests.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/235-16-011-priests.webp#center)
 
 > [!embed-monster]- Priest Acolyte
 > ![Priest Acolyte](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md#^statblock)
@@ -5517,7 +5517,7 @@ Many pseudodragons prefer the finer things in life. These diminutive dragons mig
 > 
 > If you want to keep a pseudodragon happy, get used to thinking of yourself as its familiar.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/236-16-012.pseudodragon.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/236-16-012-pseudodragon.webp#center)
 
 > [!embed-monster]- Pseudodragon
 > ![Pseudodragon](/3-Mechanics/CLI/bestiary/dragon/pseudodragon-xmm.md#^statblock)
@@ -5535,7 +5535,7 @@ Titanic purple worms burrow through the earth and sand. Ever ravenous, they devo
 > 
 > Purple worms alone are bad enough, but the blasted monsters have a knack for unearthing things that are even worse!
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/237-16-013.purple-worm.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/237-16-013-purple-worm.webp#center)
 
 > [!embed-monster]- Purple Worm
 > ![Purple Worm](/3-Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md#^statblock)
@@ -5553,7 +5553,7 @@ Beastly hunters endemic to subterranean depths, quaggoths scrape harsh existence
 
 Quaggoths frequently collect in small bands led by the most fearsome group member. These bands are proud and quick to hold grudges. Anyone who harms a quaggoth—or who is suspected of doing so—earns the enmity of that quaggoth's band regardless of reason or fault. These grudges sometimes extend to whole communities rather than individuals. Generations of quaggoths might seek revenge against a settlement's inhabitants for decades-old slights. Only the leader of a quaggoth band can demand that a grudge ends.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/238-17-001.quaggoth.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/238-17-001-quaggoth.webp#center)
 
 > [!embed-monster]- Quaggoth
 > ![Quaggoth](/3-Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm.md#^statblock)
@@ -5576,7 +5576,7 @@ Quasits are usually overlooked and underestimated by other demons. This drives t
 > 
 > A thing doesn't need to be big to be gut-flippingly dreadful. Just think of all the folks who're squeamish around spiders. Now imagine a spider as big as a cat and that wants to steal your tongue.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/239-17-002.quasit.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/239-17-002-quasit.webp#center)
 
 > [!embed-monster]- Quasit
 > ![Quasit](/3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md#^statblock)
@@ -5596,7 +5596,7 @@ Rakshasas can withstand some degree of magic, but legends tell of blessed warrio
 
 Rakshasas' appearances combine humanlike bodies with the features of animals and monsters. All rakshasas have a physical oddity that remains when they adopt magical disguises, such as palms where the backs of the hands would be on humans.
 
-![Rakshasa conspirators plot their next atrocity](file://D:\ProgramData\CLI\5etools-img/book/XMM/240-18-001.rakshasa.webp#center)
+![Rakshasa conspirators plot their next atrocity](/3-Mechanics/CLI/books/monster-manual-2025/img/240-18-001-rakshasa.webp#center)
 
 > [!embed-monster]- Rakshasa
 > ![Rakshasa](/3-Mechanics/CLI/bestiary/fiend/rakshasa-xmm.md#^statblock)
@@ -5616,7 +5616,7 @@ Red dragons believe themselves to be the greatest of all dragons and, by extensi
 
 **Red Dragon Lairs.** Red dragons make their lairs in smoldering, unapproachable places such as volcanic mountains, burning wastelands, and ruins they've stolen from other creatures.
 
-![Red Dragon Wyrmling](file://D:\ProgramData\CLI\5etools-img/book/XMM/241-18-002.red-dragon-wyrmling.webp#center)
+![Red Dragon Wyrmling](/3-Mechanics/CLI/books/monster-manual-2025/img/241-18-002-red-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Red Dragon Wyrmling
 > ![Red Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/red-dragon-wyrmling-xmm.md#^statblock)
@@ -5624,12 +5624,12 @@ Red dragons believe themselves to be the greatest of all dragons and, by extensi
 > [!embed-monster]- Young Red Dragon
 > ![Young Red Dragon](/3-Mechanics/CLI/bestiary/dragon/young-red-dragon-xmm.md#^statblock)
 
-![An adult red dragon unleas...](file://D:\ProgramData\CLI\5etools-img/book/XMM/242-18-003.adult-red-dragon.webp#center "An adult red dragon unleashes its fury, reducing a city to ruin")
+![An adult red dragon unleas...](/3-Mechanics/CLI/books/monster-manual-2025/img/242-18-003-adult-red-dragon.webp#center "An adult red dragon unleashes its fury, reducing a city to ruin")
 
 > [!embed-monster]- Adult Red Dragon
 > ![Adult Red Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm.md#^statblock)
 
-![Even the bravest souls fle...](file://D:\ProgramData\CLI\5etools-img/book/XMM/243-18-004.ancient-red-dragon.webp#center "Even the bravest souls flee the onslaught of an ancient red dragon")
+![Even the bravest souls fle...](/3-Mechanics/CLI/books/monster-manual-2025/img/243-18-004-ancient-red-dragon.webp#center "Even the bravest souls flee the onslaught of an ancient red dragon")
 
 > [!embed-monster]- Ancient Red Dragon
 > ![Ancient Red Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-red-dragon-xmm.md#^statblock)
@@ -5643,7 +5643,7 @@ Red dragons believe themselves to be the greatest of all dragons and, by extensi
 
 Remorhazes are centipede-like terrors that burrow through snow and ice to ambush smaller creatures that trespass in their frozen territories.
 
-![Young Remorhaz](file://D:\ProgramData\CLI\5etools-img/book/XMM/244-18-005.remorhaz.webp#center)
+![Young Remorhaz](/3-Mechanics/CLI/books/monster-manual-2025/img/244-18-005-remorhaz.webp#center)
 
 > [!embed-monster]- Young Remorhaz
 > ![Young Remorhaz](/3-Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm.md#^statblock)
@@ -5660,7 +5660,7 @@ Remorhazes are centipede-like terrors that burrow through snow and ice to ambush
 
 Wrathful spirits bent on revenge, revenants possess corpses and other materials, using them to seek justice or vent their rage on those who wronged them. Revenants refuse to rest until those they seek to punish are no more. If their bodies are destroyed, revenants claim new forms and continue their ruthless quests.
 
-![Revenant Followed by a Graveyard Revenant](file://D:\ProgramData\CLI\5etools-img/book/XMM/245-18-006.group-of-revenants.webp#center)
+![Revenant Followed by a Graveyard Revenant](/3-Mechanics/CLI/books/monster-manual-2025/img/245-18-006-group-of-revenants.webp#center)
 
 > [!embed-monster]- Revenant
 > ![Revenant](/3-Mechanics/CLI/bestiary/undead/revenant-xmm.md#^statblock)
@@ -5668,7 +5668,7 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
 > [!embed-monster]- Graveyard Revenant
 > ![Graveyard Revenant](/3-Mechanics/CLI/bestiary/undead/graveyard-revenant-xmm.md#^statblock)
 
-![Haunting Revenant](file://D:\ProgramData\CLI\5etools-img/book/XMM/246-18-007.haunting-revenant.webp#center)
+![Haunting Revenant](/3-Mechanics/CLI/books/monster-manual-2025/img/246-18-007-haunting-revenant.webp#center)
 
 > [!embed-monster]- Haunting Revenant
 > ![Haunting Revenant](/3-Mechanics/CLI/bestiary/undead/haunting-revenant-xmm.md#^statblock)
@@ -5698,7 +5698,7 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
 | 6 | A statue of a knight riding a rearing steed. |
 ^roc-nest-remnants
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/247-18-008.roc.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/247-18-008-roc.webp#center)
 
 > [!embed-monster]- Roc
 > ![Roc](/3-Mechanics/CLI/bestiary/monstrosity/roc-xmm.md#^statblock)
@@ -5734,7 +5734,7 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
 > 
 > Rule 9: Never trust a stalagmite.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/248-18-009.roper.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/248-18-009-roper.webp#center)
 
 > [!embed-monster]- Roper
 > ![Roper](/3-Mechanics/CLI/bestiary/aberration/roper-xmm.md#^statblock)
@@ -5748,7 +5748,7 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
 
 Rust monsters roam the Underdark searching for ferrous metal. When they find this material—whether natural veins, subterranean structures, or creatures' equipment—these beetle-like scavengers rush to feed. Using their feathery antennae, rust monsters dissolve metals such as iron and steel into rusted scrap. They easily gnaw through this corroded metal using their mandibles. Rust monsters usually ignore creatures without metal equipment, but they defend themselves if attacked.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/249-18-010.rust-monster.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/249-18-010-rust-monster.webp#center)
 
 > [!embed-monster]- Rust Monster
 > ![Rust Monster](/3-Mechanics/CLI/bestiary/monstrosity/rust-monster-xmm.md#^statblock)
@@ -5770,7 +5770,7 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 > 
 > When a sahuagin comes at you, it doesn't seem to be living until it bites you. Then the thing's black eyes turn red as hellfire and the waves foam crimson. Then comes the screaming.
 
-![A sahuagin baron and sahua...](file://D:\ProgramData\CLI\5etools-img/book/XMM/250-19-001.sahuagin.webp#center "A sahuagin baron and sahuagin priest lead sahuagin warriors on an aquatic raid")
+![A sahuagin baron and sahua...](/3-Mechanics/CLI/books/monster-manual-2025/img/250-19-001-sahuagin.webp#center "A sahuagin baron and sahuagin priest lead sahuagin warriors on an aquatic raid")
 
 > [!embed-monster]- Sahuagin Warrior
 > ![Sahuagin Warrior](/3-Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md#^statblock)
@@ -5796,7 +5796,7 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 > 
 > The salamanders of the Elemental Plane of Fire delight in meeting visitors from other realms. For them, every stranger is a potential addition to their fiery artistry. Don't fall for their flattery, no matter how beautifully they say you'll burn.
 
-![A salamander inferno maste...](file://D:\ProgramData\CLI\5etools-img/book/XMM/251-19-002.salamanders.webp#center "A salamander inferno master drives its salamander and fire snake minions to burn all they encounter")
+![A salamander inferno maste...](/3-Mechanics/CLI/books/monster-manual-2025/img/251-19-002-salamanders.webp#center "A salamander inferno master drives its salamander and fire snake minions to burn all they encounter")
 
 > [!embed-monster]- Salamander Fire Snake
 > ![Salamander Fire Snake](/3-Mechanics/CLI/bestiary/elemental/salamander-fire-snake-xmm.md#^statblock)
@@ -5816,7 +5816,7 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 
 Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merrymaking—eating, drinking, performing, fighting, and frolicking.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/252-19-003.satyrs.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/252-19-003-satyrs.webp#center)
 
 > [!embed-monster]- Satyr
 > ![Satyr](/3-Mechanics/CLI/bestiary/fey/satyr-xmm.md#^statblock)
@@ -5851,7 +5851,7 @@ Although scarecrows take their name from rural effigies, they might take varied 
 | 8 | Wedding clothes that were never worn. |
 ^scarecrow-frames
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/253-19-004.scarecrow.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/253-19-004-scarecrow.webp#center)
 
 > [!embed-monster]- Scarecrow
 > ![Scarecrow](/3-Mechanics/CLI/bestiary/construct/scarecrow-xmm.md#^statblock)
@@ -5865,7 +5865,7 @@ Although scarecrows take their name from rural effigies, they might take varied 
 
 Scouts are warriors of the wilderness, trained in hunting and tracking. They might be explorers or trappers, or they could perform more martial roles as archers, bounty hunters, or outriders.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/254-19-005.scouts.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/254-19-005-scouts.webp#center)
 
 > [!embed-monster]- Scout
 > ![Scout](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md#^statblock)
@@ -5898,7 +5898,7 @@ Sea hags cloak themselves in illusions to work their schemes. Roll on or choose 
 | 6 | Wounded sailor and claims their ship was destroyed by merfolk or other peaceful people. |
 ^sea-hag-disguises
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/255-19-006.sea-hag.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/255-19-006-sea-hag.webp#center)
 
 > [!embed-monster]- Sea Hag
 > ![Sea Hag](/3-Mechanics/CLI/bestiary/fey/sea-hag-xmm.md#^statblock)
@@ -5930,7 +5930,7 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
 | 6 | An ominous priest that haunts a defiled site. |
 ^shadow-shapes
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/256-19-007.shadow.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/256-19-007-shadow.webp#center)
 
 > [!embed-monster]- Shadow
 > ![Shadow](/3-Mechanics/CLI/bestiary/undead/shadow-xmm.md#^statblock)
@@ -5954,7 +5954,7 @@ In rare cases, Fiends other than demons might adopt forms similar to shadow demo
 > 
 > There are three rules to endings. First, good always wins. Second, evil always returns. Third, the first rule isn't always true.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/257-19-008.shadow-demon.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/257-19-008-shadow-demon.webp#center)
 
 > [!embed-monster]- Shadow Demon
 > ![Shadow Demon](/3-Mechanics/CLI/bestiary/fiend/shadow-demon-xmm.md#^statblock)
@@ -5978,7 +5978,7 @@ Like many other dragons, shadow dragons collect hoards. Their tastes tend to be 
 > 
 > If ye truly be adventurers of lore, seek the great shadowy wyrm who lairs beneath the Peaks of Thunder and return in triumph bearing aloft her fabled Eye of Shadow.
 
-![A shadow dragon lurks amon...](file://D:\ProgramData\CLI\5etools-img/book/XMM/258-19-009.shadow-dragon.webp#center "A shadow dragon lurks among haunted ruins, attended by shadows raised by its life-draining breath")
+![A shadow dragon lurks amon...](/3-Mechanics/CLI/books/monster-manual-2025/img/258-19-009-shadow-dragon.webp#center "A shadow dragon lurks among haunted ruins, attended by shadows raised by its life-draining breath")
 
 > [!embed-monster]- Juvenile Shadow Dragon
 > ![Juvenile Shadow Dragon](/3-Mechanics/CLI/bestiary/dragon/juvenile-shadow-dragon-xmm.md#^statblock)
@@ -6011,7 +6011,7 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
 | 6 | The remains of an ancient tree or a treant. |
 ^shambling-mound-cultivation
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/259-19-010.shambling-mound.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/259-19-010-shambling-mound.webp#center)
 
 > [!embed-monster]- Shambling Mound
 > ![Shambling Mound](/3-Mechanics/CLI/bestiary/plant/shambling-mound-xmm.md#^statblock)
@@ -6027,7 +6027,7 @@ An intimidating magical automaton, a shield guardian obeys its master's commands
 
 Shield guardians are typically constructed of steel, stone, and wood in the shape of watchful soldiers. More fanciful designs exist, reflecting the tastes of their creators. Given their resilience, it's common for shield guardians to eventually serve creatures other than their creators. A shield guardian's command amulet might be passed down through a magic-using society or family for generations.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/260-19-011.shield-guardian.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/260-19-011-shield-guardian.webp#center)
 
 > [!embed-monster]- Shield Guardian
 > ![Shield Guardian](/3-Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md#^statblock)
@@ -6050,17 +6050,17 @@ Silver dragons take inspiration from legendary heroes and have grand ambitions. 
 > [!embed-monster]- Silver Dragon Wyrmling
 > ![Silver Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/silver-dragon-wyrmling-xmm.md#^statblock)
 
-![Silver Dragon Wyrmling](file://D:\ProgramData\CLI\5etools-img/book/XMM/261-19-012.silver-dragon-wyrmling.webp#center)
+![Silver Dragon Wyrmling](/3-Mechanics/CLI/books/monster-manual-2025/img/261-19-012-silver-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- Young Silver Dragon
 > ![Young Silver Dragon](/3-Mechanics/CLI/bestiary/dragon/young-silver-dragon-xmm.md#^statblock)
 
-![An adult silver dragon rel...](file://D:\ProgramData\CLI\5etools-img/book/XMM/262-19-013.adult-silver-dragon.webp#center "An adult silver dragon relaxes in camp alongside its fellow adventurers")
+![An adult silver dragon rel...](/3-Mechanics/CLI/books/monster-manual-2025/img/262-19-013-adult-silver-dragon.webp#center "An adult silver dragon relaxes in camp alongside its fellow adventurers")
 
 > [!embed-monster]- Adult Silver Dragon
 > ![Adult Silver Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-silver-dragon-xmm.md#^statblock)
 
-![The sight of an ancient si...](file://D:\ProgramData\CLI\5etools-img/book/XMM/263-19-014.ancient-silver-dragon.webp#center "The sight of an ancient silver dragon can panic despicable evil-doers")
+![The sight of an ancient si...](/3-Mechanics/CLI/books/monster-manual-2025/img/263-19-014-ancient-silver-dragon.webp#center "The sight of an ancient silver dragon can panic despicable evil-doers")
 
 > [!embed-monster]- Ancient Silver Dragon
 > ![Ancient Silver Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-silver-dragon-xmm.md#^statblock)
@@ -6088,7 +6088,7 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 | 6 | Stands guard at the post it protected in life. |
 ^skeleton-pantomimes
 
-![Adventurers face an onslau...](file://D:\ProgramData\CLI\5etools-img/book/XMM/264-19-015.group-of-skeletons.webp#center "Adventurers face an onslaught from all manner of skeletons")
+![Adventurers face an onslau...](/3-Mechanics/CLI/books/monster-manual-2025/img/264-19-015-group-of-skeletons.webp#center "Adventurers face an onslaught from all manner of skeletons")
 
 > [!embed-monster]- Skeleton
 > ![Skeleton](/3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md#^statblock)
@@ -6124,7 +6124,7 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 > 
 > Fight a slaad and lose, the story's over. Fight a slaad and win, there's a thousand more standing in line just to prove they're tougher.
 
-![A red slaad and blue slaad...](file://D:\ProgramData\CLI\5etools-img/book/XMM/265-19-016.slaad.webp#center "A red slaad and blue slaad, along with several slaad tadpoles, burst from a portal on the plane of Limbo")
+![A red slaad and blue slaad...](/3-Mechanics/CLI/books/monster-manual-2025/img/265-19-016-slaad.webp#center "A red slaad and blue slaad, along with several slaad tadpoles, burst from a portal on the plane of Limbo")
 
 > [!embed-monster]- Slaad Tadpole
 > ![Slaad Tadpole](/3-Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm.md#^statblock)
@@ -6135,7 +6135,7 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 > [!embed-monster]- Blue Slaad
 > ![Blue Slaad](/3-Mechanics/CLI/bestiary/aberration/blue-slaad-xmm.md#^statblock)
 
-![A gray slaad, a death slaa...](file://D:\ProgramData\CLI\5etools-img/book/XMM/266-19-017.death-slaad.webp#center "A gray slaad, a death slaad, and a green slaad spread chaos in their wake")
+![A gray slaad, a death slaa...](/3-Mechanics/CLI/books/monster-manual-2025/img/266-19-017-death-slaad.webp#center "A gray slaad, a death slaad, and a green slaad spread chaos in their wake")
 
 > [!embed-monster]- Green Slaad
 > ![Green Slaad](/3-Mechanics/CLI/bestiary/aberration/green-slaad-xmm.md#^statblock)
@@ -6157,7 +6157,7 @@ Solars stand as the final line of defense between unspeakable evils and the orde
 
 Solars can resurrect the dead and often use that power to enlist mortal aid. They bestow grand, new purposes on those they return to life. Solars don't enforce these destinies, but they trust in the potential of mortals to achieve great things.
 
-![Solar](file://D:\ProgramData\CLI\5etools-img/book/XMM/267-19-018.solar.webp#center)
+![Solar](/3-Mechanics/CLI/books/monster-manual-2025/img/267-19-018-solar.webp#center)
 
 > [!embed-monster]- Solar
 > ![Solar](/3-Mechanics/CLI/bestiary/celestial/solar-xmm.md#^statblock)
@@ -6175,7 +6175,7 @@ A spectator serves its conjurer for 101 years by guarding something of the spell
 
 At the end of its service, a spectator might discorporate back into nothingness or wander away, seeking to learn more of the multiverse.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/268-19-019.spectator.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/268-19-019-spectator.webp#center)
 
 > [!embed-monster]- Spectator
 > ![Spectator](/3-Mechanics/CLI/bestiary/aberration/spectator-xmm.md#^statblock)
@@ -6207,7 +6207,7 @@ Specters seek creatures and locations that exude evil and feed on the suffering 
 | 8 | The site of a disaster or mass death. |
 ^specter-haunts
 
-![Specters are loath to atta...](file://D:\ProgramData\CLI\5etools-img/book/XMM/269-19-020.specter.webp#center "Specters are loath to attack a cleric surrounded by divine light")
+![Specters are loath to atta...](/3-Mechanics/CLI/books/monster-manual-2025/img/269-19-020-specter.webp#center "Specters are loath to attack a cleric surrounded by divine light")
 
 > [!embed-monster]- Specter
 > ![Specter](/3-Mechanics/CLI/bestiary/undead/specter-xmm.md#^statblock)
@@ -6236,22 +6236,22 @@ Sphinxes protect the secrets of the multiverse. Formed from the spirits of sages
 > [!note]
 > Answer to the riddle of White Plume Mountain: The Moon.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/270-19-021.sphinx-of-wonder.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/270-19-021-sphinx-of-wonder.webp#center)
 
 > [!embed-monster]- Sphinx of Wonder
 > ![Sphinx of Wonder](/3-Mechanics/CLI/bestiary/celestial/sphinx-of-wonder-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/271-19-022.sphinx-of-secrets.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/271-19-022-sphinx-of-secrets.webp#center)
 
 > [!embed-monster]- Sphinx of Secrets
 > ![Sphinx of Secrets](/3-Mechanics/CLI/bestiary/celestial/sphinx-of-secrets-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/272-19-023.sphinx-of-lore.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/272-19-023-sphinx-of-lore.webp#center)
 
 > [!embed-monster]- Sphinx of Lore
 > ![Sphinx of Lore](/3-Mechanics/CLI/bestiary/celestial/sphinx-of-lore-xmm.md#^statblock)
 
-![Sphinx of Valor](file://D:\ProgramData\CLI\5etools-img/book/XMM/273-19-024.sphinx-of-valor.webp#center)
+![Sphinx of Valor](/3-Mechanics/CLI/books/monster-manual-2025/img/273-19-024-sphinx-of-valor.webp#center)
 
 > [!embed-monster]- Sphinx of Valor
 > ![Sphinx of Valor](/3-Mechanics/CLI/bestiary/celestial/sphinx-of-valor-xmm.md#^statblock)
@@ -6277,7 +6277,7 @@ Spies gather information and disseminate lies, manipulating people to gain the r
 | 4 | A visitor from a different time or world. |
 ^spy-personas
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/274-19-025.spies.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/274-19-025-spies.webp#center)
 
 > [!embed-monster]- Spy
 > ![Spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md#^statblock)
@@ -6308,7 +6308,7 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
 | 6 | Prophecies or secrets hidden by gods. |
 ^spined-devil-intelligence
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/275-19-026.spined-devil.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/275-19-026-spined-devil.webp#center)
 
 > [!embed-monster]- Spined Devil
 > ![Spined Devil](/3-Mechanics/CLI/bestiary/fiend/spined-devil-xmm.md#^statblock)
@@ -6338,7 +6338,7 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
 | 6 | Someone's treasure rightfully belongs to it. |
 ^spirit-naga-grievances
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/276-19-027.spirit-naga.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/276-19-027-spirit-naga.webp#center)
 
 > [!embed-monster]- Spirit Naga
 > ![Spirit Naga](/3-Mechanics/CLI/bestiary/fiend/spirit-naga-xmm.md#^statblock)
@@ -6360,7 +6360,7 @@ Sprites oppose any creatures that seek to harm places of natural magic and beaut
 > 
 > The tree had a wee village nestled in its boughs, I swear. Next thing I knew, I was lyin' face-down in the dirt. My head was full of stars, an' when I stood up an' looked around, both the tree an' the wee village were gone.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/277-19-028.sprites.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/277-19-028-sprites.webp#center)
 
 > [!embed-monster]- Sprite
 > ![Sprite](/3-Mechanics/CLI/bestiary/fey/sprite-xmm.md#^statblock)
@@ -6386,7 +6386,7 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
 | 4 | The remains of a gigantic, dead creature. |
 ^stirge-roosts
 
-![Stirge](file://D:\ProgramData\CLI\5etools-img/book/XMM/278-19-029.stirges.webp#center)
+![Stirge](/3-Mechanics/CLI/books/monster-manual-2025/img/278-19-029-stirges.webp#center)
 
 > [!embed-monster]- Stirge
 > ![Stirge](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md#^statblock)
@@ -6407,7 +6407,7 @@ Stone giants rarely interfere in the affairs of other creatures, whether their s
 
 Stone giants often ponder the mysteries of natural wonders, such as mountain spires, crystal formations, or mystical petroglyphs. Some know much about the magic and secret messages hidden within the earth. Those who confine themselves to the Underdark often regard the surface world and its inhabitants as dreams imagined into being by slumbering primordials, strange gods, or other entities.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/279-19-030.stone-giants.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/279-19-030-stone-giants.webp#center)
 
 > [!embed-monster]- Stone Giant
 > ![Stone Giant](/3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md#^statblock)
@@ -6441,7 +6441,7 @@ Stone golems are typically created to protect places of significance to a group,
 > 
 > Exercise discernment when deciding the golem's appearance, as your creation is likely to long outlive its model.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/280-19-031.stone-golem.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/280-19-031-stone-golem.webp#center)
 
 > [!embed-monster]- Stone Golem
 > ![Stone Golem](/3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md#^statblock)
@@ -6455,7 +6455,7 @@ Stone golems are typically created to protect places of significance to a group,
 
 Among the tallest giants, storm giants live amid extreme forces of nature. In palaces at the bottom of the sea and castles floating amid the clouds, they revel in the power of mighty storms. When angered, they can shape the weather and call down devastating lightning. More often, though, these giants watch the rise and fall of nations and interpret supernatural omens, interfering in the world only when they're needed most.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/281-19-032.storm-giant.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/281-19-032-storm-giant.webp#center)
 
 > [!embed-monster]- Storm Giant
 > ![Storm Giant](/3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md#^statblock)
@@ -6485,7 +6485,7 @@ Through fiendish rites, succubi can transform into incubi to manipulate their pr
 | 6 | Taking the form of one in need of protection. |
 ^succubus-temptations
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/282-19-033.succubus.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/282-19-033-succubus.webp#center)
 
 > [!embed-monster]- Succubus
 > ![Succubus](/3-Mechanics/CLI/bestiary/fiend/succubus-xmm.md#^statblock)
@@ -6521,7 +6521,7 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
 | 4 | A shattered mountain or diverted river. |
 ^tarrasque-evidence
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/283-20-001.tarrasque.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/283-20-001-tarrasque.webp#center)
 
 > [!embed-monster]- Tarrasque
 > ![Tarrasque](/3-Mechanics/CLI/bestiary/monstrosity/tarrasque-xmm.md#^statblock)
@@ -6539,7 +6539,7 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
 > 
 > I would tell you now the tale of the first Ka'Cha, the first thri-kreen who knew and taught the truth: that the clutch is all.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/284-20-002.thri-kreen.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/284-20-002-thri-kreen.webp#center)
 
 > [!embed-monster]- Thri-kreen Marauder
 > ![Thri-kreen Marauder](/3-Mechanics/CLI/bestiary/monstrosity/thri-kreen-marauder-xmm.md#^statblock)
@@ -6563,7 +6563,7 @@ Bodyguards, belligerents, and laborers, toughs rely on their physical strength t
 > [!embed-monster]- Tough
 > ![Tough](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/285-20-003.toughs.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/285-20-003-toughs.webp#center)
 
 > [!embed-monster]- Tough Boss
 > ![Tough Boss](/3-Mechanics/CLI/bestiary/humanoid/tough-boss-xmm.md#^statblock)
@@ -6593,7 +6593,7 @@ Treants defend and are shaped by secrets of the forest. Roll on or choose a resu
 | 6 | Scarred by a fire and holds the bones of the arsonist who started it in a hollow. |
 ^treant-secrets
 
-![A treant evicts adventurer...](file://D:\ProgramData\CLI\5etools-img/book/XMM/286-20-004.treant.webp#center "A treant evicts adventurers from a city it has reclaimed for nature")
+![A treant evicts adventurer...](/3-Mechanics/CLI/books/monster-manual-2025/img/286-20-004-treant.webp#center "A treant evicts adventurers from a city it has reclaimed for nature")
 
 > [!embed-monster]- Treant
 > ![Treant](/3-Mechanics/CLI/bestiary/plant/treant-xmm.md#^statblock)
@@ -6613,7 +6613,7 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
 > 
 > Smells fine to me.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/287-20-005.troglodyte.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/287-20-005-troglodyte.webp#center)
 
 > [!embed-monster]- Troglodyte
 > ![Troglodyte](/3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md#^statblock)
@@ -6629,7 +6629,7 @@ Trolls creep forth to prey on smaller creatures and drag captives back to fester
 
 Trolls typically hunt alone, but small groups occasionally cooperate to ambush prey or raid villages. Creatures such as hags and hill giants might convince trolls to work for them in exchange for disgusting meals.
 
-![Troll](file://D:\ProgramData\CLI\5etools-img/book/XMM/288-20-006.troll.webp#center)
+![Troll](/3-Mechanics/CLI/books/monster-manual-2025/img/288-20-006-troll.webp#center)
 
 > [!embed-monster]- Troll
 > ![Troll](/3-Mechanics/CLI/bestiary/giant/troll-xmm.md#^statblock)
@@ -6664,7 +6664,7 @@ Ultroloths strive to achieve planes-spanning plots. Roll on or choose a result f
 | 6 | Unleash fiendish hordes on a foe's homeland. |
 ^ultroloth-conspiracies
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/289-21-001.ultraloth.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/289-21-001-ultraloth.webp#center)
 
 > [!embed-monster]- Ultroloth
 > ![Ultroloth](/3-Mechanics/CLI/bestiary/fiend/ultroloth-xmm.md#^statblock)
@@ -6680,7 +6680,7 @@ Lumbering, carapace-armored bipeds, umber hulks burrow through the Underdark, fe
 
 Umber hulks typically lurk in tunnels they've burrowed alongside other passages. When they detect creatures moving, they burst through the rock walls between the passages to attack. While these monsters can communicate with one other, they usually hunt alone and avoid each other's territories. Umber hulks focus on finding food and crushing intruders. They have little interest in allying with other creatures, but manipulative inhabitants of the Underdark, such as beholders and mind flayers, sometimes compel umber hulks to serve them.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/290-21-002.umber-hulk.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/290-21-002-umber-hulk.webp#center)
 
 > [!embed-monster]- Umber Hulk
 > ![Umber Hulk](/3-Mechanics/CLI/bestiary/monstrosity/umber-hulk-xmm.md#^statblock)
@@ -6696,7 +6696,7 @@ Unicorns are majestic defenders of forests. They are revered by many Fey and oth
 
 **Unicorn Lairs.** Unicorns dwell in unspoiled forests, particularly where benevolent Fey creatures live.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/291-21-003.unicorn.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/291-21-003-unicorn.webp#center)
 
 > [!embed-monster]- Unicorn
 > ![Unicorn](/3-Mechanics/CLI/bestiary/celestial/unicorn-xmm.md#^statblock)
@@ -6734,7 +6734,7 @@ Undead vampires lie dormant during the day, retreating to resting places hidden 
 > 
 > Darling, you are simply delicious...
 
-![A vampire familiar provide...](file://D:\ProgramData\CLI\5etools-img/book/XMM/292-22-001.vampire-and-familiar.webp#center "A vampire familiar provides a meal for a vampire spawn")
+![A vampire familiar provide...](/3-Mechanics/CLI/books/monster-manual-2025/img/292-22-001-vampire-and-familiar.webp#center "A vampire familiar provides a meal for a vampire spawn")
 
 > [!embed-monster]- Vampire Familiar
 > ![Vampire Familiar](/3-Mechanics/CLI/bestiary/humanoid/vampire-familiar-xmm.md#^statblock)
@@ -6742,17 +6742,17 @@ Undead vampires lie dormant during the day, retreating to resting places hidden 
 > [!embed-monster]- Vampire Spawn
 > ![Vampire Spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md#^statblock)
 
-![Vampire Nightbringer](file://D:\ProgramData\CLI\5etools-img/book/XMM/293-22-002.vampire-spawn.webp#center)
+![Vampire Nightbringer](/3-Mechanics/CLI/books/monster-manual-2025/img/293-22-002-vampire-spawn.webp#center)
 
 > [!embed-monster]- Vampire Nightbringer
 > ![Vampire Nightbringer](/3-Mechanics/CLI/bestiary/undead/vampire-nightbringer-xmm.md#^statblock)
 
-![Vampires prepare for a midnight meal](file://D:\ProgramData\CLI\5etools-img/book/XMM/294-22-003.vampire-group.webp#center)
+![Vampires prepare for a midnight meal](/3-Mechanics/CLI/books/monster-manual-2025/img/294-22-003-vampire-group.webp#center)
 
 > [!embed-monster]- Vampire
 > ![Vampire](/3-Mechanics/CLI/bestiary/undead/vampire-xmm.md#^statblock)
 
-![Vampire Umbral Lord](file://D:\ProgramData\CLI\5etools-img/book/XMM/295-22-004.vampire-umbral-lord.webp#center)
+![Vampire Umbral Lord](/3-Mechanics/CLI/books/monster-manual-2025/img/295-22-004-vampire-umbral-lord.webp#center)
 
 > [!embed-monster]- Vampire Umbral Lord
 > ![Vampire Umbral Lord](/3-Mechanics/CLI/bestiary/undead/vampire-umbral-lord-xmm.md#^statblock)
@@ -6766,7 +6766,7 @@ Undead vampires lie dormant during the day, retreating to resting places hidden 
 
 Screeching, vulturelike demons, vrocks soar from the Abyss to spread ruin and slaughter. Their filthy feathers carry magical toxins from the Lower Planes, creating a noxious cloud capable of killing those who escape the vrocks' vicious beaks and claws. To further terrorize their foes, vrocks unleash an otherworldly screech so terrible it can halt creatures in their tracks.
 
-![Vrock](file://D:\ProgramData\CLI\5etools-img/book/XMM/296-22-005.vrock.webp#center)
+![Vrock](/3-Mechanics/CLI/books/monster-manual-2025/img/296-22-005-vrock.webp#center)
 
 > [!embed-monster]- Vrock
 > ![Vrock](/3-Mechanics/CLI/bestiary/fiend/vrock-xmm.md#^statblock)
@@ -6806,7 +6806,7 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 > 
 > Make way, evil! I'm armed to the teeth and packing a hamster!
 
-![An aasimar commander leads...](file://D:\ProgramData\CLI\5etools-img/book/XMM/297-23-001.warriors.webp#center "An aasimar commander leads warriors charging into battle")
+![An aasimar commander leads...](/3-Mechanics/CLI/books/monster-manual-2025/img/297-23-001-warriors.webp#center "An aasimar commander leads warriors charging into battle")
 
 > [!embed-monster]- Warrior Infantry
 > ![Warrior Infantry](/3-Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm.md#^statblock)
@@ -6844,7 +6844,7 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 > 
 > Water: greatest of the elements in might and form. A tsunami's torrent. A blizzard's claws. A parent's tears. What is not moved by water?
 
-![Water Elemental](file://D:\ProgramData\CLI\5etools-img/book/XMM/298-23-002.water-elemental.webp#center)
+![Water Elemental](/3-Mechanics/CLI/books/monster-manual-2025/img/298-23-002-water-elemental.webp#center)
 
 > [!embed-monster]- Water Elemental
 > ![Water Elemental](/3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md#^statblock)
@@ -6867,7 +6867,7 @@ Water weirds might protect a site for generations and learn much about their sur
 > [!embed-monster]- Water Weird
 > ![Water Weird](/3-Mechanics/CLI/bestiary/elemental/water-weird-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/299-23-003.water-weird.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/299-23-003-water-weird.webp#center)
 
 ### Werebear
 
@@ -6893,7 +6893,7 @@ Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-
 > [!embed-monster]- Wereboar
 > ![Wereboar](/3-Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md#^statblock)
 
-![A werebear chases a werebo...](file://D:\ProgramData\CLI\5etools-img/book/XMM/300-23-004.were-creature-group.webp#center "A werebear chases a wereboar and wererat out of its territory")
+![A werebear chases a werebo...](/3-Mechanics/CLI/books/monster-manual-2025/img/300-23-004-were-creature-group.webp#center "A werebear chases a wereboar and wererat out of its territory")
 
 ### Wererat
 
@@ -6932,7 +6932,7 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
 > 
 > I hunt evil like the great cat hunts its prey, but evil will not long yield to blade alone. It takes strength, honor, and sometimes a little more.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/301-23-005.weretiger.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/301-23-005-weretiger.webp#center)
 
 > [!embed-monster]- Weretiger
 > ![Weretiger](/3-Mechanics/CLI/bestiary/monstrosity/weretiger-xmm.md#^statblock)
@@ -6946,7 +6946,7 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
 
 Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid hybrids. Werewolves can shape-shift voluntarily, but many can't resist transforming during the nights of a full moon.
 
-![Werewolf](file://D:\ProgramData\CLI\5etools-img/book/XMM/302-23-006.werewolf.webp#center)
+![Werewolf](/3-Mechanics/CLI/books/monster-manual-2025/img/302-23-006-werewolf.webp#center)
 
 > [!embed-monster]- Werewolf
 > ![Werewolf](/3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md#^statblock)
@@ -6964,7 +6964,7 @@ White dragons create lairs to defend themselves from other deadly arctic creatur
 
 **White Dragon Lairs.** White dragons brood in bitterly cold lairs clawed from stone and ice.
 
-![White Dragon Wyrmling](file://D:\ProgramData\CLI\5etools-img/book/XMM/303-23-007.white-dragon-wyrmling.webp#center)
+![White Dragon Wyrmling](/3-Mechanics/CLI/books/monster-manual-2025/img/303-23-007-white-dragon-wyrmling.webp#center)
 
 > [!embed-monster]- White Dragon Wyrmling
 > ![White Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/white-dragon-wyrmling-xmm.md#^statblock)
@@ -6972,12 +6972,12 @@ White dragons create lairs to defend themselves from other deadly arctic creatur
 > [!embed-monster]- Young White Dragon
 > ![Young White Dragon](/3-Mechanics/CLI/bestiary/dragon/young-white-dragon-xmm.md#^statblock)
 
-![An adult white dragon view...](file://D:\ProgramData\CLI\5etools-img/book/XMM/304-23-008.adult-white-dragon.webp#center "An adult white dragon views all creatures in its territory as prey")
+![An adult white dragon view...](/3-Mechanics/CLI/books/monster-manual-2025/img/304-23-008-adult-white-dragon.webp#center "An adult white dragon views all creatures in its territory as prey")
 
 > [!embed-monster]- Adult White Dragon
 > ![Adult White Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm.md#^statblock)
 
-![An ancient white dragon fr...](file://D:\ProgramData\CLI\5etools-img/book/XMM/305-23-009.ancient-white-dragon.webp#center "An ancient white dragon freezes a ship full of trespassers before they set foot in its territory")
+![An ancient white dragon fr...](/3-Mechanics/CLI/books/monster-manual-2025/img/305-23-009-ancient-white-dragon.webp#center "An ancient white dragon freezes a ship full of trespassers before they set foot in its territory")
 
 > [!embed-monster]- Ancient White Dragon
 > ![Ancient White Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm.md#^statblock)
@@ -7011,7 +7011,7 @@ Wights might return from the dead for a multitude of sinister reasons. Roll on o
 | 8 | Seek its stolen heart or other treasure. |
 ^wight-motives
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/306-23-010.wight.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/306-23-010-wight.webp#center)
 
 > [!embed-monster]- Wight
 > ![Wight](/3-Mechanics/CLI/bestiary/undead/wight-xmm.md#^statblock)
@@ -7041,7 +7041,7 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
 | 6 | Quicksand or pools covered in thin ice. |
 ^will-o-wisp-ambushes
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/307-23-011.will-o-wisp.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/307-23-011-will-o-wisp.webp#center)
 
 > [!embed-monster]- Will-o'-Wisp
 > ![Will-o'-Wisp](/3-Mechanics/CLI/bestiary/undead/will-o-wisp-xmm.md#^statblock)
@@ -7063,7 +7063,7 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
 > 
 > You'll never reach it, but at least your last thoughts will be warm.
 
-![Winter Wolf](file://D:\ProgramData\CLI\5etools-img/book/XMM/308-23-012.winter-wolf.webp#center)
+![Winter Wolf](/3-Mechanics/CLI/books/monster-manual-2025/img/308-23-012-winter-wolf.webp#center)
 
 > [!embed-monster]- Winter Wolf
 > ![Winter Wolf](/3-Mechanics/CLI/bestiary/monstrosity/winter-wolf-xmm.md#^statblock)
@@ -7077,7 +7077,7 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
 
 Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These sapient predators can speak and often taunt their prey, enjoying the taste of fear in their meals.
 
-![Worg](file://D:\ProgramData\CLI\5etools-img/book/XMM/309-23-013.worg.webp#center)
+![Worg](/3-Mechanics/CLI/books/monster-manual-2025/img/309-23-013-worg.webp#center)
 
 > [!embed-monster]- Worg
 > ![Worg](/3-Mechanics/CLI/bestiary/fey/worg-xmm.md#^statblock)
@@ -7116,7 +7116,7 @@ Wraiths might arise from a single powerfully evil soul or other baleful forces. 
 | 10 | The voracity of a life-hungry realm, such as the Shadowfell or Negative Plane. |
 ^wraith-manifestations
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/310-23-014.wraith.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/310-23-014-wraith.webp#center)
 
 > [!embed-monster]- Wraith
 > ![Wraith](/3-Mechanics/CLI/bestiary/undead/wraith-xmm.md#^statblock)
@@ -7134,7 +7134,7 @@ Wyverns are aggressive and claim sizable territories around the mountains, crags
 
 Once wyverns overpower a quarry, they carry it to their cavernous lairs to either consume it in safety or trap it to eat later. Most wyverns don't hoard treasure, but their lairs are littered with the possessions of past victims. It isn't uncommon for wyverns to carry off chests, carts, or small boats along with their prey.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/311-23-015.wyvern.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/311-23-015-wyvern.webp#center)
 
 > [!embed-monster]- Wyvern
 > ![Wyvern](/3-Mechanics/CLI/bestiary/dragon/wyvern-xmm.md#^statblock)
@@ -7172,7 +7172,7 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
 | 8 | The stone crowning a mountain peak. |
 ^xorn-delicacies
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/312-24-001.xorn.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/312-24-001-xorn.webp#center)
 
 > [!embed-monster]- Xorn
 > ![Xorn](/3-Mechanics/CLI/bestiary/elemental/xorn-xmm.md#^statblock)
@@ -7194,12 +7194,12 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
 > 
 > In the yeti, I find no kinship, no understanding, no mercy. Theirs is not the might of the mountain or the magic of glacial wonders. Theirs is a world where harmony lies murdered and frozen.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/313-25-001.yeti.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/313-25-001-yeti.webp#center)
 
 > [!embed-monster]- Yeti
 > ![Yeti](/3-Mechanics/CLI/bestiary/monstrosity/yeti-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/314-25-002.abominable-yeti.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/314-25-002-abominable-yeti.webp#center)
 
 > [!embed-monster]- Abominable Yeti
 > ![Abominable Yeti](/3-Mechanics/CLI/bestiary/monstrosity/abominable-yeti-xmm.md#^statblock)
@@ -7217,7 +7217,7 @@ Most yochlols serve Lolth. The Demon Queen of Spiders claims all yochlols as min
 
 Despite their service to demon lords, yochlols harbor their own vicious whims and ambitions. They might claim to speak for their overlords to further their own ambitions or seek to reveal rivals' selfish goals to gain standing with their demonic masters.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/315-25-003.yochlol.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/315-25-003-yochlol.webp#center)
 
 > [!embed-monster]- Yochlol
 > ![Yochlol](/3-Mechanics/CLI/bestiary/fiend/yochlol-xmm.md#^statblock)
@@ -7253,12 +7253,12 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 > 
 > Great magic, twisted and corrupted... Malice beyond reckoning... Flesh reshaped, becoming serpentine horrors...
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/316-25-004.yuan-ti-infiltrators.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/316-25-004-yuan-ti-infiltrators.webp#center)
 
 > [!embed-monster]- Yuan-ti Infiltrator
 > ![Yuan-ti Infiltrator](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md#^statblock)
 
-![Yuan-ti Malison Type 1 (Left) and Type 2 (Right)](file://D:\ProgramData\CLI\5etools-img/book/XMM/317-25-005.yuan-ti-malisons.webp#center)
+![Yuan-ti Malison Type 1 (Left) and Type 2 (Right)](/3-Mechanics/CLI/books/monster-manual-2025/img/317-25-005-yuan-ti-malisons.webp#center)
 
 > [!embed-monster]- Yuan-ti Malison (Type 1)
 > ![Yuan-ti Malison (Type 1)](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md#^statblock)
@@ -7266,12 +7266,12 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 > [!embed-monster]- Yuan-ti Malison (Type 2)
 > ![Yuan-ti Malison (Type 2)](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-2-xmm.md#^statblock)
 
-![Yuan-ti Malison (Type 3)](file://D:\ProgramData\CLI\5etools-img/book/XMM/318-25-006.yuan-ti-malison-type-3.webp#center)
+![Yuan-ti Malison (Type 3)](/3-Mechanics/CLI/books/monster-manual-2025/img/318-25-006-yuan-ti-malison-type-3.webp#center)
 
 > [!embed-monster]- Yuan-ti Malison (Type 3)
 > ![Yuan-ti Malison (Type 3)](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-3-xmm.md#^statblock)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/319-25-007.yuan-ti-abomination.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/319-25-007-yuan-ti-abomination.webp#center)
 
 > [!embed-monster]- Yuan-ti Abomination
 > ![Yuan-ti Abomination](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm.md#^statblock)
@@ -7291,7 +7291,7 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 > 
 > Then, by a spectacular crack of lightning, the figures came into view, moving slowly toward the village. Over driving winds a voice cried out, "The dead come for Marais d'Tarascon! An army of the walking dead!"
 
-![A tiefling tries to hide i...](file://D:\ProgramData\CLI\5etools-img/book/XMM/320-26-001.group-of-zombies.webp#center "A tiefling tries to hide in the midst of a zombie horde")
+![A tiefling tries to hide i...](/3-Mechanics/CLI/books/monster-manual-2025/img/320-26-001-group-of-zombies.webp#center "A tiefling tries to hide in the midst of a zombie horde")
 
 > [!embed-monster]- Zombie
 > ![Zombie](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md#^statblock)

@@ -10,7 +10,7 @@ aliases:
 ---
 # Guard
 *Source: Player's Handbook (2024) p. 181*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/XPHB/Guard.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/guard.webp#right)
 
 - **Ability Scores.** Strength, Intelligence, Wisdom  
 - **Feat.** [Alert](/3-Mechanics/CLI/feats/alert-xphb.md)  

@@ -30,7 +30,7 @@ aliases:
 ---
 # Ice Knife
 *1st-level, Conjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Ice Knife.webp#right)
+![](/3-Mechanics/CLI/spells/img/ice-knife.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

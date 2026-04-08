@@ -20,7 +20,7 @@ aliases:
 ---
 # Summon Celestial
 *5th-level, Conjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Summon Celestial.webp#right)
+![](/3-Mechanics/CLI/spells/img/summon-celestial.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

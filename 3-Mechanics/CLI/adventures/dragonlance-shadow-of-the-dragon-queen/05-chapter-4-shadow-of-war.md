@@ -12,7 +12,7 @@ aliases:
 
 Vogler is gone, devastated by the Red Dragon Army. After escaping the village by following the Vingaard River, the characters and other survivors seek refuge in the city of Kalaman. They carry with them a warning: war is coming for Kalaman. The city's leaders recruit the characters to help identify and resist the threat of the Red Dragon Army. As the characters travel the lands around Kalaman, they learn more about the Dragon Army's goals and the terrifying shadow behind this war.
 
-![Kalaman's defenders march ...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/053-04-001.chapter-splash.webp#center "Kalaman's defenders march forth to confront the Dragon Army")
+![Kalaman's defenders march ...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/053-04-001-chapter-splash.webp#center "Kalaman's defenders march forth to confront the Dragon Army")
 
 ## Running This Chapter
 
@@ -53,8 +53,8 @@ Kalaman is led by the following three groups:
 While in Kalaman, the characters might visit any of the locations in this section. These sites appear on map 4.1.
 
 > [!gallery]
-> ![Map 4.1: Kalaman](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/054-map-4.01-kalaman.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/055-map-4.01-kalaman-player.webp#gallery)
+> ![Map 4.1: Kalaman](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/054-map-4-01-kalaman.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/055-map-4-01-kalaman-player.webp#gallery)
 
 #### Castle Kalaman
 
@@ -187,7 +187,7 @@ Along with Lord Bakaris and Governor Miat, the meeting includes guild leaders an
 
 It's clear from the governor's words and Lord Bakaris's expression that Bakaris is trying to advance his own agenda. Lord Bakaris told the council the villagers are taking up arms to retake their home. The characters know this isn't the case, though. Mayor Raven is focused on ensuring the villagers have food, security, and support in the days to come. And the characters are certain the refugees didn't appoint Lord Bakaris their leader.
 
-![Lord Bakaris Uth Estide](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/056-04-002.bakaris.webp#center)
+![Lord Bakaris Uth Estide](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/056-04-002-bakaris.webp#center)
 
 #### Lord Bakaris Uth Estide
 
@@ -329,7 +329,7 @@ Don't share this with the character immediately—[Wyhan](/3-Mechanics/CLI/besti
 
 [Wyhan](/3-Mechanics/CLI/bestiary/npc/wyhan-dsotdq.md) is skeptical of any character who expresses an interest in joining the Mages of High Sorcery. She asks them the following questions:
 
-![Wyhan](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/057-04-003.wyhan.webp#center)
+![Wyhan](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/057-04-003-wyhan.webp#center)
 
 - Why do you think you're worthy of using magic?  
 - Do you serve your magic, or does your magic serve you?  
@@ -466,7 +466,7 @@ Characters who move adjacent to a goblin expose themselves to the out-of-control
 | 6 | A mechanical chicken fires tin eggs at the character (`dice:1d20+4\|noform\|noparens\|text(+4)` to hit, `dice:1d4\|noform\|noparens\|avg` (`1d4`) bludgeoning damage on a hit). On a hit, the egg bursts in an oily mess, and the character has disadvantage on attack rolls until the end of the character's next turn. |
 ^clockwork-chaos
 
-![The inventor Tatina Rookle...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/058-04-004.tatina-defense.webp#center "The inventor Tatina Rookledust defends her home from Dragon Army goblins")
+![The inventor Tatina Rookle...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/058-04-004-tatina-defense.webp#center "The inventor Tatina Rookledust defends her home from Dragon Army goblins")
 
 The goblins flee after half their number are defeated. The hobgoblin tries to make the goblins hold their ground but also flees if he finds himself outnumbered by the characters.
 
@@ -671,8 +671,8 @@ Wheelwatch Outpost has the following features:
 The following locations are keyed to map 4.2.
 
 > [!gallery]
-> ![Map 4.2: Wheelhouse Outpost](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/059-map-4.02-wheelhouse-outpost.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/060-map-4.02-wheelhouse-outpost-player.webp#gallery)
+> ![Map 4.2: Wheelhouse Outpost](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/059-map-4-02-wheelhouse-outpost.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/060-map-4-02-wheelhouse-outpost-player.webp#gallery)
 
 #### W1: Courtyard
 
@@ -854,8 +854,8 @@ The battlefield includes the following features:
 - **Fray.** The 15-foot-wide area marked by the design at the edge of the map represents directions from which creatures from the nearby battle might arrive, as detailed in the following section.  
 
 > [!gallery]
-> ![Map 4.3: Retreat From Steel Springs](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/061-map-4.03-retreat-from-steel-springs.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/062-map-4.03-retreat-from-steel-springs-player.webp#gallery)
+> ![Map 4.3: Retreat From Steel Springs](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/061-map-4-03-retreat-from-steel-springs.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/062-map-4-03-retreat-from-steel-springs-player.webp#gallery)
 
 #### Steel Springs Battlefield Events
 
@@ -913,7 +913,7 @@ As the characters near the gates of Kalaman, read the following text:
 > A crowd mills at the gate ahead, dozens of commoners murmuring and excitedly looking past the closed portcullis. "There's nothing to see!" shouts a guard, "Please move along."
 ^1ef
 
-![Solamnic knights mysteriously arrive in Kalaman](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/063-04-005.solamnic-knights.webp#center)
+![Solamnic knights mysteriously arrive in Kalaman](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/063-04-005-solamnic-knights.webp#center)
 
 The characters learn the following from a gate guard or anyone in the crowd:
 
@@ -990,7 +990,7 @@ When Soth rose as an Undead, [Caradoc](/3-Mechanics/CLI/bestiary/npc/caradoc-dso
 
 "Who can resist a little drama?"
 
-![Knight Caradoc carries a m...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/064-04-006.caradoc.webp#center "Knight Caradoc carries a message to Kalaman's leaders")
+![Knight Caradoc carries a m...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/064-04-006-caradoc.webp#center "Knight Caradoc carries a message to Kalaman's leaders")
 
 #### Caught in the Act
 
@@ -1113,7 +1113,7 @@ If the characters enter a room after all these scenes have played out, skeletal 
 
 Though the full truth of [Lord Soth](/3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md)'s tale remains vague, the characters might learn more when they encounter [Leedara](/3-Mechanics/CLI/bestiary/npc/leedara-dsotdq.md) again in chapter 7.
 
-![Cataclysmic flames reveal ...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/065-04-007.soth-memory.webp#center "Cataclysmic flames reveal glimpses of Lord Soth's memories")
+![Cataclysmic flames reveal ...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/065-04-007-soth-memory.webp#center "Cataclysmic flames reveal glimpses of Lord Soth's memories")
 
 ### Raided Catacombs Features
 
@@ -1128,8 +1128,8 @@ The catacombs beneath Castle Kalaman have the following features:
 The following locations are keyed to map 4.4.
 
 > [!gallery]
-> ![Map 4.4: Raided Catacombs](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/066-map-4.04-raided-catacombs.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/067-map-4.04-raided-catacombs-player.webp#gallery)
+> ![Map 4.4: Raided Catacombs](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/066-map-4-04-raided-catacombs.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/067-map-4-04-raided-catacombs-player.webp#gallery)
 
 #### R1: Hall of Knights
 
@@ -1270,7 +1270,7 @@ When the characters enter this room, any remaining scenes from the "Visions in F
 
 As soon as [Sarlamir](/3-Mechanics/CLI/bestiary/npc/sarlamir-dsotdq.md) is defeated, the violet flames around his weapon and elsewhere in the catacombs dim, then vanish. Make sure [Sarlamir](/3-Mechanics/CLI/bestiary/npc/sarlamir-dsotdq.md) mentions the City of Lost Names and the Northern Wastes, even if it's as a final gasp. The characters will learn more about these places in chapter 5.
 
-![Knight Sarlamir](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/068-04-008.knight-sarlamir.webp#center)
+![Knight Sarlamir](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/068-04-008-knight-sarlamir.webp#center)
 
 ##### North Passage
 

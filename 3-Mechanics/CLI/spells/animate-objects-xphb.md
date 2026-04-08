@@ -18,7 +18,7 @@ aliases:
 ---
 # Animate Objects
 *5th-level, Transmutation*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Animate Objects.webp#right)
+![](/3-Mechanics/CLI/spells/img/animate-objects.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet

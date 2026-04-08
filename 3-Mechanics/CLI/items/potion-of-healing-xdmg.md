@@ -11,7 +11,7 @@ aliases:
 ---
 # Potion of Healing
 *Potion, common*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Potion of Healing.webp#right)
+![](/3-Mechanics/CLI/items/img/potion-of-healing.webp#right)
 
 - **Cost**: 50 gp
 - **Weight**: 0.5 lbs.

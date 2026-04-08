@@ -12,7 +12,7 @@ aliases:
 ---
 # Handaxe
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Handaxe.webp#right)
+![](/3-Mechanics/CLI/items/img/handaxe.webp#right)
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60

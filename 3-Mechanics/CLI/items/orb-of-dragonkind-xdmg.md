@@ -11,7 +11,7 @@ aliases:
 ---
 # Orb of Dragonkind
 *Wondrous item, artifact (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Orb of Dragonkind.webp#right)
+![](/3-Mechanics/CLI/items/img/orb-of-dragonkind.webp#right)
 
 - **Weight**: 3.0 lbs.
 

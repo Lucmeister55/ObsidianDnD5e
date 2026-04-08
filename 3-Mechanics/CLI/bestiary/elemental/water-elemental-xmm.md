@@ -104,7 +104,7 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
     "name": "Whelm (Recharge 4-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Water Elemental.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/water-elemental-xmm.webp"
 ```
 ^statblock
 

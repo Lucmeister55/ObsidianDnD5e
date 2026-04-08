@@ -103,7 +103,7 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Yuan-ti Infiltrator.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-infiltrator-xmm.webp"
 ```
 ^statblock
 

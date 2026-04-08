@@ -10,7 +10,7 @@ aliases:
 ---
 # Robe of Useful Items
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Robe of Useful Items.webp#right)
+![](/3-Mechanics/CLI/items/img/robe-of-useful-items.webp#right)
 
 
 This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.

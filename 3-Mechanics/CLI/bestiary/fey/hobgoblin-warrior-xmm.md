@@ -97,7 +97,7 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
     "name": "Longbow"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Hobgoblin Warrior.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/hobgoblin-warrior-xmm.webp"
 ```
 ^statblock
 

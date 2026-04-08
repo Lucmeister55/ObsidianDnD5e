@@ -10,7 +10,7 @@ aliases:
 ---
 # Spirit Board
 *Wondrous item, very rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Spirit Board.webp#right)
+![](/3-Mechanics/CLI/items/img/spirit-board.webp#right)
 
 
 This ornate wooden board has the letters of the Common alphabet printed on one side, alongside the words "Yes" and "No" and symbols representing "Weal" and "Woe." The board comes with a heart-shaped, wooden planchette. This planchette must be resting on the lettered side of the board for the board's magic to function.

@@ -95,7 +95,7 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
     "name": "Rock Launch"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Earth Elemental.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/earth-elemental-xmm.webp"
 ```
 ^statblock
 

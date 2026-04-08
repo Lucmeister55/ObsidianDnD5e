@@ -13,7 +13,7 @@ aliases:
 ---
 # Sun Blade
 *Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Sun Blade.webp#right)
+![](/3-Mechanics/CLI/items/img/sun-blade.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 radiant

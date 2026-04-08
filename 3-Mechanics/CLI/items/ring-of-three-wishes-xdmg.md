@@ -11,7 +11,7 @@ aliases:
 ---
 # Ring of Three Wishes
 *Ring, legendary*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Ring of Three Wishes.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-three-wishes.webp#right)
 
 
 While wearing this ring, you can expend 1 of its 3 charges to cast [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) from it. The ring becomes nonmagical when you use the last charge.

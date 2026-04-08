@@ -10,7 +10,7 @@ aliases:
 ---
 # Reorx
 *Source: Dragonlance: Shadow of the Dragon Queen p. 16* 
-![Symbols Left to Right: Reorx, Shinare, and Sirrion](file://D:\ProgramData\CLI\5etools-img/deities/DSotDQ/014-00-039.o-neutral-trio.webp#symbol)
+![Symbols Left to Right: Reorx, Shinare, and Sirrion](/3-Mechanics/CLI/deities/img/dsotdq-014-00-039-o-neutral-trio.webp#symbol)
 
 - **Alignment**: Neutral
 - **Category**: Neutral

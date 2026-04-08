@@ -26,7 +26,7 @@ aliases:
 ---
 # Tenser's Floating Disk
 *1st-level, Conjuration (ritual)*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Tenser's Floating Disk.webp#right)
+![](/3-Mechanics/CLI/spells/img/tensers-floating-disk.webp#right)
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** 30 feet

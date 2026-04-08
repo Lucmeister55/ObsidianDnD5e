@@ -54,7 +54,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Ram"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Deer.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/deer-xmm.webp"
 ```
 ^statblock
 

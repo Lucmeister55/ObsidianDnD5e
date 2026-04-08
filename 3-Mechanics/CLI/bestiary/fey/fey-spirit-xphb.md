@@ -54,6 +54,6 @@ aliases:
     "name": "Fey Step"
 "source":
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XPHB/Fey Spirit.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/fey-spirit-xphb.webp"
 ```
 ^statblock

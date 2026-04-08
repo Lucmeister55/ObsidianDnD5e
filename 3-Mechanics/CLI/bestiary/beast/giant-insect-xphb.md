@@ -55,6 +55,6 @@ aliases:
     "name": "Venomous Spew (Centipede Only)"
 "source":
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XPHB/Giant Insect.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-insect-xphb.webp"
 ```
 ^statblock

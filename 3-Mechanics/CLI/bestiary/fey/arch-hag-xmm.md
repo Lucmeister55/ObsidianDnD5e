@@ -172,7 +172,7 @@ Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop
     "name": "Malicious Magic"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Arch-hag.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/arch-hag-xmm.webp"
 ```
 ^statblock
 

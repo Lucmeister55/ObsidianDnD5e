@@ -11,7 +11,7 @@ aliases:
 ---
 # Monster Camouflage
 *Adventuring gear*  
-![](file://D:\ProgramData\CLI\5etools-img/items/FRHoF/Monster Camouflage.webp#right)
+![](/3-Mechanics/CLI/items/img/monster-camouflage.webp#right)
 
 - **Cost**: 50 gp
 - **Weight**: 6.0 lbs.

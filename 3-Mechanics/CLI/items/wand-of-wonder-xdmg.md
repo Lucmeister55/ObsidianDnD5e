@@ -12,7 +12,7 @@ aliases:
 ---
 # Wand of Wonder
 *Wand, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Wand of Wonder.webp#right)
+![](/3-Mechanics/CLI/items/img/wand-of-wonder.webp#right)
 
 - **Weight**: 1.0 lbs.
 

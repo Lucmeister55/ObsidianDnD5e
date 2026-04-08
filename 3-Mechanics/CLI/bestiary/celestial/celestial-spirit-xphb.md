@@ -52,7 +52,6 @@ aliases:
     "name": "Healing Touch (1/Day)"
 "source":
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XPHB/Celestial\
-  \ Spirit.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/celestial-spirit-xphb.webp"
 ```
 ^statblock

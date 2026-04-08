@@ -49,81 +49,81 @@ Once a card is drawn, it disappears. Unless the card is the Fool or Jester, the 
 ## Cards
 
 ### Balance
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/03-balance.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-03-balance.webp#card)
 You can increase one of your ability scores by 2, to a maximum of 22, provided you also decrease another one of your ability scores by 2. You can't decrease an ability that has a score of 5 or lower. Alternatively, you can choose not to adjust your ability scores, in which case this card has no effect.
 
 ### Comet
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/12-comet.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-12-comet.webp#card)
 The next time you enter combat against one or more [Hostile](/3-Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) creatures, you can select one of them as your foe when you roll [Initiative](/3-Mechanics/CLI/variant-rules/initiative-xphb.md). If you reduce your foe to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) during that combat, you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on [Death Saving Throws](/3-Mechanics/CLI/variant-rules/death-saving-throw-xphb.md) for 1 year. If someone else reduces your chosen foe to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) or you don't choose a foe, this card has no effect.
 
 ### Donjon
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/17-donjon.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-17-donjon.webp#card)
 You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you're wearing and carrying disappears with you except for Artifacts, which stay behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any Divination magic, but a [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell can reveal the location of your prison. You draw no more cards.
 
 ### Euryale
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/22-euryale.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-22-euryale.webp#card)
 The card's medusa-like visage curses you. You take a -2 penalty to saving throws while cursed in this way. Only a god or the magic of the Fates card can end this curse.
 
 ### Fates
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/08-fates.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-08-fates.webp#card)
 Reality's fabric unravels and spins anew, allowing you to avoid or erase one event as if it never happened. You can use the card's magic as soon as you draw the card or at any other time before you die.
 
 ### Flames
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/20-flames.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-20-flames.webp#card)
 A powerful devil becomes your enemy. The devil seeks your ruin and torments you, savoring your suffering before attempting to slay you. This enmity lasts until either you or the devil dies.
 
 ### Fool
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/01-fool.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-01-fool.webp#card)
 You have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md) for the next 72 hours. Draw another card; this draw doesn't count as one of your declared draws.
 
 ### Gem
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/05-gem.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-05-gem.webp#card)
 Twenty-five pieces of jewelry worth 2,000 GP each or fifty gems worth 1,000 GP each appear at your feet.
 
 ### Jester
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/14-jester.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-14-jester.webp#card)
 You have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md) for the next 72 hours, or you can draw two additional cards beyond your declared draws.
 
 ### Key
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/02-key.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-02-key.webp#card)
 A Rare or rarer magic weapon with which you are proficient appears on your person. The DM chooses the weapon.
 
 ### Knight
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/09-knight.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-09-knight.webp#card)
 You gain the service of a [Knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md), who magically appears in an unoccupied space you choose within 30 feet of yourself. The knight has the same alignment as you and serves you loyally until death, believing the two of you have been drawn together by fate. Work with your DM to create a name and backstory for this NPC. The DM can use a different stat block to represent the knight, as desired.
 
 ### Moon
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/11-moon.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-11-moon.webp#card)
 You gain the ability to cast [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) `dice:1d3|noform|noparens|avg` (`1d3`) times.
 
 ### Puzzle
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/04-puzzle.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-04-puzzle.webp#card)
 Permanently reduce your Intelligence or Wisdom by `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) (to a minimum score of 1). You can draw one additional card beyond your declared draws.
 
 ### Rogue
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/06-rogue.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-06-rogue.webp#card)
 An NPC of the DM's choice becomes [Hostile](/3-Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell or divine intervention can end the NPC's hostility toward you.
 
 ### Ruin
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/16-ruin.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-16-ruin.webp#card)
 All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. If you have a Bastion (see the "Dungeon Master's Guide"), it is destroyed by some calamity beyond your control. Any documentation that proves you should own something lost to this card also disappears.
 
 ### Sage
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/07-sage.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-07-sage.webp#card)
 At any time you choose within one year of drawing this card, you can ask a question in meditation and mentally receive a truthful answer to that question.
 
 ### Skull
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/19-skull.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-19-skull.webp#card)
 An [Avatar of Death](/3-Mechanics/CLI/bestiary/undead/avatar-of-death-xdmg.md) appears in an unoccupied space as close to you as possible. The avatar targets only you with its attacks, appearing as a ghostly skeleton clad in a tattered black robe and carrying a spectral scythe. The avatar disappears when it drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) or you die. If an ally of yours deals damage to the avatar, that ally summons another Avatar of Death. The new avatar appears in an unoccupied space as close to that ally as possible and targets only that ally with its attacks. You and your allies can each summon only one avatar as a consequence of this draw. A creature slain by an avatar can't be restored to life.
 
 ### Star
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/13-star.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-13-star.webp#card)
 Increase one of your ability scores by 2, to a maximum of 24.
 
 ### Sun
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/10-sun.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-10-sun.webp#card)
 A magic item (chosen by the DM) appears on your person. In addition, you gain 10 [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) daily at dawn until you die.
 
 ### Talons
-![](file://D:\ProgramData\CLI\5etools-img/decks/BMT/Deck of Many Things/21-talons.webp#card)
+![](/3-Mechanics/CLI/decks/img/deck-of-many-things-21-talons.webp#card)
 Every magic item you wear or carry disintegrates. Artifacts in your possession vanish instead.

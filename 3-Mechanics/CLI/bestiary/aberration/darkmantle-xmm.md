@@ -79,7 +79,7 @@ Darkmantles share similarities with piercers and ropers and often hunt near thos
     "name": "Darkness Aura (1/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Darkmantle.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/darkmantle-xmm.webp"
 ```
 ^statblock
 

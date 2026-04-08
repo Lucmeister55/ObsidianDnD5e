@@ -10,7 +10,7 @@ aliases:
 ---
 # Guide
 *Source: Player's Handbook (2024) p. 181*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/XPHB/Guide.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/guide.webp#right)
 
 - **Ability Scores.** Dexterity, Constitution, Wisdom  
 - **Feat.** [Magic Initiate](/3-Mechanics/CLI/feats/magic-initiate-xphb.md) (Druid)  

@@ -12,7 +12,7 @@ aliases:
 ---
 # Trident
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Trident.webp#right)
+![](/3-Mechanics/CLI/items/img/trident.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 piercing

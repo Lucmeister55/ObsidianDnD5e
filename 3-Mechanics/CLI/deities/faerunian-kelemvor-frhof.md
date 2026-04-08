@@ -12,7 +12,7 @@ aliases:
 ---
 # Kelemvor
 *Source: Forgotten Realms: Heroes of Faerûn p. 110* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Kelemvor.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-kelemvor.webp#symbol)
 
 - **Alternate Names**: The Judge of the Damned, The Lord of the Dead
 - **Alignment**: Unaligned

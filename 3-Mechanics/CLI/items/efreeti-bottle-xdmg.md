@@ -10,7 +10,7 @@ aliases:
 ---
 # Efreeti Bottle
 *Wondrous item, very rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Efreeti Bottle.webp#right)
+![](/3-Mechanics/CLI/items/img/efreeti-bottle.webp#right)
 
 
 When you take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to remove the stopper of this painted brass bottle, a cloud of thick smoke flows out of it. At the end of your turn, the smoke disappears with a flash of harmless fire, and an [Efreeti](/3-Mechanics/CLI/bestiary/elemental/efreeti-xmm.md) appears in an unoccupied space within 30 feet of you.

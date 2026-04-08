@@ -110,7 +110,7 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
     "name": "Smelting Charge (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Brazen Gorgon.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/brazen-gorgon-xmm.webp"
 ```
 ^statblock
 

@@ -76,7 +76,7 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
     "name": "Shadow Stealth"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Manes Vaporspawn.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/manes-vaporspawn-xmm.webp"
 ```
 ^statblock
 

@@ -52,7 +52,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Tail"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Ankylosaurus.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/ankylosaurus-xmm.webp"
 ```
 ^statblock
 

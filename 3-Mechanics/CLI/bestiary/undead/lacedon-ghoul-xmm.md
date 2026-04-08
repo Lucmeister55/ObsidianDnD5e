@@ -78,7 +78,7 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
     "name": "Watery Rush"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Lacedon Ghoul.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/lacedon-ghoul-xmm.webp"
 ```
 ^statblock
 

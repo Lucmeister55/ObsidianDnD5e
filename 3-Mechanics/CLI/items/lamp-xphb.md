@@ -11,7 +11,7 @@ aliases:
 ---
 # Lamp
 *Adventuring gear*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Lamp.webp#right)
+![](/3-Mechanics/CLI/items/img/lamp.webp#right)
 
 - **Cost**: 5 sp
 - **Weight**: 1.0 lbs.

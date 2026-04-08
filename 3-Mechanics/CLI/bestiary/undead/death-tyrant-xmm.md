@@ -160,7 +160,7 @@ Death tyrants often lurk deep in the Underdark, in the tunnel-mazes they occupie
     "name": "Glare"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Death Tyrant.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/death-tyrant-xmm.webp"
 ```
 ^statblock
 

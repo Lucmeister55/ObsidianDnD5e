@@ -118,7 +118,7 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
     "name": "Deathless Agility"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Vampire Spawn.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/vampire-spawn-xmm.webp"
 ```
 ^statblock
 

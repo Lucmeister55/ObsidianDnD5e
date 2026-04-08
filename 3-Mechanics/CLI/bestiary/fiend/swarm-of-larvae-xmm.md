@@ -68,7 +68,7 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
     "name": "Bites"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Swarm of Larvae.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/swarm-of-larvae-xmm.webp"
 ```
 ^statblock
 

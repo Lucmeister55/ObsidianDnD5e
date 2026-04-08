@@ -12,7 +12,7 @@ aliases:
 ---
 # Club
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Club.webp#right)
+![](/3-Mechanics/CLI/items/img/club.webp#right)
 
 - **Damage**: 1d4 bludgeoning
 - **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)

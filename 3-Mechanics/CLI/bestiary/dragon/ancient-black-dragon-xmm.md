@@ -121,8 +121,7 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
     "name": "Pounce"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Ancient Black\
-  \ Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/ancient-black-dragon-xmm.webp"
 ```
 ^statblock
 

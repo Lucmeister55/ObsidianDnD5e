@@ -10,7 +10,7 @@ aliases:
 ---
 # Wayfarer
 *Source: Player's Handbook (2024) p. 185*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/XPHB/Wayfarer.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/wayfarer.webp#right)
 
 - **Ability Scores.** Dexterity, Wisdom, Charisma  
 - **Feat.** [Lucky](/3-Mechanics/CLI/feats/lucky-xphb.md)  

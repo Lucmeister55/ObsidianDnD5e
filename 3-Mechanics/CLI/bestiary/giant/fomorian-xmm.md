@@ -81,7 +81,7 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
     "name": "Warping Hex (Recharge 4-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Fomorian.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/fomorian-xmm.webp"
 ```
 ^statblock
 

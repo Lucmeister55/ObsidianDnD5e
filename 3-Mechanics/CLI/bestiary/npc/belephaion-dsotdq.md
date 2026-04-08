@@ -70,6 +70,6 @@ aliases:
     "name": "Alter Shape"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Belephaion.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/belephaion-dsotdq.webp"
 ```
 ^statblock

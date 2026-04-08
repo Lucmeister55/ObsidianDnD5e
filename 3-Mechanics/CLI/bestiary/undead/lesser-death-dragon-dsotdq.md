@@ -84,7 +84,6 @@ A death dragon's bones burn with violet Cataclysmic fire, which it can unleash i
     "name": "Cataclysmic Breath (Recharge 5-6)"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Lesser Death\
-  \ Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/lesser-death-dragon-dsotdq.webp"
 ```
 ^statblock

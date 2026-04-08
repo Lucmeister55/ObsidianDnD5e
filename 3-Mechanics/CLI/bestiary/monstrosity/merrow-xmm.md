@@ -72,7 +72,7 @@ Merrow raid coastal settlements and merfolk communities to steal weapons and tre
     "name": "Harpoon"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Merrow.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/merrow-xmm.webp"
 ```
 ^statblock
 

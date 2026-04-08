@@ -100,8 +100,7 @@ Quivering masses of acidic goo, gelatinous cubes wobble through narrow caverns a
     "name": "Engulf"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Gelatinous\
-  \ Cube.webp"
+"image": "/3-Mechanics/CLI/bestiary/ooze/token/gelatinous-cube-xmm.webp"
 ```
 ^statblock
 

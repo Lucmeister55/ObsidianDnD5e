@@ -81,7 +81,7 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "source":
   - "XMM"
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Skeleton.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/skeleton-xmm.webp"
 ```
 ^statblock
 

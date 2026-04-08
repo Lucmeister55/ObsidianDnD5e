@@ -85,7 +85,7 @@ Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid 
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Werewolf.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/werewolf-xmm.webp"
 ```
 ^statblock
 

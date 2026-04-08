@@ -71,6 +71,6 @@ aliases:
     "name": "Maul"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Hrigg Roundrook.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/hrigg-roundrook-dsotdq.webp"
 ```
 ^statblock

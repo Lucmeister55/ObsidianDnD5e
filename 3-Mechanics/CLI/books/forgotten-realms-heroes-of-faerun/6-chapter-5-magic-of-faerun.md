@@ -10,7 +10,7 @@ aliases:
 # Chapter 5: Magic of Faerûn
 *Source: Forgotten Realms: Heroes of Faerûn, p. 137* 
 
-![Vajra Safahr commands the ...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/146-05-001.vajra-safahr-commands.webp#center "Vajra Safahr commands the mighty walking statues of Waterdeep.")
+![Vajra Safahr commands the ...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/146-05-001-vajra-safahr-commands.webp#center "Vajra Safahr commands the mighty walking statues of Waterdeep.")
 
 From the simplest cantrip to the mightiest workings of high magic, from a humble [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md) spell to the raising of mighty heroes from the dead, magic permeates the Realms. And any understanding of magic in Faerûn begins with understanding the Weave.
 
@@ -75,7 +75,7 @@ Each active mythal has one or more individuals especially attuned to it, and the
 
 Adventurers are most likely to encounter damaged or failing mythals in ruined locations where magic once had great influence. Although an [Identify](/3-Mechanics/CLI/spells/identify-xphb.md) spell might reveal some of a mythal's simplest effects, spellcasters can discover spellcasting restrictions only by trying (and failing) to cast a prohibited spell. A powerful spellcaster might learn how to access or repair a mythal without assistance, but such feats are rarely attempted by even the most renowned mages. Any elven city with "Myth" in its name (Myth Drannor, Myth Glaurach, Myth Nantar, and others) has or had a mythal. The ruins of such places often exhibit unpredictable effects related to their damaged or destroyed mythals.
 
-![Presto casts the Blade of ...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/147-05-002.presto-casts.webp#center "Presto casts the Blade of Disaster spell to fight off Venger.")
+![Presto casts the Blade of ...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/147-05-002-presto-casts.webp#center "Presto casts the Blade of Disaster spell to fight off Venger.")
 
 ## Circle Magic
 
@@ -120,7 +120,7 @@ If the spell has a casting time of 1 minute or more, you and each secondary cast
 
 If a Circle spell fails, nothing happens. You don't expend a spell slot, and any Material components aren't consumed. To cast the spell again, you must start over.
 
-![Red Wizards developed circ...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/148-05-003.red-wizards-circle-magic.webp#center "Red Wizards developed circle magic to cast spells beyond the power of any single mage.")
+![Red Wizards developed circ...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/148-05-003-red-wizards-circle-magic.webp#center "Red Wizards developed circle magic to cast spells beyond the power of any single mage.")
 
 ### Circle Casting Options
 
@@ -173,7 +173,7 @@ Each secondary caster contributing to the spell must expend a spell slot of a le
 > **Plan Ahead.** Circle magic functions best when participants strategize ahead of time. To avoid bogging down combat, work together with fellow spellcasters to determine how and when to cast a Circle spell. Additionally, ensure all participants still have ample opportunity to cast spells and act independently beyond contributing to circle magic.
 ^circle-magic-in-the-game
 
-![Alustriel Silverhand uses ...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/149-05-004.alustriel-silverhand.webp#center "Alustriel Silverhand uses her mooncloak to protect her allies.")
+![Alustriel Silverhand uses ...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/149-05-004-alustriel-silverhand.webp#center "Alustriel Silverhand uses her mooncloak to protect her allies.")
 
 ## Spells
 

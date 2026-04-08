@@ -10,7 +10,7 @@ aliases:
 ---
 # Mage of High Sorcery
 *Source: Dragonlance: Shadow of the Dragon Queen p. 30*  
-![Mages of High Sorcery of t...](file://D:\ProgramData\CLI\5etools-img/backgrounds/DSotDQ/Mage of High Sorcery.webp#right "Mages of High Sorcery of the Orders of the Black, Red, and White Robes")
+![Mages of High Sorcery of t...](/3-Mechanics/CLI/backgrounds/img/mage-of-high-sorcery.webp#right "Mages of High Sorcery of the Orders of the Black, Red, and White Robes")
 
 ***Prerequisites*** Dragonlance Campaign
 

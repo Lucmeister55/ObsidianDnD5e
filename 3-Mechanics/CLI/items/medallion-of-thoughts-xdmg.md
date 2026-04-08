@@ -11,7 +11,7 @@ aliases:
 ---
 # Medallion of Thoughts
 *Wondrous item, uncommon (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Medallion of Thoughts.webp#right)
+![](/3-Mechanics/CLI/items/img/medallion-of-thoughts.webp#right)
 
 - **Weight**: 1.0 lbs.
 

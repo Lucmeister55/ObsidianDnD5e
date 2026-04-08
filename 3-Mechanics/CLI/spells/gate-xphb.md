@@ -22,7 +22,7 @@ aliases:
 ---
 # Gate
 *9th-level, Conjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Gate.webp#right)
+![](/3-Mechanics/CLI/spells/img/gate.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

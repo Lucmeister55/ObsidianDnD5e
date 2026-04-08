@@ -10,7 +10,7 @@ aliases:
 ---
 # Knight of Solamnia
 *Source: Dragonlance: Shadow of the Dragon Queen p. 30*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/DSotDQ/Knight of Solamnia.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/knight-of-solamnia.webp#right)
 
 ***Prerequisites*** Dragonlance Campaign
 

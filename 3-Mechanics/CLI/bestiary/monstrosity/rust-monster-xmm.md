@@ -73,7 +73,7 @@ Rust monsters roam the Underdark searching for ferrous metal. When they find thi
     "name": "Reflexive Antennae"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Rust Monster.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/rust-monster-xmm.webp"
 ```
 ^statblock
 

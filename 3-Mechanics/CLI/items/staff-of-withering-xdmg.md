@@ -13,7 +13,7 @@ aliases:
 ---
 # Staff of Withering
 *Staff, weapon, rare (requires attunement by a cleric, druid, or warlock)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Staff of Withering.webp#right)
+![](/3-Mechanics/CLI/items/img/staff-of-withering.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

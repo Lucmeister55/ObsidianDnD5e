@@ -12,7 +12,7 @@ aliases:
 ---
 # Wand of Web
 *Wand, uncommon (requires attunement by a spellcaster)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Wand of Web.webp#right)
+![](/3-Mechanics/CLI/items/img/wand-of-web.webp#right)
 
 - **Weight**: 1.0 lbs.
 

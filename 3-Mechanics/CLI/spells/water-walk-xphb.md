@@ -27,7 +27,7 @@ aliases:
 ---
 # Water Walk
 *3rd-level, Transmutation (ritual)*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Water Walk.webp#right)
+![](/3-Mechanics/CLI/spells/img/water-walk.webp#right)
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** 30 feet

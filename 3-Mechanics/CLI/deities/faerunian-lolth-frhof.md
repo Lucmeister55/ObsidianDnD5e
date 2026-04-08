@@ -12,7 +12,7 @@ aliases:
 ---
 # Lolth
 *Source: Forgotten Realms: Heroes of Faerûn p. 113* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Lolth.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-lolth.webp#symbol)
 
 - **Alternate Names**: Queen of Spiders, Queen of the Demonweb Pits
 - **Alignment**: Unaligned

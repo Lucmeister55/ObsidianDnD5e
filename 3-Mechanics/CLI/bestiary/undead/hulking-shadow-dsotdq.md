@@ -77,7 +77,6 @@ aliases:
     "name": "Haste (Recharge 5-6)"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Hulking\
-  \ Shadow.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/hulking-shadow-dsotdq.webp"
 ```
 ^statblock

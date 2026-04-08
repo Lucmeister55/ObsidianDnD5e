@@ -73,7 +73,6 @@ The weapons of Dragon Army troops are blessed with an infusion of dragon breath.
     "name": "Assault Orders (Recharge 5-6)"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Dragon Army\
-  \ Officer.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/dragon-army-officer-dsotdq.webp"
 ```
 ^statblock

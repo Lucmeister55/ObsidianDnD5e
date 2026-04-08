@@ -12,7 +12,7 @@ aliases:
 ---
 # Lliira
 *Source: Forgotten Realms: Heroes of Faerûn p. 112* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Lliira.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-lliira.webp#symbol)
 
 - **Alternate Names**: Mistress of Revels, Our Lady of Joy
 - **Alignment**: Unaligned

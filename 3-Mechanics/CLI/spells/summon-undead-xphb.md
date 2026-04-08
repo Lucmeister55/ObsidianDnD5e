@@ -24,7 +24,7 @@ aliases:
 ---
 # Summon Undead
 *3rd-level, Necromancy*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Summon Undead.webp#right)
+![](/3-Mechanics/CLI/spells/img/summon-undead.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

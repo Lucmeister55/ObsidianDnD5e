@@ -11,7 +11,7 @@ aliases:
 ---
 # Yarting
 *Instrument*  
-![Left to Right: Yarting, Bandore, Cittern](file://D:\ProgramData\CLI\5etools-img/items/FRHoF/Musical Instrument.webp#right)
+![Left to Right: Yarting, Bandore, Cittern](/3-Mechanics/CLI/items/img/musical-instrument.webp#right)
 
 - **Cost**: 40 gp
 - **Weight**: 2.0 lbs.

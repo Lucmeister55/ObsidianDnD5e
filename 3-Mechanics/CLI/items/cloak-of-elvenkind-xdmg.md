@@ -11,7 +11,7 @@ aliases:
 ---
 # Cloak of Elvenkind
 *Wondrous item, uncommon (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Cloak of Elvenkind.webp#right)
+![](/3-Mechanics/CLI/items/img/cloak-of-elvenkind.webp#right)
 
 
 While you wear this cloak, Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks made to perceive you have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md), and you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks.

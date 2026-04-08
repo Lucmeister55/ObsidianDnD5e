@@ -10,7 +10,7 @@ aliases:
 ---
 # Dread Helm
 *Wondrous item, common*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Dread Helm.webp#right)
+![](/3-Mechanics/CLI/items/img/dread-helm.webp#right)
 
 
 While you're wearing this fearsome steel helm, your eyes glow red and the rest of your face is hidden in shadow.

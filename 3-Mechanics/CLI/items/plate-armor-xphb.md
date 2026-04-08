@@ -11,7 +11,7 @@ aliases:
 ---
 # Plate Armor
 *Heavy armor*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Plate Armor.webp#right)
+![](/3-Mechanics/CLI/items/img/plate-armor.webp#right)
 
 - **Armor Class**: 18
 - **Strength**: Requires 15 STR.

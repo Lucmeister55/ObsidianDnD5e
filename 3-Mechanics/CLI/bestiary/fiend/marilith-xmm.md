@@ -92,7 +92,7 @@ Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged bla
     "name": "Parry"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Marilith.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/marilith-xmm.webp"
 ```
 ^statblock
 

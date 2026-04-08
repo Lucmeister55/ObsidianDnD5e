@@ -72,7 +72,7 @@ Owing to their draconic instincts, chimeras are greedy creatures that hoard trea
     "name": "Fire Breath (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Chimera.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/chimera-xmm.webp"
 ```
 ^statblock
 

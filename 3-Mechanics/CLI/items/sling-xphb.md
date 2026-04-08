@@ -12,7 +12,7 @@ aliases:
 ---
 # Sling
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Sling.webp#right)
+![](/3-Mechanics/CLI/items/img/sling.webp#right)
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120

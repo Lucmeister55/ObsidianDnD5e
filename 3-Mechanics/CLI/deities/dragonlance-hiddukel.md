@@ -10,7 +10,7 @@ aliases:
 ---
 # Hiddukel
 *Source: Dragonlance: Shadow of the Dragon Queen p. 18* 
-![Symbols Left to Right: Tak...](file://D:\ProgramData\CLI\5etools-img/deities/DSotDQ/016-00-035.evil-god-symbols.webp#symbol "Symbols Left to Right: Takhisis, Chemosh, and Hiddukel")
+![Symbols Left to Right: Tak...](/3-Mechanics/CLI/deities/img/dsotdq-016-00-035-evil-god-symbols.webp#symbol "Symbols Left to Right: Takhisis, Chemosh, and Hiddukel")
 
 - **Alignment**: Chaotic Evil
 - **Category**: Evil

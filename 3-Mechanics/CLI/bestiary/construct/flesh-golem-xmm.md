@@ -103,7 +103,7 @@ Flesh golems appear in varied forms. Roll on or choose a result from the Flesh G
     "name": "Slam"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Flesh Golem.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/flesh-golem-xmm.webp"
 ```
 ^statblock
 

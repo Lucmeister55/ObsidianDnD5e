@@ -64,6 +64,6 @@ aliases:
     "name": "Longbow"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Clystran.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/clystran-dsotdq.webp"
 ```
 ^statblock

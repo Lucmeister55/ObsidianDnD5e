@@ -85,7 +85,7 @@ Ettercaps avoid fire, which can quickly burn through their webs and the dead tre
     "name": "Reel"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Ettercap.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/ettercap-xmm.webp"
 ```
 ^statblock
 

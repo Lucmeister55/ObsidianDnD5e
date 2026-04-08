@@ -92,8 +92,7 @@ Gold dragons make their homes in places of natural and magical wonder.
     "name": "Weakening Breath"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Young Gold\
-  \ Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-gold-dragon-xmm.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ aliases:
 ---
 # Ring of Warmth
 *Ring, uncommon (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Ring of Warmth.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-warmth.webp#right)
 
 
 If you take Cold damage while wearing this ring, the ring reduces the damage you take by `dice:2d8|noform|noparens|avg` (`2d8`).

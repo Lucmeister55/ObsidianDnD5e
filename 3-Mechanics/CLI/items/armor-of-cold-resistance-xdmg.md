@@ -27,7 +27,7 @@ aliases:
 ---
 # Armor of Cold Resistance
 *Rare (requires attunement)*  
-![Armor of resistance (Leath...](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Armor of Cold Resistance.webp#right "Armor of resistance (Leather Armor), Armor of invulnerability (Plate Armor)")
+![Armor of resistance (Leath...](/3-Mechanics/CLI/items/img/armor-of-cold-resistance.webp#right "Armor of resistance (Leather Armor), Armor of invulnerability (Plate Armor)")
 
 
 You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to cold damage while you wear this armor.

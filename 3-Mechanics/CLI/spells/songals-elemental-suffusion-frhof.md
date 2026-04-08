@@ -20,7 +20,7 @@ aliases:
 ---
 # Songal's Elemental Suffusion
 *5th-level, Transmutation*  
-![Sultana Songal has suffuse...](file://D:\ProgramData\CLI\5etools-img/spells/FRHoF/Songal's Elemental Suffusion.webp#right "Sultana Songal has suffused herself with the elemental power of genies.")
+![Sultana Songal has suffuse...](/3-Mechanics/CLI/spells/img/songals-elemental-suffusion.webp#right "Sultana Songal has suffused herself with the elemental power of genies.")
 
 - **Casting time:** 1 Action
 - **Range:** Self

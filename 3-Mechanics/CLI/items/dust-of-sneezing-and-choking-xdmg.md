@@ -10,7 +10,7 @@ aliases:
 ---
 # Dust of Sneezing and Choking
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Dust of Sneezing and Choking.webp#right)
+![](/3-Mechanics/CLI/items/img/dust-of-sneezing-and-choking.webp#right)
 
 
 Found in a small container, this powder resembles [Dust of Disappearance](/3-Mechanics/CLI/items/dust-of-disappearance-xdmg.md), and [Identify](/3-Mechanics/CLI/spells/identify-xphb.md) reveals it to be such. There is enough of it for one use.

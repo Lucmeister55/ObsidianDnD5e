@@ -94,7 +94,7 @@ Medusas are born or created through preternatural circumstances. Roll on or choo
     "name": "Petrifying Gaze (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Medusa.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/medusa-xmm.webp"
 ```
 ^statblock
 

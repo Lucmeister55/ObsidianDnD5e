@@ -107,7 +107,7 @@ Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures 
     "name": "Hellfire Spellcasting (Recharge 4-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Pit Fiend.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/pit-fiend-xmm.webp"
 ```
 ^statblock
 

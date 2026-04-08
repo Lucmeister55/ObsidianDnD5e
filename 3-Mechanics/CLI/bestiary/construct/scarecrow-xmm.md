@@ -82,7 +82,7 @@ Although scarecrows take their name from rural effigies, they might take varied 
     "name": "Terrifying Glare"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Scarecrow.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/scarecrow-xmm.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ aliases:
 ---
 # Hoopak
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/DSotDQ/Hoopak.webp#right)
+![](/3-Mechanics/CLI/items/img/hoopak.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 40/160

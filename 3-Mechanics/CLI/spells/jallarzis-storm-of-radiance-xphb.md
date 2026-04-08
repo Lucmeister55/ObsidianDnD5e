@@ -20,7 +20,7 @@ aliases:
 ---
 # Jallarzi's Storm of Radiance
 *5th-level, Evocation*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Jallarzi's Storm of Radiance.webp#right)
+![](/3-Mechanics/CLI/spells/img/jallarzis-storm-of-radiance.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet

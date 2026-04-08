@@ -22,7 +22,7 @@ aliases:
 ---
 # Elminster's Effulgent Spheres
 *6th-level, Evocation*  
-![Elminster's Effulgent Sphe...](file://D:\ProgramData\CLI\5etools-img/spells/FRHoF/Elminster's Effulgent Spheres.webp#right "Elminster's Effulgent Spheres can be used to both attack and defend.")
+![Elminster's Effulgent Sphe...](/3-Mechanics/CLI/spells/img/elminsters-effulgent-spheres.webp#right "Elminster's Effulgent Spheres can be used to both attack and defend.")
 
 - **Casting time:** 1 Action
 - **Range:** Self

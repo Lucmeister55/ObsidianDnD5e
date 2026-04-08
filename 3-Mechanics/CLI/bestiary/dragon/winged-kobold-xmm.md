@@ -75,7 +75,7 @@ Kobolds' scales resemble those of chromatic dragons that live near their warrens
     "name": "Chromatic Spittle"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Winged Kobold.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/winged-kobold-xmm.webp"
 ```
 ^statblock
 

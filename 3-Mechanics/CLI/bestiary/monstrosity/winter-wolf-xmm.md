@@ -76,7 +76,7 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
     "name": "Cold Breath (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Winter Wolf.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/winter-wolf-xmm.webp"
 ```
 ^statblock
 

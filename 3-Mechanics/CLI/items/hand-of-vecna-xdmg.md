@@ -11,7 +11,7 @@ aliases:
 ---
 # Hand of Vecna
 *Wondrous item, artifact (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Eye and Hand of Vecna.webp#right)
+![](/3-Mechanics/CLI/items/img/eye-and-hand-of-vecna.webp#right)
 
 
 "Vecna" was a mighty wizard who, through magic and conquest, forged a terrible empire. For all his power, however, Vecna feared death and took steps to prevent his demise by becoming a lich.

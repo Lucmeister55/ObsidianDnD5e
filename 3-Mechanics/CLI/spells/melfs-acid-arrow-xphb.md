@@ -26,7 +26,7 @@ aliases:
 ---
 # Melf's Acid Arrow
 *2nd-level, Evocation*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Melf's Acid Arrow.webp#right)
+![](/3-Mechanics/CLI/spells/img/melfs-acid-arrow.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

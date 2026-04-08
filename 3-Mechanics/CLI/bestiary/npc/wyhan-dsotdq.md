@@ -69,6 +69,6 @@ aliases:
     "name": "Dagger"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Wyhan.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/wyhan-dsotdq.webp"
 ```
 ^statblock

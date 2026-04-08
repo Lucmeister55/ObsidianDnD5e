@@ -68,7 +68,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Cacophony (Recharge 6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Swarm of Ravens.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/swarm-of-ravens-xmm.webp"
 ```
 ^statblock
 

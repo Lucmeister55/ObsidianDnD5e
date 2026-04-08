@@ -18,7 +18,7 @@ aliases:
 ---
 # Vorpal Sword
 *Legendary (requires attunement)*  
-![Vorpal Sword (Longsword)](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Vorpal Sword.webp#right)
+![Vorpal Sword (Longsword)](/3-Mechanics/CLI/items/img/vorpal-sword.webp#right)
 
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. In addition, the weapon ignores [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to Slashing damage.

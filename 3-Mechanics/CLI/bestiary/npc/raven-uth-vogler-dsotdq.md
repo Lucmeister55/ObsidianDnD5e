@@ -64,7 +64,6 @@ aliases:
     "name": "Longbow"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Raven Uth\
-  \ Vogler.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/raven-uth-vogler-dsotdq.webp"
 ```
 ^statblock

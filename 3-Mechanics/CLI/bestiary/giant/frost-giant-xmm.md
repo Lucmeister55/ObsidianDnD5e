@@ -81,7 +81,7 @@ Frost giants often travel far to find food and goods. This leads many to become 
     "name": "War Cry (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Frost Giant.webp"
+"image": "/3-Mechanics/CLI/bestiary/giant/token/frost-giant-xmm.webp"
 ```
 ^statblock
 

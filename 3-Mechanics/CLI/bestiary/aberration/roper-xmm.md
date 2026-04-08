@@ -96,7 +96,7 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
     "name": "Reel"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Roper.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/roper-xmm.webp"
 ```
 ^statblock
 

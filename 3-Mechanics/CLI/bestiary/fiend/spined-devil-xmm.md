@@ -85,7 +85,7 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
     "name": "Tail Spine"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Spined Devil.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/spined-devil-xmm.webp"
 ```
 ^statblock
 

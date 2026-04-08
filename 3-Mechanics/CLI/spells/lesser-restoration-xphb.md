@@ -43,7 +43,7 @@ aliases:
 ---
 # Lesser Restoration
 *2nd-level, Abjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Lesser Restoration.webp#right)
+![](/3-Mechanics/CLI/spells/img/lesser-restoration.webp#right)
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Touch

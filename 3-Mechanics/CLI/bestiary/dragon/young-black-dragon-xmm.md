@@ -81,8 +81,7 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
     "name": "Acid Breath (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Young Black\
-  \ Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-black-dragon-xmm.webp"
 ```
 ^statblock
 

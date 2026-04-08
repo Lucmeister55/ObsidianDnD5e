@@ -73,6 +73,6 @@ aliases:
     "name": "Helpful"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Iriad.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/iriad-dsotdq.webp"
 ```
 ^statblock

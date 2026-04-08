@@ -140,7 +140,7 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
     "name": "Lashing Goop"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Blob of Annihilation.webp"
+"image": "/3-Mechanics/CLI/bestiary/ooze/token/blob-of-annihilation-xmm.webp"
 ```
 ^statblock
 

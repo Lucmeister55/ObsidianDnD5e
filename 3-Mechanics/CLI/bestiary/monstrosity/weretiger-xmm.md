@@ -102,7 +102,7 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Weretiger.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/weretiger-xmm.webp"
 ```
 ^statblock
 

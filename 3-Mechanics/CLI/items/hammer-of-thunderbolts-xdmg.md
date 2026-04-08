@@ -16,7 +16,7 @@ aliases:
 ---
 # Hammer of Thunderbolts
 *Legendary (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Hammer of Thunderbolts.webp#right)
+![](/3-Mechanics/CLI/items/img/hammer-of-thunderbolts.webp#right)
 
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.

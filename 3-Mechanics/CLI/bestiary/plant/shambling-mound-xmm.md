@@ -95,7 +95,7 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
     "name": "Engulf"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Shambling Mound.webp"
+"image": "/3-Mechanics/CLI/bestiary/plant/token/shambling-mound-xmm.webp"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ aliases:
 ---
 # Circlet of Blasting
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Circlet of Blasting.webp#right)
+![](/3-Mechanics/CLI/items/img/circlet-of-blasting.webp#right)
 
 
 While wearing this circlet, you can cast [Scorching Ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md) with it (`dice:1d20+5|noform|noparens|text(+5)` to hit). The circlet can't cast this spell again until the next dawn.

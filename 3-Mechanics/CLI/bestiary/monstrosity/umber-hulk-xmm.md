@@ -69,7 +69,7 @@ Umber hulks typically lurk in tunnels they've burrowed alongside other passages.
     "name": "Confusing Gaze (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Umber Hulk.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/umber-hulk-xmm.webp"
 ```
 ^statblock
 

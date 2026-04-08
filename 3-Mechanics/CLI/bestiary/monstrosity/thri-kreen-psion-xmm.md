@@ -79,8 +79,7 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Thri-kreen\
-  \ Psion.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/thri-kreen-psion-xmm.webp"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ aliases:
 ---
 # Apparatus of Kwalish
 *Wondrous item, legendary*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Apparatus of Kwalish.webp#right)
+![](/3-Mechanics/CLI/vehicles/img/apparatus-of-kwalish.webp#right)
 
 - **Weight**: 500.0 lbs.
 

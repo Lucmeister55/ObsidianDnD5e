@@ -11,7 +11,7 @@ aliases:
 ---
 # Breastplate
 *Medium armor*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Breastplate.webp#right)
+![](/3-Mechanics/CLI/items/img/breastplate.webp#right)
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Cost**: 400 gp

@@ -10,7 +10,7 @@ aliases:
 ---
 # Sphere of Annihilation
 *Wondrous item, legendary*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Sphere of Annihilation.webp#right)
+![](/3-Mechanics/CLI/items/img/sphere-of-annihilation.webp#right)
 
 
 This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.

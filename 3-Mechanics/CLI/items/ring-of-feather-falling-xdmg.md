@@ -12,7 +12,7 @@ aliases:
 ---
 # Ring of Feather Falling
 *Ring, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Ring of Feather Falling.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-feather-falling.webp#right)
 
 
 When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling.

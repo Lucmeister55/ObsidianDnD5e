@@ -76,7 +76,7 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
     "name": "Vile Slime"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Swarm of Lemures.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/swarm-of-lemures-xmm.webp"
 ```
 ^statblock
 

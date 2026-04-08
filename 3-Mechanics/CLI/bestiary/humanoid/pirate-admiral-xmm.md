@@ -110,7 +110,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
     "name": "Defensive Stance"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Pirate Admiral.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/pirate-admiral-xmm.webp"
 ```
 ^statblock
 

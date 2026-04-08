@@ -11,7 +11,7 @@ aliases:
 ---
 # Studded Leather Armor
 *Light armor*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Studded Leather Armor.webp#right)
+![](/3-Mechanics/CLI/items/img/studded-leather-armor.webp#right)
 
 - **Armor Class**: 12 + Dex modifier
 - **Cost**: 45 gp

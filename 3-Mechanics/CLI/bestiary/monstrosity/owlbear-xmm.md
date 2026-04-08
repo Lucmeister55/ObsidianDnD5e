@@ -72,7 +72,7 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
     "name": "Rend"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Owlbear.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/owlbear-xmm.webp"
 ```
 ^statblock
 

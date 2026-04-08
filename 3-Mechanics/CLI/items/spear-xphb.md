@@ -12,7 +12,7 @@ aliases:
 ---
 # Spear
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Spear.webp#right)
+![](/3-Mechanics/CLI/items/img/spear.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 piercing

@@ -82,8 +82,7 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
     "name": "Absorb Body"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Violet Fungus\
-  \ Necrohulk.webp"
+"image": "/3-Mechanics/CLI/bestiary/plant/token/violet-fungus-necrohulk-xmm.webp"
 ```
 ^statblock
 

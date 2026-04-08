@@ -10,7 +10,7 @@ aliases:
 ---
 # Alchemy Jug
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Alchemy Jug.webp#right)
+![](/3-Mechanics/CLI/items/img/alchemy-jug.webp#right)
 
 - **Weight**: 12.0 lbs.
 

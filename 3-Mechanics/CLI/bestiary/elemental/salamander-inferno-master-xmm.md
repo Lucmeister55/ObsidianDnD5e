@@ -97,8 +97,7 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
     "name": "Blazing Movement"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Salamander\
-  \ Inferno Master.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/salamander-inferno-master-xmm.webp"
 ```
 ^statblock
 

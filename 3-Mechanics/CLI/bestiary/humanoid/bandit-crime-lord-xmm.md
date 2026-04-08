@@ -104,8 +104,7 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
     "name": "Deadly Aim"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Bandit Crime\
-  \ Lord.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/bandit-crime-lord-xmm.webp"
 ```
 ^statblock
 

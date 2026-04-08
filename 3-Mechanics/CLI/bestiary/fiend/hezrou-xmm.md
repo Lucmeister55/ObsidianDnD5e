@@ -97,7 +97,7 @@ When on the Material Plane or otherwise left to their own devices, hezrous reckl
     "name": "Leap"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Hezrou.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/hezrou-xmm.webp"
 ```
 ^statblock
 

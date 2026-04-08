@@ -92,7 +92,7 @@ Gladiators are professional fighters who pit themselves against one another, mon
     "name": "Parry"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Gladiator.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/gladiator-xmm.webp"
 ```
 ^statblock
 

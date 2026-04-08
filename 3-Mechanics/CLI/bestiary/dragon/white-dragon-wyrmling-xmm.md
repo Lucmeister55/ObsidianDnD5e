@@ -80,8 +80,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
     "name": "Cold Breath (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/White Dragon\
-  \ Wyrmling.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/white-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

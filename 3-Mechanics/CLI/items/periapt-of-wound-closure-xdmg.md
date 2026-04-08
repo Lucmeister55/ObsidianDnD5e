@@ -11,7 +11,7 @@ aliases:
 ---
 # Periapt of Wound Closure
 *Wondrous item, uncommon (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Periapt of Wound Closure.webp#right)
+![](/3-Mechanics/CLI/items/img/periapt-of-wound-closure.webp#right)
 
 - **Weight**: 1.0 lbs.
 

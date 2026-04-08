@@ -115,7 +115,7 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Mind Flayer.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/mind-flayer-xmm.webp"
 ```
 ^statblock
 

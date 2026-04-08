@@ -79,7 +79,7 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
     "name": "Tentacle"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Displacer Beast.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/displacer-beast-xmm.webp"
 ```
 ^statblock
 

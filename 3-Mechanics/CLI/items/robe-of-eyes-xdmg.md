@@ -11,7 +11,7 @@ aliases:
 ---
 # Robe of Eyes
 *Wondrous item, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Robe of Eyes.webp#right)
+![](/3-Mechanics/CLI/items/img/robe-of-eyes.webp#right)
 
 
 This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:

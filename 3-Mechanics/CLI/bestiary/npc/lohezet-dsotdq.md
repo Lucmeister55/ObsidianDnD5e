@@ -91,6 +91,6 @@ Lohezet employs the strategies of extinct poisonous predators in battle. His mag
     "name": "Noxious Rebuke (3/Day)"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Lohezet.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/lohezet-dsotdq.webp"
 ```
 ^statblock

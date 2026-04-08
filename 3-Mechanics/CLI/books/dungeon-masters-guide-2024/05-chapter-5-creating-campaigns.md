@@ -10,7 +10,7 @@ aliases:
 # Chapter 5: Creating Campaigns
 *Source: Dungeon Master's Guide (2024), p. 127* 
 
-![The arrival of a mind flay...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/060-04-001.nautiloid.webp#center "The arrival of a mind flayer nautiloid means trouble for any world—and adventure for that world's heroes!")
+![The arrival of a mind flay...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/060-04-001-nautiloid.webp#center "The arrival of a mind flayer nautiloid means trouble for any world—and adventure for that world's heroes!")
 
 If encounters are the building blocks of a D&D adventure, then adventures are the building blocks of a D&D campaign, for a campaign is what you get when you string two or more adventures together. A campaign setting is the world in which those adventures take place—both a backdrop for your adventures and a hotbed of conflicts and personalities that can inspire and drive adventures.
 
@@ -39,7 +39,7 @@ A campaign journal documents the progression of your campaign, from the first ga
 
 A sample Campaign Journal page is provided. Make copies of it, or use it as inspiration for your own journal pages.
 
-![Download PDF](file://D:\ProgramData\CLI\5etools-img/book/XDMG/061-04-002.campaign-journal-sheet.webp#center)
+![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/061-04-002-campaign-journal-sheet.webp#center)
 
 ### Using Your Journal
 
@@ -122,7 +122,7 @@ Use the answers to these questions to develop new character goals and to inspire
 
 Sometimes it can be fun to let the players steer the campaign by having their characters' actions dictate future adventures. For example, if the characters buy a tavern using the treasure they've amassed, you can adjust the campaign so that the tavern has a role in future adventures. One adventure might involve a competitor trying to put the characters' tavern out of business. Another might use the tavern as the setting for a murder mystery.
 
-![Download PDF](file://D:\ProgramData\CLI\5etools-img/book/XDMG/062-04-003.dms-character-tracker-sheet.webp#center)
+![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/062-04-003-dms-character-tracker-sheet.webp#center)
 
 ### Campaign Conflicts
 
@@ -140,7 +140,7 @@ One helpful way to structure a conflict arc is to use the "tiers of play" descri
 
 The ""Greyhawk"" section in this chapter has examples of conflict arcs.
 
-![Download PDF](file://D:\ProgramData\CLI\5etools-img/book/XDMG/063-04-004.campaign-conflicts-sheet.webp#center)
+![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/063-04-004-campaign-conflicts-sheet.webp#center)
 
 ### Flavors of Fantasy
 
@@ -174,7 +174,7 @@ In this flavor of campaign, magic-users often symbolize the decadence and corrup
 
 An epic fantasy campaign emphasizes the conflict between good and evil, with the adventurers on the side of good. These heroic characters are driven by a higher purpose than selfish gain or ambition. Characters might struggle with moral quandaries, fighting the evil tendencies within themselves as well as the evil that threatens the world. And the stories of these campaigns often include an element of romance: tragic affairs between star-crossed lovers, passion that transcends even death, and chaste adoration between knights and nobles.
 
-![Fortresses on the backs of...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/064-04-005.dragon-turtle-fortress.webp#center "Fortresses on the backs of dragon turtles rise from the depths, heralding the return of a long-lost dynasty")
+![Fortresses on the backs of...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/064-04-005-dragon-turtle-fortress.webp#center "Fortresses on the backs of dragon turtles rise from the depths, heralding the return of a long-lost dynasty")
 
 ##### Epic Fantasy Conflicts
 
@@ -234,7 +234,7 @@ A mystery might set the stage for the whole campaign. The characters might uncov
 - **Shape-Shifting Assassins.** A secret association of doppelgangers or other shape-shifters slowly assassinates prominent figures one by one.  
 - **To Catch a Thief.** An extraordinary thief steals only the most valuable jewelry and works of art. The characters might become a target of the thief when they acquire a priceless treasure.  
 
-![The bold adventurer Murlyn...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/065-04-006.murlynd.webp#center "The bold adventurer Murlynd has visited many worlds and has a fondness for six-shooters and talking clocks")
+![The bold adventurer Murlyn...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/065-04-006-murlynd.webp#center "The bold adventurer Murlynd has visited many worlds and has a fondness for six-shooters and talking clocks")
 
 #### Swashbuckling
 
@@ -374,7 +374,7 @@ Remember, you'll always know more about your campaign world than the players do.
 
 Begin your campaign in a location you can detail, such as a village, a neighborhood in a larger city, an outpost, or a roadside tavern. Be prepared to give players enough information about that location to help them figure out what ties, if any, their characters have to it. Once you have this campaign hub fleshed out, create one or two local attractions that might serve as adventure locations, such as a haunted house on the outskirts of town or a dungeon complex tucked in the nearby hills.
 
-![A time of sorrow can bring...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/066-04-007.time-of-sorrow.webp#center "A time of sorrow can bring people together and even launch an adventuring party")
+![A time of sorrow can bring...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/066-04-007-time-of-sorrow.webp#center "A time of sorrow can bring people together and even launch an adventuring party")
 
 If you're using a published campaign setting, pick any location in that setting and develop it as you like. A published setting or adventure might give you all the details you need. "The Free City of Greyhawk", described later in this chapter, is an ideal starting location and illustrates the kinds of things to consider as you detail a starting location.
 
@@ -450,7 +450,7 @@ You can use player input whenever you want to pinpoint something meaningful to t
 
 Questions such as these don't need to draw on warm memories. Having players describe what unsettles or disgusts their characters can make menacing encounters more impactful as well. In any case, take note of interesting character details that your players share, and record them in your campaign journal, as these details might be useful inspiration for later adventures.
 
-![In the Dragonlance setting...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/067-04-008.dragonlance-inn.webp#center "In the Dragonlance setting, Tanis and Tika call their local inn home: a place to see familiar faces like Fizban the Fabulous")
+![In the Dragonlance setting...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/067-04-008-dragonlance-inn.webp#center "In the Dragonlance setting, Tanis and Tika call their local inn home: a place to see familiar faces like Fizban the Fabulous")
 
 #### Acknowledge the Incredible
 
@@ -584,7 +584,7 @@ The conflict between adventurers and chromatic dragons might follow this broad o
 - **Levels 11–16.** It eventually becomes clear that the behavior of the adult dragons the characters face isn't normal. The characters might get involved in one dragon's schemes to undermine or overthrow another, or the characters might hear whispers of the dragons' dream of liberating Tiamat.  
 - **Levels 17–20.** The conflict reaches its world-shattering conclusion, with ancient dragons threatening nations and clashing with each other in devastating battles. The campaign might end with Tiamat herself appearing in the Flanaess—perhaps emerging from the Riftcanyon (see ""Mysteries of Greyhawk"" in this chapter) or from the depths of the Nyr Dyv.  
 
-![Tiamat herself brings a ca...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/068-05-002.tiamat-encounter.webp#center "Tiamat herself brings a campaign to a dramatic close")
+![Tiamat herself brings a ca...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/068-05-002-tiamat-encounter.webp#center "Tiamat herself brings a campaign to a dramatic close")
 
 ##### Elemental Evil
 
@@ -625,7 +625,7 @@ The conflict between adventurers and Iuz might follow this broad outline:
 
 #### The Greyhawk Setting
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XDMG/069-05-003.months-festivals.webp#center)
+![](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/069-05-003-months-festivals.webp#center)
 
 The planet Oerth is at the very center of a Wildspace system called Greyspace. (See "chapter 6" for more information about "Wildspace"). Oerth has two moons: Luna (a great white moon, also called the Mistress) and Celene (a smaller blue moon, also called the Handmaiden). Greyspace's sun orbits Oerth, rather than the other way around.
 
@@ -720,8 +720,8 @@ The greater gods of Greyhawk rarely get directly involved with happenings on Oer
 ### Free City of Greyhawk
 
 > [!gallery]
-> ![The Free City of Greyhawk](file://D:\ProgramData\CLI\5etools-img/book/XDMG/070-map-5.01-city-of-greyhawk.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/book/XDMG/071-map-5.01-city-of-greyhawk-player.webp#gallery)
+> ![The Free City of Greyhawk](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/070-map-5-01-city-of-greyhawk.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/071-map-5-01-city-of-greyhawk-player.webp#gallery)
 
 Would-be heroes are drawn to the Free City of Greyhawk by promises of adventure. The city is rife with opportunities for peril and plunder.
 
@@ -733,7 +733,7 @@ Throughout this section, if a creature's name appears in **bold** type, you'll f
 
 #### Start Here
 
-![White Plume Mountain is a ...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/072-05-004.white-plume-mountain.webp#center "White Plume Mountain is a natural wonder—and a haunt of evil")
+![White Plume Mountain is a ...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/072-05-004-white-plume-mountain.webp#center "White Plume Mountain is a natural wonder—and a haunt of evil")
 
 The City of Greyhawk is a great starting point for a D&D campaign for many reasons, as discussed in the sections that follow.
 
@@ -785,7 +785,7 @@ As a home base for characters, Greyhawk can serve as a place to live, train, and
 
 A city isn't just a place to spend time between adventures—plenty of adventures happen within the city walls. From wererats in the sewers to scheming bureaucrats in the halls of power, dangers lurk around every corner.
 
-![The Free City of Greyhawk ...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/073-05-005.city-of-greyhawk.webp#center "The Free City of Greyhawk rises up behind the teeming city docks")
+![The Free City of Greyhawk ...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/073-05-005-city-of-greyhawk.webp#center "The Free City of Greyhawk rises up behind the teeming city docks")
 
 #### City Overview
 
@@ -958,7 +958,7 @@ Adventurers might visit the High Tower for one of the following reasons:
 
 ##### Silver Dragon Inn
 
-![The Silver Dragon Inn is a...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/074-05-006.silver-dragon-inn.webp#center "The Silver Dragon Inn is a lively hub of activity in Greyhawk's Foreign Quarter")
+![The Silver Dragon Inn is a...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/074-05-006-silver-dragon-inn.webp#center "The Silver Dragon Inn is a lively hub of activity in Greyhawk's Foreign Quarter")
 
 > [!note] 
 > 
@@ -1035,7 +1035,7 @@ Adventurers might visit the temple for one of the following reasons:
 > This quaint, two-story shop has a sign depicting a white-bearded human wizard holding a staff that has a copper ball affixed to its tip. Displayed in the store's window box are various potions, scrolls, wands, and wondrous oddities.
 ^339
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XDMG/075-05-007.bookshelf.webp#center)
+![](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/075-05-007-bookshelf.webp#center)
 
 Magic items are bought and sold in Unearthed Arcana, a quaint shop in Clerkburg. Magical wards render the store's windows and doors shatterproof, and no one can use magic to enter or leave the shop without the consent of its proprietor, Morley, whose quarters take up the second floor.
 
@@ -1058,8 +1058,8 @@ Adventurers might visit Unearthed Arcana for one of the following reasons:
 #### Beyond the City Walls
 
 > [!gallery]
-> ![City of Greyhawk and Environs](file://D:\ProgramData\CLI\5etools-img/book/XDMG/076-map-5.02-greyhawk-and-environs.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/book/XDMG/077-map-5.02-greyhawk-and-environs-player.webp#gallery)
+> ![City of Greyhawk and Environs](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/076-map-5-02-greyhawk-and-environs.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/077-map-5-02-greyhawk-and-environs-player.webp#gallery)
 
 The City of Greyhawk and Environs map shows the lands around the Free City of Greyhawk. Locations on the map are presented below as places where adventures can happen:
 
@@ -1089,12 +1089,12 @@ The City of Greyhawk and Environs map shows the lands around the Free City of Gr
 The poster map in this book shows the entire region of the Flanaess, with the Free City of Greyhawk near the center. As characters venture beyond the confines of the city and its surrounding lands, you can use the map and the information on these pages to inspire your own adventures and world details.
 
 > [!gallery]
-> ![Flanaess](file://D:\ProgramData\CLI\5etools-img/book/XDMG/078-map-5.03-flanaess.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/book/XDMG/079-map-5.03-flanaess-player.webp#gallery)
+> ![Flanaess](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/078-map-5-03-flanaess.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/079-map-5-03-flanaess-player.webp#gallery)
 
 > [!gallery]
-> ![Flanaess (Hex Grid)](file://D:\ProgramData\CLI\5etools-img/book/XDMG/078-map-5.03-flanaess-grid.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/book/XDMG/079-map-5.03-flanaess-player-grid.webp#gallery)
+> ![Flanaess (Hex Grid)](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/078-map-5-03-flanaess-grid.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/079-map-5-03-flanaess-player-grid.webp#gallery)
 
 #### The Big Picture
 
@@ -1127,7 +1127,7 @@ With this big picture in mind, you can think of the Flanaess beyond the Free Cit
 
 #### Central Flanaess
 
-![The Holy Days of Rao are o...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/080-05-008.holy-days-of-rao.webp#center "The Holy Days of Rao are occasions for joyful processions and festivals in Veluna")
+![The Holy Days of Rao are o...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/080-05-008-holy-days-of-rao.webp#center "The Holy Days of Rao are occasions for joyful processions and festivals in Veluna")
 
 The rich soil and pleasant climate of the region between the Nyr Dyv and the Yatil Mountains—combined with healthy trade relations between these realms and their neighbors to the east, south, and west—make this a strong and prosperous region.
 
@@ -1219,7 +1219,7 @@ The Tomb of Horrors is detailed in *Tales from the Yawning Portal*.
 
 The chilly mists of the Troll Fens, located against the shoulders of the Griff Mountains and the Rakers at the head of the Yol River, cloak a place of unnameable horrors. As the name implies, the fens are infested with particularly large and vicious trolls. The Pale carefully hedges the place with watchtowers and keeps, and strong patrols ride the verges of the southern end of the Troll Fens to watch for unwelcome visits from the monsters dwelling within.
 
-![The Tomb of Horrors lies d...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/081-05-009.tomb-of-horrors.webp#center "The Tomb of Horrors lies deep within the vast swamp")
+![The Tomb of Horrors lies d...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/081-05-009-tomb-of-horrors.webp#center "The Tomb of Horrors lies deep within the vast swamp")
 
 #### Northern Flanaess
 
@@ -1243,7 +1243,7 @@ The Schnai are strong and numerous. When Queen Ingrid of the Schnai has a mind t
 
 As their distinct kingdoms suggest, the people of the North Kingdoms value their connection to their clan lineage. They preserve a love of learning from their distant ancestors of the Suel Imperium, and they value knowledge of the natural world as highly as they do the skills of hunting, sailing, and warfare. Their clothing includes shirts and pants made of wool, augmented with furs, capes, mittens, and warm boots. They often wear large pins, brooches, or emblems in their cloaks as a sign of wealth or accomplishment.
 
-![Adventurers in the North K...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/082-05-010.mammoth-north-kingdoms.webp#center "Adventurers in the North Kingdoms help a frost giant's pet mammoth find its way home")
+![Adventurers in the North K...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/082-05-010-mammoth-north-kingdoms.webp#center "Adventurers in the North Kingdoms help a frost giant's pet mammoth find its way home")
 
 ##### The Hunting Lands
 
@@ -1287,7 +1287,7 @@ The clothes worn in Old Keoland tend toward loose-fitting shirts and wide-legged
 
 The long chain of the Lortmil Mountains forms a natural barrier between Old Keoland and the region of the Central Flanaess. The mountains contain some of the richest gem and precious metal deposits in Eastern Oerik. The humans, dragonborn, dwarves, gnomes, halflings, goblinoids, goliaths, and orcs that live in these mountains and their foothills are subjects of the realms that surround the mountain range, but they often band together to deal with greater threats on both sides of the mountains.
 
-![Beneath the beautiful surf...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/083-05-011.hellfurnaces.webp#center "Beneath the beautiful surface of the Hellfurnaces lie endless hidden evils")
+![Beneath the beautiful surf...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/083-05-011-hellfurnaces.webp#center "Beneath the beautiful surface of the Hellfurnaces lie endless hidden evils")
 
 ##### Old Keoland Adventures
 

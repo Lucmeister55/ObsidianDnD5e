@@ -10,7 +10,7 @@ aliases:
 ---
 # Bag of Devouring
 *Wondrous item, very rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Bag of Devouring.webp#right)
+![](/3-Mechanics/CLI/items/img/bag-of-devouring.webp#right)
 
 
 This bag resembles a [Bag of Holding](/3-Mechanics/CLI/items/bag-of-holding-xdmg.md) but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.

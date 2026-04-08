@@ -12,7 +12,7 @@ aliases:
 ---
 # War Pick
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/War Pick.webp#right)
+![](/3-Mechanics/CLI/items/img/war-pick.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 piercing

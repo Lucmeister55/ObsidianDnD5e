@@ -11,7 +11,7 @@ aliases:
 ---
 # Potion of Fire Breath
 *Potion, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Potion of Fire Breath.webp#right)
+![](/3-Mechanics/CLI/items/img/potion-of-fire-breath.webp#right)
 
 - **Weight**: 0.5 lbs.
 

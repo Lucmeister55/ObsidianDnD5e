@@ -12,7 +12,7 @@ aliases:
 ---
 # Light Hammer
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Light Hammer.webp#right)
+![](/3-Mechanics/CLI/items/img/light-hammer.webp#right)
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60

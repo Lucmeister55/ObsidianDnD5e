@@ -115,8 +115,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
     "name": "Frightful Presence"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Ancient White\
-  \ Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/ancient-white-dragon-xmm.webp"
 ```
 ^statblock
 

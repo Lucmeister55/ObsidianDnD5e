@@ -78,6 +78,6 @@ Roll on or choose an entry from the Kender Taunts table to determine how a kende
     "name": "Elusive"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Kender Skirmisher.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/kender-skirmisher-dsotdq.webp"
 ```
 ^statblock

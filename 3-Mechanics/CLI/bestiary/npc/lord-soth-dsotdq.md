@@ -109,6 +109,6 @@ In battle, Soth is a terror, wielding the last remnant of the Cataclysm's fires 
     "name": "Cast a Spell (Costs 3 Actions)"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Lord Soth.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/lord-soth-dsotdq.webp"
 ```
 ^statblock

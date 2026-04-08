@@ -10,7 +10,7 @@ aliases:
 ---
 # Dimensional Shackles
 *Wondrous item, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Dimensional Shackles.webp#right)
+![](/3-Mechanics/CLI/items/img/dimensional-shackles.webp#right)
 
 
 You can take a [Utilize](/3-Mechanics/CLI/actions.md#Utilize) action to place these shackles on a creature that has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition. The shackles adjust to fit a creature of Small to Large size. The shackles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don't prevent the creature from passing through an interdimensional portal.

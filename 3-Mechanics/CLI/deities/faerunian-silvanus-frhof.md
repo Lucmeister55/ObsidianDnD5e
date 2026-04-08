@@ -13,7 +13,7 @@ aliases:
 ---
 # Silvanus
 *Source: Forgotten Realms: Heroes of Faerûn p. 121* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Silvanus.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-silvanus.webp#symbol)
 
 - **Alternate Names**: Oak Father, The Old Oak, Old Father Tree
 - **Alignment**: Unaligned

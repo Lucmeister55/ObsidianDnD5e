@@ -10,7 +10,7 @@ aliases:
 ---
 # Decanter of Endless Water
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Decanter of Endless Water.webp#right)
+![](/3-Mechanics/CLI/items/img/decanter-of-endless-water.webp#right)
 
 - **Weight**: 2.0 lbs.
 

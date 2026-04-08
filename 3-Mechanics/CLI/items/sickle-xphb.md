@@ -12,7 +12,7 @@ aliases:
 ---
 # Sickle
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Sickle.webp#right)
+![](/3-Mechanics/CLI/items/img/sickle.webp#right)
 
 - **Damage**: 1d4 slashing
 - **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)

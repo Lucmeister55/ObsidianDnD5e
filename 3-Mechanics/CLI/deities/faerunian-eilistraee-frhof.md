@@ -13,7 +13,7 @@ aliases:
 ---
 # Eilistraee
 *Source: Forgotten Realms: Heroes of Faerûn p. 106* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Eilistraee.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-eilistraee.webp#symbol)
 
 - **Alternate Names**: The Dark Maiden, Lady of the Dance, Lady Silverhair
 - **Alignment**: Unaligned

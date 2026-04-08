@@ -10,7 +10,7 @@ aliases:
 # Chapter 7: Spells
 *Source: Player's Handbook (2024), p. 235* 
 
-![Archmages of Greyhawk—Jall...](file://D:\ProgramData\CLI\5etools-img/book/XPHB/181-08-001.jallarzi-mordenkainen-bigby.webp#center "Archmages of Greyhawk—Jallarzi, Mordenkainen, and Bigby—prepare their magic as they open a gate to another plane")
+![Archmages of Greyhawk—Jall...](/3-Mechanics/CLI/books/players-handbook-2024/img/181-08-001-jallarzi-mordenkainen-bigby.webp#center "Archmages of Greyhawk—Jallarzi, Mordenkainen, and Bigby—prepare their magic as they open a gate to another plane")
 
 This chapter gives rules for casting spells. It also includes "descriptions" of common spells in the worlds of Dungeons & Dragons. Those spells are used by many class features, magic items, and monsters.
 
@@ -106,7 +106,7 @@ If a spell has movable effects, they aren't restricted by its range unless the s
 
 ### Components
 
-![An aasimar Wizard uses a c...](file://D:\ProgramData\CLI\5etools-img/book/XPHB/182-08-002.aasimar-wizard.webp#center "An aasimar Wizard uses a crystal material component to focus the magic of Cone of Cold")
+![An aasimar Wizard uses a c...](/3-Mechanics/CLI/books/players-handbook-2024/img/182-08-002-aasimar-wizard.webp#center "An aasimar Wizard uses a crystal material component to focus the magic of Cone of Cold")
 
 A spell's components are physical requirements the spellcaster must meet to cast the spell. Each spell's description indicates whether it requires Verbal (V), Somatic (S), or Material (M) components. If the spellcaster can't provide one or more of a spell's components, the spellcaster can't cast the spell.
 
@@ -157,7 +157,7 @@ If a spell targets a creature of your choice, you can choose yourself unless the
 
 Some spells, such as [Thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md), cover an area called an [area of effect](/3-Mechanics/CLI/variant-rules/area-of-effect-xphb.md), which is defined in the "rules glossary". The area determines what the spell targets. The description of a spell specifies whether it has an area of effect, which is typically one of these shapes: [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md), [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md), [Cylinder](/3-Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb.md), [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md), [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md), or [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md).
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XPHB/183-08-003.areas-of-effect.webp#center)
+![](/3-Mechanics/CLI/books/players-handbook-2024/img/183-08-003-areas-of-effect.webp#center)
 
 ##### Awareness of Being Targeted
 

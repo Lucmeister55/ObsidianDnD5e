@@ -11,7 +11,7 @@ aliases:
 ---
 # Bright Fungal Cloak
 *Adventuring gear*  
-![](file://D:\ProgramData\CLI\5etools-img/items/FRHoF/Bright Fungal Cloak.webp#right)
+![](/3-Mechanics/CLI/items/img/bright-fungal-cloak.webp#right)
 
 - **Cost**: 25 gp
 - **Weight**: 4.0 lbs.

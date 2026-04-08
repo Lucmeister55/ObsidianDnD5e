@@ -106,7 +106,7 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
     "name": "Divine Aid (2/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Deva.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/deva-xmm.webp"
 ```
 ^statblock
 

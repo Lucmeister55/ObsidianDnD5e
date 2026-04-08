@@ -12,7 +12,7 @@ aliases:
 ---
 # Mielikki
 *Source: Forgotten Realms: Heroes of Faerûn p. 115* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Mielikki.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-mielikki.webp#symbol)
 
 - **Alternate Names**: Our Lady of the Forest, The Forest Queen
 - **Alignment**: Unaligned

@@ -17,7 +17,7 @@ A Siege Tower is a mobile wooden structure with a beam frame and slats in its wa
 
 ```ad-statblock
 title: Siege Tower
-![](file://D:\ProgramData\CLI\5etools-img/objects/tokens/XDMG/Siege Tower.webp#token)
+![](/3-Mechanics/CLI/objects/token/siege-tower-xdmg.webp#token)
 *Gargantuan Siege weapon*
 
 - **Armor Class** 15

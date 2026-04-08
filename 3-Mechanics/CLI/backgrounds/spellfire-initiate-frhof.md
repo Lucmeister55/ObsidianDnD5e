@@ -10,7 +10,7 @@ aliases:
 ---
 # Spellfire Initiate
 *Source: Forgotten Realms: Heroes of Faerûn p. 36*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/FRHoF/Spellfire Initiate.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/spellfire-initiate.webp#right)
 
 - **Ability Scores.** Constitution, Intelligence, Charisma  
 - **Feat.** [Spellfire Spark](/3-Mechanics/CLI/feats/spellfire-spark-frhof.md)  

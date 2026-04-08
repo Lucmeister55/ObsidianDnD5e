@@ -12,7 +12,7 @@ aliases:
 ---
 # Ring of Evasion
 *Ring, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Ring of Evasion.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-evasion.webp#right)
 
 
 This ring has 3 charges, and it regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn. When you fail a Dexterity saving throw while wearing the ring, you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to expend 1 charge to succeed on that save instead.

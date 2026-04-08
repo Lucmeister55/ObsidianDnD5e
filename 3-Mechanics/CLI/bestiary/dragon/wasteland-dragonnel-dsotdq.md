@@ -61,7 +61,6 @@ Dragonnels are distantly related to chromatic and metallic dragons and resemble 
     "name": "Acid Spit"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Wasteland\
-  \ Dragonnel.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/wasteland-dragonnel-dsotdq.webp"
 ```
 ^statblock

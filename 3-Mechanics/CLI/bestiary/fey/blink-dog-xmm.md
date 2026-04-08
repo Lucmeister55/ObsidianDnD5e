@@ -61,7 +61,7 @@ Blink dogs glimmer with a magic that allows them to teleport, "blinking" from on
     "name": "Teleport (Recharge 4-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Blink Dog.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/blink-dog-xmm.webp"
 ```
 ^statblock
 

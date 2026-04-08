@@ -63,6 +63,6 @@ aliases:
     "name": "Throwing Axe"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Sarlamir.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/sarlamir-dsotdq.webp"
 ```
 ^statblock

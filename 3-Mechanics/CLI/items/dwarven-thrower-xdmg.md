@@ -13,7 +13,7 @@ aliases:
 ---
 # Dwarven Thrower
 *Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer-xphb.md)), very rare (requires attunement by a Dwarf or a Creature Attuned to a [Belt of Dwarvenkind](/3-Mechanics/CLI/items/belt-of-dwarvenkind-xdmg.md))*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Dwarven Thrower.webp#right)
+![](/3-Mechanics/CLI/items/img/dwarven-thrower.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 bludgeoning

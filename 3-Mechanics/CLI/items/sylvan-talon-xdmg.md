@@ -21,7 +21,7 @@ aliases:
 ---
 # Sylvan Talon
 *Common (requires attunement)*  
-![Sylvan Talon (Scimitar)](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Sylvan Talon.webp#right)
+![Sylvan Talon (Scimitar)](/3-Mechanics/CLI/items/img/sylvan-talon.webp#right)
 
 
 While this weapon is on your person, you understand the non-written communication of all Fey, and they understand yours.

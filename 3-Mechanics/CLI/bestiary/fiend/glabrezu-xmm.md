@@ -96,7 +96,7 @@ In the Abyss, glabrezus act as lone hunters or deceitful advisers to greater dem
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Glabrezu.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/glabrezu-xmm.webp"
 ```
 ^statblock
 

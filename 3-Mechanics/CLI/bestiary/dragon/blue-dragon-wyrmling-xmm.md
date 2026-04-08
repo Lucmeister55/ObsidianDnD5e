@@ -79,8 +79,7 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
     "name": "Lightning Breath (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Blue Dragon\
-  \ Wyrmling.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/blue-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

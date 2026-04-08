@@ -77,7 +77,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
     "name": "Mud Breath (Recharge 6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Mud Mephit.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/mud-mephit-xmm.webp"
 ```
 ^statblock
 

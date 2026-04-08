@@ -13,7 +13,7 @@ aliases:
 ---
 # Gond
 *Source: Forgotten Realms: Heroes of Faerûn p. 107* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Gond.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-gond.webp#symbol)
 
 - **Alternate Names**: The Holy Maker of All Things, The Inspiration Divine, Wonderbringer
 - **Alignment**: Unaligned

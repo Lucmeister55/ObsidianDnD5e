@@ -20,7 +20,7 @@ aliases:
 ---
 # Dancing Sword
 *Very rare (requires attunement)*  
-![Dancing Sword (Longsword)](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Dancing Sword.webp#right)
+![Dancing Sword (Longsword)](/3-Mechanics/CLI/items/img/dancing-sword.webp#right)
 
 
 You can take a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) to toss this magic weapon into the air. When you do so, the weapon begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of itself. The weapon uses your attack roll and adds your ability modifier to damage rolls.

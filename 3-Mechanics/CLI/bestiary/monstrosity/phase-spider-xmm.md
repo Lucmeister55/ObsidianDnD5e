@@ -90,7 +90,7 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
     "name": "Ethereal Jaunt"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Phase Spider.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/phase-spider-xmm.webp"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ aliases:
 # Introduction: A World of Epic Heroes
 *Source: Forgotten Realms: Heroes of Faerûn, p. 4* 
 
-![Heroes in Faerûn come from...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/000-00-001.welcome-to-faerun.webp#center "Heroes in Faerûn come from all species, all character classes, and all walks of life. But they have one thing in common: their epic nature.")
+![Heroes in Faerûn come from...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/000-00-001-welcome-to-faerun.webp#center "Heroes in Faerûn come from all species, all character classes, and all walks of life. But they have one thing in common: their epic nature.")
 
 This book is your comprehensive guide to creating and playing a character in the awe-inspiring Forgotten Realms.
 
@@ -48,7 +48,7 @@ The Forgotten Realms are littered with ruins of ancient civilizations that fell 
 
 ## Chapter 3: Gods of Faerûn
 
-![The twin black dragons Voa...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/001-00-002.black-dragon.webp#center "The twin black dragons Voaraghamanthar and Waervaerendor are more than a match for foolish adventurers.")
+![The twin black dragons Voa...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/001-00-002-black-dragon.webp#center "The twin black dragons Voaraghamanthar and Waervaerendor are more than a match for foolish adventurers.")
 
 Faerûn is a land of many gods, and "chapter 3" describes many of these gods. Most folk offer prayer or other forms of worship to several gods, though they might feel closest to a particular deity that is a patron of their occupation or to which they have some other special connection. For example, a merchant who gives daily obeisance to Waukeen, the god of trade, might offer up a propitiatory prayer to Umberlee, god of the sea, when faced with a long and difficult voyage.
 
@@ -68,7 +68,7 @@ No adventurer is complete without a wide array of adventuring gear. "Chapter 4" 
 
 ## Chapter 5: Magic of Faerûn
 
-![Karlach, with her Infernal...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/002-00-003.karlach.webp#center "Karlach, with her Infernal Engine heart, is an example of an epic character.")
+![Karlach, with her Infernal...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/002-00-003-karlach.webp#center "Karlach, with her Infernal Engine heart, is an example of an epic character.")
 
 Magic is woven into the very fabric of Faerûn. Chapter 5 discusses how magic works in the Forgotten Realms, including new spells, and introduces circle magic—a way for characters to cooperate in casting spells.
 

@@ -24,7 +24,7 @@ aliases:
 ---
 # Tree Stride
 *5th-level, Conjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Tree Stride.webp#right)
+![](/3-Mechanics/CLI/spells/img/tree-stride.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** Self

@@ -72,7 +72,7 @@ In rare cases, bone nagas continue to pursue the goals they had while alive inst
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Bone Naga.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/bone-naga-xmm.webp"
 ```
 ^statblock
 

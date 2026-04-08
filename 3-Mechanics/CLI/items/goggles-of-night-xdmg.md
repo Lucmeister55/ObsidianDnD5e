@@ -10,7 +10,7 @@ aliases:
 ---
 # Goggles of Night
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Goggles of Night.webp#right)
+![](/3-Mechanics/CLI/items/img/goggles-of-night.webp#right)
 
 
 While wearing these dark lenses, you have [Darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to 60 feet. If you already have [Darkvision](/3-Mechanics/CLI/senses.md#Darkvision), wearing the goggles increases its range by 60 feet.

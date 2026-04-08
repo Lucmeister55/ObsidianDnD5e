@@ -12,7 +12,7 @@ aliases:
 ---
 # Hat of Wizardry
 *Wondrous item, spellcasting focus, common (requires attunement by a wizard)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Hat of Wizardry.webp#right)
+![](/3-Mechanics/CLI/items/img/hat-of-wizardry.webp#right)
 
 
 This cone-shaped hat is adorned with moons and stars. While you are wearing it, you gain the following benefits.

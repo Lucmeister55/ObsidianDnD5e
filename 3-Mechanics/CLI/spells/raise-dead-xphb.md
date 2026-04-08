@@ -20,7 +20,7 @@ aliases:
 ---
 # Raise Dead
 *5th-level, Necromancy*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Raise Dead.webp#right)
+![](/3-Mechanics/CLI/spells/img/raise-dead.webp#right)
 
 - **Casting time:** 1 hour
 - **Range:** Touch

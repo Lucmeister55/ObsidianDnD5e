@@ -10,7 +10,7 @@ aliases:
 ---
 # Quaal's Feather Token, Swan Boat
 *Wondrous item, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Quaals Feather Token (Swan boat).webp#right)
+![](/3-Mechanics/CLI/items/img/quaals-feather-token-swan-boat.webp#right)
 
 
 This object looks like a feather.

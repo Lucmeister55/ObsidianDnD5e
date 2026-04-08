@@ -13,7 +13,7 @@ aliases:
 ---
 # Tyr
 *Source: Forgotten Realms: Heroes of Faerûn p. 126* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Tyr.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-tyr.webp#symbol)
 
 - **Alternate Names**: The Evenhanded, Grimjaws, The Maimed God
 - **Alignment**: Unaligned

@@ -29,7 +29,7 @@ aliases:
 ---
 # Silent Image
 *1st-level, Illusion*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Silent Image.webp#right)
+![](/3-Mechanics/CLI/spells/img/silent-image.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

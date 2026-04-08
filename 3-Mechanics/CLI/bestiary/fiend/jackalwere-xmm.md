@@ -96,7 +96,7 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Jackalwere.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/jackalwere-xmm.webp"
 ```
 ^statblock
 

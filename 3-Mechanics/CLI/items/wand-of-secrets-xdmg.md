@@ -11,7 +11,7 @@ aliases:
 ---
 # Wand of Secrets
 *Wand, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Wand of Secrets.webp#right)
+![](/3-Mechanics/CLI/items/img/wand-of-secrets.webp#right)
 
 - **Weight**: 1.0 lbs.
 

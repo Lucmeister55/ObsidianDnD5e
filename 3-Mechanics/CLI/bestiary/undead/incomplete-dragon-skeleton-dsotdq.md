@@ -46,7 +46,6 @@ aliases:
     "name": "Bite"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Incomplete\
-  \ Dragon Skeleton.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/incomplete-dragon-skeleton-dsotdq.webp"
 ```
 ^statblock

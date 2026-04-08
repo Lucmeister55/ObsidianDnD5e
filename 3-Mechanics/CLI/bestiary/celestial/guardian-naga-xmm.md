@@ -111,7 +111,7 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Guardian Naga.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/guardian-naga-xmm.webp"
 ```
 ^statblock
 

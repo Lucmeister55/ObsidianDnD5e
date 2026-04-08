@@ -52,7 +52,6 @@ aliases:
 "source":
   - "FRAiF"
   - "FRHoF"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/FRAiF/Domestic\
-  \ Wonder.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/domestic-wonder-fraif.webp"
 ```
 ^statblock

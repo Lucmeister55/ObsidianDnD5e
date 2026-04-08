@@ -87,7 +87,7 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
     "name": "Misty Step (2/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Githyanki Knight.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/githyanki-knight-xmm.webp"
 ```
 ^statblock
 

@@ -80,7 +80,7 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
     "name": "Bone Cudgel"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Grimlock.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/grimlock-xmm.webp"
 ```
 ^statblock
 

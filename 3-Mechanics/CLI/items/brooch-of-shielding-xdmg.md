@@ -11,7 +11,7 @@ aliases:
 ---
 # Brooch of Shielding
 *Wondrous item, uncommon (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Brooch of Shielding.webp#right)
+![](/3-Mechanics/CLI/items/img/brooch-of-shielding.webp#right)
 
 
 While wearing this brooch, you have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to Force damage, and you have [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md) to damage from the [Magic Missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md) spell.

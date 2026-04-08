@@ -60,7 +60,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Beak"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Blood Hawk.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/blood-hawk-xmm.webp"
 ```
 ^statblock
 

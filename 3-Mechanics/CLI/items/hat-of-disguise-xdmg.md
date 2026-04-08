@@ -11,7 +11,7 @@ aliases:
 ---
 # Hat of Disguise
 *Wondrous item, uncommon (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Hat of Disguise.webp#right)
+![](/3-Mechanics/CLI/items/img/hat-of-disguise.webp#right)
 
 
 While wearing this hat, you can cast the [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md) spell. The spell ends if the hat is removed.

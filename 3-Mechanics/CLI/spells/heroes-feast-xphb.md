@@ -18,7 +18,7 @@ aliases:
 ---
 # Heroes' Feast
 *6th-level, Conjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Heroes' Feast.webp#right)
+![](/3-Mechanics/CLI/spells/img/heroes-feast.webp#right)
 
 - **Casting time:** 10 minutes
 - **Range:** Self (10-foot Cube)

@@ -10,7 +10,7 @@ aliases:
 ---
 # Rashemi Wanderer
 *Source: Forgotten Realms: Heroes of Faerûn p. 35*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/FRHoF/Rashemi Wanderer.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/rashemi-wanderer.webp#right)
 
 - **Ability Scores.** Strength, Constitution, Charisma  
 - **Feat.** [Tough](/3-Mechanics/CLI/feats/tough-xphb.md)  

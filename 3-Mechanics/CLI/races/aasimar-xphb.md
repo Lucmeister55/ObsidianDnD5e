@@ -10,7 +10,7 @@ aliases:
 ---
 # Aasimar
 *Source: Player's Handbook (2024) p. 186*  
-![](file://D:\ProgramData\CLI\5etools-img/races/XPHB/Aasimar.webp#right)
+![](/3-Mechanics/CLI/races/img/aasimar.webp#right)
 
 - **Ability Scores**: None
 - **Type**: humanoid

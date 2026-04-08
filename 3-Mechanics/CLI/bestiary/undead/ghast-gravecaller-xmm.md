@@ -81,7 +81,7 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Ghast Gravecaller.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/ghast-gravecaller-xmm.webp"
 ```
 ^statblock
 

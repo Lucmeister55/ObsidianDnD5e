@@ -10,7 +10,7 @@ aliases:
 # Chapter 1: Playing the Game
 *Source: Player's Handbook (2024), p. 7* 
 
-![While adventuring in the D...](file://D:\ProgramData\CLI\5etools-img/book/XPHB/000-01-013.opening-art.webp#center "While adventuring in the Dragonlance setting, the siblings Caramon Majere, Raistlin Majere, and Kitiara uth Matar provoke the rage of a wyvern")
+![While adventuring in the D...](/3-Mechanics/CLI/books/players-handbook-2024/img/000-01-013-opening-art.webp#center "While adventuring in the Dragonlance setting, the siblings Caramon Majere, Raistlin Majere, and Kitiara uth Matar provoke the rage of a wyvern")
 
 Imagination is a key ingredient of Dungeons & Dragons, a cooperative game in which the characters that you roleplay embark on adventures together in fantasy worlds filled with monsters and magic.
 
@@ -97,7 +97,7 @@ As with adventures, a DM might create a campaign from scratch, assemble a campai
 
 Dice add randomness to the game. They help determine whether characters and monsters are successful at the things they attempt.
 
-![From left to right: `D4`, ...](file://D:\ProgramData\CLI\5etools-img/book/XPHB/001-01-002.dice.webp#center "From left to right: `D4`, `D6`, `D8`, `D10` (ones digit), `D10` (tens digit), `D12`, `D20`")
+![From left to right: `D4`, ...](/3-Mechanics/CLI/books/players-handbook-2024/img/001-01-002-dice.webp#center "From left to right: `D4`, `D6`, `D8`, `D10` (ones digit), `D10` (tens digit), `D12`, `D20`")
 
 > [!note] Round Down
 > 
@@ -174,7 +174,7 @@ When the outcome of an action is uncertain, the game uses a `dice:d20|noform|nop
         - **Circumstantial Bonuses and Penalties.** A class feature, a spell, or another rule might give a bonus or penalty to the die roll.    
 - **Compare the Total to a Target Number.** If the total of the `dice:d20|noform|noparens|avg` (`d20`) and its modifiers equals or exceeds the target number, the [D20 Test](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md) succeeds. Otherwise, it fails. The Dungeon Master determines target numbers and tells players whether their rolls are successful. The target number for an ability check or a saving throw is called a [Difficulty Class](/3-Mechanics/CLI/variant-rules/difficulty-class-xphb.md) (DC). The target number for an attack roll is called an [Armor Class](/3-Mechanics/CLI/variant-rules/armor-class-xphb.md) (AC), which appears on a character sheet or in a [stat block](/3-Mechanics/CLI/variant-rules/stat-block-xphb.md).  
 
-![A D20 Test can result in a...](file://D:\ProgramData\CLI\5etools-img/book/XPHB/002-01-003.d20-test.webp#center "A D20 Test can result in a dramatic success, a simple accomplishment, or a catastrophe")
+![A D20 Test can result in a...](/3-Mechanics/CLI/books/players-handbook-2024/img/002-01-003-d20-test.webp#center "A D20 Test can result in a dramatic success, a simple accomplishment, or a catastrophe")
 
 ### Ability Checks
 
@@ -256,7 +256,7 @@ If you roll a 1 on the `dice:d20|noform|noparens|avg` (`d20`) (a "natural 1") fo
 
 ### Advantage/Disadvantage
 
-![If you have Advantage, use...](file://D:\ProgramData\CLI\5etools-img/book/XPHB/003-01-004.advantage-disadvantage.webp#center "If you have Advantage, use the 18 If you have Disadvantage, use the 3")
+![If you have Advantage, use...](/3-Mechanics/CLI/books/players-handbook-2024/img/003-01-004-advantage-disadvantage.webp#center "If you have Advantage, use the 18 If you have Disadvantage, use the 3")
 
 Sometimes a [D20 Test](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md) is modified by Advantage or Disadvantage. Advantage reflects the positive circumstances surrounding a `dice:d20|noform|noparens|avg` (`d20`) roll, while Disadvantage reflects negative circumstances.
 
@@ -376,7 +376,7 @@ In terms of timing, a Reaction takes place immediately after its trigger unless 
 
 ## Social Interaction
 
-![Characters lay on the char...](file://D:\ProgramData\CLI\5etools-img/book/XPHB/004-01-005.adventurers-bartering.webp#center "Characters lay on the charm while bartering for magic items with a green hag")
+![Characters lay on the char...](/3-Mechanics/CLI/books/players-handbook-2024/img/004-01-005-adventurers-bartering.webp#center "Characters lay on the charm while bartering for magic items with a green hag")
 
 During their adventures, player characters meet many different people and face some monsters that would rather talk than fight. In those situations, it's time for social interaction, which takes many forms. For example, you might try to convince a burglar to confess to wrongdoing or try to flatter a guard. The Dungeon Master assumes the roles of any nonplayer characters who are participating.
 
@@ -404,7 +404,7 @@ Pay attention to your skill proficiencies when thinking of how you will interact
 
 ### Social Interaction Example
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XPHB/005-01-006.social-interaction-example.webp#center)
+![](/3-Mechanics/CLI/books/players-handbook-2024/img/005-01-006-social-interaction-example.webp#center)
 
 In this scene, players engage in a social interaction encounter. You and your group determine how similar scenes play out in your adventures.
 
@@ -494,7 +494,7 @@ See "chapter 6" for rules on many items that are useful on adventures. The items
 
 ### Vision and Light
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XPHB/006-01-007.obscured-exploration.webp#center)
+![](/3-Mechanics/CLI/books/players-handbook-2024/img/006-01-007-obscured-exploration.webp#center)
 
 Some adventuring tasks—such as noticing danger, hitting an enemy, and targeting certain spells—are affected by sight, so effects that obscure vision can hinder you, as explained below.
 
@@ -615,7 +615,7 @@ Travelers in wagons, carriages, or other land vehicles choose a pace as normal. 
 
 This scene finds the player characters investigating a mysterious and potentially dangerous location. They're moving through the environment and interacting with things they find there.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XPHB/007-01-008.exploration-example.webp#center)
+![](/3-Mechanics/CLI/books/players-handbook-2024/img/007-01-008-exploration-example.webp#center)
 
 *The characters are exploring Castle Ravenloft, and the DM describes the room the characters have entered*.
 
@@ -710,7 +710,7 @@ This scene finds the player characters investigating a mysterious and potentiall
 
 ## Combat
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XPHB/008-01-009.adventurers-in-combat.webp#center)
+![](/3-Mechanics/CLI/books/players-handbook-2024/img/008-01-009-adventurers-in-combat.webp#center)
 
 Adventurers encounter many dangerous monsters and nefarious villains. In those moments, combat often breaks out.
 
@@ -772,7 +772,7 @@ Combat ends when one side or the other is defeated, which can mean the creatures
 
 ### Movement and Position
 
-![Creatures occupy spaces of...](file://D:\ProgramData\CLI\5etools-img/book/XPHB/009-01-010.displacer-beast-combat.webp#center "Creatures occupy spaces of varying sizes. This Displacer Beast occupies a 10-by-10-foot space, while the adventurers occupy 5-by-5-foot spaces")
+![Creatures occupy spaces of...](/3-Mechanics/CLI/books/players-handbook-2024/img/009-01-010-displacer-beast-combat.webp#center "Creatures occupy spaces of varying sizes. This Displacer Beast occupies a 10-by-10-foot space, while the adventurers occupy 5-by-5-foot spaces")
 
 On your turn, you can move a distance equal to your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) or less. Or you can decide not to move.
 
@@ -888,7 +888,7 @@ You can make an Opportunity Attack when a creature that you can see leaves your 
 
 ### Mounted Combat
 
-![Astride a giant seahorse, ...](file://D:\ProgramData\CLI\5etools-img/book/XPHB/010-01-011.giant-seahorse-mount.webp#center "Astride a giant seahorse, a paladin adventures underwater")
+![Astride a giant seahorse, ...](/3-Mechanics/CLI/books/players-handbook-2024/img/010-01-011-giant-seahorse-mount.webp#center "Astride a giant seahorse, a paladin adventures underwater")
 
 A willing creature that is at least one size larger than a rider and that has an appropriate anatomy can serve as a mount, using the following rules.
 
@@ -1249,4 +1249,4 @@ In this scene, threats force a group of adventurers into battle. This example de
 > Gareth's Sear Undead is a class feature (see "chapter 3"). As with Mirabella's [Thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md) spell, Sear Undead forces the skeletons to make a saving throw.
 ^17-saving-throws
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XPHB/011-01-012.combat-example.webp#center)
+![](/3-Mechanics/CLI/books/players-handbook-2024/img/011-01-012-combat-example.webp#center)

@@ -20,7 +20,7 @@ aliases:
 ---
 # Blade of Disaster
 *9th-level, Conjuration*  
-![Presto casts the Blade of ...](file://D:\ProgramData\CLI\5etools-img/spells/FRHoF/Blade of Disaster.webp#right "Presto casts the Blade of Disaster spell to fight off Venger.")
+![Presto casts the Blade of ...](/3-Mechanics/CLI/spells/img/blade-of-disaster.webp#right "Presto casts the Blade of Disaster spell to fight off Venger.")
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 60 feet

@@ -13,7 +13,7 @@ aliases:
 ---
 # Selûne
 *Source: Forgotten Realms: Heroes of Faerûn p. 119* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Selune.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-selune.webp#symbol)
 
 - **Alternate Names**: The Moonmaiden, The Night White Lady, Our Lady of Silver
 - **Alignment**: Unaligned

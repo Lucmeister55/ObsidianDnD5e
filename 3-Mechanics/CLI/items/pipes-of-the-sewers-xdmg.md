@@ -11,7 +11,7 @@ aliases:
 ---
 # Pipes of the Sewers
 *Wondrous item, uncommon (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Pipes of the Sewers.webp#right)
+![](/3-Mechanics/CLI/items/img/pipes-of-the-sewers.webp#right)
 
 
 While these pipes are on your person, ordinary [rats](/3-Mechanics/CLI/bestiary/beast/rat-xmm.md) and [giant rats](/3-Mechanics/CLI/bestiary/beast/giant-rat-xmm.md) are [Indifferent](/3-Mechanics/CLI/variant-rules/indifferent-attitude-xphb.md) toward you and won't attack you unless you threaten or harm them.

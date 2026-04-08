@@ -13,7 +13,7 @@ aliases:
 ---
 # Staff of Thunder and Lightning
 *Staff, weapon, very rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Staff of Thunder and Lightning.webp#right)
+![](/3-Mechanics/CLI/items/img/staff-of-thunder-and-lightning.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

@@ -35,7 +35,7 @@ aliases:
 ---
 # Daylight
 *3rd-level, Evocation*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Daylight.webp#right)
+![](/3-Mechanics/CLI/spells/img/daylight.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

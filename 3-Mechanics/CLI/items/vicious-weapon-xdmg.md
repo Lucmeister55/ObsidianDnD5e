@@ -71,7 +71,7 @@ aliases:
 ---
 # Vicious Weapon
 *Rare*  
-![Vicious Weapon (Rapier)](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Vicious Weapon.webp#right)
+![Vicious Weapon (Rapier)](/3-Mechanics/CLI/items/img/vicious-weapon.webp#right)
 
 
 This magic weapon deals an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage to any creature it hits. This extra damage is of the same type as the weapon's normal damage.

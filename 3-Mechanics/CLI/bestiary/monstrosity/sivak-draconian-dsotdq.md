@@ -75,6 +75,6 @@ Draconians are bipedal monsters born from metallic dragon eggs that have been co
     "name": "Shape Theft"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Sivak Draconian.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/sivak-draconian-dsotdq.webp"
 ```
 ^statblock

@@ -83,6 +83,6 @@ aliases:
     "name": "Dagger"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Demelin.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/demelin-dsotdq.webp"
 ```
 ^statblock

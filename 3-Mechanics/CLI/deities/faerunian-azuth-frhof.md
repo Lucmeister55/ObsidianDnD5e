@@ -13,7 +13,7 @@ aliases:
 ---
 # Azuth
 *Source: Forgotten Realms: Heroes of Faerûn p. 101* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Azuth.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-azuth.webp#symbol)
 
 - **Alternate Names**: The High One, Lord of Spells, The Shining Hand of Sorcery
 - **Alignment**: Unaligned

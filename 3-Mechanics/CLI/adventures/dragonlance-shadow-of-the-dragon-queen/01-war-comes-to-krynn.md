@@ -16,7 +16,7 @@ Three hundred years ago, the Cataclysm brought ruin to the world of Krynn. In a 
 
 Then came the Dragon Armies, legions of soldiers devoted to the wicked god Takhisis the Dragon Queen, and the world faces ruin once more. The War of the Lance has begun, and in a conflict between gods and dragons, a wounded world hangs in the balance.
 
-![](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/000-00-001.becklin-letter.webp#center)
+![](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/000-00-001-becklin-letter.webp#center)
 
 > [!readaloud] 
 > 
@@ -49,7 +49,7 @@ Beyond these chapters, appendices support the adventure with equipment, magic it
 
 ## History of Krynn
 
-![Scholars and soldiers acro...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/001-00-002.scholars.webp#center "Scholars and soldiers across Solamnia spread warnings of sinister forces rising beyond their nation's borders")
+![Scholars and soldiers acro...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/001-00-002-scholars.webp#center "Scholars and soldiers across Solamnia spread warnings of sinister forces rising beyond their nation's borders")
 
 While every world's history is vast and fractured, with missing pieces and forgotten perspectives, Krynn's tale has been shattered by the global catastrophe called the Cataclysm. The world of Krynn was forged and destroyed, yet—broken and scarred—it continued on. Most of its people, seeking merely to survive in their slowly healing lands, care little for eons past. But the sages who piece together fragments of the past focus on three periods: before the Cataclysm, the Cataclysm itself, and the dire age since.
 
@@ -61,7 +61,7 @@ Next came the Age of Dreams, a time when heroes battled the forces of evil. Many
 
 During a terrible conflict known as the Third Dragon War, the knight Huma Dragonbane was granted the first of the fabled [dragonlances](/3-Mechanics/CLI/items/dragonlance-ftd.md). He used it to defeat the evil god Takhisis the Dragon Queen and end the war, forcing the god and her dragons to leave Krynn. The good dragons of Krynn soon departed as well, leaving the world to mortals and the remaining gods.
 
-![Takhisis the Dragon Queen in Her Human Guise](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/002-00-002.takhisis.webp#center)
+![Takhisis the Dragon Queen in Her Human Guise](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/002-00-002-takhisis.webp#center)
 
 During the thousand years before the Cataclysm, known as the Age of Might, several human nations flourished, conquering vast swaths of the continent of Ansalon in the name of good. But the triumph of the Age of Might sowed the seeds of its downfall.
 
@@ -75,7 +75,7 @@ A mountain of fire fell from the sky, destroying Istar. The Blood Sea—a new oc
 
 The gods and their blessings then faded from the world, and in time, even their names were all but forgotten.
 
-![](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/003-00-003.nikkas-letter.webp#center)
+![](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/003-00-003-nikkas-letter.webp#center)
 
 > [!readaloud] 
 > 
@@ -161,7 +161,7 @@ With virtually all of eastern Ansalon under their control, the Dragon Armies hav
 
 In Neraka, zealots and black-robed mages devise magical plans to empower Dragon Army forces. One such plot, involving the ruins of an Istarian city, captures the imagination of Dragon Highlord Verminaard. He tasks his devotee, [Kansaldi Fire-Eyes](/3-Mechanics/CLI/bestiary/npc/kansaldi-fire-eyes-dsotdq.md), with claiming a devastating new weapon for the Dragon Armies.
 
-![](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/004-00-004.ollen-letter.webp#center)
+![](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/004-00-004-ollen-letter.webp#center)
 
 > [!readaloud] 
 > 
@@ -182,7 +182,7 @@ In Neraka, zealots and black-robed mages devise magical plans to empower Dragon 
 
 While Krynn holds many lands and cultures, the War of the Lance and adventures surrounding that conflict unfold on the continent of Ansalon. Here are a few details regarding everyday life there.
 
-![Travelers approach the tow...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/005-00-005.gateway-splash.webp#center "Travelers approach the town of Gateway, a community sheltered amid the roots of a toppled Vallenwood tree")
+![Travelers approach the tow...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/005-00-005-gateway-splash.webp#center "Travelers approach the town of Gateway, a community sheltered amid the roots of a toppled Vallenwood tree")
 
 ### Languages
 
@@ -272,7 +272,7 @@ Since the Cataclysm, the harsh realities of daily survival leave little room for
 
 ### Rumors of War
 
-![Takhisis the Dragon Queen ...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/006-00-006.tiamat-splash.webp#center "Takhisis the Dragon Queen turns her attention from eastern Ansalon toward the city of Kalaman")
+![Takhisis the Dragon Queen ...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/006-00-006-tiamat-splash.webp#center "Takhisis the Dragon Queen turns her attention from eastern Ansalon toward the city of Kalaman")
 
 Factual reports of war in eastern Ansalon and the Dragon Queen's return are slow to spread. Many of Ansalon's communities are isolated, and the Dragon Armies work to suppress information of their conquests. As a result, most people in Solamnia and west of the mountainous Taman Busuk region aren't aware of the Dragon Armies' threat beyond vague rumors.
 
@@ -304,7 +304,7 @@ Situated in the province of Nightlund in Solamnia's eastern reaches, Kalaman is 
 
 Kalaman began as a sleepy fishing village on the coast of the Turbidus Ocean. It might have remained so if not for the arrival of an Istarian trading mission centuries before the Cataclysm. Seeing the potential of a deep harbor so close to the mouth of a great river, the Empire of Istar invested heavily in the town, transforming it into a thriving trade hub. Solamnia soon found Istar's stranglehold on the booming port intolerable, and after a climactic battle on the plains west of the city, Istar ceded control of Kalaman.
 
-![](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/007-00-007.fallen-piece.webp#center)
+![](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/007-00-007-fallen-piece.webp#center)
 
 Today, long after the fall of Istar and the trials of the Cataclysm, Kalaman remains a thriving port city surrounded by tall Istarian-built walls that have never been breached. In its busy harbor, vessels from all over Ansalon go about their business under the light of the city's two grand beacons, pre-Cataclysm marvels that have survived for generations. At the center of the city, the ancient Castle Kalaman rises intimidatingly on a sheer hill. The castle's architectural marvels include defenses yet to be recreated in the modern age. The city of Kalaman is further detailed in Chapter 4.
 
@@ -326,7 +326,7 @@ For generations, the Soths of Dargaard Keep—a family of Knights of Solamnia—
 
 [Lord Soth](/3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md) and his defiance of the gods is detailed in chapter 4.
 
-![](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/008-00-008.letters.webp#center)
+![](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/008-00-008-letters.webp#center)
 
 ## Religion and the Gods
 
@@ -376,7 +376,7 @@ The gods of Krynn loosely align with one another along the principles of good, n
 | [Zeboim](/3-Mechanics/CLI/deities/dragonlance-zeboim.md) | CE | Seas, storms | Turtle shell |
 ^gods-of-evil
 
-![](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/009-00-009.rosamund-letter.webp#center)
+![](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/009-00-009-rosamund-letter.webp#center)
 
 > [!readaloud] 
 > 

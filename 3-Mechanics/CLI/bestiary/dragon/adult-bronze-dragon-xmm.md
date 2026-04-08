@@ -129,8 +129,7 @@ Bronze dragons usually make their homes near or under the sea.
     "name": "Thunderclap"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Adult Bronze\
-  \ Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/adult-bronze-dragon-xmm.webp"
 ```
 ^statblock
 

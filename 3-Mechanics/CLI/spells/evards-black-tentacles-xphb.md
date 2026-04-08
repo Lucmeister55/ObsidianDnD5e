@@ -26,7 +26,7 @@ aliases:
 ---
 # Evard's Black Tentacles
 *4th-level, Conjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Evard's Black Tentacles.webp#right)
+![](/3-Mechanics/CLI/spells/img/evards-black-tentacles.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

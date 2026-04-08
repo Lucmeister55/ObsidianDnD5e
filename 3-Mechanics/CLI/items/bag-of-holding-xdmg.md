@@ -10,7 +10,7 @@ aliases:
 ---
 # Bag of Holding
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Bag of Holding.webp#right)
+![](/3-Mechanics/CLI/items/img/bag-of-holding.webp#right)
 
 - **Weight**: 5.0 lbs.
 

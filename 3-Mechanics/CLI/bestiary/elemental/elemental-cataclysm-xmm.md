@@ -148,7 +148,7 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
     "name": "Rumbling Movement"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Elemental Cataclysm.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/elemental-cataclysm-xmm.webp"
 ```
 ^statblock
 

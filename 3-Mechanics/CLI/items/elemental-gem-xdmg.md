@@ -10,7 +10,7 @@ aliases:
 ---
 # Elemental Gem
 *Wondrous item, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Elemental Gem.webp#right)
+![](/3-Mechanics/CLI/items/img/elemental-gem.webp#right)
 
 
 **Items in this group:**

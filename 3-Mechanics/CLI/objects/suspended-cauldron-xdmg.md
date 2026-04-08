@@ -19,7 +19,7 @@ Cauldrons are typically filled with boiling oil but can be filled with other sub
 
 ```ad-statblock
 title: Suspended Cauldron
-![](file://D:\ProgramData\CLI\5etools-img/objects/tokens/XDMG/Suspended Cauldron.webp#token)
+![](/3-Mechanics/CLI/objects/token/suspended-cauldron-xdmg.webp#token)
 *Large Siege weapon*
 
 - **Armor Class** 19

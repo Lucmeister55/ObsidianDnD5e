@@ -11,7 +11,7 @@ aliases:
 ---
 # Belt of Dwarvenkind
 *Wondrous item, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Belt of Dwarvenkind.webp#right)
+![](/3-Mechanics/CLI/items/img/belt-of-dwarvenkind.webp#right)
 
 
 While wearing this belt, you gain the following benefits:

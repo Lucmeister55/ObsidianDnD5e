@@ -12,7 +12,7 @@ aliases:
 ---
 # Ring of Telekinesis
 *Ring, very rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Ring of Telekinesis.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-telekinesis.webp#right)
 
 
 While wearing this ring, you can cast [Telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md) from it.

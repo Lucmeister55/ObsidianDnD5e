@@ -88,8 +88,7 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
     "name": "Cold Breath (Recharge 6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Abominable\
-  \ Yeti.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/abominable-yeti-xmm.webp"
 ```
 ^statblock
 

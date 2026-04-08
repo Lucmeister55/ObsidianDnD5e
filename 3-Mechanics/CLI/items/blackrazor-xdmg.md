@@ -13,7 +13,7 @@ aliases:
 ---
 # Blackrazor
 *Weapon ([greatsword](/3-Mechanics/CLI/items/greatsword-xphb.md)), artifact (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Blackrazor.webp#right)
+![](/3-Mechanics/CLI/items/img/blackrazor.webp#right)
 
 - **Damage**: 2d6 slashing
 - **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)

@@ -59,6 +59,6 @@ aliases:
     "name": "Psychic Slam (Mind Flayer Only)"
 "source":
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XPHB/Aberrant Spirit.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/aberrant-spirit-xphb.webp"
 ```
 ^statblock

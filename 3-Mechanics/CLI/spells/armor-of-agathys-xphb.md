@@ -16,7 +16,7 @@ aliases:
 ---
 # Armor of Agathys
 *1st-level, Abjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Armor of Agathys.webp#right)
+![](/3-Mechanics/CLI/spells/img/armor-of-agathys.webp#right)
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self

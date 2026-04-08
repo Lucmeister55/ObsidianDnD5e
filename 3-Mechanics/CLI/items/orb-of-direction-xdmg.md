@@ -10,7 +10,7 @@ aliases:
 ---
 # Orb of Direction
 *Wondrous item, common*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Orb of Direction.webp#right)
+![](/3-Mechanics/CLI/items/img/orb-of-direction.webp#right)
 
 - **Weight**: 3.0 lbs.
 

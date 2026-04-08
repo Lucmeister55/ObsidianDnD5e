@@ -104,7 +104,7 @@ Through fiendish rites, succubi can transform into incubi to manipulate their pr
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Succubus.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/succubus-xmm.webp"
 ```
 ^statblock
 

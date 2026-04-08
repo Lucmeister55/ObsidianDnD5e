@@ -68,6 +68,6 @@ Despite his aptitude for magic and his parents' being wizards themselves, [Andir
     "name": "Quarterstaff"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Andir Valmakos.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/andir-valmakos-dsotdq.webp"
 ```
 ^statblock

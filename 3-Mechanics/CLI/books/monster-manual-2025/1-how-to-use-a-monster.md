@@ -35,7 +35,7 @@ Official D&D adventures refer to the monsters in this book, and you may use thes
 
 A monster has a stat block that contains the rules necessary to use it in the game. Stat blocks are divided into the following parts, which correspond with the example stat block, Vampire Familiar:
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XMM/stat-block-overview.webp#center)
+![](/3-Mechanics/CLI/books/monster-manual-2025/img/stat-block-overview.webp#center)
 
 - **Name and General Details.** The name of the monster is followed by its size, creature type (along with any descriptive tags), and alignment.  
 

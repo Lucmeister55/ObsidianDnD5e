@@ -78,6 +78,6 @@ aliases:
     "name": "Elusive"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Tem Temble.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/tem-temble-dsotdq.webp"
 ```
 ^statblock

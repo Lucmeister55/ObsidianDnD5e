@@ -53,6 +53,6 @@ aliases:
     "name": "Rend"
 "source":
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XPHB/Bestial Spirit.webp"
+"image": "/3-Mechanics/CLI/bestiary/beast/token/bestial-spirit-xphb.webp"
 ```
 ^statblock

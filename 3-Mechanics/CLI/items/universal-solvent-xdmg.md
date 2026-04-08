@@ -10,7 +10,7 @@ aliases:
 ---
 # Universal Solvent
 *Wondrous item, legendary*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Universal Solvent.webp#right)
+![](/3-Mechanics/CLI/items/img/universal-solvent.webp#right)
 
 
 This tube holds milky liquid with a strong alcohol smell. When found, a tube contains `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) ounces.

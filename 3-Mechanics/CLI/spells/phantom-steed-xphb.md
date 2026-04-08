@@ -27,7 +27,7 @@ aliases:
 ---
 # Phantom Steed
 *3rd-level, Illusion (ritual)*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Phantom Steed.webp#right)
+![](/3-Mechanics/CLI/spells/img/phantom-steed.webp#right)
 
 - **Casting time:** 1 minute unless cast as a ritual
 - **Range:** 30 feet

@@ -10,7 +10,7 @@ aliases:
 ---
 # Cape of the Mountebank
 *Wondrous item, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Cape of the Mountebank.webp#right)
+![](/3-Mechanics/CLI/items/img/cape-of-the-mountebank.webp#right)
 
 
 This cape smells faintly of brimstone. While wearing it, you can use it to cast [Dimension Door](/3-Mechanics/CLI/spells/dimension-door-xphb.md) as a [Magic](/3-Mechanics/CLI/actions.md#Magic) action. This property can't be used again until the next dawn.

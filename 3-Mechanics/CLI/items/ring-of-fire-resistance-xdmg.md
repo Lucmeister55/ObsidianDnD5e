@@ -11,7 +11,7 @@ aliases:
 ---
 # Ring of Fire Resistance
 *Ring, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Ring of Resistance.webp#right)
+![](/3-Mechanics/CLI/items/img/ring-of-resistance.webp#right)
 
 
 You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to fire damage while wearing this ring. The ring is set with garnet.

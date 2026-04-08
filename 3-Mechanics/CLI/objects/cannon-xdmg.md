@@ -17,7 +17,7 @@ A Cannon uses gunpowder or arcane power to propel heavy iron balls at destructiv
 
 ```ad-statblock
 title: Cannon
-![](file://D:\ProgramData\CLI\5etools-img/objects/tokens/XDMG/Cannon.webp#token)
+![](/3-Mechanics/CLI/objects/token/cannon-xdmg.webp#token)
 *Large Siege weapon*
 
 - **Armor Class** 19

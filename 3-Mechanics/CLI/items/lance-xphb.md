@@ -12,7 +12,7 @@ aliases:
 ---
 # Lance
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Lance.webp#right)
+![](/3-Mechanics/CLI/items/img/lance.webp#right)
 
 - **Damage**: 1d10 piercing
 - **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach)

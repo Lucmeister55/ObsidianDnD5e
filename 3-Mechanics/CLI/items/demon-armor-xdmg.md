@@ -27,7 +27,7 @@ aliases:
 ---
 # Demon Armor
 *Cursed item, very rare (requires attunement)*  
-![Demon Armor (Plate Armor)](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Demon Armor.webp#right)
+![Demon Armor (Plate Armor)](/3-Mechanics/CLI/items/img/demon-armor.webp#right)
 
 - **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items)
 

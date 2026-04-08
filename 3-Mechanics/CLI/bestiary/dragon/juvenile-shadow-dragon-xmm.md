@@ -100,8 +100,7 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
     "name": "Shadow Stealth"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Juvenile Shadow\
-  \ Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/juvenile-shadow-dragon-xmm.webp"
 ```
 ^statblock
 

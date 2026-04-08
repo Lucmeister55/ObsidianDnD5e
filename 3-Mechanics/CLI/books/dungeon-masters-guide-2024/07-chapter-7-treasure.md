@@ -10,7 +10,7 @@ aliases:
 # Chapter 7: Treasure
 *Source: Dungeon Master's Guide (2024), p. 213* 
 
-![The Black Dragon Onyx guar...](file://D:\ProgramData\CLI\5etools-img/book/XDMG/104-07-001.onyx-treasure.webp#center "The Black Dragon Onyx guards her treasure hoard in the ruins of Xak Tsaroth")
+![The Black Dragon Onyx guar...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/104-07-001-onyx-treasure.webp#center "The Black Dragon Onyx guards her treasure hoard in the ruins of Xak Tsaroth")
 
 Adventurers strive for many things, including glory, knowledge, and justice. Many adventurers also seek something more tangible: treasure. This chapter presents treasure in all its forms, from coins to magic items.
 
@@ -24,7 +24,7 @@ To randomly determine a magic item found as treasure, use the "tables" at the en
 
 ![Treasure Themes](/3-Mechanics/CLI/tables/treasure-themes-xdmg.md)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XDMG/105-07-002.bag-of-coins.webp#center)
+![](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/105-07-002-bag-of-coins.webp#center)
 
 ## Coins
 
@@ -204,7 +204,7 @@ When creating or modifying an adventure, assume that the characters won't find a
 
 ![Magic Items Awarded by Level](/3-Mechanics/CLI/tables/magic-items-awarded-by-level-xdmg.md)
 
-![Download PDF](file://D:\ProgramData\CLI\5etools-img/book/XDMG/106-07-003.magic-item-tracker-sheet.webp#center)
+![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/106-07-003-magic-item-tracker-sheet.webp#center)
 
 #### Magic Item Tracker
 
@@ -303,7 +303,7 @@ If a magic item incorporates an item that has a purchase cost (such as a weapon 
 
 ![Magic Item Crafting Time and Cost](/3-Mechanics/CLI/tables/magic-item-crafting-time-and-cost-xdmg.md)
 
-![Crafting magic items requires time and research](file://D:\ProgramData\CLI\5etools-img/book/XDMG/107-07-004.crafting-magic-items.webp#center)
+![Crafting magic items requires time and research](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/107-07-004-crafting-magic-items.webp#center)
 
 ### Magic Item Special Features
 
@@ -323,7 +323,7 @@ On the Magic Item's Minor Property table and the Magic Item's Quirk table, "you"
 
 ### Artifacts
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XDMG/108-07-005.magic-tome.webp#center)
+![](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/108-07-005-magic-tome.webp#center)
 
 An Artifact is a unique, singularly powerful magic item with its own origin and history. It could have been created in the midst of a crisis that threatened a kingdom, a world, or the entire multiverse, and carry the weight of that pivotal moment in history.
 

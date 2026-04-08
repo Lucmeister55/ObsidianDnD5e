@@ -12,7 +12,7 @@ aliases:
 
 This appendix provides an overview of the multiverse, the overarching reality that encompasses D&D's countless worlds and adventures. These realms are explored in greater detail in the *Dungeon Master's Guide*, along with other planes like the Far Realm, Negative Plane, and Positive Plane.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XPHB/231-10-001.the-multiverse.webp#center)
+![](/3-Mechanics/CLI/books/players-handbook-2024/img/231-10-001-the-multiverse.webp#center)
 
 ## The Material Realms
 

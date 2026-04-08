@@ -12,7 +12,7 @@ aliases:
 
 The goal of the Red Dragon Army's invasion is not only conquering Kalaman, but also obtaining a weapon to aid it in conquering all of Solamnia. A contingent of the Dragon Army's forces seeks to restore the ancient magic of the City of Lost Names, raising it as a devastating, flying battle platform. With these forces go [Lord Soth](/3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md), who—following whispers from the Dragon Queen—seeks to raise an army of Undead dragons from the draconic graveyard beneath the city. While the characters' allies distract the enemy forces outside the ruined city, the characters infiltrate the City of Lost Names to discover the Dragon Army's plots and foil them.
 
-![The City of Lost Names has...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/093-06-001.chapter-splash.webp#center "The City of Lost Names has known centuries of peace, but now the Dragon Army claims its streets and skies")
+![The City of Lost Names has...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/093-06-001-chapter-splash.webp#center "The City of Lost Names has known centuries of peace, but now the Dragon Army claims its streets and skies")
 
 ## Running This Chapter
 
@@ -77,8 +77,8 @@ The tunnels of the Path of Memories have the following features:
 The following locations are keyed to map 6.1.
 
 > [!gallery]
-> ![Map 6.1: Path Of Memories](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/094-map-6.01-path-of-memories.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/095-map-6.01-path-of-memories-player.webp#gallery)
+> ![Map 6.1: Path Of Memories](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/094-map-6-01-path-of-memories.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/095-map-6-01-path-of-memories-player.webp#gallery)
 
 #### M1: Hall of Betrayal
 
@@ -213,7 +213,7 @@ If attacked, [Demelin](/3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) uses her
 
 ### Demelin
 
-![Demelin](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/096-06-002.demelin.webp#center)
+![Demelin](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/096-06-002-demelin.webp#center)
 
 [Demelin](/3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) (neutral, elf [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md)) is hundreds of years old, one of a handful of Silvanesti elves old enough to have lived through the Cataclysm. She commonly wears a bone mask that resembles a skull, and her red robes serve as a [cape of the mountebank](/3-Mechanics/CLI/items/cape-of-the-mountebank-xdmg.md). Prior to the destruction of the world, [Demelin](/3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) was a prominent member of the Mages of High Sorcery, the high wizard of Onyari, and—along with the Kingpriest of Istar—one of the magic-users responsible for raising the city into the heavens. When the city fell, [Demelin](/3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) learned a lesson in hubris. The dispassionate mage has since dwelled in the city's ruins, guarding the city to ensure it never takes to the skies again.
 
@@ -308,7 +308,7 @@ Characters who aren't taking the test are generally unaware of what's transpirin
 
 ### Running the Test
 
-![To conduct the Test of Hig...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/097-06-003.test-high-sorcery.webp#center "To conduct the Test of High Sorcery, the mage Demelin conjures a vision of Onyari's fall")
+![To conduct the Test of Hig...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/097-06-003-test-high-sorcery.webp#center "To conduct the Test of High Sorcery, the mage Demelin conjures a vision of Onyari's fall")
 
 When a test-taking character is ready to begin the test, [Demelin](/3-Mechanics/CLI/bestiary/npc/demelin-dsotdq.md) instructs them to move to the center of the room. Read or paraphrase the following text, addressing the test-taking character alone:
 
@@ -400,8 +400,8 @@ Rookledust encourages the characters to find the Dragon Army's leaders within th
 The City of Lost Names lies in a ruin-filled crater. The northwestern district punctured a subterranean aquifer in its crash, flooding its streets, while fire raged through homes in the southwestern district. The western pleasure gardens have become an untamed jungle where descendants of the city's monstrous menageries hunt amid vine-choked streets. Meanwhile, the eastern blocks lie propped against the crater rim, the whole district tilted at an angle.
 
 > [!gallery]
-> ![Map 6.2: City Of Lost Names](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/098-map-6.02-city-of-last-names.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/099-map-6.02-city-of-last-names-player.webp#gallery)
+> ![Map 6.2: City Of Lost Names](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/098-map-6-02-city-of-last-names.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/099-map-6-02-city-of-last-names-player.webp#gallery)
 
 ### Making a Plan
 
@@ -523,8 +523,8 @@ The interior of the occupied mansion has the following features:
 The following locations are keyed to map 6.3.
 
 > [!gallery]
-> ![Map 6.3: Occupied Mansion](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/100-map-6.03-occupied-mansion.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/101-map-6.03-occupied-mansion-player.webp#gallery)
+> ![Map 6.3: Occupied Mansion](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/100-map-6-03-occupied-mansion.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/101-map-6-03-occupied-mansion-player.webp#gallery)
 
 #### O1: Exterior
 
@@ -642,7 +642,7 @@ The mansion's staircase connects this small hallway to area O4 on the ground flo
 > This bedroom is well preserved, with a four-poster bed, a desk, and a small chest. A round turret to the southeast—with glass intact in its windows—provides a panoramic view of the neighborhood's wreckage. A door leads to a room to the east, and another door opens to the hallway to the north.
 ^388
 
-![Captain Hask](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/102-06-004.captain-hask.webp#center)
+![Captain Hask](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/102-06-004-captain-hask.webp#center)
 
 [Captain Hask](/3-Mechanics/CLI/bestiary/npc/captain-hask-dsotdq.md), an [aurak draconian](/3-Mechanics/CLI/bestiary/monstrosity/aurak-draconian-dsotdq.md) (see appendix B), is writing reports at the desk. Hask knows all the soldiers in his unit, and the characters can convince Hask they're Dragon Army soldiers only with a successful DC 22 Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception)) check. If Hask believes he's being tricked, he stands and attacks while calling for the soldiers in area O11, who arrive after 1 round. Hask is a devout servant of the Dragon Queen and fights to the death.
 
@@ -703,8 +703,8 @@ The area in and around the Temple of Paladine has the following features:
 The following locations are keyed to map 6.4.
 
 > [!gallery]
-> ![Map 6.4: Temple Of Paladine](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/103-map-6.04-temple-of-paladine.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/104-map-6.04-temple-of-paladine-player.webp#gallery)
+> ![Map 6.4: Temple Of Paladine](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/103-map-6-04-temple-of-paladine.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/104-map-6-04-temple-of-paladine-player.webp#gallery)
 
 #### P1: Causeway
 
@@ -732,7 +732,7 @@ The neutral [treant](/3-Mechanics/CLI/bestiary/plant/treant-xmm.md) [Duskwalker]
 
 Unless a character openly displays a symbol of a god of nature—like Chislev, Habbakuk, or Zeboim—or is otherwise clearly a servant of nature, [Duskwalker](/3-Mechanics/CLI/bestiary/npc/duskwalker-dsotdq.md) uses their Animate Trees action to ambush the characters, then follows the trees into battle. During combat, [Duskwalker](/3-Mechanics/CLI/bestiary/npc/duskwalker-dsotdq.md) slowly bellows, "Each defiler you send to my gardens meets the same end. Begone!" A character being attacked by a tree notices a dead Dragon Army soldier amid its branches.
 
-![Duskwalker](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/105-06-005.duskwalker.webp#center)
+![Duskwalker](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/105-06-005-duskwalker.webp#center)
 
 ##### Talking with Duskwalker
 
@@ -814,7 +814,7 @@ The chest holds 400 gp, a platinum necklace featuring Paladine's symbol worth 15
 
 The altar here bears the symbol of Paladine, while the sculptures depict him in his draconic form. A cleric of Paladine or a character who succeeds on a DC 12 Intelligence ([Religion](/3-Mechanics/CLI/skills.md#Religion)) check recognizes the symbol.
 
-![By Paladine's might, a dragonlance is restored](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/106-06-006.dragonlance-restored.webp#center)
+![By Paladine's might, a dragonlance is restored](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/106-06-006-dragonlance-restored.webp#center)
 
 ##### Restoring the Lance
 
@@ -862,8 +862,8 @@ The areas inside the Threshold of the Heavens have the following features:
 The following locations are keyed to map 6.5.
 
 > [!gallery]
-> ![Map 6.5: Threshold of the Heavens](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/107-map-6.05-threshold-of-the-heavens.webp#gallery)
-> ![Player Version](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/108-map-6.05-threshold-of-the-heavens-player.webp#gallery)
+> ![Map 6.5: Threshold of the Heavens](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/107-map-6-05-threshold-of-the-heavens.webp#gallery)
+> ![Player Version](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/108-map-6-05-threshold-of-the-heavens-player.webp#gallery)
 
 #### T1: Plaza
 
@@ -1027,7 +1027,7 @@ Atop a console, [Lohezet](/3-Mechanics/CLI/bestiary/npc/lohezet-dsotdq.md) has p
 
 #### T10: Bridge
 
-![At the Threshold of the He...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/109-06-007.belephaion-true-form.webp#center "At the Threshold of the Heavens, Belephaion reveals his true form")
+![At the Threshold of the He...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/109-06-007-belephaion-true-form.webp#center "At the Threshold of the Heavens, Belephaion reveals his true form")
 
 > [!readaloud] 
 > 
@@ -1091,7 +1091,7 @@ The Threshold of the Heavens and the island it stands on are beginning to crumbl
 
 Characters who try to use the [flying citadel helm](/3-Mechanics/CLI/items/flying-citadel-helm-dsotdq.md) can make a DC 10 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check. If they succeed, they realize it'd take several hours to attune to it and regain control of the city—and the tower isn't going to survive that long.
 
-![A draconian fails to escape the City of Lost Names](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/110-06-008.draconian-wilhelm-scream.webp#center)
+![A draconian fails to escape the City of Lost Names](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/110-06-008-draconian-wilhelm-scream.webp#center)
 
 ### Soth's Ascent
 

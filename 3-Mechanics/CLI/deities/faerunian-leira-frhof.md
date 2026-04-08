@@ -13,7 +13,7 @@ aliases:
 ---
 # Leira
 *Source: Forgotten Realms: Heroes of Faerûn p. 112* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Leira.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-leira.webp#symbol)
 
 - **Alternate Names**: The Lady of Deception, The Lady of the Mists, Mistshadow
 - **Alignment**: Unaligned

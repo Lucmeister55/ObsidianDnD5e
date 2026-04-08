@@ -11,7 +11,7 @@ aliases:
 ---
 # Covered Wagon
 *Vehicle (land)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/FRHoF/Covered Wagon.webp#right)
+![](/3-Mechanics/CLI/items/img/covered-wagon.webp#right)
 
 - **Cost**: 250 gp
 - **Weight**: 1300.0 lbs.

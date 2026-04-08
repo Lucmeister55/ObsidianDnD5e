@@ -124,7 +124,7 @@ Cults can organize around any mystical tradition, but many serve supernatural be
     "name": "Spiritual Weapon (2/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Cultist Fanatic.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/cultist-fanatic-xmm.webp"
 ```
 ^statblock
 

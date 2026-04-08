@@ -89,7 +89,7 @@ Titanic purple worms burrow through the earth and sand. Ever ravenous, they devo
     "name": "Swallow"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Purple Worm.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/purple-worm-xmm.webp"
 ```
 ^statblock
 

@@ -92,7 +92,7 @@ Stone golems are typically created to protect places of significance to a group,
     "name": "Slow (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Stone Golem.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/stone-golem-xmm.webp"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ aliases:
 ---
 # Criminal
 *Source: Player's Handbook (2024) p. 180. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/XPHB/Criminal.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/criminal.webp#right)
 
 - **Ability Scores.** Dexterity, Constitution, Intelligence  
 - **Feat.** [Alert](/3-Mechanics/CLI/feats/alert-xphb.md)  

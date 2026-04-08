@@ -10,7 +10,7 @@ aliases:
 ---
 # Scribe
 *Source: Player's Handbook (2024) p. 184*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/XPHB/Scribe.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/scribe.webp#right)
 
 - **Ability Scores.** Dexterity, Intelligence, Wisdom  
 - **Feat.** [Skilled](/3-Mechanics/CLI/feats/skilled-xphb.md)  

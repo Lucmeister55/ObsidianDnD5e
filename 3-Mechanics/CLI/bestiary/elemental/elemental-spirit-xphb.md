@@ -53,7 +53,6 @@ aliases:
     "name": "Slam"
 "source":
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XPHB/Elemental\
-  \ Spirit.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/elemental-spirit-xphb.webp"
 ```
 ^statblock

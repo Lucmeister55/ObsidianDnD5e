@@ -10,7 +10,7 @@ aliases:
 ---
 # Carpet of Flying
 *Wondrous item, very rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Carpet of Flying.webp#right)
+![](/3-Mechanics/CLI/items/img/carpet-of-flying.webp#right)
 
 
 You can make this carpet hover and fly by taking a [Magic](/3-Mechanics/CLI/actions.md#Magic) action and using the carpet's command word. It moves according to your directions if you are within 30 feet of it.

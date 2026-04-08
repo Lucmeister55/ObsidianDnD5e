@@ -82,7 +82,7 @@ Beneath the waves dwell merfolk, mysterious creatures that merge the features of
     "name": "Watery Rebuke"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Merfolk Wavebender.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/merfolk-wavebender-xmm.webp"
 ```
 ^statblock
 

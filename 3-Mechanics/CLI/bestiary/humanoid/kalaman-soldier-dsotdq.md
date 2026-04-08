@@ -57,7 +57,6 @@ Kalaman soldiers are the rank-and-file troops of the army of Kalaman. They are t
     "name": "Hold the Line"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Kalaman\
-  \ Soldier.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/kalaman-soldier-dsotdq.webp"
 ```
 ^statblock

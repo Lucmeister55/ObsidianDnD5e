@@ -13,7 +13,7 @@ aliases:
 ---
 # Staff of the Python
 *Staff, weapon, uncommon (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Staff of the Python.webp#right)
+![](/3-Mechanics/CLI/items/img/staff-of-the-python.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

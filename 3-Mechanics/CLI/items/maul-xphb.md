@@ -12,7 +12,7 @@ aliases:
 ---
 # Maul
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Maul.webp#right)
+![](/3-Mechanics/CLI/items/img/maul.webp#right)
 
 - **Damage**: 2d6 bludgeoning
 - **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)

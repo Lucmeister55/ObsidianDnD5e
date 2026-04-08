@@ -15,7 +15,7 @@ aliases:
 ---
 # Dwarven Plate
 *Very rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Dwarven Plate.webp#right)
+![](/3-Mechanics/CLI/items/img/dwarven-plate.webp#right)
 
 
 While wearing this armor, you gain a +2 bonus to [Armor Class](/3-Mechanics/CLI/variant-rules/armor-class-xphb.md). In addition, if an effect moves you against your will along the ground, you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to reduce the distance you are moved by up to 10 feet.

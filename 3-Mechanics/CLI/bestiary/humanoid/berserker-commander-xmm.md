@@ -84,7 +84,7 @@ Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fight
     "name": "Frenzied Rush"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Berserker Commander.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/berserker-commander-xmm.webp"
 ```
 ^statblock
 

@@ -13,7 +13,7 @@ aliases:
 ---
 # Myrkul
 *Source: Forgotten Realms: Heroes of Faerûn p. 116* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Myrkul.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-myrkul.webp#symbol)
 
 - **Alternate Names**: The Lord of Bones, Old Lord Skull, The Reaper
 - **Alignment**: Unaligned

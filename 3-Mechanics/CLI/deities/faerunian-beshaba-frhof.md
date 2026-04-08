@@ -12,7 +12,7 @@ aliases:
 ---
 # Beshaba
 *Source: Forgotten Realms: Heroes of Faerûn p. 103* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Beshaba.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-beshaba.webp#symbol)
 
 - **Alternate Names**: Lady Doom, The Maiden of Misfortune
 - **Alignment**: Unaligned

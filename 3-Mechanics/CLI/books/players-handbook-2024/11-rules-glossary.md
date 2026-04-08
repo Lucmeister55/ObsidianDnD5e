@@ -22,7 +22,7 @@ The glossary uses the following conventions:
 
 ![Glossary Conventions](/3-Mechanics/CLI/tables/glossary-conventions-xphb.md)
 
-![](file://D:\ProgramData\CLI\5etools-img/book/XPHB/246-12-001.dungeon-border.webp#center)
+![](/3-Mechanics/CLI/books/players-handbook-2024/img/246-12-001-dungeon-border.webp#center)
 
 ## Rules Definitions
 

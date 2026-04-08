@@ -76,7 +76,7 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
     "name": "Slam"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Ogre Zombie.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/ogre-zombie-xmm.webp"
 ```
 ^statblock
 

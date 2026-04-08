@@ -85,7 +85,7 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
     "name": "Quick Grapple"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Bugbear Stalker.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/bugbear-stalker-xmm.webp"
 ```
 ^statblock
 

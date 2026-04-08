@@ -13,7 +13,7 @@ aliases:
 ---
 # Staff of Swarming Insects
 *Staff, weapon, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Staff of Swarming Insects.webp#right)
+![](/3-Mechanics/CLI/items/img/staff-of-swarming-insects.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning

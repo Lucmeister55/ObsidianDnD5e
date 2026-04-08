@@ -80,7 +80,7 @@ Scouts are warriors of the wilderness, trained in hunting and tracking. They mig
     "name": "Uncanny Dodge"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Scout Captain.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/scout-captain-xmm.webp"
 ```
 ^statblock
 

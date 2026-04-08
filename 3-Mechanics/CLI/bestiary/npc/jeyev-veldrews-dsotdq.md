@@ -65,6 +65,6 @@ aliases:
     "name": "Parry"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Jeyev Veldrews.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/jeyev-veldrews-dsotdq.webp"
 ```
 ^statblock

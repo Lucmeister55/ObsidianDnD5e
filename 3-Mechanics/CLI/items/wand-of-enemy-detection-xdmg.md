@@ -12,7 +12,7 @@ aliases:
 ---
 # Wand of Enemy Detection
 *Wand, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Wand of Enemy Detection.webp#right)
+![](/3-Mechanics/CLI/items/img/wand-of-enemy-detection.webp#right)
 
 - **Weight**: 1.0 lbs.
 

@@ -122,8 +122,7 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
     "name": "Pounce"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Ancient Green\
-  \ Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/ancient-green-dragon-xmm.webp"
 ```
 ^statblock
 

@@ -53,7 +53,6 @@ Ogres are hulking giants notorious for their quick tempers. When its rage is inc
     "name": "Javelin"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Fewmaster\
-  \ Gholcag.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/fewmaster-gholcag-dsotdq.webp"
 ```
 ^statblock

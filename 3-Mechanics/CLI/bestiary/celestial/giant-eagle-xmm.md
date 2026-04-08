@@ -56,7 +56,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Rend"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Giant Eagle.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/giant-eagle-xmm.webp"
 ```
 ^statblock
 

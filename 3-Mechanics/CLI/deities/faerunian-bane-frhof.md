@@ -12,7 +12,7 @@ aliases:
 ---
 # Bane
 *Source: Forgotten Realms: Heroes of Faerûn p. 102* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Bane.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-bane.webp#symbol)
 
 - **Alternate Names**: The Black Hand, The Lord of Darkness
 - **Alignment**: Unaligned

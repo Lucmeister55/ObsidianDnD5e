@@ -75,8 +75,7 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
     "name": "Leap"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Thri-kreen\
-  \ Marauder.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/thri-kreen-marauder-xmm.webp"
 ```
 ^statblock
 

@@ -17,7 +17,7 @@ A Trebuchet is a catapult that throws its payload in a high arc so it can hit ta
 
 ```ad-statblock
 title: Trebuchet
-![](file://D:\ProgramData\CLI\5etools-img/objects/tokens/XDMG/Trebuchet.webp#token)
+![](/3-Mechanics/CLI/objects/token/trebuchet-xdmg.webp#token)
 *Huge Siege weapon*
 
 - **Armor Class** 15

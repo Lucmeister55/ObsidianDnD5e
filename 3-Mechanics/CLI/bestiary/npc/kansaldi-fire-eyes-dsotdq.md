@@ -89,7 +89,6 @@ Highlord Verminaard follows visions from the Dragon Queen on a campaign south. I
     "name": "Dragon Queen's Favor"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Kansaldi\
-  \ Fire-Eyes.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/kansaldi-fire-eyes-dsotdq.webp"
 ```
 ^statblock

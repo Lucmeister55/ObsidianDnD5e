@@ -11,7 +11,7 @@ aliases:
 ---
 # Garb of Light and Shadow
 *Adventuring gear*  
-![](file://D:\ProgramData\CLI\5etools-img/items/FRHoF/Garb of Light and Shadow.webp#right)
+![](/3-Mechanics/CLI/items/img/garb-of-light-and-shadow.webp#right)
 
 - **Cost**: 50 gp
 - **Weight**: 6.0 lbs.

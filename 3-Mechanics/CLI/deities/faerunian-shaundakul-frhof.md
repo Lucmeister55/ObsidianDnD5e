@@ -12,7 +12,7 @@ aliases:
 ---
 # Shaundakul
 *Source: Forgotten Realms: Heroes of Faerûn p. 121* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Shaundakul.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-shaundakul.webp#symbol)
 
 - **Alternate Names**: The Rider of the Winds, The Helping Hand
 - **Alignment**: Unaligned

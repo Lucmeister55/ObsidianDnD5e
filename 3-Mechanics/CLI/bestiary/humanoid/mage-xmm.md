@@ -111,7 +111,7 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
     "name": "Protective Magic (3/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Mage.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/mage-xmm.webp"
 ```
 ^statblock
 

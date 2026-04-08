@@ -94,7 +94,7 @@ Nycaloths and other yugoloths frequently serve as mercenary forces in extraplana
     "name": "Shadowy Teleport"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Nycaloth.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/nycaloth-xmm.webp"
 ```
 ^statblock
 

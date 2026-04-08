@@ -11,7 +11,7 @@ aliases:
 ---
 # Spell Scroll (Level 7)
 *Scroll, very rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Spell Scroll.webp#right)
+![](/3-Mechanics/CLI/items/img/spell-scroll.webp#right)
 
 
 A Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost.

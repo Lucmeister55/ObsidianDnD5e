@@ -88,7 +88,7 @@ Ankheg tunnels are roughly cylindrical and are often littered with the remains o
     "name": "Acid Spray (Recharge 6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Ankheg.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/ankheg-xmm.webp"
 ```
 ^statblock
 

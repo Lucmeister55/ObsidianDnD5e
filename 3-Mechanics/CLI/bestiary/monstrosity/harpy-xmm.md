@@ -72,7 +72,7 @@ Every harpy sings a distinct song. While some songs are said to be heartbreaking
     "name": "Luring Song"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Harpy.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/harpy-xmm.webp"
 ```
 ^statblock
 

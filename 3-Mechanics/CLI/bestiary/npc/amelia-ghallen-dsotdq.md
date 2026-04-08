@@ -61,6 +61,6 @@ aliases:
     "name": "Heavy Crossbow"
 "source":
   - "DSotDQ"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/DSotDQ/Amelia Ghallen.webp"
+"image": "/3-Mechanics/CLI/bestiary/npc/token/amelia-ghallen-dsotdq.webp"
 ```
 ^statblock

@@ -13,7 +13,7 @@ aliases:
 ---
 # Ilmater
 *Source: Forgotten Realms: Heroes of Faerûn p. 109* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Ilmater.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-ilmater.webp#symbol)
 
 - **Alternate Names**: The Crying God, He Who Endures, The Rack-Broken Lord
 - **Alignment**: Unaligned

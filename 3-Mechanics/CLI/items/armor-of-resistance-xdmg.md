@@ -12,7 +12,7 @@ aliases:
 ---
 # Armor of Resistance
 *Rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Armor of Resistance.webp#right)
+![](/3-Mechanics/CLI/items/img/armor-of-resistance.webp#right)
 
 
 You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to one type of damage while you wear this armor. The DM chooses the type or determines it randomly by rolling on the following table.

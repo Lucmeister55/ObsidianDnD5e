@@ -10,7 +10,7 @@ aliases:
 ---
 # Folding Boat
 *Wondrous item, rare*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Folding Boat.webp#right)
+![](/3-Mechanics/CLI/items/img/folding-boat.webp#right)
 
 - **Weight**: 4.0 lbs.
 

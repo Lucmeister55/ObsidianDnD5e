@@ -12,7 +12,7 @@ aliases:
 ---
 # Musket
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Musket.webp#right)
+![](/3-Mechanics/CLI/items/img/musket.webp#right)
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120

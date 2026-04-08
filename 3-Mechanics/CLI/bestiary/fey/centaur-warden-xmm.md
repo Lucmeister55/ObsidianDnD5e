@@ -84,7 +84,7 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
     "name": "Entangling Trail (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Centaur Warden.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/centaur-warden-xmm.webp"
 ```
 ^statblock
 

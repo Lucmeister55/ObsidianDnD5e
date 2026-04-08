@@ -11,7 +11,7 @@ aliases:
 ---
 # Musical Instrument
 *Instrument*  
-![Left to Right: Yarting, Bandore, Cittern](file://D:\ProgramData\CLI\5etools-img/items/FRHoF/Musical Instrument.webp#right)
+![Left to Right: Yarting, Bandore, Cittern](/3-Mechanics/CLI/items/img/musical-instrument.webp#right)
 
 
 *The yarting is the staple stringed instrument of minstrels across Faerûn. A cittern, distinguished by its pear-shaped bowl, produces a pleasing, richer sound. The bandore is a complex bass instrument with additional sets of strings, perfect for accompanying tenor and alto instruments in an ensemble.*

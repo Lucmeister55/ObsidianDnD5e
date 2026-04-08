@@ -87,7 +87,7 @@ Otyughs often bury themselves amid trash heaps and observe their surroundings wi
     "name": "Tentacle Slam"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Otyugh.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/otyugh-xmm.webp"
 ```
 ^statblock
 

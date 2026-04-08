@@ -109,7 +109,7 @@ While many djinn create airy palaces on stormy coasts or high in the clouds, unt
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Djinni.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/djinni-xmm.webp"
 ```
 ^statblock
 

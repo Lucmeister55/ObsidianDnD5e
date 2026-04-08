@@ -122,7 +122,7 @@ Arcanaloths possess considerable spellcasting prowess and frequently disguise th
     "name": "Counterspell"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Arcanaloth.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/arcanaloth-xmm.webp"
 ```
 ^statblock
 

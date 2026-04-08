@@ -71,7 +71,7 @@ aliases:
 ---
 # Dragon Slayer
 *Rare*  
-![Dragon Slayer (Greatsword)](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Dragon Slayer.webp#right)
+![Dragon Slayer (Greatsword)](/3-Mechanics/CLI/items/img/dragon-slayer.webp#right)
 
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.

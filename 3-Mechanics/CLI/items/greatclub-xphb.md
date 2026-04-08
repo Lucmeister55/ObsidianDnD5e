@@ -12,7 +12,7 @@ aliases:
 ---
 # Greatclub
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Greatclub.webp#right)
+![](/3-Mechanics/CLI/items/img/greatclub.webp#right)
 
 - **Damage**: 1d8 bludgeoning
 - **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)

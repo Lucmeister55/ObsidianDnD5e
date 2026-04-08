@@ -99,7 +99,7 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Green Slaad.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/green-slaad-xmm.webp"
 ```
 ^statblock
 

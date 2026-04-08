@@ -11,7 +11,7 @@ aliases:
 ---
 # Potion of Storm Giant Strength
 *Potion, legendary*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Potion of Storm Giant Strength.webp#right)
+![](/3-Mechanics/CLI/items/img/potion-of-storm-giant-strength.webp#right)
 
 - **Weight**: 0.5 lbs.
 

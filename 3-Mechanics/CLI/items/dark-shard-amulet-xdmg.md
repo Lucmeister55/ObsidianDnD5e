@@ -12,7 +12,7 @@ aliases:
 ---
 # Dark Shard Amulet
 *Wondrous item, spellcasting focus, common (requires attunement by a warlock)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Dark Shard Amulet.webp#right)
+![](/3-Mechanics/CLI/items/img/dark-shard-amulet.webp#right)
 
 - **Weight**: 1.0 lbs.
 

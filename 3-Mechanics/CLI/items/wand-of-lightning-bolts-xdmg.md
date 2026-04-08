@@ -12,7 +12,7 @@ aliases:
 ---
 # Wand of Lightning Bolts
 *Wand, rare (requires attunement by a spellcaster)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Wand of Lightning Bolts.webp#right)
+![](/3-Mechanics/CLI/items/img/wand-of-lightning-bolts.webp#right)
 
 - **Weight**: 1.0 lbs.
 

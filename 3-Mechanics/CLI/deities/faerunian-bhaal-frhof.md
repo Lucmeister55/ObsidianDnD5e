@@ -11,7 +11,7 @@ aliases:
 ---
 # Bhaal
 *Source: Forgotten Realms: Heroes of Faerûn p. 103* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Bhaal.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-bhaal.webp#symbol)
 
 - **Alternate Names**: The Lord of Murder
 - **Alignment**: Unaligned

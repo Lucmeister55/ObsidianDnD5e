@@ -134,8 +134,7 @@ Gold dragons make their homes in places of natural and magical wonder.
     "name": "Pounce"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Adult Gold\
-  \ Dragon.webp"
+"image": "/3-Mechanics/CLI/bestiary/dragon/token/adult-gold-dragon-xmm.webp"
 ```
 ^statblock
 

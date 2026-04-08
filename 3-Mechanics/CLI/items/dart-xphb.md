@@ -12,7 +12,7 @@ aliases:
 ---
 # Dart
 *Weapon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XPHB/Dart.webp#right)
+![](/3-Mechanics/CLI/items/img/dart.webp#right)
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60

@@ -68,7 +68,7 @@ Quaggoths frequently collect in small bands led by the most fearsome group membe
     "name": "Claw"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Quaggoth.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/quaggoth-xmm.webp"
 ```
 ^statblock
 

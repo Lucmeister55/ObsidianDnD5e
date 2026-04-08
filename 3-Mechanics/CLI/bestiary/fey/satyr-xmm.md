@@ -70,7 +70,7 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
     "name": "Mockery"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Satyr.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/satyr-xmm.webp"
 ```
 ^statblock
 

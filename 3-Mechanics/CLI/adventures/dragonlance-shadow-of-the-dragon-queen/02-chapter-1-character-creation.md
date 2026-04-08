@@ -26,7 +26,7 @@ Feats. Draw on the power of magic, honor, or the gods with this selection of fea
 
 Subclass Option. Tie your magic to Krynn's three mystical moons with the Lunar Sorcery sorcerer subclass.
 
-![Adventuring defenders of S...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/019-01-001.chapter-splash.webp#center "Adventuring defenders of Solamnia bring down a red dragon servant of the Dragon Queen")
+![Adventuring defenders of S...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/019-01-001-chapter-splash.webp#center "Adventuring defenders of Solamnia bring down a red dragon servant of the Dragon Queen")
 
 ## Peoples of Krynn
 
@@ -36,7 +36,7 @@ The Dragon Armies threaten all the peoples of Krynn. This section presents infor
 
 While known for their great subterranean nations, dwarves have long traded and traveled among the peoples of Krynn's surface. The Cataclysm devastated many dwarven lands and destroyed some of their greatest underground kingdoms. Others, like the nation of Kayolin, were isolated from their allies as the New Sea flooded the land. And some, like the great dwarven realm of Thorbardin, turned inward and have yet to rejoin the world.
 
-![Dwarf Adventurer from the Nation of Thorbardin](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/020-01-002.dwarf-adventurer.webp#center)
+![Dwarf Adventurer from the Nation of Thorbardin](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/020-01-002-dwarf-adventurer.webp#center)
 
 #### Thorbardin and the Dwarfgate War
 
@@ -76,7 +76,7 @@ As a Silvanesti high elf, you know what few in Ansalon do: the home of the elves
 
 #### Qualinesti High Elves
 
-![In Qualinesti, a scout war...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/021-01-003.qualinesti-scout.webp#center "In Qualinesti, a scout warns of threats encroaching on the elven city's borders")
+![In Qualinesti, a scout war...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/021-01-003-qualinesti-scout.webp#center "In Qualinesti, a scout warns of threats encroaching on the elven city's borders")
 
 Long ago, a group of high elves left Silvanesti, desiring a more egalitarian society. They traveled far to the west and founded a new forested homeland called Qualinesti. Less hierarchical than their progenitors and more willing to deal with outsiders, Qualinesti elves even enjoyed good relations with the dwarves of Thorbardin. Since the Cataclysm, however, they've withdrawn from the world, and few outsiders dare approach their well-guarded borders.
 
@@ -107,7 +107,7 @@ As a gnome, you might be a tinker pursuing some niche scientific endeavor, coaxe
 
 The tinker gnomes of Mount Nevermind are the best-known gnome community on Krynn. Despite living in a world steeped in magical forces, many of these rock gnomes indulge in specialized scientific pursuits and create complicated inventions.
 
-![A tinker gnome from Mount ...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/022-01-004.tinker-gnome.webp#center "A tinker gnome from Mount Nevermind fine-tunes his latest invention")
+![A tinker gnome from Mount ...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/022-01-004-tinker-gnome.webp#center "A tinker gnome from Mount Nevermind fine-tunes his latest invention")
 
 ### Humans
 
@@ -133,7 +133,7 @@ Once a mighty empire, Solamnia has fallen from the glory it knew. Though Solamni
 
 After the Cataclysm, the verdant plains of southern Ansalon wasted away, becoming the Plains of Dust. Coastlines shifted, and the city of Tarsis found itself a seaport without a sea. In the dry harbor, decrepit remnants of the city's famed ships list on waves of sand. The rest of the city clings to life as a trade hub for small communities and itinerant bands across the plains. Those who dwell here have adapted their ancestors' seafaring ways to their current arid environment, becoming hunters, scavengers, and traders.
 
-![Humans from the Lands of T...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/023-01-005.humans.webp#center "Humans from the Lands of Tarsis, Ergoth, and Abanasinia")
+![Humans from the Lands of T...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/023-01-005-humans.webp#center "Humans from the Lands of Tarsis, Ergoth, and Abanasinia")
 
 #### Other Lands
 
@@ -163,7 +163,7 @@ Most humans of Nordmaar live either in rugged coastal communities to the north o
 
 The [kender](/3-Mechanics/CLI/races/kender-dsotdq.md) is a race option for player characters in Dragonlance and other D&D settings.
 
-![Kender adventurers follow ...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/024-01-006.kender.webp#center "Kender adventurers follow their curiosity to their next adventure")
+![Kender adventurers follow ...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/024-01-006-kender.webp#center "Kender adventurers follow their curiosity to their next adventure")
 
 ### Creating Your Character
 
@@ -213,7 +213,7 @@ Their power waning, the knights today are locked in a bitter internal feud: Is i
 
 #### The Oath and the Measure
 
-![Emblems Top to Bottom: Ord...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/025-01-007.knights-solamnia.webp#center "Emblems Top to Bottom: Order of the Crown, Order of the Rose, and Order of the Sword")
+![Emblems Top to Bottom: Ord...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/025-01-007-knights-solamnia.webp#center "Emblems Top to Bottom: Order of the Crown, Order of the Rose, and Order of the Sword")
 
 The Knights of Solamnia follow a chivalric code with two parts: the Oath and the Measure, both inspired by the writings of Vinas Solamnus. The Oath is simple and aspirational—a star to navigate by—while the Measure lays out specific rules for the organization and conduct of the knighthood.
 
@@ -342,4 +342,4 @@ This section introduces feats related to the Knights of Solamnia and the Mages o
 
 A sorcerer has the Sorcerous Origin feature, which offers you the choice of a subclass. The following option is available when making that choice: Lunar Sorcery.
 
-![A human sorcerer draws on ...](file://D:\ProgramData\CLI\5etools-img/adventure/DSotDQ/028-01-010.human-sorcerer.webp#center "A human sorcerer draws on the magic of Krynn's moons")
+![A human sorcerer draws on ...](/3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/img/028-01-010-human-sorcerer.webp#center "A human sorcerer draws on the magic of Krynn's moons")

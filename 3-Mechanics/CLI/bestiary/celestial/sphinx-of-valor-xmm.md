@@ -144,7 +144,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
     "name": "Weight of Years"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Sphinx of Valor.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/sphinx-of-valor-xmm.webp"
 ```
 ^statblock
 

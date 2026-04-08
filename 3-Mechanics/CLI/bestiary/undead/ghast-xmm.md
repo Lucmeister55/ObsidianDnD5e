@@ -74,7 +74,7 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
     "name": "Claw"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Ghast.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/ghast-xmm.webp"
 ```
 ^statblock
 

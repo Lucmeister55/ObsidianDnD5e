@@ -96,7 +96,7 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
     "name": "Pursuit"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Nalfeshnee.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/nalfeshnee-xmm.webp"
 ```
 ^statblock
 

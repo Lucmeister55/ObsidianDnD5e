@@ -10,7 +10,7 @@ aliases:
 # Chapter 6: Factions of the Realms
 *Source: Forgotten Realms: Heroes of Faerûn, p. 149* 
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/152-06-001.factions-of-the-realms-tapestry.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/152-06-001-factions-of-the-realms-tapestry.webp#center)
 
 Many in Faerûn seek power and prosperity, but few can achieve their ambitions alone. Instead, individuals join influential groups called factions. Adventurers who join a faction stand to gain honors, privileges, wealth, and, above all, respect.
 
@@ -43,7 +43,7 @@ The Faction Attitudes table summarizes the sentiments shared between the faction
 
 ## Cult of the Dragon
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/153-06-002.cult-of-the-dragon.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/153-06-002-cult-of-the-dragon.webp#center)
 
 The Cult of the Dragon is a centuries-old cabal of evil mages, doomsayers, and dragon worshipers. Its members believe in apocalyptic prophecies that center on dragons as the world's inevitable destroyers (or, rarely, its saviors). To hasten the end times, cultists enact elaborate rituals to empower or summon evil dragons.
 
@@ -77,7 +77,7 @@ The Cult of the Dragon is always seeking to expand its ranks. New recruits are e
 
 Cult leaders aren't opposed to hiring mercenaries for specific jobs or when ranks are thin. The cult casts a wide net with vaguely worded fliers on job boards or shadowy brokers posted in dark tavern corners; higher-ranking cultists then cherry-pick the most promising (that is, manipulable) prospects. In this way, countless soldiers of fortune, run-of-the-mill toughs, and even seasoned adventurers have unwittingly undertaken missions for the cult. Some complete their job none the wiser of their involvement in the cult's schemes. Others discover the ruse in time to flee. An unsavory few catch on to the true nature of their work and use the opportunity to seek admission to the cult.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/154-06-003.cult-of-the-dragon-items.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/154-06-003-cult-of-the-dragon-items.webp#center)
 
 #### Wearers of Purple
 
@@ -142,7 +142,7 @@ A ranger guards a caravan through monster-plagued wilds. Forest defenders disman
 
 The Emerald Enclave is an organization of survivalists and nature worshipers who refer to themselves as Caretakers. Members of the enclave maintain the balance between wilderness and civilization and reinforce what they call "the natural order." This natural order is exemplified by places where people and nature live in harmony—places where neither settlements nor wilds threaten to overwhelm the other. Caretakers protect such areas with their lives. To the Emerald Enclave, individual sacrifice is worthwhile if it means the preservation of the whole.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/156-06-005.emerald-enclave.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/156-06-005-emerald-enclave.webp#center)
 
 Caretakers wear green clothes made from natural, foraged materials such as plants and animal hides. The most powerful members have magically bright-green eyes. Most Caretakers are constantly surrounded by animals and can walk seamlessly between civilization and the wilds.
 
@@ -166,7 +166,7 @@ Just as the enclave shares in times of bounty, so too it shares the onus of perf
 
 A Caretaker who achieves acclaim might take an epithet. Typically such an epithet is bestowed by another Caretaker to commemorate a worthy deed. Storied Caretakers have multiple epithets, which are then appended to one another; for example, a veteran enclave member named Krodar might be referred to as "Caretaker Krodar, Axe Breaker, and Tamer of Owlbears."
 
-![From left to right: Circle...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/157-06-006.enclave-circles.webp#center "From left to right: Circle of Air, Circle of the Ancients, Circle of the Giants, Circle of the Land, Circle of the Moon, Circle of Wildfire")
+![From left to right: Circle...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/157-06-006-enclave-circles.webp#center "From left to right: Circle of Air, Circle of the Ancients, Circle of the Giants, Circle of the Land, Circle of the Moon, Circle of Wildfire")
 
 #### Enclave Circles
 
@@ -240,7 +240,7 @@ Members of the Emerald Enclave can add the following special facility to their B
 
 Harpers are secretive spies, sleuths, and skalds who oppose evil throughout the Forgotten Realms. Harpers believe that power, fortune, and knowledge should be shared by all rather than hoarded by the few. They are disinterested in fame and glory—whatever they do, they do for the common good, with no expectation of reward.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/159-06-008.harpers.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/159-06-008-harpers.webp#center)
 
 Harpers employ magic, subterfuge, and wit to achieve their aims, preferably without arousing any suspicion of their interference. They favor subtle manipulation to overt action—a Harper is more likely to turn enemies against one another than to stick a dagger in a despot's back. Better yet is depriving bad actors of power in the first place, such as by securing dangerous magical weapons before they fall into the wrong hands. Yet for all their behind-the-scenes action, Harpers are well known among both downtrodden common folk, who laud them as heroes, and the forces of evil, who scorn them as meddlers.
 
@@ -275,7 +275,7 @@ As befits their ethos, there is no one leader of the Harpers. Authority and resp
 
 Harpers have strong bonds with their fellow Harpers. Feuds or even friendly rivalries among members are rare. A Harper never hesitates to help a fellow Harper in need.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/160-06-009.harpers-items.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/160-06-009-harpers-items.webp#center)
 
 #### Harper Cells and Strongholds
 
@@ -344,7 +344,7 @@ The Lords' Alliance is an association of nobles and rulers representing settleme
 
 The alliance's primary goal is to ensure the safety and prosperity of cities and other settlements across Faerûn. To accomplish this, alliance members share information with one another about potential threats within and near alliance territory. Dangers are many in Faerûn, leaving the alliance spread thin, so settlements hire reputable adventurers and dispatch them where they are most needed.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/162-06-011.lords-alliance.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/162-06-011-lords-alliance.webp#center)
 
 Although the alliance's mere existence is a strong deterrent against evildoers, it has a reputation for internal bickering and dysfunction. Alliance representatives are aware of this reputation, and they go to great lengths to exhibit solidarity and coordination. Cities in the alliance frequently sponsor tournaments, festivals, and fundraisers to increase the perception of a unified North.
 
@@ -360,7 +360,7 @@ Each member of the Lords' Alliance has an official representative on the allianc
 
 Representatives convene several times per year for a Lords' Assembly. These assemblies occur around the same time as the festivals that mark the changing of the seasons. Alliance members take turns hosting assemblies, with preference given to cities that have suitably large (and secure) forum spaces. During times of crisis, such as war or catastrophe, an emergency assembly might be called.
 
-![From Left to Right: Amphai...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/163-06-012.coat-of-arms.webp#center "From Left to Right: Amphail, Baldur's Gate, Daggerford, Longsaddle, Mirabar, Mithral Hall, Neverwinter, Silverymoon, Waterdeep, Yartar")
+![From Left to Right: Amphai...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/163-06-012-coat-of-arms.webp#center "From Left to Right: Amphail, Baldur's Gate, Daggerford, Longsaddle, Mirabar, Mithral Hall, Neverwinter, Silverymoon, Waterdeep, Yartar")
 
 #### Alliance Members
 
@@ -465,7 +465,7 @@ Members of the Lords' Alliance can add the following special facility to their B
 
 ## Order of the Gauntlet
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/165-06-014.order-of-the-gauntlet.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/165-06-014-order-of-the-gauntlet.webp#center)
 
 The Order of the Gauntlet is a body of faithful justice seekers who seek out and eradicate evil. Members of the order must be honorable in their actions, vigilant in their outlook, and zealous in their convictions. Moreover, they must always watch out for corruption from within.
 
@@ -497,7 +497,7 @@ In times of war, the order's troops are among the toughest, most steadfast soldi
 
 In addition to serving as infantry in their own units, veterans of the order act as sergeants or commanders for other units. Soldiers have few qualms taking orders from a knight of the Order of the Gauntlet; many know the leadership and tactical expertise of the order mean the difference between a disorganized defeat and a glorious victory.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/166-06-015.order-of-the-guantlet-items.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/166-06-015-order-of-the-guantlet-items.webp#center)
 
 ### Leadership and Organization
 
@@ -577,7 +577,7 @@ Members of the Order of the Gauntlet can add the following special facility to t
 
 The Purple Dragon Knights have protected the kingdom of Cormyr for centuries. But a decade ago, the knights underwent a transformation led by the spirit of an ancient amethyst dragon named Eldenser. Eldenser was a scholar of the multiverse, and in his travels, he saw people partnering with dragons on the world of Krynn. Inspired by what he witnessed, Eldenser called other amethyst dragons to Cormyr and persuaded them to partner with the kingdom's Purple Dragon Knights to defend Cormyr while pursuing new knowledge and experiences. Now the knights ride amethyst dragons across Faerûn to oppose Cormyr's enemies, hunt aberrant monsters, and carry out the will of Cormyr's noble queen, Raedra.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/168-06-017.purple-dragon-knights.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/168-06-017-purple-dragon-knights.webp#center)
 
 ### Goals and Activities
 
@@ -599,7 +599,7 @@ New knights carry the title of knight novice for a year and a day. During this t
 
 Purple Dragon Knights sometimes take squires—aspiring knights who have not yet earned their dragon partner.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/169-06-018.purple-dragon-items.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/169-06-018-purple-dragon-items.webp#center)
 
 #### Taking the Purple
 
@@ -665,7 +665,7 @@ Members of the Purple Dragon Knights can add the following special facility to t
 
 ## Red Wizards
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/171-06-020.red-wizards.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/171-06-020-red-wizards.webp#center)
 
 When folk in Faerûn think of the Red Wizards, most imagine cabals of undead mages clad in blood-red robes and wielding unholy arcane powers. According to such tales, these vile spellcasters hail from Thay, a hellish nation of paranoid wizard-lords called zulkirs and their zombified minions. Red Wizards are universally evil, so the stories go, and should be treated as such.
 
@@ -698,7 +698,7 @@ Many Red Wizards travel in groups so they can complement one another's different
 
 To fund their adventures, many Red Wizards trade in magic items, as well as traditional goods like silver and silk. In many parts of the world, Red Wizards are well known for their ruthlessness in commerce—and, in some cases, their predilection for spell-assisted deception. Common traders exercise great caution when dealing with Red Wizards.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/172-06-021.red-wizrds-items.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/172-06-021-red-wizrds-items.webp#center)
 
 ### Leadership and Organization
 
@@ -766,7 +766,7 @@ The Zhentarim—also known as the Black Network—is a loose affiliation of merc
 
 Zhentarim agents consider themselves part of an extended family, and membership in the organization comes with the perks—and tension—that familial relations imply. Resources and security are shared among the organization, but the Zhentarim recognizes and rewards personal ambition, granting its members autonomy to pursue their own interests. In this way, the organization is a meritocracy; those who do well for themselves do well in the Zhentarim at large. But woe be to any whose personal aims conflict with the Zhentarim's, for loyalists respond to treachery with fierce retribution.
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/174-06-023.zhentarim.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/174-06-023-zhentarim.webp#center)
 
 The Zhentarim welcomes all whose primary motivator is money. This mindset has earned the organization a negative reputation among Faerûn's other factions. Harpers in particular have historically clashed with Zhents, and members of the Lords' Alliance and Order of the Gauntlet keep a close eye on the organization's effects on Faerûnian politics. At an individual level, however, adventurers have little to fear from Zhentarim allies on assignment—they just make sure to read the fine print before signing any Zhentarim contracts.
 
@@ -788,7 +788,7 @@ the Zhentarim. Bane's ethos of domination over the weak is a natural complement 
 
 Nowadays, religious Zhents are more likely to consort with diabolic divinities than world-famous gods. The Lords of the Nine boast countless patrons who can advance a mortal's social standing or wealth, and many Zhents beseech such powers. Some of the Zhentarim's most popular infernal sponsors include Mammon (the Nine Hells' principal miser), Fierna (coruler of Phlegethos with her father, Belial), and Glasya (Asmodeus's daughter).
 
-![](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/175-06-024.zhentarim-items.webp#center)
+![](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/175-06-024-zhentarim-items.webp#center)
 
 ### Leadership and Organization
 
@@ -892,7 +892,7 @@ The Shadow Thieves' success is derived from its complex hierarchy, which is orga
 
 Joining the Shadow Thieves isn't difficult, and recruits who survive their first few missions can quickly climb the guild's ranks. Guildmasters have autonomy to recruit and promote within the local guild level.
 
-![On the streets of a city l...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/177-06-026.streets-of-baldurs-gate.webp#center "On the streets of a city like Baldur's Gate, none are safe from the Shadow Thieves.")
+![On the streets of a city l...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/177-06-026-streets-of-baldurs-gate.webp#center "On the streets of a city like Baldur's Gate, none are safe from the Shadow Thieves.")
 
 ### Xanathar Guild
 
@@ -926,7 +926,7 @@ One of Aurora's most popular offerings is the cheese bag: a pound of cheese rand
 
 ![Aurora's Emporium; Cheese Bag Contents](/3-Mechanics/CLI/tables/auroras-emporium-cheese-bag-contents-frhof.md)
 
-![A Flaming Fist mercenary f...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/178-06-027.flaming-fist-mercenary-fights.webp#center "A Flaming Fist mercenary fights off devil worshipers in Baldur's Gate.")
+![A Flaming Fist mercenary f...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/178-06-027-flaming-fist-mercenary-fights.webp#center "A Flaming Fist mercenary fights off devil worshipers in Baldur's Gate.")
 
 ### Elemental Cults
 
@@ -1010,4 +1010,4 @@ Although the guild proper ceased operation long ago, vestiges of its works still
 
 The leaders of the Waterclock Renaissance are eager to bolster their numbers. Even novice clockmakers are being considered for positions in the small organization, as are woodworkers, metallurgists, and spellcasters with an aptitude for the craft and maintenance of clocks.
 
-![A retinue of Spellguards f...](file://D:\ProgramData\CLI\5etools-img/book/FRHoF/179-06-028.wizard-alustriel-silverhand.webp#center "A retinue of Spellguards flanks the wizard Alustriel Silverhand in Silverymoon.")
+![A retinue of Spellguards f...](/3-Mechanics/CLI/books/forgotten-realms-heroes-of-faerun/img/179-06-028-wizard-alustriel-silverhand.webp#center "A retinue of Spellguards flanks the wizard Alustriel Silverhand in Silverymoon.")

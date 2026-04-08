@@ -11,7 +11,7 @@ aliases:
 ---
 # Cloak of the Manta Ray
 *Wondrous item, uncommon (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Cloak of the Manta Ray.webp#right)
+![](/3-Mechanics/CLI/items/img/cloak-of-the-manta-ray.webp#right)
 
 
 While wearing this cloak, you can breathe underwater, and you have a [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md) of 60 feet.

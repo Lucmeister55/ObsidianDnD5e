@@ -82,7 +82,7 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
     "name": "Talons"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Peryton.webp"
+"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/peryton-xmm.webp"
 ```
 ^statblock
 

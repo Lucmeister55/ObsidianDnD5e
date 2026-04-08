@@ -10,7 +10,7 @@ aliases:
 ---
 # Mulhorandi Tomb Raider
 *Source: Forgotten Realms: Heroes of Faerûn p. 33*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/FRHoF/Mulhorandi Tomb Raider.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/mulhorandi-tomb-raider.webp#right)
 
 - **Ability Scores.** Dexterity, Constitution, Intelligence  
 - **Feat.** [Lucky](/3-Mechanics/CLI/feats/lucky-xphb.md)  

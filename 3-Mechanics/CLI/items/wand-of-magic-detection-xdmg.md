@@ -11,7 +11,7 @@ aliases:
 ---
 # Wand of Magic Detection
 *Wand, uncommon*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Wand of Magic Detection.webp#right)
+![](/3-Mechanics/CLI/items/img/wand-of-magic-detection.webp#right)
 
 - **Weight**: 1.0 lbs.
 

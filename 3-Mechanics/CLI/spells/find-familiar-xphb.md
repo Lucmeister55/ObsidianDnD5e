@@ -29,7 +29,7 @@ aliases:
 ---
 # Find Familiar
 *1st-level, Conjuration (ritual)*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Find Familiar.webp#right)
+![](/3-Mechanics/CLI/spells/img/find-familiar.webp#right)
 
 - **Casting time:** 1 hour unless cast as a ritual
 - **Range:** 10 feet

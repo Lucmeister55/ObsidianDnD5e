@@ -18,7 +18,7 @@ aliases:
 ---
 # Tasha's Bubbling Cauldron
 *6th-level, Conjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Tasha's Bubbling Cauldron.webp#right)
+![](/3-Mechanics/CLI/spells/img/tashas-bubbling-cauldron.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 5 feet

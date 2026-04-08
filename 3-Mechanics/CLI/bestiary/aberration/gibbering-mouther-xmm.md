@@ -96,7 +96,7 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
     "name": "Blinding Spittle (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Gibbering Mouther.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/gibbering-mouther-xmm.webp"
 ```
 ^statblock
 

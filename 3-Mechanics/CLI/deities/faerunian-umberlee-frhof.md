@@ -12,7 +12,7 @@ aliases:
 ---
 # Umberlee
 *Source: Forgotten Realms: Heroes of Faerûn p. 127* 
-![](file://D:\ProgramData\CLI\5etools-img/deities/FRHoF/Umberlee.webp#symbol)
+![](/3-Mechanics/CLI/deities/img/frhof-umberlee.webp#symbol)
 
 - **Alternate Names**: The Queen of the Depths, The Wavemother
 - **Alignment**: Unaligned

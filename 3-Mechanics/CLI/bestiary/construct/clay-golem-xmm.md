@@ -96,7 +96,7 @@ These golems obey their creators' orders and protect what their makers value mos
     "name": "Hasten (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Clay Golem.webp"
+"image": "/3-Mechanics/CLI/bestiary/construct/token/clay-golem-xmm.webp"
 ```
 ^statblock
 

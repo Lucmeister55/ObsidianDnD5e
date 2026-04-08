@@ -11,7 +11,7 @@ aliases:
 ---
 # Flying Snake
 *Mount*  
-![](file://D:\ProgramData\CLI\5etools-img/items/FRHoF/Flying Snake.webp#right)
+![](/3-Mechanics/CLI/items/img/flying-snake.webp#right)
 
 - **Cost**: 25 gp
 

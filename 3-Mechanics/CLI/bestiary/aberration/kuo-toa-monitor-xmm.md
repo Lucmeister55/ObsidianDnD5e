@@ -122,7 +122,7 @@ Kuo-toa typically organize their communities around sites they believe to be imp
     "name": "Bone Whip"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Kuo-toa Monitor.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/kuo-toa-monitor-xmm.webp"
 ```
 ^statblock
 

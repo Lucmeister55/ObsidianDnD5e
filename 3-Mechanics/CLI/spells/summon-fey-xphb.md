@@ -32,7 +32,7 @@ aliases:
 ---
 # Summon Fey
 *3rd-level, Conjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Summon Fey.webp#right)
+![](/3-Mechanics/CLI/spells/img/summon-fey.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet

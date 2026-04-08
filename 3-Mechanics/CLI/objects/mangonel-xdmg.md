@@ -17,7 +17,7 @@ A Mangonel is a catapult that hurls heavy projectiles in a high arc, so it can h
 
 ```ad-statblock
 title: Mangonel
-![](file://D:\ProgramData\CLI\5etools-img/objects/tokens/XDMG/Mangonel.webp#token)
+![](/3-Mechanics/CLI/objects/token/mangonel-xdmg.webp#token)
 *Large Siege weapon*
 
 - **Armor Class** 15

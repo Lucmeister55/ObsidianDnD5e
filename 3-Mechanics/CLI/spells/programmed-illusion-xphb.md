@@ -18,7 +18,7 @@ aliases:
 ---
 # Programmed Illusion
 *6th-level, Illusion*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Programmed Illusion.webp#right)
+![](/3-Mechanics/CLI/spells/img/programmed-illusion.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet

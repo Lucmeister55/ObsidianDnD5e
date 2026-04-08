@@ -69,7 +69,7 @@ Azers are living bronze folk who work the primal elements of creation to craft w
     "name": "Burning Hammer"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Azer Sentinel.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/azer-sentinel-xmm.webp"
 ```
 ^statblock
 

@@ -80,7 +80,7 @@ Aarakocra are birdlike folk who soar the skies of countless worlds and the endle
     "name": "Feather Fall (1/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Aarakocra Aeromancer.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/aarakocra-aeromancer-xmm.webp"
 ```
 ^statblock
 

@@ -71,7 +71,7 @@ Some mountain dwellers view galeb duhr as aloof allies and might entrust these l
     "name": "Animate Boulders (1/Day)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Galeb Duhr.webp"
+"image": "/3-Mechanics/CLI/bestiary/elemental/token/galeb-duhr-xmm.webp"
 ```
 ^statblock
 

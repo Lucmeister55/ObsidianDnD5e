@@ -83,7 +83,7 @@ Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They i
     "name": "Burst of Wonder (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Pixie Wonderbringer.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/pixie-wonderbringer-xmm.webp"
 ```
 ^statblock
 

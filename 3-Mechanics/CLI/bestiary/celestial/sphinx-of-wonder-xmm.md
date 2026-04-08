@@ -90,7 +90,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 "source":
   - "XMM"
   - "XPHB"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Sphinx of Wonder.webp"
+"image": "/3-Mechanics/CLI/bestiary/celestial/token/sphinx-of-wonder-xmm.webp"
 ```
 ^statblock
 

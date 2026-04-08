@@ -79,7 +79,7 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
     "name": "Light Crossbow"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Bandit.webp"
+"image": "/3-Mechanics/CLI/bestiary/humanoid/token/bandit-xmm.webp"
 ```
 ^statblock
 

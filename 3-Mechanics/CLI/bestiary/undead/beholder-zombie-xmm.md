@@ -99,7 +99,7 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
     "name": "Eye Rays"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Beholder Zombie.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/beholder-zombie-xmm.webp"
 ```
 ^statblock
 

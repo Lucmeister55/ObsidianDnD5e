@@ -93,7 +93,7 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
     "name": "Mutating Claw"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Blue Slaad.webp"
+"image": "/3-Mechanics/CLI/bestiary/aberration/token/blue-slaad-xmm.webp"
 ```
 ^statblock
 

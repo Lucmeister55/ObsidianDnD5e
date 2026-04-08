@@ -88,7 +88,7 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
     "name": "Jinx"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Goblin Hexer.webp"
+"image": "/3-Mechanics/CLI/bestiary/fey/token/goblin-hexer-xmm.webp"
 ```
 ^statblock
 

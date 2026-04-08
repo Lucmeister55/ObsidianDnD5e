@@ -10,7 +10,7 @@ aliases:
 ---
 # Elf
 *Source: Player's Handbook (2024) p. 189. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
-![](file://D:\ProgramData\CLI\5etools-img/races/XPHB/Elf.webp#right)
+![](/3-Mechanics/CLI/races/img/elf.webp#right)
 
 - **Ability Scores**: None
 - **Type**: humanoid
@@ -76,4 +76,4 @@ High elves have been infused with the magic of crossings between the Feywild and
 Wood elves carry the magic of primeval forests within themselves. They are known by many other names, including wild elves, green elves, and forest elves. Grugach are reclusive wood elves of the Greyhawk setting, while the Kagonesti and the Tairnadal are wood elves of the Dragonlance and Eberron settings, respectively.
 
 
-![A ship departs from a city built by high elves](file://D:\ProgramData\CLI\5etools-img/races/XPHB/148-05-022.elf-city.webp#center)
+![A ship departs from a city built by high elves](/3-Mechanics/CLI/races/img/148-05-022-elf-city.webp#center)

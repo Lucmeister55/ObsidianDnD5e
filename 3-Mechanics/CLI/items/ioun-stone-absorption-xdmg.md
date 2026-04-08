@@ -11,7 +11,7 @@ aliases:
 ---
 # Ioun Stone, Absorption
 *Wondrous item, very rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Ioun Stone.webp#right)
+![](/3-Mechanics/CLI/items/img/ioun-stone.webp#right)
 
 
 Roughly marble sized, *Ioun Stones* are named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of *Ioun Stones* exist, each type a distinct combination of shape and color.

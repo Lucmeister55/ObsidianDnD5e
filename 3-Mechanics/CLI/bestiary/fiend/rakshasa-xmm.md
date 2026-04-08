@@ -97,7 +97,7 @@ Rakshasas' appearances combine humanlike bodies with the features of animals and
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Rakshasa.webp"
+"image": "/3-Mechanics/CLI/bestiary/fiend/token/rakshasa-xmm.webp"
 ```
 ^statblock
 

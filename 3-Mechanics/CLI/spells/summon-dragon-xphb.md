@@ -18,7 +18,7 @@ aliases:
 ---
 # Summon Dragon
 *5th-level, Conjuration*  
-![](file://D:\ProgramData\CLI\5etools-img/spells/XPHB/Summon Dragon.webp#right)
+![](/3-Mechanics/CLI/spells/img/summon-dragon.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet

@@ -10,7 +10,7 @@ aliases:
 ---
 # Dragon Cultist
 *Source: Forgotten Realms: Heroes of Faerûn p. 29*  
-![](file://D:\ProgramData\CLI\5etools-img/backgrounds/FRHoF/Dragon Cultist.webp#right)
+![](/3-Mechanics/CLI/backgrounds/img/dragon-cultist.webp#right)
 
 - **Ability Scores.** Dexterity, Constitution, Intelligence  
 - **Feat.** [Cult of the Dragon Initiate](/3-Mechanics/CLI/feats/cult-of-the-dragon-initiate-frhof.md)  

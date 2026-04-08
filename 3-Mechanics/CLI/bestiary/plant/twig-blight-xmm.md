@@ -69,7 +69,7 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
     "name": "Claw"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Twig Blight.webp"
+"image": "/3-Mechanics/CLI/bestiary/plant/token/twig-blight-xmm.webp"
 ```
 ^statblock
 

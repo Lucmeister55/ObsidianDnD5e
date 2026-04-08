@@ -11,7 +11,7 @@ aliases:
 ---
 # Boots of Striding and Springing
 *Wondrous item, uncommon (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Boots of Striding and Springing.webp#right)
+![](/3-Mechanics/CLI/items/img/boots-of-striding-and-springing.webp#right)
 
 
 While you wear these boots, your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) becomes 30 feet unless your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) is higher, and your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) isn't reduced by you carrying weight in excess of your carrying capacity or wearing Heavy Armor.

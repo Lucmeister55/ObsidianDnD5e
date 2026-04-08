@@ -103,7 +103,7 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "file://D:\\ProgramData\\CLI\\5etools-img/bestiary/tokens/XMM/Flameskull.webp"
+"image": "/3-Mechanics/CLI/bestiary/undead/token/flameskull-xmm.webp"
 ```
 ^statblock
 

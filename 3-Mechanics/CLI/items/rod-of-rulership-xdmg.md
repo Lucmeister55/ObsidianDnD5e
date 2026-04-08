@@ -12,7 +12,7 @@ aliases:
 ---
 # Rod of Rulership
 *Rod, rare (requires attunement)*  
-![](file://D:\ProgramData\CLI\5etools-img/items/XDMG/Rod of Rulership.webp#right)
+![](/3-Mechanics/CLI/items/img/rod-of-rulership.webp#right)
 
 - **Weight**: 2.0 lbs.
 
