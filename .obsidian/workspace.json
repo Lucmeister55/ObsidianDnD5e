@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9fc84e6e525f550a",
+        "id": "3a7a8572385fed83",
         "type": "tabs",
         "children": [
           {
-            "id": "988db8c5fb619430",
+            "id": "5771b9021c1c686d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Mechanics/CLI/bestiary/npc/andir-valmakos-dsotdq.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "andir-valmakos-dsotdq"
+              "title": "New tab"
             }
           }
         ]
@@ -195,13 +191,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "988db8c5fb619430",
+  "active": "5771b9021c1c686d",
   "lastOpenFiles": [
+    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Chapters/1. Prologue.md",
+    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts",
+    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/World",
+    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Chapters/5. Siege of Kalaman.md",
+    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Chapters/4. City of Lost Names.md",
+    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Chapters/3. The Northern Wastes.md",
+    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Chapters/2. Shadow of War.md",
+    "3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/06-chapter-5-the-northern-wastes.md",
+    "3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/01-war-comes-to-krynn.md",
+    "3-Mechanics/CLI/bestiary/npc/andir-valmakos-dsotdq.md",
     "3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/11-appendix-c-sidekicks.md",
     "3-Mechanics/CLI/items/dragonlance-ftd.md",
     "3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/09-appendix-a-gear-and-magic-items.md",
     "3-Mechanics/CLI/bestiary/npc/kansaldi-fire-eyes-dsotdq.md",
-    "3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/01-war-comes-to-krynn.md",
     "3-Mechanics/CLI/vehicles/token/apparatus-of-kwalish-xdmg.webp",
     "3-Mechanics/CLI/vehicles/token",
     "3-Mechanics/CLI/vehicles/img/apparatus-of-kwalish.webp",
@@ -220,15 +225,11 @@
     "3-Mechanics/CLI/objects/token",
     "3-Mechanics/CLI/objects/img",
     "3-Mechanics/CLI/items/img",
-    "3-Mechanics/CLI/feats/img",
-    "3-Mechanics/CLI/deities/img",
     "3-Mechanics/CLI/bestiary/humanoid/sea-elf-scout-dsotdq.md",
     "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/DBB Import/Dragonlance_ Shadow of the Dragon Queen/Chapter 5_ The Northern Wastes/Exploring the Wastes.md",
-    "3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/06-chapter-5-the-northern-wastes.md",
     "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/DBB Import/Dragonlance_ Shadow of the Dragon Queen/Chapter 5_ The Northern Wastes/Chapter 5_ The Northern Wastes.md",
     "3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/08-chapter-7-siege-of-kalaman.md",
     "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/DBB Import/Dragonlance_ Shadow of the Dragon Queen/Appendix C_ Sidekicks/Allies at War.md",
-    "3-Mechanics/CLI/bestiary/npc/andir-valmakos-dsotdq.md",
     "3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md",
     "3-Mechanics/CLI/bestiary/elemental/salamander-fire-snake-xmm.md",
     "3-Mechanics/CLI/books/monster-manual-2025/4-monster-lists.md",
@@ -236,12 +237,6 @@
     "3-Mechanics/CLI/bestiary/aberration/aberrant-spirit-beholderkin-xphb.md",
     "3-Mechanics/CLI/bastions/demiplane.md",
     "3-Mechanics/CLI/bestiary/fiend/swarm-of-lemures-xmm.md",
-    "3-Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm.md",
-    "3-Mechanics/CLI/bestiary/aberration/darkmantle-xmm.md",
-    "3-Mechanics/CLI/bestiary/aberration/blue-slaad-xmm.md",
-    "3-Mechanics/CLI/skills.md",
-    "3-Mechanics/CLI/races/kender-dsotdq.md",
-    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Chapters/Prelude.md",
-    "3-Mechanics/CLI/books/players-handbook-2024/12-credits.md"
+    "3-Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm.md"
   ]
 }
