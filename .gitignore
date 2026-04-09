@@ -5,3 +5,5 @@
 .obsidian/workspace.json
 
 .obsidian/plugins/*/data.json
+
+.stfolder/*
