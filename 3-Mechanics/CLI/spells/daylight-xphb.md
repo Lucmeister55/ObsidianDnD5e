@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/class/sorcerer
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
 - ttrpg-cli/spell/level/3rd-level
 - ttrpg-cli/spell/race/aasimar
 - ttrpg-cli/spell/school/evocation

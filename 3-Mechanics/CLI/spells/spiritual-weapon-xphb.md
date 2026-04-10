@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
+- ttrpg-cli/spell/feat/mark-of-making
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/school/evocation
 - ttrpg-cli/spell/subclass/college-of-lore

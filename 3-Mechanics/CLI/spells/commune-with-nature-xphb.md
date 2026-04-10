@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/ranger
+- ttrpg-cli/spell/feat/mark-of-finding
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/ritual
 - ttrpg-cli/spell/school/divination

@@ -8,6 +8,8 @@ tags:
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/class/sorcerer
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+- ttrpg-cli/spell/feat/mark-of-handling
 - ttrpg-cli/spell/level/4th-level
 - ttrpg-cli/spell/school/enchantment
 - ttrpg-cli/spell/subclass/archfey-patron

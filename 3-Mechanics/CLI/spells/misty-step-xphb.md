@@ -9,7 +9,9 @@ tags:
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/feat/boon-of-dimensional-travel
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
 - ttrpg-cli/spell/feat/fey-touched
+- ttrpg-cli/spell/feat/mark-of-passage
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/race/elf/high-elf
 - ttrpg-cli/spell/school/conjuration

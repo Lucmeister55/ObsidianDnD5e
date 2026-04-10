@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
+- ttrpg-cli/spell/feat/mark-of-handling
 - ttrpg-cli/spell/level/3rd-level
 - ttrpg-cli/spell/school/abjuration
 - ttrpg-cli/spell/subclass/college-of-lore

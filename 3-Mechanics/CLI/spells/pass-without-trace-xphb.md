@@ -8,6 +8,8 @@ tags:
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/feat/adept-of-the-white-robes
+- ttrpg-cli/spell/feat/mark-of-passage
+- ttrpg-cli/spell/feat/mark-of-shadow
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/race/elf/wood-elf
 - ttrpg-cli/spell/school/abjuration

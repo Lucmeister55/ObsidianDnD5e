@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/mark-of-detection
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/diviner

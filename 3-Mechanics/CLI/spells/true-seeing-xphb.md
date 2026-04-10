@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
 - ttrpg-cli/spell/level/6th-level
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/diviner

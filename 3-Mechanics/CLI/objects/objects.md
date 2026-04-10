@@ -9,6 +9,7 @@ cssclasses:
 - [Ballista](./ballista-xdmg.md)
 - [Boilerdrak](./boilerdrak-dsotdq.md)
 - [Cannon](./cannon-xdmg.md)
+- [Eldritch Cannon](./eldritch-cannon-efa.md)
 - [Flamethrower Coach](./flamethrower-coach-xdmg.md)
 - [Gnomeflinger](./gnomeflinger-dsotdq.md)
 - [Keg Launcher](./keg-launcher-xdmg.md)

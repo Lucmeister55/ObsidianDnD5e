@@ -9,8 +9,10 @@ tags:
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/necromancy
+- ttrpg-cli/spell/subclass/alchemist
 - ttrpg-cli/spell/subclass/life-domain
 classes:
+- Artificer (Alchemist)
 - Bard
 - Cleric
 - Cleric (Life Domain)
@@ -35,6 +37,6 @@ This spell closes all mortal wounds, but it doesn't restore missing body parts. 
 
 Coming back from the dead is an ordeal. The target takes a -4 penalty to [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md). Every time the target finishes a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), the penalty is reduced by 1 until it becomes 0.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/3-Mechanics/CLI/lists/list-spells-classes-life-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Artificer (Alchemist)](/3-Mechanics/CLI/lists/list-spells-classes-alchemist-efa.md "subclass=EFA;class=EFA"); [Artificer (Alchemist)](/3-Mechanics/CLI/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/3-Mechanics/CLI/lists/list-spells-classes-life-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
 *Source: Player's Handbook (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

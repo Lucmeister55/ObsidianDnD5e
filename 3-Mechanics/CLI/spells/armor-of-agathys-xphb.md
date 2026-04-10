@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/feat/divinely-favored/evil
 - ttrpg-cli/spell/feat/magic-initiate
+- ttrpg-cli/spell/feat/mark-of-warding
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/school/abjuration
 classes:

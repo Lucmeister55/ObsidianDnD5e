@@ -10,6 +10,8 @@ tags:
 - ttrpg-cli/spell/feat/divinely-favored/good
 - ttrpg-cli/spell/feat/fey-touched
 - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
+- ttrpg-cli/spell/feat/mark-of-handling
+- ttrpg-cli/spell/feat/mark-of-scribing
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/school/enchantment
 - ttrpg-cli/spell/subclass/college-of-glamour

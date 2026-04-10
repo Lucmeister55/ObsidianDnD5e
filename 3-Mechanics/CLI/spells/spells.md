@@ -207,6 +207,7 @@ cssclasses:
 - [Hold Person](./hold-person-xphb.md)
 - [Holy Aura](./holy-aura-xphb.md)
 - [Holy Star of Mystra](./holy-star-of-mystra-frhof.md)
+- [Homunculus Servant](./homunculus-servant-efa.md)
 - [Hunger of Hadar](./hunger-of-hadar-xphb.md)
 - [Hunter's Mark](./hunters-mark-xphb.md)
 - [Hypnotic Pattern](./hypnotic-pattern-xphb.md)

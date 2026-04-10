@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/mark-of-shadow
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/illusion
 - ttrpg-cli/spell/subclass/fey-wanderer

@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/mark-of-hospitality
 - ttrpg-cli/spell/level/3rd-level
 - ttrpg-cli/spell/ritual
 - ttrpg-cli/spell/school/evocation

@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/feat/adept-of-the-white-robes
+- ttrpg-cli/spell/feat/mark-of-detection
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/college-of-lore

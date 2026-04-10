@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/feat/fey-touched
+- ttrpg-cli/spell/feat/mark-of-finding
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/oath-of-vengeance

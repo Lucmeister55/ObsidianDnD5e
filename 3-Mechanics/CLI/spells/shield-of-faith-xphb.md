@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/feat/divinely-favored/good
 - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
+- ttrpg-cli/spell/feat/mark-of-sentinel
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/school/abjuration
 - ttrpg-cli/spell/subclass/college-of-lore

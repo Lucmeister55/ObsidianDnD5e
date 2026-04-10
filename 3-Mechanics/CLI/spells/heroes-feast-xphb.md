@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/druid
+- ttrpg-cli/spell/feat/boon-of-siberys/mark-of-hospitality
 - ttrpg-cli/spell/level/6th-level
 - ttrpg-cli/spell/school/conjuration
 classes:

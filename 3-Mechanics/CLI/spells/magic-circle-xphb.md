@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/mark-of-warding
 - ttrpg-cli/spell/level/3rd-level
 - ttrpg-cli/spell/school/abjuration
 - ttrpg-cli/spell/subclass/abjurer

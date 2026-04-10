@@ -7,6 +7,8 @@ tags:
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/paladin
+- ttrpg-cli/spell/feat/mark-of-handling
+- ttrpg-cli/spell/feat/mark-of-healing
 - ttrpg-cli/spell/level/4th-level
 - ttrpg-cli/spell/school/abjuration
 - ttrpg-cli/spell/subclass/life-domain

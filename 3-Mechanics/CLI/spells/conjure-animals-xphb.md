@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/ranger
+- ttrpg-cli/spell/feat/mark-of-handling
 - ttrpg-cli/spell/level/3rd-level
 - ttrpg-cli/spell/reward/charm-of-animal-conjuring
 - ttrpg-cli/spell/school/conjuration

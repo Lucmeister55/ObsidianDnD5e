@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
+- ttrpg-cli/spell/feat/boon-of-siberys/mark-of-handling
 - ttrpg-cli/spell/level/8th-level
 - ttrpg-cli/spell/school/transmutation
 classes:

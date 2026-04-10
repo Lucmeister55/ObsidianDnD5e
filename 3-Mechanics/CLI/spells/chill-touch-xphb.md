@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/aberrant-dragonmark
 - ttrpg-cli/spell/feat/cold-caster
 - ttrpg-cli/spell/feat/initiate-of-high-sorcery/solinari
 - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
@@ -14,6 +15,7 @@ tags:
 - ttrpg-cli/spell/level/cantrip
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
 - ttrpg-cli/spell/race/elf/high-elf
+- ttrpg-cli/spell/race/khoravar
 - ttrpg-cli/spell/race/tiefling/chthonic
 - ttrpg-cli/spell/school/necromancy
 - ttrpg-cli/spell/subclass/arcane-trickster

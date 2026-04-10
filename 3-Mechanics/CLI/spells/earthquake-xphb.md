@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/sorcerer
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
 - ttrpg-cli/spell/level/8th-level
 - ttrpg-cli/spell/school/transmutation
 classes:

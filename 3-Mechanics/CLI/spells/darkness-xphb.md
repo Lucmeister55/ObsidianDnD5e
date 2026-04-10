@@ -8,6 +8,8 @@ tags:
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+- ttrpg-cli/spell/feat/mark-of-shadow
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/race/elf/drow
 - ttrpg-cli/spell/race/tiefling/infernal

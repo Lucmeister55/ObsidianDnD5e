@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/paladin
+- ttrpg-cli/spell/feat/mark-of-passage
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/school/conjuration
 classes:

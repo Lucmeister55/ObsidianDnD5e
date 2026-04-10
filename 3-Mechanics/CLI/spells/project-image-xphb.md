@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/boon-of-siberys/mark-of-shadow
 - ttrpg-cli/spell/level/7th-level
 - ttrpg-cli/spell/school/illusion
 - ttrpg-cli/spell/subclass/illusionist

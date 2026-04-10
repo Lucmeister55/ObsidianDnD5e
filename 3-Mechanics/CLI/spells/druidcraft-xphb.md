@@ -10,6 +10,7 @@ tags:
 - ttrpg-cli/spell/level/cantrip
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
 - ttrpg-cli/spell/race/elf/wood-elf
+- ttrpg-cli/spell/race/khoravar
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/circle-of-the-land
 - ttrpg-cli/spell/subclass/college-of-lore

@@ -7,6 +7,8 @@ tags:
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/feat/adept-of-the-black-robes
+- ttrpg-cli/spell/feat/mark-of-handling
+- ttrpg-cli/spell/feat/mark-of-hospitality
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/school/enchantment
 - ttrpg-cli/spell/subclass/aberrant-mind

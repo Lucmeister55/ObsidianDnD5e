@@ -8,6 +8,8 @@ tags:
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/mark-of-detection
+- ttrpg-cli/spell/feat/mark-of-finding
 - ttrpg-cli/spell/level/4th-level
 - ttrpg-cli/spell/ritual
 - ttrpg-cli/spell/school/divination

@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
+- ttrpg-cli/spell/feat/mark-of-hospitality
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/abjuration
 - ttrpg-cli/spell/subclass/the-fiend

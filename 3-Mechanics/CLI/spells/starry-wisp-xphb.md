@@ -11,6 +11,7 @@ tags:
 - ttrpg-cli/spell/feat/spell-sniper
 - ttrpg-cli/spell/level/cantrip
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
+- ttrpg-cli/spell/race/khoravar
 - ttrpg-cli/spell/school/evocation
 - ttrpg-cli/spell/subclass/circle-of-the-land
 - ttrpg-cli/spell/subclass/circle-of-the-moon

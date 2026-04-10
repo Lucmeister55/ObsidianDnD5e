@@ -5,6 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/sorcerer
+- ttrpg-cli/spell/feat/aberrant-dragonmark
 - ttrpg-cli/spell/feat/magic-initiate
 - ttrpg-cli/spell/feat/spell-sniper
 - ttrpg-cli/spell/level/cantrip

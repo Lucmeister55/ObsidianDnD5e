@@ -6,11 +6,14 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
+- ttrpg-cli/spell/feat/mark-of-healing
 - ttrpg-cli/spell/level/3rd-level
 - ttrpg-cli/spell/school/abjuration
+- ttrpg-cli/spell/subclass/alchemist
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/life-domain
 classes:
+- Artificer (Alchemist)
 - Bard
 - Bard (College of Lore)
 - Cleric
@@ -31,6 +34,6 @@ Up to six creatures of your choice that you can see within range regain [Hit Poi
 
 **Using a Higher-Level Spell Slot.** The healing increases by `dice:1d4|noform|noparens|avg|text(1d4)` for each spell slot level above 3.
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/3-Mechanics/CLI/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
+**Classes**: [Artificer (Alchemist)](/3-Mechanics/CLI/lists/list-spells-classes-alchemist-efa.md "subclass=EFA;class=EFA"); [Artificer (Alchemist)](/3-Mechanics/CLI/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/3-Mechanics/CLI/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
 
 *Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/feat/fey-touched
+- ttrpg-cli/spell/feat/mark-of-sentinel
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/school/enchantment
 classes:

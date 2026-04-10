@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
+- ttrpg-cli/spell/feat/mark-of-sentinel
 - ttrpg-cli/spell/level/4th-level
 - ttrpg-cli/spell/school/conjuration
 - ttrpg-cli/spell/subclass/celestial-patron

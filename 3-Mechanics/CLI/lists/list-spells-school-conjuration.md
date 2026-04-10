@@ -34,6 +34,7 @@ aliases:
 - [Deryan's Helpful Homunculi](/3-Mechanics/CLI/spells/deryans-helpful-homunculi-frhof.md "FRHoF")
 - [Find Steed](/3-Mechanics/CLI/spells/find-steed-xphb.md "XPHB")
 - [Flaming Sphere](/3-Mechanics/CLI/spells/flaming-sphere-xphb.md "XPHB")
+- [Homunculus Servant](/3-Mechanics/CLI/spells/homunculus-servant-efa.md "EFA")
 - [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md "XPHB")
 - [Summon Beast](/3-Mechanics/CLI/spells/summon-beast-xphb.md "XPHB")
 - [Web](/3-Mechanics/CLI/spells/web-xphb.md "XPHB")

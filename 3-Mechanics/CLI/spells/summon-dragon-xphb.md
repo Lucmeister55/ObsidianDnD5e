@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/boon-of-siberys
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/conjuration
 - ttrpg-cli/spell/subclass/draconic-sorcery

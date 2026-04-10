@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/feat/divinely-favored/evil
 - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+- ttrpg-cli/spell/feat/mark-of-scribing
 - ttrpg-cli/spell/feat/ritual-caster
 - ttrpg-cli/spell/feat/shadow-touched
 - ttrpg-cli/spell/level/1st-level

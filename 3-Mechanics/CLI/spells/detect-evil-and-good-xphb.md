@@ -11,6 +11,7 @@ tags:
 - ttrpg-cli/spell/feat/fey-touched
 - ttrpg-cli/spell/feat/initiate-of-high-sorcery/solinari
 - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
+- ttrpg-cli/spell/feat/mark-of-detection
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/college-of-lore

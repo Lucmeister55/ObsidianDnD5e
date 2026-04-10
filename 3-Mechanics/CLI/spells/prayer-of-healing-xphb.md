@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/feat/adept-of-the-white-robes
+- ttrpg-cli/spell/feat/mark-of-healing
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/school/abjuration
 - ttrpg-cli/spell/subclass/college-of-lore

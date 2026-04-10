@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/feat/adept-of-the-white-robes
 - ttrpg-cli/spell/feat/enclave-magic
+- ttrpg-cli/spell/feat/mark-of-handling
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/ritual
 - ttrpg-cli/spell/school/divination

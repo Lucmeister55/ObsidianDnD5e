@@ -6,6 +6,12 @@ cssclasses:
 ---
 # Index of Classes
 
+- [Artificer: Alchemist](./artificer-alchemist-efa.md)
+- [Artificer: Armorer](./artificer-armorer-efa.md)
+- [Artificer: Artillerist](./artificer-artillerist-efa.md)
+- [Artificer: Battle Smith](./artificer-battle-smith-efa.md)
+- [Artificer: Cartographer](./artificer-cartographer-efa.md)
+- [Artificer](./artificer-efa.md)
 - [Barbarian: Path of the Berserker](./barbarian-xphb-path-of-the-berserker-xphb.md)
 - [Barbarian: Path of the Wild Heart](./barbarian-xphb-path-of-the-wild-heart-xphb.md)
 - [Barbarian: Path of the World Tree](./barbarian-xphb-path-of-the-world-tree-xphb.md)

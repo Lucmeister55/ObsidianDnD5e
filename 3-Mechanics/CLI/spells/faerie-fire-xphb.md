@@ -4,18 +4,23 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/class/artificer
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/feat/divinely-favored/neutral
 - ttrpg-cli/spell/feat/magic-initiate/druid-spells
+- ttrpg-cli/spell/feat/mark-of-finding
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/race/elf/drow
 - ttrpg-cli/spell/school/evocation
 - ttrpg-cli/spell/subclass/archfey-patron
+- ttrpg-cli/spell/subclass/cartographer
 - ttrpg-cli/spell/subclass/college-of-lore
 - ttrpg-cli/spell/subclass/light-domain
 - ttrpg-cli/spell/subclass/the-archfey
 classes:
+- Artificer
+- Artificer (Cartographer)
 - Bard
 - Bard (College of Lore)
 - Cleric (Light Domain)
@@ -38,6 +43,6 @@ Objects in a 20-foot [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-x
 
 [Attack](/3-Mechanics/CLI/actions.md#Attack) rolls against an affected creature or object have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) if the attacker can see it.
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Light Domain)](/3-Mechanics/CLI/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Light Domain)](/3-Mechanics/CLI/lists/list-spells-classes-light-domain.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock (Archfey Patron)](/3-Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (The Archfey)](/3-Mechanics/CLI/lists/list-spells-classes-the-archfey.md)
+**Classes**: [Artificer (Cartographer)](/3-Mechanics/CLI/lists/list-spells-classes-cartographer-efa.md "subclass=EFA;class=EFA"); [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Light Domain)](/3-Mechanics/CLI/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Light Domain)](/3-Mechanics/CLI/lists/list-spells-classes-light-domain.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock (Archfey Patron)](/3-Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (The Archfey)](/3-Mechanics/CLI/lists/list-spells-classes-the-archfey.md)
 
 *Source: Player's Handbook (2024) p. 271. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

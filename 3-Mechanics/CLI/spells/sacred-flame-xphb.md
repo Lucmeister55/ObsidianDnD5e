@@ -11,6 +11,7 @@ tags:
 - ttrpg-cli/spell/feat/spellfire-spark
 - ttrpg-cli/spell/level/cantrip
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
+- ttrpg-cli/spell/race/khoravar
 - ttrpg-cli/spell/school/evocation
 - ttrpg-cli/spell/subclass/celestial-patron
 - ttrpg-cli/spell/subclass/college-of-lore

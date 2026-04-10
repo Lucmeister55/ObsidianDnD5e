@@ -8,6 +8,8 @@ tags:
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/feat/adept-of-the-white-robes
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+- ttrpg-cli/spell/feat/mark-of-detection
 - ttrpg-cli/spell/feat/telepathic
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/school/divination

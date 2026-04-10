@@ -7,6 +7,7 @@ tags:
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/druid
+- ttrpg-cli/spell/feat/boon-of-siberys/mark-of-healing
 - ttrpg-cli/spell/level/7th-level
 - ttrpg-cli/spell/school/transmutation
 classes:

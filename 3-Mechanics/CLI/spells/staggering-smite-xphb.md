@@ -6,6 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/level/4th-level
+- ttrpg-cli/spell/reward/charm-of-dhakaan
 - ttrpg-cli/spell/school/enchantment
 classes:
 - Paladin

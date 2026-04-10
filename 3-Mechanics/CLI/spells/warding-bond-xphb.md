@@ -8,10 +8,13 @@ tags:
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/feat/adept-of-the-white-robes
+- ttrpg-cli/spell/feat/mark-of-sentinel
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/school/abjuration
+- ttrpg-cli/spell/subclass/battle-smith
 - ttrpg-cli/spell/subclass/college-of-lore
 classes:
+- Artificer (Battle Smith)
 - Bard
 - Bard (College of Lore)
 - Cleric
@@ -32,6 +35,6 @@ You touch another creature that is willing and create a mystic connection betwee
 
 The spell ends if you drop to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures.
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Artificer (Battle Smith)](/3-Mechanics/CLI/lists/list-spells-classes-battle-smith-efa.md "subclass=EFA;class=EFA"); [Artificer (Battle Smith)](/3-Mechanics/CLI/lists/list-spells-classes-battle-smith-tce.md "subclass=TCE;class=TCE"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
 *Source: Player's Handbook (2024) p. 340. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
