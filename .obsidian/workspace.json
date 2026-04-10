@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bf76b638c3803e5e",
+        "id": "54c6df8430f5cc37",
         "type": "tabs",
         "children": [
           {
-            "id": "93518c4bbebf0d6b",
+            "id": "5ee5d21ffcf5149b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "3-Mechanics/CLI/classes/img/039-03-015-barbarian-weapons.webp"
+                "file": "3-Mechanics/SRD/Monsters/Cultist (NPC).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "039-03-015-barbarian-weapons"
+              "icon": "lucide-file",
+              "title": "Cultist (NPC)"
             }
           }
         ]
@@ -193,8 +195,24 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "550cf2dc1987b388",
+  "active": "5ee5d21ffcf5149b",
   "lastOpenFiles": [
+    "3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md",
+    "3-Mechanics/CLI/adventures/curse-of-strahd/07-chapter-5-the-town-of-vallaki.md",
+    "3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md",
+    "3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/04-chapter-3-when-home-burns.md",
+    "3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/03-chapter-2-prelude-to-war.md",
+    "3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/06-chapter-5-the-northern-wastes.md",
+    "3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md",
+    "3-Mechanics/CLI/bestiary/aberration/aberrant-spirit-beholderkin-xphb.md",
+    "1. Campaigns/Curse of Strahd/Musica Rock.md",
+    "3-Mechanics/CLI/adventures/curse-of-strahd/15-chapter-13-the-amber-temple.md",
+    "3-Mechanics/CLI/adventures/curse-of-strahd/14-chapter-12-the-wizard-of-wines.md",
+    "3-Mechanics/CLI/bestiary/npc/exethanter-cos.md",
+    "1. Campaigns/Curse of Strahd",
+    "3-Mechanics/CLI/skills.md",
+    "3-Mechanics/CLI/bestiary/npc/davian-martikov-cos.md",
+    "3-Mechanics/CLI/classes/img/039-03-015-barbarian-weapons.webp",
     "3-Mechanics/CLI/vehicles/token/strider-airship-efa.webp",
     "3-Mechanics/CLI/vehicles/token/lyrandar-skyskiff-efa.webp",
     "3-Mechanics/CLI/vehicles/token/lyrandar-air-cruiser-efa.webp",
@@ -213,24 +231,9 @@
     "3-Mechanics/CLI/tables/dragonmarked-intrigue-adventures-house-intrigue-efa.md",
     "3-Mechanics/CLI/tables/crashing-crash-damage-efa.md",
     "3-Mechanics/CLI/tables/building-a-party-party-makeup-efa.md",
-    "3-Mechanics/CLI/tables/airborne-encounters-efa.md",
-    "3-Mechanics/CLI/tables/age-of-demons-finds-efa.md",
-    "3-Mechanics/CLI/spells/homunculus-servant-efa.md",
-    "3-Mechanics/CLI/rewards/manifest-charm-of-xoriat-the-realm-of-delirium-efa.md",
-    "3-Mechanics/CLI/rewards/manifest-charm-of-thelanis-the-faerie-court-efa.md",
-    "3-Mechanics/CLI/rewards/manifest-charm-of-syrania-the-azure-sky-efa.md",
-    "3-Mechanics/CLI/rewards/manifest-charm-of-shavarath-the-battleground-efa.md",
-    "3-Mechanics/CLI/rewards/manifest-charm-of-risia-the-plain-of-ice-efa.md",
-    "3-Mechanics/CLI/rewards/manifest-charm-of-mabar-the-endless-night-efa.md",
-    "3-Mechanics/CLI/rewards/manifest-charm-of-lamannia-the-twilight-forest-efa.md",
-    "3-Mechanics/CLI/rewards/manifest-charm-of-irian-the-eternal-dawn-efa.md",
-    "3-Mechanics/CLI/rewards/manifest-charm-of-fernia-the-sea-of-fire-efa.md",
-    "3-Mechanics/CLI/rewards/manifest-charm-of-dolurrh-the-realm-of-the-dead-efa.md",
     "3-Mechanics/CLI/races/img/warforged.webp",
     "3-Mechanics/CLI/races/img/shifter.webp",
     "3-Mechanics/CLI/races/img/khoravar.webp",
-    "3-Mechanics/CLI/races/img/kalashtar.webp",
-    "3-Mechanics/CLI/races/img/changeling.webp",
     "3-Mechanics/CLI/books/eberron-forge-of-the-artificer/img",
     "3-Mechanics/CLI/books/eberron-forge-of-the-artificer",
     "3-Mechanics/CLI/adventures/curse-of-strahd/img",
@@ -239,7 +242,6 @@
     "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/World",
     "3-Mechanics/CLI/vehicles/token",
     "3-Mechanics/CLI/vehicles/img",
-    "3-Mechanics/CLI/traps-hazards/img",
-    "3-Mechanics/CLI/spells/img"
+    "3-Mechanics/CLI/traps-hazards/img"
   ]
 }
