@@ -11,10 +11,14 @@
             "id": "9e2c89dc5783a1a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3-Mechanics/CLI/classes/artificer-alchemist-efa.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "artificer-alchemist-efa"
             }
           }
         ]
@@ -193,6 +197,11 @@
   },
   "active": "550cf2dc1987b388",
   "lastOpenFiles": [
+    "3-Mechanics/CLI/classes/wizard-xphb-illusionist-xphb.md",
+    "3-Mechanics/CLI/classes/fighter-xphb-banneret-frhof.md",
+    "3-Mechanics/CLI/classes/barbarian-xphb-path-of-the-zealot-xphb.md",
+    "3-Mechanics/CLI/classes/artificer-alchemist-efa.md",
+    "3-Mechanics/SRD/Monsters/Cultist (NPC).md",
     "3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md",
     "3-Mechanics/CLI/adventures/curse-of-strahd/07-chapter-5-the-town-of-vallaki.md",
     "3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md",
@@ -201,11 +210,11 @@
     "3-Mechanics/CLI/adventures/dragonlance-shadow-of-the-dragon-queen/06-chapter-5-the-northern-wastes.md",
     "3-Mechanics/CLI/bestiary/npc/belephaion-dsotdq.md",
     "3-Mechanics/CLI/bestiary/aberration/aberrant-spirit-beholderkin-xphb.md",
-    "1. Campaigns/Curse of Strahd/Musica Rock.md",
+    "1-Campaigns/Curse of Strahd/Musica Rock.md",
     "3-Mechanics/CLI/adventures/curse-of-strahd/15-chapter-13-the-amber-temple.md",
     "3-Mechanics/CLI/adventures/curse-of-strahd/14-chapter-12-the-wizard-of-wines.md",
     "3-Mechanics/CLI/bestiary/npc/exethanter-cos.md",
-    "1. Campaigns/Curse of Strahd",
+    "1-Campaigns/Curse of Strahd",
     "3-Mechanics/CLI/skills.md",
     "3-Mechanics/CLI/bestiary/npc/davian-martikov-cos.md",
     "3-Mechanics/CLI/classes/img/039-03-015-barbarian-weapons.webp",
@@ -222,11 +231,6 @@
     "3-Mechanics/CLI/tables/xendrik-journeys-efa.md",
     "3-Mechanics/CLI/tables/weather-hazards-environmental-hazards-efa.md",
     "3-Mechanics/CLI/tables/trek-to-the-temple-jungle-mishaps-efa.md",
-    "3-Mechanics/CLI/tables/special-facilities-efa.md",
-    "3-Mechanics/CLI/tables/encounter-distance-airship-travel-conditions-efa.md",
-    "3-Mechanics/CLI/tables/dragonmarked-intrigue-adventures-house-intrigue-efa.md",
-    "3-Mechanics/CLI/tables/crashing-crash-damage-efa.md",
-    "3-Mechanics/CLI/tables/building-a-party-party-makeup-efa.md",
     "3-Mechanics/CLI/races/img/warforged.webp",
     "3-Mechanics/CLI/races/img/shifter.webp",
     "3-Mechanics/CLI/races/img/khoravar.webp",
@@ -234,8 +238,8 @@
     "3-Mechanics/CLI/books/eberron-forge-of-the-artificer",
     "3-Mechanics/CLI/adventures/curse-of-strahd/img",
     "3-Mechanics/CLI/adventures/curse-of-strahd",
-    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts",
-    "1. Campaigns/Dragonlance_Shadow of the Dragon Queen/World",
+    "1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts",
+    "1-Campaigns/Dragonlance_Shadow of the Dragon Queen/World",
     "3-Mechanics/CLI/vehicles/token",
     "3-Mechanics/CLI/vehicles/img",
     "3-Mechanics/CLI/traps-hazards/img"
