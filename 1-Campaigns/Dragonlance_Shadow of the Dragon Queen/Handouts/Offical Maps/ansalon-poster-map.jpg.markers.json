@@ -1,0 +1,33 @@
+{
+  "size": {
+    "w": 4096,
+    "h": 2926
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts/Offical Maps/ansalon-poster-map.jpg"
+  ],
+  "overlays": [],
+  "activeBase": "1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts/Offical Maps/ansalon-poster-map.jpg",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {},
+  "textLayers": []
+}
