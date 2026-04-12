@@ -2,7 +2,7 @@
   "frames": [
     {
       "url": "https://www.dndbeyond.com/characters/152982905",
-      "displayName": "DnBAlric",
+      "displayName": "DnBEdric",
       "icon": "",
       "hideOnMobile": true,
       "addRibbonIcon": false,
@@ -13,8 +13,44 @@
       "customJs": ""
     },
     {
-      "url": "",
-      "displayName": "New Frame",
+      "url": "https://www.dndbeyond.com/characters/151083038",
+      "displayName": "DnBDavos",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/152983153",
+      "displayName": "DnBThorn",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/152983642",
+      "displayName": "DnBTink",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/152983732",
+      "displayName": "DnBWurm",
       "icon": "",
       "hideOnMobile": true,
       "addRibbonIcon": false,
