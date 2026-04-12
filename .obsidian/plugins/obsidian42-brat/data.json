@@ -1,0 +1,29 @@
+{
+  "pluginList": [
+    "Jareika/obsidian-ttrpg-soundboard",
+    "Jareika/Simple-Timeline"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "Jareika/obsidian-ttrpg-soundboard",
+      "version": "latest"
+    },
+    {
+      "repo": "Jareika/Simple-Timeline",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}

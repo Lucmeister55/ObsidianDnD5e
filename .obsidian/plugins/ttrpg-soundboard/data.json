@@ -1,0 +1,63 @@
+{
+  "settings": {
+    "rootFolder": "Soundbar",
+    "includeRootFiles": false,
+    "folders": [
+      "TTRPG Sounds"
+    ],
+    "extensions": [
+      "mp3",
+      "ogg",
+      "wav",
+      "m4a",
+      "flac"
+    ],
+    "defaultFadeInMs": 3000,
+    "defaultFadeOutMs": 3000,
+    "allowOverlap": true,
+    "masterVolume": 1,
+    "mediaElementThresholdMB": 25,
+    "ambienceVolume": 1,
+    "simpleView": false,
+    "folderViewModes": {},
+    "tileHeightPx": 100,
+    "noteIconSizePx": 40,
+    "toolbarFourFolders": false,
+    "maxAudioCacheMB": 512,
+    "thumbnailFolderEnabled": false,
+    "thumbnailFolderPath": "",
+    "arrangementEnabled": false,
+    "arrangementFirst": "default",
+    "arrangementSecond": "default",
+    "arrangementThird": "default",
+    "style": {
+      "sounds": {
+        "cardBg": "",
+        "cardBorder": "",
+        "tileBorder": "",
+        "buttonBg": "",
+        "buttonBorder": "",
+        "buttonColor": ""
+      },
+      "ambience": {
+        "cardBg": "",
+        "cardBorder": "",
+        "tileBorder": "",
+        "buttonBg": "",
+        "buttonBorder": "",
+        "buttonColor": ""
+      },
+      "playlists": {
+        "cardBg": "",
+        "cardBorder": "",
+        "tileBorder": "",
+        "buttonBg": "",
+        "buttonBorder": "",
+        "buttonColor": ""
+      }
+    }
+  },
+  "soundPrefs": {},
+  "playlistPrefs": {},
+  "durations": {}
+}

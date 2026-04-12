@@ -1,0 +1,15 @@
+{
+  "dateFormat": "D MMMM YYYY",
+  "cardWidth": 200,
+  "cardHeight": 315,
+  "boxHeight": 289,
+  "sideGapLeft": 40,
+  "sideGapRight": 40,
+  "maxSummaryLines": 7,
+  "defaultColors": {},
+  "timelineConfigs": {},
+  "monthOverrides": {},
+  "styleOverrides": {},
+  "migratedLegacy": true,
+  "enableBasesIntegration": false
+}
