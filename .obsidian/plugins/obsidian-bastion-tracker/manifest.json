@@ -1,0 +1,10 @@
+{
+	"id": "bastion-tracker",
+	"name": "Bastion Tracker",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Automated tracking and management system for D&D 5.5e Bastions - manage facilities, hirelings, defenders, and bastion turns.",
+	"author": "Your Name",
+	"authorUrl": "https://obsidian.md",
+	"isDesktopOnly": false
+}
