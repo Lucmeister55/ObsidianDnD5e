@@ -5,31 +5,7 @@
   "trackGold": true,
   "trackTurns": true,
   "turnFrequencyDays": 7,
-  "bastions": {
-    "bastion-1776094888420": {
-      "id": "bastion-1776094888420",
-      "name": "New Bastion",
-      "characterName": "",
-      "level": 5,
-      "description": "",
-      "facilities": [
-        {
-          "id": "facility-1776094891676",
-          "name": "New Facility",
-          "type": "basic",
-          "spaceType": "Roomy",
-          "size": 16,
-          "isUpgraded": false,
-          "description": "",
-          "availableOrders": [],
-          "notes": ""
-        }
-      ],
-      "hirelings": [],
-      "defenders": 0,
-      "gold": 0,
-      "createdAt": 1776094888420,
-      "lastUpdated": 1776094899164
-    }
-  }
+  "restrictToLevelRequirements": true,
+  "restrictMaxSpecialFacilities": true,
+  "bastions": {}
 }
