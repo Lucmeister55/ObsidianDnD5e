@@ -1,0 +1,42 @@
+{
+  "size": {
+    "w": 1700,
+    "h": 2429
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts/Offical Maps/map-12.01-kalaman-northern-wastes.png"
+  ],
+  "overlays": [],
+  "activeBase": "1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts/Offical Maps/map-12.01-kalaman-northern-wastes.png",
+  "measurement": {
+    "scales": {
+      "1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts/Offical Maps/map-12.01-kalaman-northern-wastes.png": 110.25328517222165
+    },
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [
+      "tt-1fbha8"
+    ],
+    "travelDaysEnabled": true,
+    "displayUnit": "km",
+    "metersPerPixel": 110.25328517222165,
+    "travelDayPresetId": "tpd-6r93if"
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}

@@ -1,0 +1,170 @@
+{
+  "icons": [
+    {
+      "key": "pinRed",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%3E%0A%20%20%3Cpath%20fill%3D%22%23d23c3c%22%20d%3D%22M12%202a7%207%200%200%200-7%207c0%205.25%207%2013%207%2013s7-7.75%207-13a7%207%200%200%200-7-7m0%209.5A2.5%202.5%200%201%201%2012%206.5a2.5%202.5%200%200%201%200%205Z%22%2F%3E%0A%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "inCollections": true
+    },
+    {
+      "key": "pinBlue",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2224%22%20viewBox%3D%220%200%2024%2024%22%3E%0A%20%20%3Cpath%20fill%3D%22%233c62d2%22%20d%3D%22M12%202a7%207%200%200%200-7%207c0%205.25%207%2013%207%2013s7-7.75%207-13a7%207%200%200%200-7-7m0%209.5A2.5%202.5%200%201%201%2012%206.5a2.5%202.5%200%200%201%200%205Z%22%2F%3E%0A%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "inCollections": true
+    }
+  ],
+  "defaultIconKey": "pinRed",
+  "wheelZoomFactor": 1.1,
+  "panMouseButton": "left",
+  "hoverMaxWidth": 360,
+  "applyHoverPopoverSizeGlobally": false,
+  "hoverMaxHeight": 260,
+  "showLinkFileNameInTooltip": false,
+  "presets": [],
+  "stickerPresets": [],
+  "defaultWidth": "100%",
+  "defaultHeight": "480px",
+  "defaultResizable": false,
+  "defaultResizeHandle": "right",
+  "forcePopoverWithoutModKey": true,
+  "measureLineColor": "var(--text-accent)",
+  "measureLineWidth": 2,
+  "storageDefault": "json",
+  "defaultWidthWrapped": "50%",
+  "baseCollections": [],
+  "pinPlaceOpensEditor": false,
+  "libraryFilePath": "ZoomMap/library.json",
+  "faFolderPath": "ZoomMap/SVGs",
+  "customUnits": [],
+  "travelTimePresets": [],
+  "travelPerDay": {
+    "value": 8,
+    "unit": "h"
+  },
+  "travelRulesPacks": [
+    {
+      "id": "trp-ms7n6l",
+      "name": "Default travel rules",
+      "enabled": false,
+      "customUnits": [],
+      "travelTimePresets": [],
+      "travelPerDay": {
+        "value": 8,
+        "unit": "h"
+      }
+    },
+    {
+      "id": "trp-jly1ye",
+      "name": "Kalaman Region and Northern Wastes",
+      "enabled": true,
+      "customUnits": [],
+      "terrains": [
+        {
+          "id": "ter-9xp081",
+          "name": "Road",
+          "factor": 1.15
+        },
+        {
+          "id": "ter-105qm6",
+          "name": "Open ground",
+          "factor": 1
+        },
+        {
+          "id": "ter-j99cru",
+          "name": "Forest/Hills",
+          "factor": 0.7
+        },
+        {
+          "id": "ter-btnc2o",
+          "name": "Rough ground",
+          "factor": 0.55
+        }
+      ],
+      "travelTimePresets": [
+        {
+          "id": "tt-1fbha8",
+          "name": "Foot",
+          "distanceValue": 4.5,
+          "distanceUnit": "km",
+          "timeValue": 1,
+          "timeUnit": "h"
+        },
+        {
+          "id": "tt-ej5csx",
+          "name": "Horse (Riding)",
+          "distanceValue": 8,
+          "distanceUnit": "km",
+          "timeValue": 1,
+          "timeUnit": "h"
+        },
+        {
+          "id": "tt-zs4ae8",
+          "name": "Wagon/Cart",
+          "distanceValue": 4,
+          "distanceUnit": "km",
+          "timeValue": 1,
+          "timeUnit": "h"
+        },
+        {
+          "id": "tt-bkmjyc",
+          "name": "Boat (river/coastal)",
+          "distanceValue": 6.5,
+          "distanceUnit": "km",
+          "timeValue": 1,
+          "timeUnit": "h"
+        },
+        {
+          "id": "tt-lv598i",
+          "name": "Army (with supplies)",
+          "distanceValue": 2.5,
+          "distanceUnit": "km",
+          "timeValue": 1,
+          "timeUnit": "h"
+        }
+      ],
+      "travelPerDayPresets": [
+        {
+          "id": "tpd-1j62li",
+          "name": "half-day march",
+          "value": 4,
+          "unit": "h"
+        },
+        {
+          "id": "tpd-6r93if",
+          "name": "standard march",
+          "value": 8,
+          "unit": "h"
+        },
+        {
+          "id": "tpd-qrvgjx",
+          "name": "forced march",
+          "value": 10,
+          "unit": "h"
+        }
+      ],
+      "travelPerDay": {
+        "value": 4,
+        "unit": "h"
+      }
+    }
+  ],
+  "defaultScaleLikeSticker": false,
+  "enableDrawing": false,
+  "preferActiveLayerInEditor": false,
+  "enableTextLayers": false,
+  "enableMeasurePro": false,
+  "enableSessionImageCache": false,
+  "sessionImageCacheMb": 512,
+  "keepOverlaysLoaded": false,
+  "preferCanvasImagesWhenCaching": false,
+  "svgRasterMaxScale": 8,
+  "showImageIconPreviewInSettings": false,
+  "enableGrid": false,
+  "middleClickOpensLinkInNewTab": false,
+  "enableSecondScreen": false,
+  "secondScreenFolder": "ZoomMap/SecondScreen"
+}
