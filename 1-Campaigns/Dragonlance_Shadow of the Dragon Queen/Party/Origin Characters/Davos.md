@@ -8,15 +8,21 @@
 
 ## Backstory
 
+### Early life
+
 Davos grew up in a poor family in **Relgoth**, the capital of the province of Vingaard on the Plains of Solamnia. The city lies along the Knight’s High Road, northwest of Delgaard and southeast of Ryn, set within a dry, bowl-shaped valley near the Vingaard River. Though a place of strategic importance and long Solamnic history, Relgoth in the Age of Despair is marked by uneven recovery, lingering instability, and the social strain of post-war reconstruction.
 
 His family lived in the lower districts outside the older fortified core, where trade workers, river laborers, and minor artisans struggled to maintain stability in a city still recovering from centuries of conflict and recent occupation. His parents are still alive, as are his younger brother and sister, and the family survives by scraping together honest work whenever it can be found.
 
 As the eldest child, Davos learned early that hunger does not wait for talent. He grew up watching his parents stretch meager meals, bargain for work, and keep the household together through sheer stubbornness. That pressure made him sharp, quick-thinking, and unwilling to waste any advantage. He became used to reading people, anticipating trouble, and finding the angle that let everyone make it through another day.
 
-From a young age, Davos’s connection to magic was subtle rather than overt. He did not manifest obvious power as a child, nor did he display the kind of raw talent that draws immediate attention. Instead, it showed itself in quieter, more unsettling ways. He often found himself staring up at the moons for long stretches of time without knowing why, drawn to their shifting light. His sleep was restless, filled with strange, recurring dreams—visions of silver radiance, crimson shadows, and distant whispers he could never quite remember upon waking. At the time, these were dismissed as harmless oddities, the byproduct of an imaginative mind shaped by hardship.
+From a young age, Davos's connection to magic was subtle rather than overt. He did not manifest obvious power as a child, nor did he display the kind of raw talent that draws immediate attention. Instead, it showed itself in quieter, more unsettling ways. He often found himself staring up at the moons for long stretches of time without knowing why, drawn to their shifting light. His sleep was restless, filled with strange, recurring dreams—visions of silver radiance, crimson shadows, and distant whispers he could never quite remember upon waking. At the time, these were dismissed as harmless oddities, the byproduct of an imaginative mind shaped by hardship.
 
-As he grew older, desperation began to shape his choices more than curiosity ever had. Living in poverty in Relgoth, with a family that depended on him, Davos learned to take risks when necessity demanded it. One such risk went too far. He was caught stealing and attempted to flee, but was seized before he could escape. A guard pinned him, hand at his throat, tightening his grip while threatening to have his entire family taken in retribution.
+### A fatal mistake
+
+As he grew older, desperation began to shape his choices more than curiosity ever had. Living in poverty in Relgoth, with a family that depended on him, Davos learned to take risks when necessity demanded it. One such risk went too far. Posing as a hedge-mage, he began selling “enchanted” charms and minor trinkets—tokens he claimed carried protective wards or lingering spellwork, but which were little more than clever fabrications dressed in arcane language.
+
+For a time, the deception worked. People wanted to believe, and Davos was careful in choosing his marks. But eventually, he crossed the wrong person. A city guard, suspicious after purchasing one of these charms, confronted him publicly. When pressed, Davos tried to deflect and slip away, but the situation escalated too quickly. He was seized before he could escape, forced to the ground as the guard’s grip tightened at his throat, threats spilling out—of prison, of punishment, of consequences that would not end with him alone but fall upon his family as well.
 
 In that moment of panic, something within Davos broke open. By chance—or fate—Nuitari was full that night, and its influence flooded through him. The power was sudden, overwhelming, and completely beyond his control. In a blind surge of fear and instinct, he unleashed sorcery that killed the guard where he stood.
 
@@ -30,15 +36,21 @@ The Mages interpreted this as more than coincidence. They invoked an obscure and
 
 Despite this, Davos himself never embraced their ideals. He saw the Order for what it was: powerful, insulated, and largely composed of those who had never known real hunger or consequence. He distrusted their talk of balance and responsibility, even as he accepted what they offered. They gave him structure, training, and most importantly, a steady income—one he sent almost entirely back to his family in Relgoth. Just as importantly, they gave him protection. Without them, he would still be a condemned man.
 
-On **Newkolt 1, 351 AC**, during the Night of the Eye, Davos was sent to the Barb, a ruined spire near Maelgoth that awakens with magic during the moons’ alignment. There, he underwent the Trial of the Barb. True to form, he did not meet the challenge through discipline or obedience, but through perception and cunning—reading the structure of the test, exploiting what others might overlook, and refusing to follow the expected path.
+### Trial of the Barb
 
-However, his success did not go unchallenged. The overseeing mage warned him that his instinct to cut corners and bend rules, while effective, was dangerous. Power gained without restraint, they cautioned, would not remain under his control forever. If left unchecked, that same instinct would lead him down a darker path—one where cleverness became justification, and justification became corruption.
+On **Newkolt 1, 351 AC**, during the Night of the Eye, Davos was sent to the Barb, a ruined spire near Maelgoth that awakens with magic during the moons’ alignment. There, he underwent the Trial of the Barb, marking his first true step toward the Mages of High Sorcery. There he was met by Rovina, a mage of the Red Robes, who introduced both herself and the purpose of the gathering. She spoke at length about the three Orders—White, Red, and Black—explaining their differing philosophies and the balance they were meant to uphold. Each initiate was asked to reflect on their own beliefs and declare which path they felt most aligned with, not as a binding choice, but as a measure of their current nature.
 
-After passing the trial, Davos was sent to **Kalaman**, where he was taken in at the castle as a ward to study and train as a strategist under military leadership. His magical talent made him useful, but his real value was his ability to think several moves ahead. Not long after, he was also ordered to travel with the knightly retinue to **Vogler** to attend **Ser Ispin Greenshield’s funeral**, tying his apprenticeship directly to the events unfolding there.
+Once this was done, Rovina led the initiates to a sealed chamber, explaining only what was necessary. The trial within would test both magical aptitude and personal character, much like the true Test of High Sorcery they might one day face. Their goal was simple: retrieve an orb from within and place it upon a pedestal at the center of the room. She warned them that the chamber existed only for the duration of the Night of the Eye, and that failure to complete the task before its end would result in their expulsion.
 
-He remains bound to the Order for several reasons: coercion, the threat of what could be done with the truth of his past, the salary that keeps his family fed, and the fact that he genuinely enjoys what power he has gained. Even so, his training began late, and he still does not fully control his magic. The phases of the moons affect him strongly, shaping both his mood and the way his spells manifest. He is brightest and most stable under the right alignment, and most volatile when the wrong moon dominates.
+Upon entering, Davos found himself in a circular chamber, dim and oppressive, with the faint sound of movement echoing through the space. Each orb they sought hung from the neck of a creature lurking within—a young basilisk, blind but dangerous. The trial quickly revealed itself to be more than a test of strength. Stealth, timing, restraint, and judgment all played their part. The creatures reacted not only to presence, but to sound and spellcasting, forcing careful decisions in every moment.
 
-He is now caught between three pressures at once: his family’s needs, the demands of the Mages of High Sorcery, and the rising war around Kalaman and Vogler. He has the power to matter, but not yet the wisdom to know what kind of mage he will become.
+Davos faced a choice: whether to strike decisively, to act cautiously, or to find a path that avoided unnecessary harm. The trial did not demand a single solution, but it observed every action. When he finally claimed an orb and placed it upon the pedestal, its color shifted—white, red, or black—reflecting not his stated preference, but the truth of his behavior within the trial.
+
+When Davos returned, Rovina offered her congratulations and explained the meaning behind the orb’s color. She made it clear that no result was failure, only insight. As a final step, she entrusted Davos with a sealed scroll, instructing him to deliver it—unopened and intact—to the mage Wyhan in Kalaman. Wyhan, she explained, would serve as his contact within the Order and guide his next steps, including determining when he would be ready to face the true Test of High Sorcery. With that, Rovina offered no further answers, only a knowing smile, leaving Davos with the sense that the trial had revealed more than it had explained.
+
+### Entrypoint
+
+After passing the trial, Davos was dispatched from Relgoth to Kalaman, taking a route that stayed north of the Vingaard River. His route required him to cross the Vingaard River by ship from Vogler to reach Kalaman. At present, he is in Vogler awaiting passage during the Kingfisher Festival and the funeral of Ispin Greenshield. Upon learning that Knights of Solamnia are also present in town, he recognizes an opportunity to present himself favorably and begin building connections that may support his standing as he moves deeper into the Order’s expectations.
 
 ## Personality
 
@@ -47,6 +59,10 @@ Davos is intelligent, observant, and deeply cynical. He does not trust systems t
 He is outwardly controlled but inwardly restless. He resents authority, especially when it speaks in the language of duty or honor, and he remains wary of the Knights of Solamnia despite his current proximity to them. Their ideals sound noble to him, but he has seen too much hardship to accept them at face value.
 
 At the same time, he is not cruel. He sends nearly everything he earns home to his family, and he takes their welfare seriously. His skepticism comes from experience, not indifference. He wants a better life for the people he loves, even if he has no romantic belief that the world deserves one.
+
+He remains bound to the Order for several reasons: coercion, the threat of what could be done with the truth of his past, the salary that keeps his family fed, and the fact that he genuinely enjoys what power he has gained. Even so, his training began late, and he still does not fully control his magic. The phases of the moons affect him strongly, shaping both his mood and the way his spells manifest. He is brightest and most stable under the right alignment, and most volatile when the wrong moon dominates.
+
+He is now caught between three pressures at once: his family’s needs, the demands of the Mages of High Sorcery, and the rising war around Kalaman and Vogler. He has the power to matter, but not yet the wisdom to know what kind of mage he will become.
 
 ### Personality Traits
 

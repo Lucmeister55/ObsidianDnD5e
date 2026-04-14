@@ -1,6 +1,68 @@
 {
-  "players": [],
-  "parties": [],
+  "players": [
+    {
+      "note": "Davos",
+      "path": "1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Party/Origin Characters/Davos.md",
+      "name": "Davos",
+      "level": 3,
+      "hp": 17,
+      "ac": "12",
+      "modifier": 2,
+      "player": true
+    },
+    {
+      "note": "Aeltharion Caladon (Thorn)",
+      "path": "1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Party/Origin Characters/Aeltharion Caladon (Thorn).md",
+      "name": "Thorn",
+      "level": 3,
+      "hp": 25,
+      "ac": "15",
+      "modifier": 3,
+      "player": true
+    },
+    {
+      "note": "Ser Edric of Brackenridge",
+      "path": "1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Party/Origin Characters/Ser Edric of Brackenridge.md",
+      "name": "Edric",
+      "level": 3,
+      "hp": 28,
+      "ac": "18",
+      "modifier": 0,
+      "player": true
+    },
+    {
+      "note": "Tink",
+      "path": "1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Party/Origin Characters/Tink.md",
+      "name": "Tink",
+      "level": 3,
+      "modifier": 5,
+      "ac": "14",
+      "hp": 18,
+      "player": true
+    },
+    {
+      "note": "Wurm",
+      "path": "1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Party/Origin Characters/Wurm.md",
+      "name": "Wurm",
+      "level": 3,
+      "hp": 41,
+      "ac": "14",
+      "modifier": 1,
+      "player": true
+    }
+  ],
+  "parties": [
+    {
+      "name": "DSotDQ",
+      "players": [
+        "Davos",
+        "Thorn",
+        "Edric",
+        "Tink",
+        "Wurm"
+      ]
+    }
+  ],
   "defaultParty": null,
   "statuses": [
     {
