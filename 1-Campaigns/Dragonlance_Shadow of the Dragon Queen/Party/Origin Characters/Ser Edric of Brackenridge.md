@@ -8,6 +8,8 @@
 
 ## Backstory
 
+### Early life
+
 Edric was born to **Darian and Melia Vellcrest** in the village of **Brackenridge**, a small settlement on the unstable frontier roads of eastern Solamnia, near the borderlands that lead toward the Estwilde and the shadow of the Taman Busuk mountains. At the time of his birth, the region was still relatively peaceful by post-Cataclysm standards—remote, but stable enough for trade wagons to pass and small communities to endure.
 
 Darian Vellcrest was a **cooper and wagonwright**, a practical man who kept the village supplied with repaired carts and barrels needed for survival along the trade roads. He was steady, cautious, and quietly protective of his family, often warning others to “prepare for the worst, even on good days.” He also assisted in **stocking and restocking travelling merchants and caravans** passing through Brackenridge or preparing to cross the roads toward the mountains, ensuring their wagons, supplies, and draft animals were fit for the dangerous journey. Through this work, Edric learned early how to **tend and care for horses**, watching his father manage tired, injured, or anxious animals bound for the frontier routes.
@@ -16,15 +18,23 @@ Melia Vellcrest worked as a **herbal healer and field medic**, tending to injuri
 
 From his father, Edric learned the fundamentals of working with draft animals, learning to tend and care for horses that pulled wagons through the harsh frontier roads. He developed an early affinity for them, finding in horses a rare sense of calm and trust that contrasted with the instability of the world around him. From his mother, he learned basic herbal remedies and field care, assisting her in treating minor wounds, preparing poultices, and stabilizing injured villagers after raids or accidents.
 
+### Homeless
+
 In the year **325 AC**, when Edric was **twelve years old**, Brackenridge was struck by a devastating raid from horse-mounted marauders out of **Khur**, steppe riders from the eastern plains known for swift strikes and ruthless efficiency. The attack shattered the fragile security of the region in a single night. In the chaos of the raid, his father, Darian, was cut down while trying to hold back the attackers, and his mother, Melia, was killed as she shielded Edric from a volley of mounted archers' arrows. The village itself was sacked and burned to the ground, its remaining people broken and scattered.
 
 Edric survived only because he was taken alive in the aftermath, along with other captives who were to be transported east and sold into slavery in Khur. That fate was only prevented by the arrival of a company of Solamnic Knights led by **Ser Ispin Greenshield**, who broke the raiders' hold and freed the prisoners before they could be taken beyond reach. Edric saw, for the first time, what true courage looked like: discipline in the face of chaos, mercy without weakness, and strength used in service of others. He pledged himself to those ideals and, after seeking out Ispin, was reluctantly accepted as a squire.
+
+### Squireship
 
 He trained hard under Ispin's guidance, driven by devotion to the Order and by the need to become someone who could prevent another village from burning. Even so, self-doubt never left him. The memory of his parents' deaths, and the knowledge that he had failed them once, haunts nearly every decision he makes.
 
 When Ser Ispin Greenshield left Kalaman on a routine escort mission, Edric begged to accompany him. Ispin refused, telling him that this was simple work and that his place was to remain behind until the real test came. Days later, the convoy was found destroyed: wagons splintered, horses gone, and the dead marked by strange purple fire that seemed almost alive. Ispin had died shielding a young page. The loss shook Edric deeply and sent him back toward the road with a heart full of grief, duty, and unanswered questions.
 
+### En route to Vogler
+
 A few weeks before the campaign begins, Edric had only just been knighted. The Order was short on experienced knights, and so he was immediately assigned a young squire of his own: **Tomas Vale**, a boy barely old enough to understand the weight being placed on his shoulders. Edric accepted the responsibility with pride, but also with fear, because now he was no longer only responsible for himself.
+
+
 
 ## Personality
 
