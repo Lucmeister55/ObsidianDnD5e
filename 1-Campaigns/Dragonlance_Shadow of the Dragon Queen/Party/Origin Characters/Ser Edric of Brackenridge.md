@@ -28,13 +28,13 @@ Edric survived only because he was taken alive in the aftermath, along with othe
 
 He trained hard under Ispin's guidance, driven by devotion to the Order and by the need to become someone who could prevent another village from burning. Even so, self-doubt never left him. The memory of his parents' deaths, and the knowledge that he had failed them once, haunts nearly every decision he makes.
 
+During his squireship, he trained alongside Darret Highwater, a squire of roughly the same age serving under Becklin Uth Viharin. The two became fast friends through shared drills, long rides, and the quiet understanding that neither fully believed they were yet worthy of the title they pursued. Over time, that shared uncertainty hardened into camaraderie, then into something closer to trust—each pushing the other through exhaustion, mistakes, and the unspoken fear of not measuring up to the ideals they were sworn to uphold.
+
 When Ser Ispin Greenshield left Kalaman on a routine escort mission, Edric begged to accompany him. Ispin refused, telling him that this was simple work and that his place was to remain behind until the real test came. Days later, the convoy was found destroyed: wagons splintered, horses gone, and the dead marked by strange purple fire that seemed almost alive. Ispin had died shielding a young page. The loss shook Edric deeply and sent him back toward the road with a heart full of grief, duty, and unanswered questions.
 
 ### En route to Vogler
 
 A few weeks before the campaign begins, Edric had only just been knighted. The Order was short on experienced knights, and so he was immediately assigned a young squire of his own: **Tomas Vale**, a boy barely old enough to understand the weight being placed on his shoulders. Edric accepted the responsibility with pride, but also with fear, because now he was no longer only responsible for himself.
-
-
 
 ## Personality
 

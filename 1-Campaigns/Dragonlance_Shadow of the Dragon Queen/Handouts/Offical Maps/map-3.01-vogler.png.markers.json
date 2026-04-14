@@ -1,0 +1,39 @@
+{
+  "size": {
+    "w": 1700,
+    "h": 1225
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts/Offical Maps/map-3.01-vogler.png"
+  ],
+  "overlays": [],
+  "activeBase": "1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts/Offical Maps/map-3.01-vogler.png",
+  "measurement": {
+    "scales": {
+      "1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts/Offical Maps/map-3.01-vogler.png": 0.1931952933456085
+    },
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "ft",
+    "metersPerPixel": 0.1931952933456085
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}

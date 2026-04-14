@@ -57,7 +57,13 @@
       }
     }
   },
-  "soundPrefs": {},
-  "playlistPrefs": {},
+  "soundPrefs": {
+    "Soundbar/Music/1-05 - Prelude.mp3": {
+      "volume": 1
+    }
+  },
+  "playlistPrefs": {
+    "Soundbar/Music/FE_Awakening": {}
+  },
   "durations": {}
 }
