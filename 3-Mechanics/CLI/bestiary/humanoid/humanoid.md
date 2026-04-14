@@ -21,7 +21,6 @@ cssclasses:
 - [Berserker](./berserker-xmm.md)
 - [Boromar Smuggler](./boromar-smuggler-efa.md)
 - [Boromar Underboss](./boromar-underboss-efa.md)
-- [Bugbear Chief](./bugbear-chief.md)
 - [Cannith Artificer](./cannith-artificer-efa.md)
 - [Commoner](./commoner-xmm.md)
 - [Cultist Fanatic](./cultist-fanatic-xmm.md)
