@@ -1,9 +1,14 @@
 {
   "pluginList": [
+    "ebullient/obsidian-admonition",
     "Jareika/obsidian-ttrpg-soundboard",
     "Jareika/Simple-Timeline"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "ebullient/obsidian-admonition",
+      "version": "latest"
+    },
     {
       "repo": "Jareika/obsidian-ttrpg-soundboard",
       "version": "latest"
