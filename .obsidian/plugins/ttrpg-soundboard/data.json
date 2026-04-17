@@ -18,7 +18,7 @@
     "masterVolume": 1,
     "mediaElementThresholdMB": 25,
     "ambienceVolume": 1,
-    "simpleView": false,
+    "simpleView": true,
     "folderViewModes": {},
     "tileHeightPx": 100,
     "noteIconSizePx": 40,
@@ -76,10 +76,174 @@
     "Soundbar/Music/Resolve (Dark).flac": {},
     "Soundbar/Ambience/Battle In City.mp3": {
       "volume": 1
-    }
+    },
+    "Soundbar/FE-Awakening/1-01 - Id~Beginnings.mp3": {
+      "loop": false
+    },
+    "Soundbar/FE-Awakening/1-04 - Id~Serenity.mp3": {
+      "volume": 1,
+      "loop": false
+    },
+    "Soundbar/FE-Awakening/1-05 - Prelude 1.mp3": {},
+    "Soundbar/FE-Awakening/1-05 - Prelude.mp3": {
+      "volume": 1
+    },
+    "Soundbar/FE-Awakening/1-06 - Prelude~Ablaze.mp3": {},
+    "Soundbar/FE-Awakening/1-07 - Assault.mp3": {},
+    "Soundbar/FE-Awakening/1-14 - Something is very wrong. 1.mp3": {},
+    "Soundbar/FE-Awakening/1-14 - Something is very wrong..mp3": {},
+    "Soundbar/FE-Awakening/1-17 - Oh, it's not so bad, Lissa. Just a healthy little walk!.mp3": {},
+    "Soundbar/FE-Awakening/1-18 - We'd best prepare for combat, just to be safe..mp3": {},
+    "Soundbar/FE-Awakening/1-19 - Duty.mp3": {},
+    "Soundbar/FE-Awakening/1-20 - Duty~Ablaze.mp3": {},
+    "Soundbar/FE-Awakening/1-21 - Here we are! The Shepherd's garrison..mp3": {},
+    "Soundbar/FE-Awakening/2-01 - Destiny.mp3": {},
+    "Soundbar/FE-Awakening/2-02 - Destiny~Ablaze.mp3": {},
+    "Soundbar/FE-Awakening/2-11 - .......mp3": {},
+    "Soundbar/FE-Awakening/2-12 - Don't speak her name!.mp3": {},
+    "Soundbar/FE-Awakening/2-15 - Divine Decree.mp3": {},
+    "Soundbar/FE-Awakening/2-16 - Divine Decree~Ablaze.mp3": {},
+    "Soundbar/FE-Awakening/3-16 - Storm Clouds.mp3": {},
+    "Soundbar/FE-Awakening/3-17 - Storm Clouds~Ablaze.mp3": {},
+    "Soundbar/FE-Awakening/4-01 - Chaos.mp3": {},
+    "Soundbar/FE-Awakening/4-02 - Chaos~Ablaze.mp3": {},
+    "Soundbar/FE-Awakening/Dusk Falls.flac": {},
+    "Soundbar/FE-Awakening/Resolve (Dark).flac": {}
   },
   "playlistPrefs": {
-    "Soundbar/Music/FE_Awakening": {}
+    "Soundbar/Music/FE_Awakening": {},
+    "Soundbar/Video Games/FE-Awakening": {}
   },
-  "durations": {}
+  "durations": {
+    "Soundbar/FE-Awakening/1-05 - Prelude 1.mp3": {
+      "seconds": 320.052245,
+      "mtime": 1776335874573,
+      "size": 9953656
+    },
+    "Soundbar/FE-Awakening/1-04 - Id~Serenity.mp3": {
+      "seconds": 164.780408,
+      "mtime": 1776335874535,
+      "size": 4483807
+    },
+    "Soundbar/FE-Awakening/1-01 - Id~Beginnings.mp3": {
+      "seconds": 103.836735,
+      "mtime": 1776335874514,
+      "size": 3141131
+    },
+    "Soundbar/FE-Awakening/1-05 - Prelude.mp3": {
+      "seconds": 320.052245,
+      "mtime": 1776335874613,
+      "size": 9953656
+    },
+    "Soundbar/FE-Awakening/1-07 - Assault.mp3": {
+      "seconds": 116.506122,
+      "mtime": 1776335874679,
+      "size": 3739929
+    },
+    "Soundbar/FE-Awakening/1-06 - Prelude~Ablaze.mp3": {
+      "seconds": 320.130612,
+      "mtime": 1776335874656,
+      "size": 10857919
+    },
+    "Soundbar/FE-Awakening/1-14 - Something is very wrong. 1.mp3": {
+      "seconds": 167.340408,
+      "mtime": 1776335874702,
+      "size": 5063099
+    },
+    "Soundbar/FE-Awakening/1-14 - Something is very wrong..mp3": {
+      "seconds": 167.340408,
+      "mtime": 1776335874717,
+      "size": 5063099
+    },
+    "Soundbar/FE-Awakening/1-17 - Oh, it's not so bad, Lissa. Just a healthy little walk!.mp3": {
+      "seconds": 234.657959,
+      "mtime": 1776335874753,
+      "size": 7274559
+    },
+    "Soundbar/FE-Awakening/1-19 - Duty.mp3": {
+      "seconds": 331.049796,
+      "mtime": 1776335874047,
+      "size": 10186867
+    },
+    "Soundbar/FE-Awakening/1-18 - We'd best prepare for combat, just to be safe..mp3": {
+      "seconds": 256.653061,
+      "mtime": 1776335874787,
+      "size": 8283906
+    },
+    "Soundbar/FE-Awakening/1-20 - Duty~Ablaze.mp3": {
+      "seconds": 330.527347,
+      "mtime": 1776335874095,
+      "size": 11083992
+    },
+    "Soundbar/FE-Awakening/2-01 - Destiny.mp3": {
+      "seconds": 319.817143,
+      "mtime": 1776335874135,
+      "size": 10650968
+    },
+    "Soundbar/FE-Awakening/1-21 - Here we are! The Shepherd's garrison..mp3": {
+      "seconds": 137.012245,
+      "mtime": 1776335874797,
+      "size": 4605469
+    },
+    "Soundbar/FE-Awakening/2-02 - Destiny~Ablaze.mp3": {
+      "seconds": 319.686531,
+      "mtime": 1776335874181,
+      "size": 11339122
+    },
+    "Soundbar/FE-Awakening/2-12 - Don't speak her name!.mp3": {
+      "seconds": 472.52898,
+      "mtime": 1776335874241,
+      "size": 16054400
+    },
+    "Soundbar/FE-Awakening/2-11 - .......mp3": {
+      "seconds": 188.081633,
+      "mtime": 1776335874832,
+      "size": 5530816
+    },
+    "Soundbar/FE-Awakening/2-15 - Divine Decree.mp3": {
+      "seconds": 332.878367,
+      "mtime": 1776335874297,
+      "size": 10534453
+    },
+    "Soundbar/FE-Awakening/2-16 - Divine Decree~Ablaze.mp3": {
+      "seconds": 332.852245,
+      "mtime": 1776335874347,
+      "size": 11046736
+    },
+    "Soundbar/FE-Awakening/3-16 - Storm Clouds.mp3": {
+      "seconds": 309.368163,
+      "mtime": 1776335874385,
+      "size": 10119959
+    },
+    "Soundbar/FE-Awakening/3-17 - Storm Clouds~Ablaze.mp3": {
+      "seconds": 309.159184,
+      "mtime": 1776335874427,
+      "size": 10728544
+    },
+    "Soundbar/FE-Awakening/4-01 - Chaos.mp3": {
+      "seconds": 306.207347,
+      "mtime": 1776335874455,
+      "size": 9654908
+    },
+    "Soundbar/FE-Awakening/Dusk Falls.flac": {
+      "seconds": 328.493333,
+      "mtime": 1776335874877,
+      "size": 36261666
+    },
+    "Soundbar/FE-Awakening/4-02 - Chaos~Ablaze.mp3": {
+      "seconds": 306.938776,
+      "mtime": 1776335874500,
+      "size": 10988216
+    },
+    "Soundbar/FE-Awakening/Resolve (Dark).flac": {
+      "seconds": 311.493333,
+      "mtime": 1776335874917,
+      "size": 33774951
+    },
+    "Soundbar/Ambience/Battle In City.mp3": {
+      "seconds": 3600.065306,
+      "mtime": 1776335873998,
+      "size": 70931785
+    }
+  }
 }
