@@ -13,3 +13,7 @@
 # Kalaman
 
 ## Exploring the city
+
+[1-21 - Here we are! The Shepherd's garrison.](ttrpg-sound:Soundbar/FE-Awakening/1-21 - Here we are! The Shepherd's garrison..mp3)
+
+# Bastion

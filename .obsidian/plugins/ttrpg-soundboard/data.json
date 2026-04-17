@@ -92,11 +92,17 @@
     "Soundbar/FE-Awakening/1-07 - Assault.mp3": {},
     "Soundbar/FE-Awakening/1-14 - Something is very wrong. 1.mp3": {},
     "Soundbar/FE-Awakening/1-14 - Something is very wrong..mp3": {},
-    "Soundbar/FE-Awakening/1-17 - Oh, it's not so bad, Lissa. Just a healthy little walk!.mp3": {},
-    "Soundbar/FE-Awakening/1-18 - We'd best prepare for combat, just to be safe..mp3": {},
+    "Soundbar/FE-Awakening/1-17 - Oh, it's not so bad, Lissa. Just a healthy little walk!.mp3": {
+      "volume": 1
+    },
+    "Soundbar/FE-Awakening/1-18 - We'd best prepare for combat, just to be safe..mp3": {
+      "volume": 1
+    },
     "Soundbar/FE-Awakening/1-19 - Duty.mp3": {},
     "Soundbar/FE-Awakening/1-20 - Duty~Ablaze.mp3": {},
-    "Soundbar/FE-Awakening/1-21 - Here we are! The Shepherd's garrison..mp3": {},
+    "Soundbar/FE-Awakening/1-21 - Here we are! The Shepherd's garrison..mp3": {
+      "volume": 1
+    },
     "Soundbar/FE-Awakening/2-01 - Destiny.mp3": {},
     "Soundbar/FE-Awakening/2-02 - Destiny~Ablaze.mp3": {},
     "Soundbar/FE-Awakening/2-11 - .......mp3": {},
