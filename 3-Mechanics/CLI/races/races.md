@@ -8,6 +8,7 @@ cssclasses:
 
 - [Aasimar](./aasimar-xphb.md)
 - [Changeling](./changeling-efa.md)
+- [Dragonborn (Gem)](./dragonborn-gem-ftd.md)
 - [Dragonborn](./dragonborn-xphb.md)
 - [Dwarf](./dwarf-xphb.md)
 - [Elf](./elf-xphb.md)

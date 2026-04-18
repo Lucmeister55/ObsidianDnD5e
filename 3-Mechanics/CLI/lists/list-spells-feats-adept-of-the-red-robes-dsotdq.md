@@ -27,6 +27,7 @@ aliases:
 - [Magic Mouth](/3-Mechanics/CLI/spells/magic-mouth-xphb.md "XPHB") 
 - [Magic Weapon](/3-Mechanics/CLI/spells/magic-weapon-xphb.md "XPHB") 
 - [Mirror Image](/3-Mechanics/CLI/spells/mirror-image-xphb.md "XPHB") 
+- [Nathair's Mischief](/3-Mechanics/CLI/spells/nathairs-mischief-ftd.md "FTD") 
 - [Nystul's Magic Aura](/3-Mechanics/CLI/spells/nystuls-magic-aura-xphb.md "XPHB") 
 - [Phantasmal Force](/3-Mechanics/CLI/spells/phantasmal-force-xphb.md "XPHB") 
 - [Rope Trick](/3-Mechanics/CLI/spells/rope-trick-xphb.md "XPHB") 

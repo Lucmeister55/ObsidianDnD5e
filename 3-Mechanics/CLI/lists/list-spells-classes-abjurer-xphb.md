@@ -54,6 +54,7 @@ aliases:
 ## 6th Level
 
 - [Contingency](/3-Mechanics/CLI/spells/contingency-xphb.md "XPHB") at class level 3
+- [Fizban's Platinum Shield](/3-Mechanics/CLI/spells/fizbans-platinum-shield-ftd.md "FTD") at class level 3
 - [Globe of Invulnerability](/3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md "XPHB") at class level 3
 - [Guards and Wards](/3-Mechanics/CLI/spells/guards-and-wards-xphb.md "XPHB") at class level 3
 

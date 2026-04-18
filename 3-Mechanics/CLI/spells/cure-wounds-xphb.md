@@ -11,6 +11,7 @@ tags:
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/feat/divinely-favored/neutral
+- ttrpg-cli/spell/feat/gift-of-the-metallic-dragon
 - ttrpg-cli/spell/feat/magic-initiate/druid-spells
 - ttrpg-cli/spell/feat/mark-of-healing
 - ttrpg-cli/spell/level/1st-level

@@ -9,6 +9,7 @@ cssclasses:
 - [Aarakocra Aeromancer](./aarakocra-aeromancer-xmm.md)
 - [Aarakocra Skirmisher](./aarakocra-skirmisher-xmm.md)
 - [Air Elemental](./air-elemental-xmm.md)
+- [Animated Breath](./animated-breath-ftd.md)
 - [Azer Pyromancer](./azer-pyromancer-xmm.md)
 - [Azer Sentinel](./azer-sentinel-xmm.md)
 - [Dao](./dao-xmm.md)

@@ -84,6 +84,7 @@ aliases:
 - [Dimension Door](/3-Mechanics/CLI/spells/dimension-door-xphb.md "XPHB")
 - [Doomtide](/3-Mechanics/CLI/spells/doomtide-frhof.md "FRHoF")
 - [Hallucinatory Terrain](/3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md "XPHB")
+- [Raulothim's Psychic Lance](/3-Mechanics/CLI/spells/raulothims-psychic-lance-ftd.md "FTD") (\*)
 - [Summon Aberration](/3-Mechanics/CLI/spells/summon-aberration-xphb.md "XPHB")
 
 ## 5th Level

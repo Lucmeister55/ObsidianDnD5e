@@ -42,6 +42,7 @@ cssclasses:
 - [Giant Badger](./giant-badger-xmm.md)
 - [Giant Bat](./giant-bat-xmm.md)
 - [Giant Boar](./giant-boar-xmm.md)
+- [Giant Canary](./giant-canary-ftd.md)
 - [Giant Centipede](./giant-centipede-xmm.md)
 - [Giant Constrictor Snake](./giant-constrictor-snake-xmm.md)
 - [Giant Crab](./giant-crab-xmm.md)

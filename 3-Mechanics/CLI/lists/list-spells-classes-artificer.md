@@ -74,6 +74,7 @@ aliases:
 
 ## 3rd Level
 
+- [Ashardalon's Stride](/3-Mechanics/CLI/spells/ashardalons-stride-ftd.md "FTD") (\*)
 - [Blink](/3-Mechanics/CLI/spells/blink-xphb.md "XPHB")
 - [Create Food and Water](/3-Mechanics/CLI/spells/create-food-and-water-xphb.md "XPHB")
 - [Dispel Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md "XPHB")

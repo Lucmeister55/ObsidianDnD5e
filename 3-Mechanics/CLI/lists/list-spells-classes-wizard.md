@@ -102,9 +102,11 @@ aliases:
 - [Mind Spike](/3-Mechanics/CLI/spells/mind-spike-xphb.md "XPHB")
 - [Mirror Image](/3-Mechanics/CLI/spells/mirror-image-xphb.md "XPHB")
 - [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md "XPHB")
+- [Nathair's Mischief](/3-Mechanics/CLI/spells/nathairs-mischief-ftd.md "FTD") (\*)
 - [Nystul's Magic Aura](/3-Mechanics/CLI/spells/nystuls-magic-aura-xphb.md "XPHB")
 - [Phantasmal Force](/3-Mechanics/CLI/spells/phantasmal-force-xphb.md "XPHB")
 - [Ray of Enfeeblement](/3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md "XPHB")
+- [Rime's Binding Ice](/3-Mechanics/CLI/spells/rimes-binding-ice-ftd.md "FTD") (\*)
 - [Rope Trick](/3-Mechanics/CLI/spells/rope-trick-xphb.md "XPHB")
 - [Scorching Ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md "XPHB")
 - [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md "XPHB")
@@ -116,6 +118,7 @@ aliases:
 ## 3rd Level
 
 - [Animate Dead](/3-Mechanics/CLI/spells/animate-dead-xphb.md "XPHB")
+- [Ashardalon's Stride](/3-Mechanics/CLI/spells/ashardalons-stride-ftd.md "FTD") (\*)
 - [Bestow Curse](/3-Mechanics/CLI/spells/bestow-curse-xphb.md "XPHB")
 - [Blink](/3-Mechanics/CLI/spells/blink-xphb.md "XPHB")
 - [Cacophonic Shield](/3-Mechanics/CLI/spells/cacophonic-shield-frhof.md "FRHoF")
@@ -177,6 +180,7 @@ aliases:
 - [Otiluke's Resilient Sphere](/3-Mechanics/CLI/spells/otilukes-resilient-sphere-xphb.md "XPHB")
 - [Phantasmal Killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md "XPHB")
 - [Polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md "XPHB")
+- [Raulothim's Psychic Lance](/3-Mechanics/CLI/spells/raulothims-psychic-lance-ftd.md "FTD") (\*)
 - [Spellfire Storm](/3-Mechanics/CLI/spells/spellfire-storm-frhof.md "FRHoF")
 - [Stone Shape](/3-Mechanics/CLI/spells/stone-shape-xphb.md "XPHB")
 - [Stoneskin](/3-Mechanics/CLI/spells/stoneskin-xphb.md "XPHB")
@@ -212,7 +216,7 @@ aliases:
 - [Seeming](/3-Mechanics/CLI/spells/seeming-xphb.md "XPHB")
 - [Songal's Elemental Suffusion](/3-Mechanics/CLI/spells/songals-elemental-suffusion-frhof.md "FRHoF")
 - [Steel Wind Strike](/3-Mechanics/CLI/spells/steel-wind-strike-xphb.md "XPHB")
-- [Summon Dragon](/3-Mechanics/CLI/spells/summon-dragon-xphb.md "XPHB")
+- [Summon Dragon](/3-Mechanics/CLI/spells/summon-dragon-xphb.md "XPHB") (\*)
 - [Synaptic Static](/3-Mechanics/CLI/spells/synaptic-static-xphb.md "XPHB")
 - [Telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md "XPHB")
 - [Teleportation Circle](/3-Mechanics/CLI/spells/teleportation-circle-xphb.md "XPHB")
@@ -231,6 +235,7 @@ aliases:
 - [Drawmij's Instant Summons](/3-Mechanics/CLI/spells/drawmijs-instant-summons-xphb.md "XPHB")
 - [Elminster's Effulgent Spheres](/3-Mechanics/CLI/spells/elminsters-effulgent-spheres-frhof.md "FRHoF")
 - [Eyebite](/3-Mechanics/CLI/spells/eyebite-xphb.md "XPHB")
+- [Fizban's Platinum Shield](/3-Mechanics/CLI/spells/fizbans-platinum-shield-ftd.md "FTD") (\*)
 - [Flesh to Stone](/3-Mechanics/CLI/spells/flesh-to-stone-xphb.md "XPHB")
 - [Globe of Invulnerability](/3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md "XPHB")
 - [Guards and Wards](/3-Mechanics/CLI/spells/guards-and-wards-xphb.md "XPHB")
@@ -249,6 +254,7 @@ aliases:
 ## 7th Level
 
 - [Delayed Blast Fireball](/3-Mechanics/CLI/spells/delayed-blast-fireball-xphb.md "XPHB")
+- [Draconic Transformation](/3-Mechanics/CLI/spells/draconic-transformation-ftd.md "FTD") (\*)
 - [Etherealness](/3-Mechanics/CLI/spells/etherealness-xphb.md "XPHB")
 - [Finger of Death](/3-Mechanics/CLI/spells/finger-of-death-xphb.md "XPHB")
 - [Forcecage](/3-Mechanics/CLI/spells/forcecage-xphb.md "XPHB")

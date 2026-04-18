@@ -27,6 +27,7 @@ aliases:
 - [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md "XPHB") at class level 3
 - [Magic Mouth](/3-Mechanics/CLI/spells/magic-mouth-xphb.md "XPHB") at class level 3
 - [Mirror Image](/3-Mechanics/CLI/spells/mirror-image-xphb.md "XPHB") at class level 3
+- [Nathair's Mischief](/3-Mechanics/CLI/spells/nathairs-mischief-ftd.md "FTD") at class level 3
 - [Nystul's Magic Aura](/3-Mechanics/CLI/spells/nystuls-magic-aura-xphb.md "XPHB") at class level 3
 - [Phantasmal Force](/3-Mechanics/CLI/spells/phantasmal-force-xphb.md "XPHB") at class level 3
 - [Summon Beast](/3-Mechanics/CLI/spells/summon-beast-xphb.md "XPHB") at class level 3

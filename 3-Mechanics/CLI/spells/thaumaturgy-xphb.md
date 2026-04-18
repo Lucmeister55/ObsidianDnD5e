@@ -14,9 +14,11 @@ tags:
 - ttrpg-cli/spell/race/tiefling/abyssal
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/college-of-lore
+- ttrpg-cli/spell/subclass/drakewarden
 classes:
 - Bard (College of Lore)
 - Cleric
+- Ranger (Drakewarden)
 aliases:
 - "Thaumaturgy"
 ---
@@ -57,6 +59,6 @@ You cause harmless tremors in the ground for 1 minute.
 
 ## Summary
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
+**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Ranger (Drakewarden)](/3-Mechanics/CLI/lists/list-spells-classes-drakewarden-ftd.md "subclass=FTD;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 333. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -45,6 +45,7 @@ aliases:
 - [Compulsion](/3-Mechanics/CLI/spells/compulsion-xphb.md "XPHB")
 - [Confusion](/3-Mechanics/CLI/spells/confusion-xphb.md "XPHB")
 - [Dominate Beast](/3-Mechanics/CLI/spells/dominate-beast-xphb.md "XPHB")
+- [Raulothim's Psychic Lance](/3-Mechanics/CLI/spells/raulothims-psychic-lance-ftd.md "FTD")
 - [Staggering Smite](/3-Mechanics/CLI/spells/staggering-smite-xphb.md "XPHB")
 
 ## 5th Level

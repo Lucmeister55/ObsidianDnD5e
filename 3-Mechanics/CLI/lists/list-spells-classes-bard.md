@@ -73,6 +73,7 @@ aliases:
 - [Locate Object](/3-Mechanics/CLI/spells/locate-object-xphb.md "XPHB")
 - [Magic Mouth](/3-Mechanics/CLI/spells/magic-mouth-xphb.md "XPHB")
 - [Mirror Image](/3-Mechanics/CLI/spells/mirror-image-xphb.md "XPHB")
+- [Nathair's Mischief](/3-Mechanics/CLI/spells/nathairs-mischief-ftd.md "FTD") (\*)
 - [Phantasmal Force](/3-Mechanics/CLI/spells/phantasmal-force-xphb.md "XPHB")
 - [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md "XPHB")
 - [Shatter](/3-Mechanics/CLI/spells/shatter-xphb.md "XPHB")
@@ -117,6 +118,7 @@ aliases:
 - [Locate Creature](/3-Mechanics/CLI/spells/locate-creature-xphb.md "XPHB")
 - [Phantasmal Killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md "XPHB")
 - [Polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md "XPHB")
+- [Raulothim's Psychic Lance](/3-Mechanics/CLI/spells/raulothims-psychic-lance-ftd.md "FTD") (\*)
 
 ## 5th Level
 

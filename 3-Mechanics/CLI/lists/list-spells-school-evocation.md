@@ -46,6 +46,7 @@ aliases:
 - [Gust of Wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB")
 - [Melf's Acid Arrow](/3-Mechanics/CLI/spells/melfs-acid-arrow-xphb.md "XPHB")
 - [Moonbeam](/3-Mechanics/CLI/spells/moonbeam-xphb.md "XPHB")
+- [Rime's Binding Ice](/3-Mechanics/CLI/spells/rimes-binding-ice-ftd.md "FTD")
 - [Scorching Ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md "XPHB")
 - [Shatter](/3-Mechanics/CLI/spells/shatter-xphb.md "XPHB")
 - [Spiritual Weapon](/3-Mechanics/CLI/spells/spiritual-weapon-xphb.md "XPHB")

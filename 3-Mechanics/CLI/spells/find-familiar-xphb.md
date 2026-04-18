@@ -13,6 +13,7 @@ tags:
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/optfeature/pact-of-the-chain
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
+- ttrpg-cli/spell/reward/draconic-familiar
 - ttrpg-cli/spell/ritual
 - ttrpg-cli/spell/school/conjuration
 - ttrpg-cli/spell/subclass/arcane-trickster

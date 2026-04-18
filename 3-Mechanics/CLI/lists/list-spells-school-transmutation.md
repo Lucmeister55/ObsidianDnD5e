@@ -51,6 +51,7 @@ aliases:
 
 ## 3rd Level
 
+- [Ashardalon's Stride](/3-Mechanics/CLI/spells/ashardalons-stride-ftd.md "FTD")
 - [Blink](/3-Mechanics/CLI/spells/blink-xphb.md "XPHB")
 - [Elemental Weapon](/3-Mechanics/CLI/spells/elemental-weapon-xphb.md "XPHB")
 - [Fly](/3-Mechanics/CLI/spells/fly-xphb.md "XPHB")
@@ -90,6 +91,7 @@ aliases:
 
 ## 7th Level
 
+- [Draconic Transformation](/3-Mechanics/CLI/spells/draconic-transformation-ftd.md "FTD")
 - [Regenerate](/3-Mechanics/CLI/spells/regenerate-xphb.md "XPHB")
 - [Reverse Gravity](/3-Mechanics/CLI/spells/reverse-gravity-xphb.md "XPHB")
 - [Sequester](/3-Mechanics/CLI/spells/sequester-xphb.md "XPHB")

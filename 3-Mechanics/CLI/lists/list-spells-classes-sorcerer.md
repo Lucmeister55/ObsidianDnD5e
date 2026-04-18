@@ -84,7 +84,9 @@ aliases:
 - [Mind Spike](/3-Mechanics/CLI/spells/mind-spike-xphb.md "XPHB")
 - [Mirror Image](/3-Mechanics/CLI/spells/mirror-image-xphb.md "XPHB")
 - [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md "XPHB")
+- [Nathair's Mischief](/3-Mechanics/CLI/spells/nathairs-mischief-ftd.md "FTD") (\*)
 - [Phantasmal Force](/3-Mechanics/CLI/spells/phantasmal-force-xphb.md "XPHB")
+- [Rime's Binding Ice](/3-Mechanics/CLI/spells/rimes-binding-ice-ftd.md "FTD") (\*)
 - [Scorching Ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md "XPHB")
 - [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md "XPHB")
 - [Shatter](/3-Mechanics/CLI/spells/shatter-xphb.md "XPHB")
@@ -94,6 +96,7 @@ aliases:
 
 ## 3rd Level
 
+- [Ashardalon's Stride](/3-Mechanics/CLI/spells/ashardalons-stride-ftd.md "FTD") (\*)
 - [Blink](/3-Mechanics/CLI/spells/blink-xphb.md "XPHB")
 - [Cacophonic Shield](/3-Mechanics/CLI/spells/cacophonic-shield-frhof.md "FRHoF")
 - [Clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md "XPHB")
@@ -131,6 +134,7 @@ aliases:
 - [Greater Invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md "XPHB")
 - [Ice Storm](/3-Mechanics/CLI/spells/ice-storm-xphb.md "XPHB")
 - [Polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md "XPHB")
+- [Raulothim's Psychic Lance](/3-Mechanics/CLI/spells/raulothims-psychic-lance-ftd.md "FTD") (\*)
 - [Spellfire Storm](/3-Mechanics/CLI/spells/spellfire-storm-frhof.md "FRHoF")
 - [Stoneskin](/3-Mechanics/CLI/spells/stoneskin-xphb.md "XPHB")
 - [Vitriolic Sphere](/3-Mechanics/CLI/spells/vitriolic-sphere-xphb.md "XPHB")
@@ -148,6 +152,7 @@ aliases:
 - [Insect Plague](/3-Mechanics/CLI/spells/insect-plague-xphb.md "XPHB")
 - [Seeming](/3-Mechanics/CLI/spells/seeming-xphb.md "XPHB")
 - [Songal's Elemental Suffusion](/3-Mechanics/CLI/spells/songals-elemental-suffusion-frhof.md "FRHoF")
+- [Summon Dragon](/3-Mechanics/CLI/spells/summon-dragon-xphb.md "XPHB") (\*)
 - [Synaptic Static](/3-Mechanics/CLI/spells/synaptic-static-xphb.md "XPHB")
 - [Telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md "XPHB")
 - [Teleportation Circle](/3-Mechanics/CLI/spells/teleportation-circle-xphb.md "XPHB")
@@ -161,6 +166,7 @@ aliases:
 - [Disintegrate](/3-Mechanics/CLI/spells/disintegrate-xphb.md "XPHB")
 - [Elminster's Effulgent Spheres](/3-Mechanics/CLI/spells/elminsters-effulgent-spheres-frhof.md "FRHoF")
 - [Eyebite](/3-Mechanics/CLI/spells/eyebite-xphb.md "XPHB")
+- [Fizban's Platinum Shield](/3-Mechanics/CLI/spells/fizbans-platinum-shield-ftd.md "FTD") (\*)
 - [Flesh to Stone](/3-Mechanics/CLI/spells/flesh-to-stone-xphb.md "XPHB")
 - [Globe of Invulnerability](/3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md "XPHB")
 - [Mass Suggestion](/3-Mechanics/CLI/spells/mass-suggestion-xphb.md "XPHB")
@@ -172,6 +178,7 @@ aliases:
 ## 7th Level
 
 - [Delayed Blast Fireball](/3-Mechanics/CLI/spells/delayed-blast-fireball-xphb.md "XPHB")
+- [Draconic Transformation](/3-Mechanics/CLI/spells/draconic-transformation-ftd.md "FTD") (\*)
 - [Etherealness](/3-Mechanics/CLI/spells/etherealness-xphb.md "XPHB")
 - [Finger of Death](/3-Mechanics/CLI/spells/finger-of-death-xphb.md "XPHB")
 - [Fire Storm](/3-Mechanics/CLI/spells/fire-storm-xphb.md "XPHB")

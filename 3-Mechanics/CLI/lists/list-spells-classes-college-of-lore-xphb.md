@@ -142,12 +142,14 @@ aliases:
 - [Mirror Image](/3-Mechanics/CLI/spells/mirror-image-xphb.md "XPHB") at class level 6
 - [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md "XPHB") at class level 6
 - [Moonbeam](/3-Mechanics/CLI/spells/moonbeam-xphb.md "XPHB") at class level 6
+- [Nathair's Mischief](/3-Mechanics/CLI/spells/nathairs-mischief-ftd.md "FTD") at class level 6
 - [Nystul's Magic Aura](/3-Mechanics/CLI/spells/nystuls-magic-aura-xphb.md "XPHB") at class level 6
 - [Pass without Trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md "XPHB") at class level 6
 - [Phantasmal Force](/3-Mechanics/CLI/spells/phantasmal-force-xphb.md "XPHB") at class level 6
 - [Prayer of Healing](/3-Mechanics/CLI/spells/prayer-of-healing-xphb.md "XPHB") at class level 6
 - [Protection from Poison](/3-Mechanics/CLI/spells/protection-from-poison-xphb.md "XPHB") at class level 6
 - [Ray of Enfeeblement](/3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md "XPHB") at class level 6
+- [Rime's Binding Ice](/3-Mechanics/CLI/spells/rimes-binding-ice-ftd.md "FTD") at class level 6
 - [Rope Trick](/3-Mechanics/CLI/spells/rope-trick-xphb.md "XPHB") at class level 6
 - [Scorching Ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md "XPHB") at class level 6
 - [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md "XPHB") at class level 6
@@ -165,6 +167,7 @@ aliases:
 ## 3rd Level
 
 - [Animate Dead](/3-Mechanics/CLI/spells/animate-dead-xphb.md "XPHB") at class level 6
+- [Ashardalon's Stride](/3-Mechanics/CLI/spells/ashardalons-stride-ftd.md "FTD") at class level 6
 - [Aura of Vitality](/3-Mechanics/CLI/spells/aura-of-vitality-xphb.md "XPHB") at class level 6
 - [Beacon of Hope](/3-Mechanics/CLI/spells/beacon-of-hope-xphb.md "XPHB") at class level 6
 - [Bestow Curse](/3-Mechanics/CLI/spells/bestow-curse-xphb.md "XPHB") at class level 6

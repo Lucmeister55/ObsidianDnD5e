@@ -8,6 +8,7 @@ cssclasses:
 
 - [Black Pudding](./black-pudding-xmm.md)
 - [Blob of Annihilation](./blob-of-annihilation-xmm.md)
+- [Dragonblood Ooze](./dragonblood-ooze-ftd.md)
 - [Gelatinous Cube](./gelatinous-cube-xmm.md)
 - [Gray Ooze](./gray-ooze-xmm.md)
 - [Ochre Jelly](./ochre-jelly-xmm.md)

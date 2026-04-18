@@ -17,6 +17,8 @@ cssclasses:
 - [Cloaker](./cloaker-xmm.md)
 - [Darkmantle](./darkmantle-xmm.md)
 - [Death Slaad](./death-slaad-xmm.md)
+- [Elder Brain Dragon](./elder-brain-dragon-ftd.md)
+- [Eyedrake](./eyedrake-ftd.md)
 - [Flumph](./flumph-xmm.md)
 - [Gibbering Mouther](./gibbering-mouther-xmm.md)
 - [Githyanki Dracomancer](./githyanki-dracomancer-xmm.md)

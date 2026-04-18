@@ -134,6 +134,7 @@ aliases:
 - [Reincarnate](/3-Mechanics/CLI/spells/reincarnate-xphb.md "XPHB")
 - [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md "XPHB")
 - [Songal's Elemental Suffusion](/3-Mechanics/CLI/spells/songals-elemental-suffusion-frhof.md "FRHoF")
+- [Summon Dragon](/3-Mechanics/CLI/spells/summon-dragon-xphb.md "XPHB") (\*)
 - [Tree Stride](/3-Mechanics/CLI/spells/tree-stride-xphb.md "XPHB")
 - [Wall of Stone](/3-Mechanics/CLI/spells/wall-of-stone-xphb.md "XPHB")
 
@@ -153,6 +154,7 @@ aliases:
 
 ## 7th Level
 
+- [Draconic Transformation](/3-Mechanics/CLI/spells/draconic-transformation-ftd.md "FTD") (\*)
 - [Fire Storm](/3-Mechanics/CLI/spells/fire-storm-xphb.md "XPHB")
 - [Mirage Arcane](/3-Mechanics/CLI/spells/mirage-arcane-xphb.md "XPHB")
 - [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md "XPHB")

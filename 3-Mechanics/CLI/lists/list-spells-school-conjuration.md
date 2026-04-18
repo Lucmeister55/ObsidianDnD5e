@@ -60,6 +60,7 @@ aliases:
 - [Dimension Door](/3-Mechanics/CLI/spells/dimension-door-xphb.md "XPHB")
 - [Doomtide](/3-Mechanics/CLI/spells/doomtide-frhof.md "FRHoF")
 - [Evard's Black Tentacles](/3-Mechanics/CLI/spells/evards-black-tentacles-xphb.md "XPHB")
+- [Find Greater Steed](/3-Mechanics/CLI/spells/find-greater-steed-xge.md "XGE")
 - [Giant Insect](/3-Mechanics/CLI/spells/giant-insect-xphb.md "XPHB")
 - [Grasping Vine](/3-Mechanics/CLI/spells/grasping-vine-xphb.md "XPHB")
 - [Guardian of Faith](/3-Mechanics/CLI/spells/guardian-of-faith-xphb.md "XPHB")

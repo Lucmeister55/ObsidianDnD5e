@@ -102,9 +102,11 @@ aliases:
 - [Mind Spike](/3-Mechanics/CLI/spells/mind-spike-xphb.md "XPHB") 
 - [Mirror Image](/3-Mechanics/CLI/spells/mirror-image-xphb.md "XPHB") 
 - [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md "XPHB") 
+- [Nathair's Mischief](/3-Mechanics/CLI/spells/nathairs-mischief-ftd.md "FTD") 
 - [Nystul's Magic Aura](/3-Mechanics/CLI/spells/nystuls-magic-aura-xphb.md "XPHB") 
 - [Phantasmal Force](/3-Mechanics/CLI/spells/phantasmal-force-xphb.md "XPHB") 
 - [Ray of Enfeeblement](/3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md "XPHB") 
+- [Rime's Binding Ice](/3-Mechanics/CLI/spells/rimes-binding-ice-ftd.md "FTD") 
 - [Rope Trick](/3-Mechanics/CLI/spells/rope-trick-xphb.md "XPHB") 
 - [Scorching Ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md "XPHB") 
 - [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md "XPHB") 
@@ -116,6 +118,7 @@ aliases:
 ## 3rd Level
 
 - [Animate Dead](/3-Mechanics/CLI/spells/animate-dead-xphb.md "XPHB") 
+- [Ashardalon's Stride](/3-Mechanics/CLI/spells/ashardalons-stride-ftd.md "FTD") 
 - [Bestow Curse](/3-Mechanics/CLI/spells/bestow-curse-xphb.md "XPHB") 
 - [Blink](/3-Mechanics/CLI/spells/blink-xphb.md "XPHB") 
 - [Cacophonic Shield](/3-Mechanics/CLI/spells/cacophonic-shield-frhof.md "FRHoF") 
@@ -177,6 +180,7 @@ aliases:
 - [Otiluke's Resilient Sphere](/3-Mechanics/CLI/spells/otilukes-resilient-sphere-xphb.md "XPHB") 
 - [Phantasmal Killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md "XPHB") 
 - [Polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md "XPHB") 
+- [Raulothim's Psychic Lance](/3-Mechanics/CLI/spells/raulothims-psychic-lance-ftd.md "FTD") 
 - [Spellfire Storm](/3-Mechanics/CLI/spells/spellfire-storm-frhof.md "FRHoF") 
 - [Stone Shape](/3-Mechanics/CLI/spells/stone-shape-xphb.md "XPHB") 
 - [Stoneskin](/3-Mechanics/CLI/spells/stoneskin-xphb.md "XPHB") 

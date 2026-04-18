@@ -34,6 +34,7 @@ aliases:
 - [Darkness](/3-Mechanics/CLI/spells/darkness-xphb.md "XPHB") at class level 3
 - [Gust of Wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB") at class level 3
 - [Melf's Acid Arrow](/3-Mechanics/CLI/spells/melfs-acid-arrow-xphb.md "XPHB") at class level 3
+- [Rime's Binding Ice](/3-Mechanics/CLI/spells/rimes-binding-ice-ftd.md "FTD") at class level 3
 - [Scorching Ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md "XPHB") at class level 3
 - [Shatter](/3-Mechanics/CLI/spells/shatter-xphb.md "XPHB") at class level 3
 
