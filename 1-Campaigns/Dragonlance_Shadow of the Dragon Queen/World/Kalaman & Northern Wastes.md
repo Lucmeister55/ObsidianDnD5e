@@ -1,7 +1,7 @@
 ## Regional Map
 
 ```zoommap
-image: 1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts/Offical Maps/map-12.01-kalaman-northern-wastes.png
+image: 1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts/Offical Maps/map-5.01-kalaman-and-northern-wastes.png
 # markers is optional; defaults to <image>.markers.json
 # markers: z_Assets/map-12.01-kalaman-northern-wastes.markers.json
 

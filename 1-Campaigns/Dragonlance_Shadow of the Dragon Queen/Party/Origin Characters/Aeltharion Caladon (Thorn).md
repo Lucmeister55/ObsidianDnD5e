@@ -8,13 +8,23 @@
 
 ## Backstory
 
-Eltharion Vanyarin was born to Lorac Caladon, Speaker of the Stars, and was the younger brother of Alhana Starbreeze. In the halls of Silvanost, he was known first for gentleness rather than war: a gifted singer, poet, and dancer whose grace seemed made for the autumn light of his people. He was deeply loyal to his family and was present in Silvanost during the final days before the fall, when Lorac took the Dragon Orb in desperation and attempted to turn its power against the invading Dragonarmies. He initially aspired to follow in his father's footsteps and become a sorcerer of the High Tower, studying at the Tower of High Sorcery to master the arcane arts as Lorac once had.
+### Early life
 
-Unlike many of the Silvanesti who fled with Alhana to Southern Ergoth, Eltharion refused to leave Silvanost. He chose instead to remain behind in the dying forest, unwilling to abandon what remained of his father's realm even as the Dragonarmies closed in and the land began to twist under the growing influence of Lorac's Nightmare.
+Eltharion Vanyarin was born to Lorac Caladon, Speaker of the Stars, and was the younger brother of Alhana Starbreeze. In the halls of Silvanost, he was known first for gentleness rather than war: a gifted singer, poet, and dancer whose grace seemed made for the autumn light of his people. He was deeply loyal to his family and was present in Silvanost during the final days before the fall, when Lorac took the Dragon Orb in desperation and attempted to turn its power against the invading Dragonarmies. 
+
+He initially aspired to follow in his father's footsteps and become a sorcerer of the High Tower, studying at the Tower of High Sorcery to master the arcane arts as Lorac once had. Among those closest to him was the Sylvanesti elder Zhelsuel, a trusted advisor of the court who shared a warm, almost familial bond with Eltharion, acting as a guiding presence and something of an uncle during his youth.
+
+### War comes to Sylvanost
+
+Eventually Sylvanost was beseiged by the Dragon Army. Unlike many of the Silvanesti who fled with Alhana to Southern Ergoth, Eltharion refused to leave Silvanost. He chose instead to remain behind in the dying forest, unwilling to abandon what remained of his father's realm even as the Dragonarmies closed in and the land began to twist under the growing influence of Lorac's Nightmare.
 
 Before the final collapse, Eltharion shared a last farewell with Alhana at the edge of the royal grounds. She urged him to come with her and the refugees, but he would not be swayed. Their parting was strained with fear and grief—Alhana torn between duty to their people and concern for her brother, and Eltharion resolute yet visibly shaken. In the end, she left him behind, and he watched her depart with the surviving Silvanesti, knowing it might be the last time he saw his sister alive.
 
+Sometime during the war, after the first waves of refugees had already fled, Zhelsuel carried out what he saw as his final duty to their people. Alongside other scholars and remnants of House Mystic, he was sent on an expedition to search for ancient ruins and lost Silvanesti magic in distant lands. Though presented as a mission of recovery and hope, Zhelsuel did not hide the truth from Eltharion. In a quiet, private moment before his departure, he confided that this was exile in all but name—a way to remove those who could no longer defend their homeland while preserving the illusion of purpose. With that, he took his leave, offering what guidance and farewell he could, knowing they might never see one another again.
+
 Eltharion witnessed the catastrophe that followed. The Orb did not save Silvanesti; instead, it shattered the boundary between nightmare and waking, and Lorac was consumed by the corruption that became Lorac's Nightmare. In the chaos of that magical catastrophe, Eltharion saw firsthand how sorcerous power, unchecked and prideful, could destroy an entire kingdom. From that night onward, he came to loathe sorcery and all who trafficked in such powers, believing it to be the stain that ruined his father and damned his homeland.
+
+### Hell on Ansalon
 
 When the Dragonarmies struck after the disaster, Eltharion was caught in the collapse and violence that followed the orb's eruption. The explosion and the panic of the fall left him stranded and vulnerable, and he was taken captive by the Dragonarmies amid the ruin of Silvanesti. What followed was a long captivity of humiliation and cruelty, where he was treated as prey rather than a son of Silvanesti's royal house. His captors mutilated him, leaving his ears scarred, one eye destroyed by draconic acid, and one leg broken so badly it never fully healed. He escaped or was eventually freed only after enduring months of torment, but the boy who once sang beneath the stars did not return unchanged.
 
