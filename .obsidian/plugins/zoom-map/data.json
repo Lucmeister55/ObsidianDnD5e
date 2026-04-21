@@ -55,7 +55,8 @@
       "travelPerDay": {
         "value": 8,
         "unit": "h"
-      }
+      },
+      "terrains": []
     },
     {
       "id": "trp-jly1ye",
@@ -95,7 +96,7 @@
         },
         {
           "id": "tt-ej5csx",
-          "name": "Horse (Riding)",
+          "name": "Riding Horse",
           "distanceValue": 8,
           "distanceUnit": "km",
           "timeValue": 1,
@@ -111,7 +112,7 @@
         },
         {
           "id": "tt-bkmjyc",
-          "name": "Boat (river/coastal)",
+          "name": "Boat/Ship",
           "distanceValue": 6.5,
           "distanceUnit": "km",
           "timeValue": 1,
@@ -119,7 +120,7 @@
         },
         {
           "id": "tt-lv598i",
-          "name": "Army (with supplies)",
+          "name": "Army",
           "distanceValue": 2.5,
           "distanceUnit": "km",
           "timeValue": 1,
@@ -156,7 +157,7 @@
   "enableDrawing": false,
   "preferActiveLayerInEditor": false,
   "enableTextLayers": false,
-  "enableMeasurePro": false,
+  "enableMeasurePro": true,
   "enableSessionImageCache": false,
   "sessionImageCacheMb": 512,
   "keepOverlaysLoaded": false,

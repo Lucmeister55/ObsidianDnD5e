@@ -2,7 +2,6 @@
   "initiative-tracker",
   "obsidian-5e-statblocks",
   "obsidian-dice-roller",
-  "obsidian-leaflet-plugin",
   "dataview",
   "obsidian-kanban",
   "obsidian-excalidraw-plugin",
@@ -13,9 +12,10 @@
   "obsidian-meta-bind-plugin",
   "fantasy-content-generator",
   "obsidian42-brat",
-  "simple-timeline",
   "obsidian-view-mode-by-frontmatter",
   "bastion-tracker",
   "ttrpg-soundboard",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "templater-obsidian",
+  "obsidian-timeline"
 ]

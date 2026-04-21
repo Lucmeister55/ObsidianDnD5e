@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "z_Assets",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false
 }
