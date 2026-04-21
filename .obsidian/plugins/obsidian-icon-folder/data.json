@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiMoon",
+      "LiSwords",
+      "LiImage",
+      "LiBookTemplate",
+      "LiHammer"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Soundbar": "LiMusic",
+  "0-DM Screen": "LiStickyNote",
+  "1-Campaigns": "LiMountain",
+  "2-Materials": "LiHammer",
+  "3-Mechanics": "LiBookOpen",
+  "z_Templates": "LiBookTemplate",
+  "z_Assets": "LiImage",
+  "1-Campaigns/Dragonlance_Shadow of the Dragon Queen": "LiSwords",
+  "1-Campaigns/Curse of Strahd": "LiMoon"
+}

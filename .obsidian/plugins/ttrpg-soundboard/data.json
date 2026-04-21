@@ -24,6 +24,7 @@
     "noteIconSizePx": 40,
     "toolbarFourFolders": false,
     "maxAudioCacheMB": 512,
+    "iosLockscreenCompatibilityMode": false,
     "thumbnailFolderEnabled": false,
     "thumbnailFolderPath": "",
     "arrangementEnabled": false,

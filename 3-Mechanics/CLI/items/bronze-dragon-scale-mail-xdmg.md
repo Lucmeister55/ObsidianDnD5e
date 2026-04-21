@@ -11,8 +11,11 @@ aliases:
 - "Bronze Dragon Scale Mail"
 ---
 # Bronze Dragon Scale Mail
-*Medium armor ([scale mail](/3-Mechanics/CLI/items/scale-mail-xphb.md)), very rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/dragon-scale-mail.webp#right)
+
+*Medium armor ([scale mail](/3-Mechanics/CLI/items/scale-mail-xphb.md)), very rare (requires attunement)*
+
+![](/3-Mechanics/CLI/items/img/dragon-scale-mail.webp)
+
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
