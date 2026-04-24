@@ -18,5 +18,7 @@
   "obsidian-admonition",
   "templater-obsidian",
   "obsidian-timeline",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "buttons",
+  "simple-timeline"
 ]
