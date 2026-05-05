@@ -1,7 +1,7 @@
 ## Village Map
 
 ```zoommap
-image: 1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts/Offical Maps/map-3.01-vogler.png
+image: 1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts/Offical Maps/annotated/map-3.01-vogler.png
 # markers is optional; defaults to <image>.markers.json
 # markers: z_Assets/Map.jpg.markers.json
 

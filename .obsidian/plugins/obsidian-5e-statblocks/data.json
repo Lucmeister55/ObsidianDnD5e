@@ -16,7 +16,7 @@
     "3-Mechanics/CLI"
   ],
   "autoParse": true,
-  "disableSRD": false,
+  "disableSRD": true,
   "tryToRenderLinks": true,
   "debug": false,
   "notifiedOfFantasy": false,

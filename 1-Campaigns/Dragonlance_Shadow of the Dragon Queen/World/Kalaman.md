@@ -1,7 +1,7 @@
 ## City Map
 
 ```zoommap
-image: 1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts/Offical Maps/map-4.01-kalaman.png
+image: 1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts/Offical Maps/annotated/map-4.01-kalaman.png
 # markers is optional; defaults to <image>.markers.json
 # markers: Assets/Map.jpg.markers.json
 

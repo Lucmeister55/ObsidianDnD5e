@@ -1,7 +1,7 @@
 ## World Map
 
 ```zoommap
-image: 1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts/Offical Maps/ansalon-poster-map.jpg
+image: 1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Handouts/Offical Maps/annotated/ansalon-poster-map.jpg
 # markers is optional; defaults to <image>.markers.json
 # markers: z_Assets/ansalon-poster-map.jpg.markers.json
 

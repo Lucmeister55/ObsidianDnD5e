@@ -1,4 +1,6 @@
 {
   "cssTheme": "ITS Theme",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "S - Encoded Icons"
+  ]
 }
