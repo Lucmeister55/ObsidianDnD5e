@@ -121,7 +121,9 @@
     "Soundbar/FE-Awakening/Dusk Falls.flac": {},
     "Soundbar/FE-Awakening/Resolve (Dark).flac": {},
     "Soundbar/FE-Fates/Dusk Falls.flac": {},
-    "Soundbar/FE-Fates/Resolve (Dark).flac": {},
+    "Soundbar/FE-Fates/Resolve (Dark).flac": {
+      "volume": 1
+    },
     "Soundbar/OoT/Market - The Legend of Zelda_ Ocarina of Time OST Remastered.mp3": {
       "volume": 1
     },
@@ -130,7 +132,16 @@
     },
     "Soundbar/Ambience/Barren Wastes.mp3": {
       "volume": 1
-    }
+    },
+    "Soundbar/FE-SoV/1.13 Where the Wind Rustles.mp3": {},
+    "Soundbar/FE-SoV/2.09 Where the Hammer Sings.mp3": {},
+    "Soundbar/FE-SoV/1.14 March to Deliverance (Prologue).mp3": {},
+    "Soundbar/FE-SoV/1.23 With Mila's Divine Protection (Prologue).mp3": {},
+    "Soundbar/FE-SoV/2.02 Preparations- Deliverance.mp3": {},
+    "Soundbar/FE-Awakening/1-11 - Menace.mp3": {
+      "volume": 1
+    },
+    "Soundbar/Ambience/Medieval Battlefield.mp3": {}
   },
   "playlistPrefs": {
     "Soundbar/Music/FE_Awakening": {},
@@ -291,6 +302,41 @@
       "seconds": 600.032653,
       "mtime": 1776869075629,
       "size": 14420705
+    },
+    "Soundbar/FE-SoV/1.13 Where the Wind Rustles.mp3": {
+      "seconds": 133.511837,
+      "mtime": 1778095875812,
+      "size": 5541487
+    },
+    "Soundbar/FE-SoV/2.09 Where the Hammer Sings.mp3": {
+      "seconds": 127.320816,
+      "mtime": 1778095905029,
+      "size": 5293847
+    },
+    "Soundbar/FE-SoV/1.14 March to Deliverance (Prologue).mp3": {
+      "seconds": 136.672653,
+      "mtime": 1778095926285,
+      "size": 5667938
+    },
+    "Soundbar/FE-SoV/1.23 With Mila's Divine Protection (Prologue).mp3": {
+      "seconds": 112.53551,
+      "mtime": 1778095926312,
+      "size": 4702466
+    },
+    "Soundbar/FE-SoV/2.02 Preparations- Deliverance.mp3": {
+      "seconds": 193.776327,
+      "mtime": 1778096050365,
+      "size": 7952066
+    },
+    "Soundbar/FE-Awakening/1-11 - Menace.mp3": {
+      "seconds": 153.70449,
+      "mtime": 1778096592594,
+      "size": 5436277
+    },
+    "Soundbar/Ambience/Medieval Battlefield.mp3": {
+      "seconds": 3600.091429,
+      "mtime": 1778100391733,
+      "size": 61093149
     }
   }
 }
