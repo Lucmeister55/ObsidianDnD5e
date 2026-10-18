@@ -1,5 +1,7 @@
 {
   "settings": {
+    "soundLibraryLocation": "vault",
+    "externalSoundFolderPath": "",
     "rootFolder": "Soundbar",
     "includeRootFiles": false,
     "folders": [
@@ -15,14 +17,19 @@
     "defaultFadeInMs": 3000,
     "defaultFadeOutMs": 3000,
     "allowOverlap": true,
+    "exclusivePlayback": false,
     "masterVolume": 1,
     "mediaElementThresholdMB": 25,
     "ambienceVolume": 1,
     "simpleView": true,
     "folderViewModes": {},
+    "tileSizingMode": "fixed-height",
+    "tileAspectRatioPreset": "16:9",
     "tileHeightPx": 100,
+    "limitTileTitlesToOneLine": false,
     "noteIconSizePx": 40,
     "toolbarFourFolders": false,
+    "showAllFoldersOption": true,
     "maxAudioCacheMB": 512,
     "iosLockscreenCompatibilityMode": false,
     "thumbnailFolderEnabled": false,

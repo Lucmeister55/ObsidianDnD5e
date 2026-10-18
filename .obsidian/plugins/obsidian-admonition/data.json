@@ -4,37 +4,37 @@
       "type": "statblock",
       "icon": {
         "name": "dragon",
-        "type": "font-awesome"
+        "type": "fas"
       },
       "command": false,
       "injectColor": false,
       "noTitle": false,
       "copy": false,
-      "color": "166, 232, 195"
+      "color": "rgb(166, 232, 195)"
     },
     "flowchart": {
       "type": "flowchart",
       "icon": {
         "name": "map",
-        "type": "font-awesome"
+        "type": "fas"
       },
       "command": false,
       "injectColor": false,
       "noTitle": true,
       "copy": false,
-      "color": "187, 240, 160"
+      "color": "rgb(187, 240, 160)"
     },
     "gallery": {
       "type": "gallery",
       "icon": {
         "name": "image",
-        "type": "font-awesome"
+        "type": "fas"
       },
       "command": false,
       "injectColor": false,
       "noTitle": true,
       "copy": false,
-      "color": "25, 239, 56"
+      "color": "rgb(25, 239, 56)"
     },
     "readaloud": {
       "type": "readaloud",
@@ -47,22 +47,23 @@
       "injectColor": false,
       "noTitle": false,
       "copy": false,
-      "color": "58, 5, 225"
+      "color": "rgb(58, 5, 225)"
     }
   },
   "syntaxHighlight": false,
   "copyButton": false,
-  "version": "11.0.3",
+  "version": "12.0.10",
   "autoCollapse": false,
   "defaultCollapseType": "open",
   "injectColor": true,
   "parseTitles": true,
   "dropShadow": true,
   "hideEmpty": false,
-  "icons": [],
-  "useFontAwesome": true,
+  "icons": [
+    "fas"
+  ],
   "rpgDownloadedOnce": false,
-  "msDocConverted": false,
   "useSnippet": false,
-  "snippetPath": "custom-admonitions.491247"
+  "snippetPath": "custom-admonitions.491247",
+  "useFontAwesome": false
 }
