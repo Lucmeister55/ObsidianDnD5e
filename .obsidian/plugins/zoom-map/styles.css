@@ -1,3 +1,116 @@
+/* ==========================================================================
+   Obsidian 1.13 declarative settings host
+
+   getSettingDefinitions().render() receives a single `.setting-item` row,
+   not the old free PluginSettingTab.containerEl. The Maps settings page is
+   a complete custom page with its own tabs and grids, so the row must not
+   keep Obsidian's flex-row layout.
+   ========================================================================== */
+.setting-item.zoommap-settings {
+  display: block;
+  width: 100%;
+  max-width: none;
+  min-width: 0;
+  padding: 0;
+  border-top: none;
+}
+
+/* Obsidian's declarative settings host highlights the complete custom
+   Maps settings row on hover. The Maps UI has its own buttons and
+   interactive states, so keep the outer host visually neutral. */
+.setting-item.zoommap-settings-host.zoommap-settings-host,
+.setting-item.zoommap-settings-host.zoommap-settings-host:hover,
+.setting-item.zoommap-settings-host.zoommap-settings-host:focus,
+.setting-item.zoommap-settings-host.zoommap-settings-host:focus-within {
+  background: transparent;
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.setting-item.zoommap-settings > .zoommap-settings__tabs,
+.setting-item.zoommap-settings > .zoommap-settings__tab-content {
+  width: 100%;
+  min-width: 0;
+}
+
+/* ==========================================================================
+   Settings layout helpers
+
+   Obsidian settings normally keep the info column and the controls in a
+   single flex row. Long descriptions can become extremely narrow on smaller
+   settings panes. These helpers allow selected ZoomMap settings to wrap their
+   controls cleanly, while keeping descriptions readable.
+   ========================================================================== */
+
+.zoommap-settings .setting-item.zoommap-setting--wrap-control,
+.modal .setting-item.zoommap-setting--wrap-control {
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 12px;
+}
+
+.zoommap-settings .setting-item.zoommap-setting--wrap-control > .setting-item-info,
+.modal .setting-item.zoommap-setting--wrap-control > .setting-item-info {
+  min-width: min(100%, 220px);
+  flex: 1 1 220px;
+}
+
+.zoommap-settings .setting-item.zoommap-setting--wrap-control > .setting-item-control,
+.modal .setting-item.zoommap-setting--wrap-control > .setting-item-control {
+  min-width: 0;
+  flex: 0 1 auto;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 6px;
+}
+
+/* Put a setting description below its label and controls. `display: contents`
+   preserves Obsidian's native setting markup while allowing flex ordering. */
+.zoommap-settings .setting-item.zoommap-setting--desc-below,
+.modal .setting-item.zoommap-setting--desc-below {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 12px;
+}
+
+.zoommap-settings .setting-item.zoommap-setting--desc-below > .setting-item-info,
+.modal .setting-item.zoommap-setting--desc-below > .setting-item-info {
+  order: 1;
+  flex: 1 1 180px;
+  min-width: 0;
+}
+
+.zoommap-settings .setting-item.zoommap-setting--desc-below > .setting-item-control,
+.modal .setting-item.zoommap-setting--desc-below > .setting-item-control {
+  order: 2;
+  flex: 0 1 auto;
+  min-width: 0;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 6px;
+}
+
+.zoommap-settings .setting-item.zoommap-setting--desc-below > .setting-item-description,
+.modal .setting-item.zoommap-setting--desc-below > .setting-item-description {
+  order: 3;
+  flex: 0 0 100%;
+  min-width: 0;
+  margin-top: 0;
+}
+
+/* Hover width/height are pixel counts; four digits should be sufficient. */
+.zoommap-settings .setting-item.zoommap-setting--hover-popover-size input[type="text"] {
+  width: 5ch;
+  min-width: 5ch;
+  max-width: 5ch;
+}
+
+.zoommap-settings .zoommap-settings__svg-folder-input {
+  width: 22ch;
+  max-width: min(22ch, 100%);
+}
+
 /* Settings: optional image-icon preview column */
 .zoommap-settings.zoommap-settings--imgpreview .zm-icons-grid-head--img,
 .zoommap-settings.zoommap-settings--imgpreview .zm-icons-grid--img {
@@ -150,6 +263,9 @@ button.zm-btn-sm {
   overflow: visible;
   touch-action: none;
   background: var(--background-primary);
+  contain: layout size style;
+  overscroll-behavior: contain;
+  transform: translateZ(0);
 }
 
 /* Canvas layer (optional render mode) */
@@ -161,6 +277,17 @@ button.zm-btn-sm {
   pointer-events: none; /* Events are handled by the marker layer */
   image-rendering: auto;
   z-index: 0;
+}
+
+/* Optional pixel-art rendering mode, configured per zoommap block. */
+.zm-root--image-pixelated .zm-image,
+.zm-root--image-pixelated .zm-overlay-image {
+  image-rendering: pixelated;
+}
+
+.zm-root--image-crisp-edges .zm-image,
+.zm-root--image-crisp-edges .zm-overlay-image {
+  image-rendering: crisp-edges;
 }
 
 /* Hide DOM image/overlays in canvas mode */
@@ -222,7 +349,7 @@ button.zm-btn-sm {
 .zm-float-right {
   float: right;
   margin: 0.5rem 0 1rem 1rem;
-  max-width: 100% !important;
+  max-width: 100%;
 }
 
 @media (max-width: 820px) {
@@ -230,15 +357,8 @@ button.zm-btn-sm {
   .zm-float-right {
     float: none;
     margin: 0 0 1rem 0;
-    width: 100% !important;
+    width: 100%;
   }
-}
-
-/* Compositing + anti-flicker */
-.zm-viewport {
-  contain: layout size style;
-  overscroll-behavior: contain;
-  transform: translateZ(0);
 }
 
 .zm-clip {
@@ -278,10 +398,12 @@ button.zm-btn-sm {
   z-index: 30; /* above map content, below HUD */
 }
 
-.zm-viewport-frame {
+.workspace-leaf-content .zm-root .zm-viewport-frame,
+.markdown-rendered .zm-root .zm-viewport-frame,
+.zm-root .zm-viewport-frame {
   position: absolute;
   inset: 0;
-  width: 100%;
+  inline-size: 100%;
   height: 100%;
   object-fit: fill;
   object-position: center;
@@ -290,10 +412,10 @@ button.zm-btn-sm {
   -webkit-user-drag: none;
   z-index: 30; /* above map content, below HUD */
   transform: translateZ(0);
-  max-width: none !important;
-  max-height: none !important;
-  max-inline-size: none !important;
-  max-block-size: none !important;
+  max-width: none;
+  max-height: none;
+  max-inline-size: none;
+  max-block-size: none;
   display: block;
 }
 
@@ -328,7 +450,7 @@ button.zm-btn-sm {
 
 .zm-root--svg-base .zm-image,
 .zm-root--svg-base .zm-overlay-image {
-  transform: none !important; /* override translateZ(0) */
+  transform: none; /* override translateZ(0) */
   backface-visibility: visible;
   -webkit-backface-visibility: visible;
 }
@@ -383,6 +505,11 @@ button.zm-btn-sm {
   cursor: not-allowed;
 }
 
+.zm-marker--player-hidden {
+  opacity: 0.35;
+  filter: grayscale(1);
+}
+
 .zm-hud-markers {
   position: absolute;
   inset: 0;
@@ -419,7 +546,7 @@ button.zm-btn-sm {
 
 /* Hidden helper (avoid inline style.display writes) */
 .zm-hidden {
-  display: none !important;
+  display: none;
 }
 
 body.zm-global-hover-popover-size {
@@ -431,39 +558,36 @@ body.zm-global-hover-popover-size {
 body.zm-global-hover-popover-size .popover.hover-popover,
 body.zm-global-hover-popover-size .hover-popover {
   --popover-width: min(var(--zm-hover-popover-max-width, 360px), 92vw);
-  width: var(--popover-width) !important;
-  max-width: var(--popover-width) !important;
-  --popover-height: min(var(--zm-hover-popover-max-height, 260px), 92vh);
+  width: var(--popover-width);
+  max-width: var(--popover-width);
   --popover-max-height: min(var(--zm-hover-popover-max-height, 260px), 92vh);
-  height: var(--popover-height) !important;
-  max-height: var(--popover-max-height) !important;
-  height: auto !important;
-  overflow: hidden !important;
-  display: flex !important;
-  flex-direction: column !important;
+  max-height: var(--popover-max-height);
+  height: auto;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
 }
 
 body.zm-global-hover-popover-size .popover.hover-popover .hover-popover-content,
 body.zm-global-hover-popover-size .hover-popover .hover-popover-content,
 body.zm-global-hover-popover-size .popover.hover-popover .popover-content,
 body.zm-global-hover-popover-size .hover-popover .popover-content {
-  width: 100% !important;
-  height: 100% !important;
-  min-height: 0 !important;
-  max-width: 100% !important;
-  max-height: 100% !important;
-  min-height: 0 !important;
-  overflow: auto !important;
-  flex: 1 1 auto !important;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  flex: 1 1 auto;
 }
 
 body.zm-global-hover-popover-size .popover.hover-popover .markdown-preview-view,
 body.zm-global-hover-popover-size .hover-popover .markdown-preview-view,
 body.zm-global-hover-popover-size .popover.hover-popover .markdown-preview-section,
 body.zm-global-hover-popover-size .hover-popover .markdown-preview-section {
-  max-width: 100% !important;
-  max-height: 100% !important;
-  min-height: 0 !important;
+  max-width: 100%;
+  max-height: 100%;
+  min-height: 0;
 }
 
 /* Map grid overlay */
@@ -634,6 +758,44 @@ body.zm-global-hover-popover-size .hover-popover .markdown-preview-section {
   display: block;
 }
 
+.zm-zoom-controls {
+  position: absolute;
+  z-index: 6;
+  right: 8px;
+  top: 32px;
+  display: flex;
+  gap: 6px;
+  pointer-events: auto;
+}
+
+.zm-zoom-controls.zm-hidden {
+  display: none;
+}
+
+.zm-zoom-btn {
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  background: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  box-shadow: var(--shadow-s);
+  font-size: 16px;
+  line-height: 1;
+}
+
+.zm-zoom-btn:hover {
+  background: var(--background-modifier-hover);
+}
+
+.zm-zoom-btn:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
 /* Draw overlay (shapes) */
 .zm-draw {
   position: absolute;
@@ -642,6 +804,26 @@ body.zm-global-hover-popover-size .hover-popover .markdown-preview-section {
   width: 0;
   height: 0;
   pointer-events: none;
+}
+
+.zm-draw-hitboxes {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0;
+  height: 0;
+  pointer-events: none;
+}
+
+.zm-draw-hitbox {
+  position: absolute;
+  pointer-events: auto;
+  background: transparent;
+  cursor: pointer;
+}
+
+.zm-draw-hitbox--circle {
+  border-radius: 999px;
 }
 
 .zm-draw__svg {
@@ -653,6 +835,10 @@ body.zm-global-hover-popover-size .hover-popover .markdown-preview-section {
 .zm-draw__shape {
   vector-effect: non-scaling-stroke;
   pointer-events: auto;
+}
+
+.zm-draw__shape--interactive {
+  cursor: pointer;
 }
 
 /* Context menu */
@@ -741,6 +927,37 @@ body.zm-global-hover-popover-size .hover-popover .markdown-preview-section {
 }
 
 /* Settings grids */
+.zoommap-settings__tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0 0 16px;
+  padding: 0 0 10px;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.zoommap-settings__tab {
+  padding: 6px 10px;
+  border-radius: 6px;
+  color: var(--text-normal);
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+}
+
+.zoommap-settings__tab:hover {
+  background: var(--background-modifier-hover);
+}
+
+.zoommap-settings__tab.is-active {
+  background: var(--interactive-accent);
+  border-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+}
+
+.zoommap-settings__tab-content {
+  min-width: 0;
+}
+
 .zoommap-settings .zm-grid {
   display: grid;
   gap: 8px;
@@ -759,20 +976,21 @@ body.zm-global-hover-popover-size .hover-popover .markdown-preview-section {
 }
 
 .zoommap-settings .zm-icons-grid-head {
-  grid-template-columns: 28px 12ch minmax(220px, 1fr) 7ch 7ch 7ch 7ch 36px;
+  grid-template-columns: 28px 12ch minmax(220px, 1fr) 5ch 5ch 5ch 5ch 36px;
+  gap: 3px;
   width: 100%;
 }
 
 .zoommap-settings .zm-icons-grid {
   display: grid;
-  grid-template-columns: 28px 12ch minmax(220px, 1fr) 7ch 7ch 7ch 7ch 36px;
-  gap: 8px;
+  grid-template-columns: 28px 12ch minmax(220px, 1fr) 5ch 5ch 5ch 5ch 36px;
+  gap: 3px;
   align-items: center;
   width: 100%;
 }
 
 .zoommap-settings input.zm-num {
-  width: 7ch;
+  width: 5ch;
 }
 
 .zoommap-settings input.zm-name {
@@ -815,7 +1033,12 @@ body.zm-global-hover-popover-size .hover-popover .markdown-preview-section {
 }
 
 .zoommap-settings .zm-row {
-  display: contents;
+  display: grid;
+  grid-column: 1 / -1;
+  grid-template-columns: inherit;
+  gap: inherit;
+  align-items: inherit;
+  width: 100%;
 }
 
 .zoommap-settings .zm-travel-grid-head {
@@ -874,8 +1097,8 @@ body.zm-global-hover-popover-size .hover-popover .markdown-preview-section {
 }
 
 .zoommap-settings .zm-icon-btn svg {
-  width: 18px !important;
-  height: 18px !important;
+  width: 18px;
+  height: 18px;
   display: block;
 }
 
@@ -887,10 +1110,26 @@ body.is-tablet .zoommap-settings .zm-icon-btn {
 }
 
 body.is-mobile .zoommap-settings .zm-icon-btn svg,
-body.is-phone .zoommap-settings .zm-icon-btn svg,
-body.is-tablet .zoommap-settings .zm-icon-btn svg {
-  width: 20px !important;
-  height: 20px !important;
+body.is-phone .zoommap-settings .zm-icon-btn > svg,
+body.is-tablet .zoommap-settings .zm-icon-btn > svg {
+  width: 20px;
+  height: 20px;
+}
+
+@media (max-width: 620px) {
+  .zoommap-settings .setting-item.zoommap-setting--wrap-control > .setting-item-info,
+  .zoommap-settings .setting-item.zoommap-setting--desc-below > .setting-item-info,
+  .modal .setting-item.zoommap-setting--wrap-control > .setting-item-info,
+  .modal .setting-item.zoommap-setting--desc-below > .setting-item-info {
+    flex-basis: 100%;
+  }
+
+  .zoommap-settings .setting-item.zoommap-setting--wrap-control > .setting-item-control,
+  .zoommap-settings .setting-item.zoommap-setting--desc-below > .setting-item-control,
+  .modal .setting-item.zoommap-setting--wrap-control > .setting-item-control,
+  .modal .setting-item.zoommap-setting--desc-below > .setting-item-control {
+    flex-basis: 100%;
+  }
 }
 
 /* Generic modal layouts (used in editor & other modals) */
@@ -950,7 +1189,7 @@ body.is-tablet .zoommap-settings .zm-icon-btn svg {
 /* Keyboard selection: clear highlight bar */
 .zoommap-link-suggestion-item.is-selected {
   background: var(--interactive-accent);
-  color: var(--text-on-accent, #fff);
+  color: var(--text-on-accent, #ffffff);
 }
 
 /* Settings: collections list rows + actions */
@@ -1078,6 +1317,25 @@ body.zm-cursor-move-grabbing {
   cursor: grabbing;
 }
 
+/* SVG outline modal preview */
+.zoommap-icon-outline-preview {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  background: var(--background-secondary);
+}
+
+.zoommap-icon-outline-preview img {
+  width: 96px;
+  height: 96px;
+  object-fit: contain;
+}
+
 /* Always-visible marker label (tooltip caption) */
 .zm-marker-label {
   position: absolute;
@@ -1123,7 +1381,6 @@ body.zm-cursor-move-grabbing {
 
 /* In dark theme, slightly lighten the list background to improve SVG contrast */
 .theme-dark .zoommap-fa-picker-list {
-  background: var(--background-secondary-alt, var(--background-secondary));
   background: color-mix(
     in srgb,
     var(--background-secondary-alt, var(--background-secondary)) 70%,
@@ -1405,6 +1662,97 @@ body.zm-cursor-move-grabbing {
   flex: 0 0 auto;
 }
 
+.zoommap-view-editor-inline-label {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  min-height: 30px;
+  color: var(--text-normal);
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.zoommap-view-editor-inline-label--hint,
+.zoommap-view-editor .setting-item-name.zoommap-view-editor-inline-label--hint {
+  cursor: help;
+  border-bottom: 1px dotted currentColor;
+}
+
+.zoommap-view-editor-row > .zoommap-view-editor-inline-label +
+.zoommap-view-editor-input {
+  flex: 1 1 220px;
+}
+
+.zoommap-view-editor-compact-grid {
+  --zoommap-view-editor-compact-columns: 4;
+  display: grid;
+  grid-template-columns: repeat(
+    var(--zoommap-view-editor-compact-columns),
+    minmax(0, 1fr)
+  );
+  gap: 8px;
+  margin: 0 0 10px;
+}
+
+.zoommap-view-editor-compact-field {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  gap: 4px;
+}
+
+.zoommap-view-editor-compact-field > label {
+  color: var(--text-muted);
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.zoommap-view-editor-compact-label--hint {
+  cursor: help;
+  border-bottom: 1px dotted currentColor;
+}
+
+.zoommap-view-editor-compact-field > input:not([type="checkbox"]),
+.zoommap-view-editor-compact-field > select,
+.zoommap-view-editor-compact-inline > input[type="text"] {
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+}
+
+.zoommap-view-editor-compact-field > input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+  margin: 5px 0;
+}
+
+.zoommap-view-editor-compact-inline {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  min-width: 0;
+}
+
+.zoommap-view-editor-compact-inline > input[type="checkbox"] {
+  flex: 0 0 auto;
+  width: 18px;
+  height: 18px;
+  margin: 0;
+}
+
+@media (max-width: 720px) {
+  .zoommap-view-editor-compact-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 420px) {
+  .zoommap-view-editor-compact-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* =======================
    Text layers (character sheets)
    ======================= */
@@ -1439,6 +1787,12 @@ body.zm-cursor-move-grabbing {
   position: absolute;
   pointer-events: auto;
   background: transparent;
+}
+
+
+/* During measuring / calibration, text hitboxes must not intercept clicks. */
+.zm-text-hitboxes.zm-text-hitboxes--passive .zm-text-hitbox {
+  pointer-events: none;
 }
 
 /* Guides (only when showGuides=true or during drawing) */
