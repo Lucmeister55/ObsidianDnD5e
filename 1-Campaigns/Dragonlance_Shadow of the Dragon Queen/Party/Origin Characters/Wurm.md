@@ -1,116 +1,114 @@
-**Race:** Dragonborn (Black)
-**Age:** 53
-**Background:** Farmer
-**Class:** Barbarian (Zealot)
-**Patron deity:** Paladine and Takhisis
+---
+race: Dragonborn (Black)
+age: 53
+background: Farmer
+class: Barbarian (Zealot)
+deity: Paladine
+tags:
+  - pc
+  - player-facing
+---
 
 ![[Wurm.jpg]]
 
+> [!abstract] Wurm
+> **Wrathful** · **Chosen** · **Sorry**
+> 
+> - **You are** Wurm, a 53-year-old black-scaled dragonborn and the slave of the Bakaris family.
+> - **You were** pulled from a river as a hatchling, worshipped and locked up by a cult of Paladine, then sold to the Bakarises when the cult fell. The only kindness you ever knew was an elf lady, whose name you never learned, who taught you a few words and folded you paper kingfishers. One day she was taken away, and you're sure they killed her.
+> - **Now** you've just died on High Hill. A great grey dragon came to you in a vision and sent you back. Your eyes burn with light, and a voice told you to kill them all.
+> - **You love** stories, paper kingfishers, the memory of the elf lady, and anyone who treats you as a person.
+> - **You can't stand** chains, orders, and the Bakarises (though you've never dared to show it).
+> - **Play him** quiet and submissive out of long habit, eyes down, obeying before he's told. But something new is burning under the surface, and when it breaks loose it is terrifying.
+
+## Appearance
+
+Wurm is huge, a towering black-scaled dragonborn, with a crown of jagged horns sweeping back from his skull and a jaw full of teeth that he has learned to keep hidden. His scales are dull and scarred from years of the whip, and he holds himself hunched, trying to take up less room than he does. Since High Hill his eyes burn a faint, steady red, and when he's angry a sickly green glow lights up behind his teeth and his breath starts to smoke. He wears battered leather and old pauldrons scratched with runes he can't read, and around his neck hangs a long string of prayer beads with a small golden symbol of Paladine, the one thing he owns that nobody gave him as a master.
+
 ## Backstory
 
-### Early life
+### The River and the Cult
 
-Wurm’s story begins in corruption. He hatched not from a natural clutch, but from a metallic dragon egg during Takhisis’s first experiments to twist and corrupt such eggs to her will. In that failed birth, Wurm came forth with black scales, wholly altered by her malign influence and burdened from the first with her hunger for domination, independence, and absolute autonomy. Branded a reject, he was cast into the river and carried down from the Taman Busuk Mountains until the currents brought him to a village in Estwilde—Draevenfall—in 298 AC. He survived the journey only through an unnatural resilience, enduring the elements even as a hatchling. He remembers nothing of what came before his arrival in the village.
+The first thing Wurm remembers is cold water. In the spring of 298 AC, fishermen in **Draevenfall**, a village in Estwilde, hauled a black-scaled hatchling out of the river shallows and found him still breathing. The current had carried him all the way down from the Taman Busuk Mountains, which nothing that small should have survived. He remembers nothing from before the river, and no one has ever been able to tell him where he came from.
 
-Draevenfall was already strained by a recent plague outbreak that had emptied homes and left its people fearful and searching for meaning. His draconic form drew immediate attention. Some recoiled in fear, others whispered prayers, and a few saw something divine in his survival amid suffering and death. It was that last belief which drew the attention of a faction of radical devotees of Paladine within the village. In the wake of the plague, when faith had been shaken and uncertainty gripped the community, they were desperate for any sign that the gods had not abandoned Krynn. To them, Wurm’s appearance was not coincidence, but confirmation. They took him in under the guise of protection, offering shelter from a world that already viewed him with suspicion.
+Draevenfall had only just come through a plague, with half its houses standing empty and the living desperate for some sign that the gods had not forgotten them. Some of the villagers took one look at the scaled thing in the nets and backed away, and some prayed over it, and a few of them, a hard core of Paladine's faithful, decided he was the sign they had been waiting for. They took him in and called it protection.
 
-What began as cautious reverence and hopeful interpretation of omens slowly hardened into obsessive worship. Wurm was no longer treated as an orphan, but as a living conduit of prophecy. He was dressed in ritual garb, paraded through ceremonies, and subjected to constant interpretation, with every gesture, sound, or silence reworked into supposed divine meaning. His daily life became structured around their rites, with little distinction left between veneration and control, and isolation soon followed, then confinement, all justified as preparation for his sacred purpose.
+It began as reverence and went wrong slowly. They dressed him in ritual robes and carried him through their ceremonies, and every sound he made, every gesture and every silence, became a message from the gods to be argued over and written down. He was never allowed to be a child, only a prophecy. Before long he wasn't allowed outside, and then he wasn't allowed out of his room, and they told him all of it was preparation for his sacred purpose.
 
-During this time, while most of the cult either feared or worshipped him, there was one exception: an elf woman named **Vrella Farsky**. Unlike the others, she had been permitted to study Wurm as part of her work as a dragonnel researcher, observing his nature and attempting to understand his origins. The cult itself tolerated her presence largely because they believed her findings might eventually be used to their advantage—seeking knowledge of his blood, scales, and other traits as potential sources of power or divine insight. Over time, however, her relationship with Wurm became far more personal than they intended. She treated him as a person rather than a sign, spoke to him gently, brought him food without ritual framing, and read him stories, helping him slowly understand language, his condition, and how to cope with what he was. She also told him stories of the outside world, giving him his first real sense that there existed places and lives beyond the confines of the cult's interpretations. In those moments, his existence briefly resembled something closer to normal life than reverence or imprisonment.
+Only one person in that place ever really saw him. She was an elf who studied dragonnels, and the cult let her study him too, in the hope she would tell them what his blood and scales were good for. Wurm never learned her name. She told him once, but it was long and elvish and he was very small, and by the time he was old enough to ask again, she was gone. In his head she is only *the elf lady*. She talked to him instead of studying him. She brought him food without saying prayers over it, and read him stories, and taught him words, and through the words she taught him what he was and how to bear it. She told him about cities and oceans and roads that went on forever, and for a little while his life was almost ordinary.
 
-That fragile stability ended abruptly when Vrella disappeared. Wurm overheard fragmented whispers that she had been "given" to an oracle of dragons in exchange for favor or knowledge. In his understanding of what he had already witnessed within the cult, he interpreted this not as reassignment or passage, but as sacrifice. Her absence shattered the only consistent kindness he had known, and the rituals around him grew colder, more severe, and more isolating than before.
+He remembers two things about her better than her face. Across the back of her left hand was an old silvery scar shaped like a crescent moon, where a dragonnel had bitten her when she was young, and she would let him trace it with one claw. And every time she visited, she folded him a little bird out of whatever paper she had to hand, a kingfisher, always a kingfisher, and left it on his windowsill. He kept every one of them until the cult took them away.
 
-Wurm eventually came to understand, through fragments of overheard conversations and Vrella’s hesitant explanations, that the cult itself was not truly autonomous. It was sponsored and quietly directed by a distant patron known only as **Lohezet**, whose name was spoken in hushed tones and treated with unquestioning reverence by the cult’s leadership. It was Lohezet’s influence, he learned, that had secured Vrella’s initial involvement—only for her to be formally taken away later under the same authority, removed as abruptly and permanently as if she had never been there at all.
+Then one day she didn't come. Through the door he heard the cult whispering that she had been "given" to an oracle of dragons. Wurm didn't know what an oracle was. He only knew what "given" meant in that place, because he had seen it before. He believed they had sacrificed her.
 
-In time, Wurm began to understand that there would be no rescue from within the cult, but this understanding did not arise on its own. It formed only through his interactions with Vrella and the way she helped him see himself as more than an object of worship or fear. Through her, he began to grasp that he was being shaped, confined, and used in ways that were not natural or kind, even if he could not yet fully articulate why. Gathering what courage he could, he secretly wrote messages and slipped them through a grate to the outside world, attempting to reach an anonymous informant with word of what was happening. He believed, naively, that this would bring help.
+The whispers gave him one more name, too, though he never understood what it meant. The leaders said **Lohezet** the way other people said a god's name, quietly and a little afraid, and they said it when the elf lady came and again when she was taken away. Wurm still remembers the sound of it.
 
-### Captured
+After that, Wurm was very lonely. The elf lady had only ever managed to teach him a handful of letters, and he couldn't put many of them together, but he remembered the word for *help*, and how to fold a kingfisher. So he scratched the word onto anything he could find and folded it into a bird, scraps of cloth and splinters of wood and the backs of the cult's own prayers, and pushed them out through a grate in the wall, one after another, for months. He didn't know who might find them or what they would do. He just believed, the way a child believes, that if he kept doing it, someone kind would come.
 
-Eventually, the cult drew the attention of local authorities, who moved to dismantle the increasingly unstable and disruptive group as reports emerged of coercive rituals, disappearances, and suspected human sacrifice carried out in the name of divine revelation. When the crackdown came, Wurm did not resist. In his limited understanding of the world, he believed he might finally be freed—that others would see him as a victim rather than an instrument.
+### Captivity and Servitude
 
-Instead, he was treated as something dangerous and unknown. With no clear understanding of what he was and no willingness to risk his influence, the authorities confined him as an aberration tied to a dangerous cult. There was no trial he could comprehend, only silence and captivity. The cult that had once worshipped him was gone, and the village that had taken him in now refused to see him as anything but a threat.
+In a way, it did. Word of coercion and disappearances and rumoured human sacrifice reached the local authorities, and they came to tear the cult apart. Wurm didn't fight them. He stood in the doorway of his room and waited, and hoped, naively, that they had come for him, and that he was about to be free.
 
-### Servitude
+The soldiers saw no victim, though, only the strange scaled thing at the heart of a murderous cult. Nobody knew what he was and nobody wanted to find out, so there was no trial he could understand, only a new cell. The cult that had worshipped him was gone, and the village that had pulled him from the river wanted nothing more to do with him.
 
-Wurm remained imprisoned until circumstance and influence allowed for his transfer into private hands. It was during this time that **Bakaris Uth Estide the Elder**, a local noble and lord of Draevenfall, and his son, **Bakaris the Younger**, acquired him directly from among the detained within the village. They were residents of Draevenfall, embedded in its local power structure, and used that position to secure custody of him without resistance from the weakened and fearful community.
+He was still in that cell when **Bakaris Uth Estide the Elder**, a lord of Draevenfall, came with his son **Bakaris the Younger** to look over the prisoners. They bought him the way you'd buy a strong ox, and nobody in that frightened village argued. The magistrate drew up a contract, a single sheet of thick parchment with a great deal of writing and a red wax seal at the bottom, and Bakaris the Elder signed it, and from that moment Wurm belonged to them by law. He has never been able to read it. But he has seen the Younger take it out and wave it at anyone who looks at Wurm too long, and he knows that as long as that piece of paper exists, he is theirs.
 
-Not long after, the Bakarises were cast out of Draevenfall when the Younger slew the son of the local lord in a duel, an act that shattered their standing and turned tolerated authority into open hostility. Their exile was abrupt and uncompromising, forcing them to abandon their position and leave the village under threat of retribution. In their departure, they took Wurm with them.
+Not long afterwards the Younger killed another lord's son in a duel, and the Bakarises were driven out of Draevenfall under threat of blood, taking Wurm with them. From then on he was their slave in name as well as truth. The Elder treated him as property, useful and silent and easily replaced, and the Younger treated him as entertainment. Years of the road and the whip taught Wurm to keep his eyes on the ground, to obey before he was told, and to expect pain whenever anyone looked at him.
 
-From that point on, Wurm was their slave in truth and name. The Elder saw him as property—silent, useful, and expendable—while the Younger treated him as a source of amusement and cruelty, subjecting him to humiliation and violence without restraint. Years of travel, beatings, and forced obedience reduced Wurm into something quiet and withdrawn, conditioned to lower his gaze and to expect pain as the natural consequence of drawing attention.
-
-By the time the campaign begins, Wurm travels on foot beside Bakaris the Younger as part of his retinue, moving toward Vogler with the Solamnic forces gathering in the region. He is thin, scarred, and submissive, shaped by years of control into someone who anticipates commands before they are spoken, with any trace of defiance long since worn away.
+Now he walks beside the Younger's horse on the road to Vogler, huge and stooped and scarred, carrying what the horses won't, with his eyes on the road. He has never in his life had any fire in him, and he has never expected to.
 
 ### Awakening at High Hill
 
-That changes at the **Battle of High Hill**. When the fighting breaks out, Wurm is forced into the chaos alongside the retinue. He is struck down almost immediately during the charge—impaled and left dying among the press of bodies and steel. In that moment, something answers him.
+At the Kingfisher Festival, the village stages its yearly reenactment of the Battle of High Hill, a mock battle between the villagers and a company of hired mercenaries. The Bakarises volunteer Wurm to fill out the villagers' ranks, because it amuses them to see their beast in a play-fight, and then go off to enjoy the festival without him. But when the two lines charge, the mercenaries' weapons are real. A pike takes him almost at once, and he goes down beneath the press of bodies and steel and lies there, dying.
 
-A radiant vision floods his dying mind: a presence he believes to be **Paladine**, overwhelming and absolute. He is offered strength, purpose, and survival. Wurm returns from death in a violent rebirth, the world burning white around him as he rises again.
+And something answers.
 
-From that moment onward, when pushed into desperation or rage, Wurm can manifest a **massive dragon-bone greataxe**, a weapon of divine-seeming wrath. It is not a gift he understands, only one he can call upon when survival demands it.
+A light floods his mind, vast and absolute, and inside it is a great dragon, its scales a deep, shifting grey, like silver seen through smoke. He knows the way you know things in dreams that this is **Paladine**, and it offers him strength and purpose and his life back. He takes it. The world burns white, and Wurm gets up.
 
-What Wurm does not know is that the presence guiding him is not truly Paladine. It is something older in shape and intent—**Takhisis, hidden behind a divine mask**.
+Ever since, whenever he's desperate or enraged, a **massive dragon-bone greataxe** comes into his hands, a weapon that can only be divine wrath. He doesn't understand it. He only knows it comes when he needs it, and that there is a voice now, somewhere behind his own thoughts, that speaks to him of destiny.
 
-In the aftermath of High Hill, Wurm is no longer only a broken slave, but something unstable and dangerous: a man with sudden power, uncertain identity, and a voice in his mind that speaks of destiny.
-
-Over time, with the party and occasional intervention from the Knights of Kalaman, Wurm begins a slow and uneven break from Bakaris’s control. He is still bound to them socially and legally, but no longer spiritually submissive. His awakening creates fractures: he is too valuable to discard, too dangerous to ignore.
+He isn't just a broken slave any more. What he is instead, he doesn't yet know.
 
 ## Personality
 
-Wurm begins as quiet, deferential, and hypervigilant. He avoids eye contact, speaks minimally, and expects punishment even in neutral interactions. Years of captivity under human ownership have conditioned him to interpret authority as danger and silence as impending consequence. His sense of self has been eroded to the point where he initially defines reality through the reactions and expectations of those above him.
+Wurm keeps his head down. He says as little as he can, never meets anyone's eyes, and flinches when a voice is raised. Even a kind word makes him brace for the blow that usually follows it, because decades of being owned have taught him that being noticed is dangerous, and that the safest thing is to want nothing at all.
 
-After his awakening, his personality destabilizes rather than immediately improves. He develops fractured but evolving behavioral patterns that do not resolve cleanly into confidence:
+He is enormously strong, strong enough to tear a door off its hinges, and he has no idea what to do with it. He was never allowed to grow up. The cult kept him a holy child, and the Bakarises kept him a beast of burden, and in all those years no one ever let him make a choice or learn from a mistake. So in most ways that matter, the huge scarred dragonborn is still a frightened child: trusting, easily hurt, easily led, and quick to believe whoever speaks to him kindly or with authority.
 
-He retains **survivor conditioning**, defaulting to submission in structured authority settings (orders, ranks, armed groups), even when no longer enslaved. This is often at odds with sudden surges of resistance in moments of perceived injustice.
+Since High Hill that has started to crack, though not cleanly. He still falls into obedience the moment anyone gives an order or wears a rank, even when he doesn't have to. He doesn't get angry. He never has. But sometimes now, without anyone telling him to, he steps between a stranger and harm, and surprises himself.
 
-He exhibits **suppressed anger**, which can manifest as sudden, disproportionate emotional responses when threatened, cornered, or reminded of captivity. This is not controlled rage, but reactive volatility tied to trauma.
+What happens in battle isn't anger. It's something coming *into* him. The grey light from High Hill floods through him, the axe is suddenly in his hands, and Wurm is gone, as if a holy spirit has taken him over and is wearing him like armour. It's cold and certain and utterly without fear, it never apologises and it never stops, and the voice is with it, telling him he is chosen. When the rage passes, the meek Wurm comes back, blinking, with blood on his hands. He remembers all of it, but distantly, like watching someone else through a window, and what he saw that someone do terrifies him. He doesn't know which of the two is really him, or what that other one might do next time. That makes him a terrifying protector and a terrible risk, because he isn't the one who decides when it happens.
 
-He shows **emerging agency**, marked by rare but growing instances of refusal, independent decision-making, or protection of others without instruction. These moments are inconsistent but significant in indicating recovery of identity.
+**Traits**
 
-His **violence trigger response** is closely tied to his transformation and dragon-themed manifestation, activating under emotional extremes rather than conscious control. This makes his power both protective and unpredictable.
+- Watches a room for a long time before he moves in it.
+- Does what he's told before he's finished being told.
+- Notices every raised voice, every hand near a weapon.
+- Apologises for taking up space.
+- Can't walk past someone in chains.
 
-### Traits
+**Ideals**
 
-- Quiet and observant, often reading situations before speaking or acting
-- Highly compliant in structured hierarchies despite internal resistance
-- Intensely alert to threat cues (tone shifts, weapons, posture, command language)
-- Emotionally restrained until triggered, then sharply reactive
-- Displays fragmented empathy, especially toward other captives or outcasts
+- **Freedom:** No one should be owned. He just isn't sure yet what being free looks like. ^ideal-freedom
+- **Truth:** He wants to know what's real, and not just what cults, owners and visions have told him. ^ideal-truth
+- **Balance:** The voice tells him conflict is the necessary balance between opposing forces, and he is starting to believe it. ^ideal-balance
+- **Self-determination:** Who he is should be his own choice. ^ideal-self
 
-### Ideals
+**Bonds**
 
-- **Freedom:** instinctive belief that no being should be owned or bound, though he struggles to define what freedom means in practice
-- **Truth:** desire to understand what is real versus what was imposed on him by cults, owners, and visions
-- **Balance (corrupted interpretation):** the “divine voice” frames conflict as necessary equilibrium between opposing forces, shaping his moral uncertainty
-- **Self-determination:** emerging belief that identity should be chosen rather than assigned
+- The voice of **Paladine**, which gave him back his life and now gives him purpose. ^bond-voice
+- **The elf lady** with the crescent scar and the paper kingfishers, the only person who was ever kind to him. He's sure she's dead. ^bond-vrella
+- The cult, where every kindness came with a cage, and he still can't untangle the two. ^bond-cult
+- Captives and outcasts, whom he protects without thinking. ^bond-outcasts
+- Anyone who treats him as a person rather than property. ^bond-party
 
-### Bonds
+**Flaws**
 
-- The voice he believes to be **Paladine**, which he interprets as guidance and legitimacy despite its manipulation
-- Residual memory of the cult, where early “care” is psychologically entangled with control
-- Other freed captives or marginalized individuals, to whom he shows unexpected protectiveness
-- A growing attachment to companions who treat him as a person rather than property
-
-### Flaws
-
-- Deep distrust of humans due to prolonged abuse under human ownership
-- Conflicted curiosity toward draconians, sometimes perceiving kinship in their outsider status
-- Fear of freedom as much as fear of captivity, due to loss of identity under both
-- Prone to violent escalation when emotionally overwhelmed or when authority is challenged
-- Susceptible to manipulation by perceived divine authority, especially when it aligns with his need for purpose
-
-## Hooks
-
-- Wurm is a vessel between mortal and divine, but his “divine voice” is not what it claims to be.
-- Takhisis (disguised as Paladine) urges him toward order-through-conquest: destroy draconians, protect the “worthy,” and restore balance through strength.
-- The Knights of Kalaman and the party may become the first stable, non-abusive authority structure he encounters, giving him a fragile concept of belonging.
-- Despite this, broader Solamnic forces and common soldiers often distrust him, assuming he is a draconian agent due to his appearance and origins.
-- His rage state is both a gift and a liability: powerful enough to turn battles, but unstable and emotionally costly.
-- Long-term arc tension:
-    - Trust Takhisis → eventual betrayal of humanity under the belief they are beyond redemption
-    - Reject Takhisis → eventual true awakening of Paladine, shifting his weapon from greataxe to a radiant greatsword and reclaiming agency over his power
-- Core end-state choice:
-    - Become an instrument of “divine judgment” against humanity
-    - Or break free of both divine manipulations and define his own moral path
+- Doesn't trust humans, who have only ever owned him. ^flaw-humans
+- Feels a strange kinship with draconians, outcasts like himself. ^flaw-draconians
+- Is as afraid of freedom as he is of chains. ^flaw-freedom
+- When the spirit takes him in battle, he can't stop it, and doesn't know who he hurts until it's over. ^flaw-violence
+- Trusts anything divine that gives him a purpose. ^flaw-divine
 
 ## D&D Beyond Character Sheet
 

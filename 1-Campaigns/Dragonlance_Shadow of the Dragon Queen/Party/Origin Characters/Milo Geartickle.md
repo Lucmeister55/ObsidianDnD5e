@@ -1,93 +1,129 @@
-**Race:** Kender
-**Age:** 31
-**Background:** Criminal
-**Class:** Rogue (Thief)
-**Patron deity:** Reorx
+---
+race: Kender
+age: 31
+background: Criminal
+class: Rogue (Thief)
+deity: Reorx
+tags:
+  - pc
+  - player-facing
+---
 
 ![[Milo.jpg]]
 
+> [!abstract] Milo Geartickle
+> **Light-Fingered** · **Fearless** · **Just Browsing**
+> 
+> - **You are** a 31-year-old kender rogue from Kendermore, a wanderer, tinkerer and self-appointed archaeologist who rescues relics for "safekeeping".
+> - **You were** in a kender resistance band until it got boring. Since then you've wandered Ansalon "borrowing" things, learned machines from a dwarf and a gnome, and saw a bronze dragon in the Northern Wastes that nobody believes in. A little drone you found up north follows you everywhere, and no one can tell you what it is. You also wear an iron ring that won't come off, and as far as you can tell, it won't let you die.
+> - **Now** you've come to Vogler because the famous Ispin Greenshield's shield is here, and you'd very much like to hold it.
+> - **You love** relics, old stories, locks, gadgets, and anything you haven't seen before.
+> - **You can't stand** closed doors, boredom, people who won't let you look, and the Dragonarmies, who are smashing up every ancient ruin they can find.
+> - **Play them** cheerful, nosy and genuinely fearless. Ask too many questions, pocket interesting things without thinking about it, and jump from one mad idea to the next. Every so often, one of them is brilliant.
+
+## Appearance
+
+Milo is small even for a kender, round-faced and freckled, with pointed ears and a grin so wide it seems to take up most of their head. Their dark hair is piled up in a messy topknot, with one long braid looping out of it and fastened with a bright bead, and it's usually got something stuck in it, a twig, a pencil, a lockpick. They're wrapped in an enormous mustard-yellow scarf striped with teal, which they never take off and which almost certainly has things hidden in it. Pouches hang off them everywhere. The little drone is never far from their shoulder. And on one finger, always, there's a plain iron ring.
+
 ## Backstory
 
-### Early life
+### Kendermore
 
-Milo was born among the wandering kender of **Kendermore**, where stories, roads, and forgotten things are treated as part of the same great treasure. Like many kender, they grew up with little sense of ownership and less interest in staying put. What set Milo apart was an unusual fixation on lost relics, old battlefields, and half-forgotten histories. They were not driven by greed so much as fascination: every object seemed to carry a story, and every story seemed worth preserving.
+Milo was born in **Kendermore**, where nobody draws much of a line between a story, a road and a thing you found on the road, because they're all part of the same great treasure. Like most kender, Milo grew up with very little sense of what belonged to whom and even less interest in staying in one place. What made them different was what they loved. Other kender collected shiny things, but Milo collected old things, relics and battlefields and half-forgotten histories, and they did it out of fascination rather than greed. Every object seemed to have a story in it, and every story seemed worth keeping.
 
-During their early years in Kendermore, Milo was close friends with **Elgo Duckditcher**, and the two often ended up traveling together in the chaotic, ever-shifting kender bands of the Goodlund Peninsula. At the time, both of them were drawn into one of the loosely organized kender guerrilla forces that formed to harry the occupying Black Dragon army presence across **Goodlund and Balifor**—less a structured army and more a scattered network of raids, scouting mishaps, and opportunistic disruption carried out by kender who refused to be ignored.
+Their best friend growing up was **Elgo Duckditcher**, and the two of them tumbled around the Goodlund Peninsula together in the loose, ever-changing bands that kender call a group. When the Black Dragon army occupied Goodlund and Balifor, both of them ended up in one of the kender resistance bands harrying the occupiers, which was less an army than a cheerful mess of raids, scouting mishaps and opportunistic sabotage by kender who refused to be ignored.
 
-Milo’s involvement was never driven by strategy or ideology. At first, they stayed with the group mainly out of companionship, not wanting to disappoint Elgo, who seemed far more invested in the cause and its impact on their homeland. Elgo treated their efforts with a seriousness Milo could never quite match, speaking often of resistance and purpose, while Milo treated each mission more like an unexpected detour in a much larger wandering story. Even so, Milo proved surprisingly effective at what they did, slipping through enemy lines, finding overlooked paths, and noticing details others missed with an instinctive ease that made them quietly valuable to the group despite their lack of formal intent.
+Milo never really cared about the strategy. They stayed because Elgo cared, a great deal, and Milo didn't want to let him down. Elgo talked about resistance and purpose and the homeland, while Milo treated each mission like an interesting detour in a much longer walk. Even so, Milo turned out to be very good at it, slipping through enemy lines and finding paths nobody else had noticed and spotting details everyone else missed, without ever quite meaning to.
 
-Over time, the routines of conflict—planning raids, repeating patrol patterns, and enduring the dull pressure of constant vigilance—began to feel less like adventure and more like confinement. The spark that had kept Milo present was never belief in the war itself, but the desire not to let Elgo down. Once that obligation loosened, Milo drifted away as naturally as they had arrived, leaving the guerrilla effort behind with little more than a casual remark and a turn down whatever road looked more interesting at the moment, quietly musing that there must be far more to the world than war, fighting, and the same tired patterns of resistance repeating themselves across different places.
+In the end it was the routine that did it. Planning raids, memorising patrols, staying alert all day every day, it all stopped feeling like an adventure and started feeling like a cage. Once Milo stopped worrying about disappointing Elgo, they simply drifted off, with a cheerful remark and a turn down whichever road looked most interesting, thinking that there had to be more to the world than fighting the same fight over and over in different places.
 
-### Travelling
+### On the Road
 
-There was no grand farewell or defining moment—just a growing restlessness that turned into movement. What began as a short wandering became a long one. Driven by curiosity rather than direction, Milo drifted across roads, towns, and regions, eventually reaching **Solamnia** through little more than chance and persistence, even managing to cross the **Taman Busuk Mountains** largely through sheer luck rather than planning or skill.
+There was no big farewell. A bit of restlessness turned into a short wander, and the short wander turned into a very long one, and somewhere along the way Milo ended up in **Solamnia**, mostly by chance. They even got across the **Taman Busuk Mountains**, through what can only be described as luck.
 
-They survived the journey in typical kender fashion: “borrowing” what they needed along the way. Milo keeps a running list—loosely maintained—of all the people they owe money or items to, fully intending to repay them someday, though with no urgency or real plan for doing so. Along their travels, they also developed a reputation—unbeknownst to themselves—for slipping into private collections, storehouses, and even small museums to examine and “temporarily acquire” interesting artifacts for closer study.
+They survived the way kender do, by "borrowing" whatever they needed. Milo keeps a list, loosely, of everyone they owe money or things to, and fully intends to pay them all back someday, with no particular plan for when. Without ever realising it, they also picked up a reputation for slipping into private collections and storehouses and small museums to examine interesting artifacts, and sometimes to take them away for closer study.
 
-Over time, this pattern of wandering theft-adjacent curiosity evolved into something unexpected. Milo’s habit of rifling through archives, overhearing conversations in inns and war camps, and reading whatever scraps of writing they could find made them, paradoxically, one of the more broadly informed minds in the region. They possess an unusual, almost instinctive grasp of history, political entanglements, and old Solamnic lore—not from study, but from accumulation. This is paired with an intuitive understanding of mechanisms and devices; locks, traps, siege contraptions, and strange relic-machines often make immediate sense to them once they’ve had their hands on them, despite their complete lack of formal education or discipline.
+All that wandering and borrowing turned into something nobody expected. Between the archives they rifled through, the conversations they overheard in inns and war camps, and every scrap of writing they could get their hands on, Milo became one of the best-informed people in the region. They have an odd, instinctive grasp of history and politics and old Solamnic lore that came from collecting rather than studying, and they understand machines the same way. Locks, traps, siege engines and strange relic-machines make sense to Milo the moment they get their hands on them, even though they've never had a day of proper schooling.
 
-As a child and traveler, Milo wandered often, following rumors and roadside legends whenever they could. They learned early to move lightly, talk fast, and notice what others overlooked. They became especially interested in old knightly tales, battlefield relics, and artifacts said to have shaped the great conflicts of Krynn. Over time, that curiosity turned into a private habit of sketching and recording what they found, making Milo less of a thief in their own mind and more of a chronicler of wonders.
+All the while, they kept sketching and measuring and writing down everything they found. In their own mind, they've never been a thief. They're an archaeologist, a rescuer of relics. Wonderful old things shouldn't be left to rot in tombs or gather dust in some lord's cabinet where no one ever looks at them. Someone has to dig them up, study them properly, write it all down and keep them safe, and Milo has decided that someone is them. That the relics usually end up in Milo's pockets is, as far as Milo is concerned, a matter of safekeeping.
 
-At some point, their travels carried them far beyond familiar Solamnic roads, into remote corners of the continent and even the harsh reaches of the northern wastes. In those distant lands, Milo apprenticed for a time under a dwarven inventor named **Grasha Migan**, learning the rough practicality of forgecraft, mechanical assembly, and field repairs. Later, they studied with a particularly eccentric gnomish inventor, **Tatina Rookledust**, whose workshop was a chaotic maze of half-working devices, experimental contraptions, and ideas that were often only _almost_ dangerous.
+In Kalaman, for a while, they studied with **Tatina Rookledust**, a gnomish inventor whose workshop was a glorious maze of half-working devices and ideas that were only *almost* dangerous.
 
-During their time in the northern wastes, Milo experienced something they have never been able to convince anyone else was real. While travelling near the region around Heart’s Hollow and the shifting canyons where the Wash rises, Milo was accompanied by a human scout named **Clystran**, a self-proclaimed expert of the wastes. During this journey, both of them witnessed something neither could fully explain: an enormous bronze dragon passing overhead, its vast wings cutting through the sky like living metal, moving with impossible grace against the harsh winds of the northern wastes. For a brief moment, Clystran was also clearly visible nearby in the same scene, sharing in the sighting as it unfolded.
+### The Ring
 
-No one has ever believed their account of it. Clystran himself is widely regarded as an enthusiastic storyteller and unreliable witness, known for his obsession with dragons and his habit of interpreting almost anything unusual as evidence of them. When Milo later described what they saw, it was dismissed in much the same way as Clystran’s own claims of dragon sightings—folded into local myth, exaggeration, or misinterpretation of the wastes’ strange light and storms.
+On one of their forays, into the sealed strongroom of a ruined manor in the hills of Estwilde, Milo found a plain iron ring lying alone on a stone shelf. The looters who had been there before had touched everything else in the room and left the ring alone, and Milo didn't wonder why. It seemed to want to be picked up, and once it was in their hand it seemed to want to be worn, and Milo had never in their life said no to anything that interesting. So they put it on.
 
-While adventuring further into the northern reaches of the wastes, Milo also discovered a small, sentient drone-like construct that began following them without explanation. It behaves with apparent awareness and intent, though it communicates only in subtle motions and patterns rather than language. Milo has brought it to multiple dwarven engineers, gnomish artificers, and independent inventors for examination, but none have been able to determine its origin, purpose, or method of creation. Despite this, it consistently reappears at Milo's side after any attempt to separate from it, as though it has chosen them for reasons no one yet understands.
+It hasn't come off since, and not in the ordinary stuck way either. Soap and grease and string and one very determined blacksmith have all failed, and when anyone pulls on it, it tightens. Milo gave up after the first week, because by then they'd found out what it does. Cuts close in an hour, and a broken arm knits overnight, and when a rotten floor dropped them forty feet onto rock, they lay dead for a while, then got up, brushed themselves off, and went looking for the way out.
 
-### Rumors
+Kender are famous for having no sense of danger, and even by kender standards Milo was always a bit much. The ring took away whatever caution was left. Other kender at least flinch when the floor gives way. Milo now treats danger as a suggestion, and death as a short nap. They've walked into trapped tombs to see how the traps worked, eaten mushrooms nobody could name, and once climbed into a gnomish invention that was described to them, accurately, as a bomb. The ring has brought them back every time. Milo thinks it's the best thing that has ever happened to them, and has never once stopped to wonder why a ring would want them alive.
 
-That habit eventually brought them to **Vogler** at the same time as the gathering for **Ser Ispin Greenshield’s funeral**. Milo had heard of Ispin’s legendary shield and, in true kender fashion, could not resist the chance to see it up close. They intended to examine it, sketch it, and perhaps “borrow” it long enough to study the details properly. They did not understand this as theft at all, nor did they grasp that it was in poor taste so soon after his death. To Milo, it was simply the natural impulse to admire an extraordinary thing by touching it, carrying it, and learning everything possible about it.
+### The Wastes
 
-They were caught before they could make off with the shield. Once confronted by the party, Milo immediately relented, bewildered more than ashamed, and explained—quite sincerely—that they only wanted to look, measure, and record it. What could have become a serious theft instead became the beginning of an unlikely bond. The characters were too interesting to leave behind, and Milo, fascinated by their history and purpose, decided to stay with them out of pure curiosity.
+Eventually, as kender do, Milo wandered off again, far beyond the Solamnic roads and up into the Northern Wastes.
 
-From then on, Milo became less a burglar than an accidental companion: a chronicler, scout, and collector of stories. They want to record the deeds of the party not because they have been asked, but because they instinctively feel that the best stories in the world are the ones still unfolding.
+Milo doesn't remember much of the Wastes. They forget plenty of things, but this is different, a whole stretch of their life missing like a page torn from a book. What's left comes in pieces. Days that blistered the skin and nights cold enough to crack stone. Canyons that weren't where they had been the day before. Storms that came out of a clear sky and tore the tents away. And the Wash, the great salt flood that came roaring through the canyons with no warning at all and left everything dry as bone a week later. Somewhere in all of that there was a forge, deep in a canyon wall where the floods couldn't reach, and someone with very large, patient hands who taught them how to mend things properly. There were people up there, more than anyone in the south would believe, living out in the cold where everyone says nothing lives at all. When Milo tries to tell anyone about them, they get the same look as when they mention the dragon.
+
+And it was somewhere in the Wastes that Milo saw the thing nobody believes. That memory, at least, is perfectly clear. An enormous dragon passed overhead, its wings flashing bronze in the sun like living metal, and the storm winds parted around it as if they were nothing. Milo has told the story in every tavern from there to Kalaman, and every time people laugh, because everyone knows the good dragons left the world a long time ago, if they were ever there at all.
+
+It was up there, too, that the drone found Milo. One morning it was simply hovering outside their tent, a small construct that clearly thinks for itself, communicating in little motions and patterns of light instead of words, and it has never left since. Milo has shown it to dwarven engineers and gnomish artificers and every independent inventor they could find, and none of them can say who made it or why or how. It doesn't matter how lost Milo gets, or how thoroughly they blow themselves up. Sooner or later the drone always finds them again, hovering close by their right hand as if checking they're all still there.
+
+### Vogler
+
+All of which is how Milo comes to be in **Vogler**, just as the village gathers for [[Ispin Greenshield|Ser Ispin Greenshield's]] funeral. Milo has heard all about Ispin's legendary shield, and they would very much like to see it up close, and sketch it, and measure it, and maybe borrow it for a little while to study the details properly. It hasn't occurred to them that this might be theft, or that it might be in poor taste with the man barely in the ground. To Milo, the natural way to admire an extraordinary thing is to touch it and carry it and learn everything there is to know about it.
+
+Milo doesn't care much about kings, wars or the Dragon Queen. What they do care about is the stories they keep hearing on the road: of Dragonarmy soldiers digging up ancient ruins, smashing whatever they can't use, and melting down priceless old wonders for their metal. That, as far as Milo is concerned, is unforgivable. And if a war is going to happen anyway, someone ought to be there to write it all down properly. Heroes need a chronicler, and Milo would very much like to be in the room when the legends get made.
 
 ## Personality
 
-Milo is bright, nosy, cheerful, and impossible to fully discourage. They ask questions constantly, often before it would be socially appropriate, and they move through danger with an almost alarming lack of fear. Their curiosity is not a pose; it is the engine of their entire life.
+Milo is bright and nosy and cheerful, and nothing short of a locked door will discourage them for long, and even then not for long. They ask questions constantly, usually before it would be polite to, and they walk into danger with an alarming lack of fear, partly because they're a kender and partly because the ring has never let them stay dead. The curiosity isn't an act. It's the engine of their whole life.
 
-They are also oddly attentive. Beneath the chatter and impulsive wandering is a mind that notices details other people miss: who is lying, what changed in a room, which path has been recently used, which object “feels important.” That makes them more useful than they first appear, even when they are being infuriating.
+Milo's mind never sits still. They hop from one wild idea to the next before anyone has caught up with the first, and they abandon half-built plans mid-sentence because something shinier has wandered past. In a party full of grim, driven people, Milo is the one who has forgotten what the mission was and is now very excited about a beetle. They're not stupid, though. Their ideas are mad, but a surprising number of them work, and every so often, in the middle of the nonsense, they say the one thing nobody else had thought of and then carry on talking about the beetle.
 
-### Personality Traits
+**Traits**
 
-- Curious to the point of compulsive.
-- Cheerful even in tense situations.
-- Talks too much when excited.
-- Treats strange objects and places as invitations rather than warnings.
-- Remembers stories, faces, and details better than people expect.
+- Asks three questions before you've answered the first.
+- Cheerful at the worst possible moments.
+- Touches everything, especially things labelled "don't touch".
+- Has a new plan every five minutes, and has forgotten the last one.
 
-### Ideals
+**Ideals**
 
-- **Wonder:** the world should be seen, recorded, and remembered.
-- **Curiosity:** nothing important should go unexplored.
-- **Story:** deeds matter because someone must tell them.
-- **Freedom:** no road, door, or legend should remain closed forever.
+- **Wonder:** The world should be seen, recorded and remembered. ^ideal-wonder
+- **Curiosity:** Nothing important should go unexplored. ^ideal-curiosity
+- **Story:** Deeds matter because someone has to tell them. ^ideal-story
+- **Freedom:** No road, door or legend should stay closed forever. ^ideal-freedom
 
-### Bonds
+**Bonds**
 
-- The stories Milo has collected and the ones still waiting to be told.
-- The party, whom they have decided are worth following.
-- Ispin Greenshield’s shield, which represents both legend and history.
-- The northern wastes, which they long to explore but promised not to enter alone.
+- The stories they've collected, and the ones still waiting to be told. ^bond-stories
+- Ispin Greenshield's shield, legend and history in one. ^bond-shield
+- The drone, which won't leave them alone, and which they wouldn't want it to. ^bond-drone
+- The Northern Wastes, which they long to explore, but promised never to enter alone. ^bond-wastes
 
-### Flaws
+**Flaws**
 
-- Cannot resist touching, taking, or investigating things that fascinate them.
-- Underestimates how offensive their “borrowing” can be to others.
-- Prone to wandering off at the worst possible time.
-- Makes promises casually, then treats them as sacred if someone else is truly worried.
-- Curiosity can override caution.
+- Can't resist touching, taking or investigating anything that fascinates them. ^flaw-touching
+- Never realises how much their "borrowing" upsets people. ^flaw-borrowing
+- Wanders off at the worst possible time. ^flaw-wandering
+- Makes promises lightly, then treats them as sacred once someone is truly worried. ^flaw-promises
+- Curiosity beats caution, every time. ^flaw-caution
+- Treats their own death as an inconvenience, and takes risks that would kill anyone else. ^flaw-death
 
-## Hooks
+## Unique Mechanics
 
-- Milo joins the party because they are fascinated by their history and want to chronicle their deeds.
-- They first become involved by attempting to study, sketch, and “borrow” Ispin’s shield at the funeral in Vogler.
-- Their kender nature makes them useful as a scout and source of unexpected information, even when they are a liability.
-- Their habit of recording events gives the party an in-world chronicler for their journey.
-- They want to explore the northern wastes someday, but promised someone they would never go there alone, so the later campaign journey gives them a safe chance to do it.
-- Their curiosity will repeatedly pull them toward relics, ruins, and secrets tied to Krynn’s larger history.
+### The Drone
+
+A Tiny construct the size of a fist that follows Milo everywhere. It flies, stays within 60 feet of them, can't be made to leave, and can't attack. It communicates only in motions and patterns of light, and no one has ever managed to read them.
+
+**Tinkering.** Milo is the party's technician, and the drone is their favourite puzzle. During downtime, Milo can spend a workweek taking it apart and putting it back together. At the end of the week, make an Intelligence check using tinker's tools. Tell the DM the result, and they'll let you know if you've made progress. Enough progress unlocks new things the drone can do, and maybe tells you something about where it came from.
+
+### The Iron Ring
+
+Works as a *Ring of Regeneration*, with these changes:
+- Milo is permanently attuned. The attunement can't be ended, and the ring can't be removed by any means short of *remove curse* (and maybe not even then).
+- It keeps working at 0 hit points. Milo doesn't make death saving throws. After 10 minutes at 0 hit points, they regain 1d6 hit points and get back up.
+- Only a death that leaves nothing to heal (disintegration, for example) can kill Milo for good.
+- Lost body parts regrow as normal for the ring.
 
 ## D&D Beyond Character Sheet
 

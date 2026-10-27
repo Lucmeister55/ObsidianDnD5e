@@ -68,7 +68,7 @@ If an origin character dies, no new origin characters will be created to replace
 
 ### The Cataclysm
 
-The most defining event in this world’s history is **the Cataclysm**, which occurred **351 years before the start of the campaign**.
+The most defining event in this world's history is **the Cataclysm**, which occurred **351 years before the start of the campaign**.
 
 Legend says:
 
@@ -105,7 +105,7 @@ The gods are remembered but no longer demonstrably active. They are grouped into
 **Gods of Good**
 
 - Paladine — justice, order, guardianship; patron of righteous leadership and dragons of good
-- Branchala — music, joy, and life’s beauty
+- Branchala — music, joy, and life's beauty
 - Habbakuk — nature, animals, and natural balance
 - Kiri-Jolith — honorable warfare and disciplined combat
 - Majere — discipline, meditation, and restraint
@@ -219,7 +219,7 @@ This is a **war campaign**, character and NPC death is expected to be part of th
 
 Because of this, character deaths will often be treated as **blazes of glory** rather than abrupt or anticlimactic ends.
 
-To guard against unsatisfying or incidental deaths for characters you have built up over time, I strongly favor giving players some degree of narrative and mechanical control in their final moments. At the player’s discretion, a character facing death may be given an opportunity to go out in a meaningful, impactful way.
+To guard against unsatisfying or incidental deaths for characters you have built up over time, I strongly favor giving players some degree of narrative and mechanical control in their final moments. At the player's discretion, a character facing death may be given an opportunity to go out in a meaningful, impactful way.
 
 This can include:
 
@@ -229,7 +229,7 @@ This can include:
 
 The intent is not to remove danger or consequences, but to ensure that when a character falls, it feels earned and memorable. Death should reflect the arc of the character and the stakes of the moment, not a random or trivial misstep.
 
-These moments will be handled collaboratively, with the player guiding how their character’s final stand unfolds within the situation at hand. The goal is for fallen characters to be remembered as **war heroes with defining last stands**, rather than as footnotes to chance (whenever given the chance).
+These moments will be handled collaboratively, with the player guiding how their character's final stand unfolds within the situation at hand. The goal is for fallen characters to be remembered as **war heroes with defining last stands**, rather than as footnotes to chance (whenever given the chance).
 
 ### One-Turn Resolution (Experimental)
 
@@ -242,7 +242,7 @@ Instead:
 - Each player describes what they do in a single turn
 - The encounter is then resolved cinematically from that point
 
-This creates a brief “bullet-time” moment that allows for:
+This creates a brief "bullet-time" moment that allows for:
 
 - Creative, vivid descriptions
 - Coordinated or combo-style actions
@@ -250,7 +250,7 @@ This creates a brief “bullet-time” moment that allows for:
 
 This approach does **not** mean that certain combats have no consequences any more. Rather, the costs and benefits will be shaped by _how_ you describe resolving the situation.
 
-For example, simply saying “I swing at all the goblins in front of me” will work—but it will likely result in you taking significant damage, which will be applied accordingly. On the other hand, creative, tactical, or stylish approaches can reduce risk, improve outcomes, or create additional advantages.
+For example, simply saying "I swing at all the goblins in front of me" will work—but it will likely result in you taking significant damage, which will be applied accordingly. On the other hand, creative, tactical, or stylish approaches can reduce risk, improve outcomes, or create additional advantages.
 
 You are encouraged to:
 
@@ -262,7 +262,7 @@ For instance, a fighter launching an ally into the air so they can rain attacks 
 
 If an idea pushes the boundaries of plausibility, I may call for a roll to determine how well it works. In general, however, the more creative and engaging the approach, the more I will try to support it and make it succeed in a satisfying way.
 
-The goal is not adversarial play. In these sort of moments, I am not trying to “beat” you; we are collaborating to create memorable, cinematic moments and the best story possible together.
+The goal is not adversarial play. In these sort of moments, I am not trying to "beat" you; we are collaborating to create memorable, cinematic moments and the best story possible together.
 
 ### Player Impact in the War
 

@@ -7,17 +7,17 @@ updated: 2026-04-24
 
 # Kalaman Guilds
 
-Kalaman’s merchant guilds are more than simple trade organizations; they are the economic engine of the city and a dominant force within its ruling council. Each guild controls a vital aspect of daily life—from food supply and construction to shipping and infrastructure—and their leaders wield significant political influence. While they present a united front when necessary, each guild ultimately serves its own interests, often competing with one another behind closed doors.
+Kalaman's merchant guilds are more than simple trade organizations; they are the economic engine of the city and a dominant force within its ruling council. Each guild controls a vital aspect of daily life—from food supply and construction to shipping and infrastructure—and their leaders wield significant political influence. While they present a united front when necessary, each guild ultimately serves its own interests, often competing with one another behind closed doors.
 
-For the party, the guilds can become valuable allies, frustrating obstacles, or outright enemies depending on their actions. Characters who protect trade, fulfill contracts, and strengthen Kalaman’s stability may gain access to resources, information, and influence. Those who disrupt commerce, break agreements, or threaten guild control will quickly find themselves facing inflated prices, closed doors, or worse. In a city strained by war, the guilds are constantly balancing profit against survival—and expecting others to do the same.
+For the party, the guilds can become valuable allies, frustrating obstacles, or outright enemies depending on their actions. Characters who protect trade, fulfill contracts, and strengthen Kalaman's stability may gain access to resources, information, and influence. Those who disrupt commerce, break agreements, or threaten guild control will quickly find themselves facing inflated prices, closed doors, or worse. In a city strained by war, the guilds are constantly balancing profit against survival—and expecting others to do the same.
 
 Beyond their shared values of profit and control, each guild prioritizes different aspects of commerce and power:
 
-- **Cartographer’s Guild (Alexandra Nightvane)**
-- **Fisher’s Guild (Reynold “Rey” Costwyn)**
-- **Mason’s Guild (Uri Stonegrey)**
-- **Shipwright’s Guild (Sigmund Pross)**
-- **Dockhand’s Guild (Oflyn Vinhollow)**
+- **Cartographer's Guild (Alexandra Nightvane)**
+- **Fisher's Guild (Reynold "Rey" Costwyn)**
+- **Mason's Guild (Uri Stonegrey)**
+- **Shipwright's Guild (Sigmund Pross)**
+- **Dockhand's Guild (Oflyn Vinhollow)**
 
 ## Standing & Reputation
 

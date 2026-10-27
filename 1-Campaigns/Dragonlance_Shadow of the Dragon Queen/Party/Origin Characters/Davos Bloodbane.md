@@ -1,121 +1,121 @@
-**Race:** Human
-**Age:** 19
-**Background:** Wayfarer (Mage of High Sorcery)  
-**Class:** Sorcerer (Lunar)
-**Patron deity:** Solinari, Lunitari and Nuitari
+---
+race: Human
+age: 19
+background: Wayfarer (Mage of High Sorcery)
+class: Sorcerer (Lunar)
+deity: Solinari, Lunitari and Nuitari
+tags:
+  - pc
+  - player-facing
+---
 
 ![[1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Party/Origin Characters/Portraits/Davos.png]]
 
+> [!abstract] Davos Bloodbane
+> **Gifted** · **Claimed** · **Cheats**
+> 
+> - **You are** a 19-year-old human sorcerer from the slums of Relgoth, and the eldest of three.
+> - **You were** a con artist posing as a hedge-mage in stolen robes, selling fake charms, until a guard caught you, and magic you never knew you had tore loose under a full black moon and killed him. The Mages of High Sorcery saved you from the gallows, and now they own your future. Your hair changes colour with the moons and your mood.
+> - **Now** you've passed your first trial and carry a sealed scroll to a mage in Kalaman. You're stuck in Vogler waiting for a ferry, and there are Solamnic Knights in town worth impressing.
+> - **You love** your family, who live on the wages you send home, and the power you're finally starting to hold.
+> - **You can't stand** nobles, officials, and anyone who preaches honour from a full belly.
+> - **Play him** sharp, charming and cynical. Always read the room and work the angle. You keep a lid on your temper until someone pushes, and then the moons answer.
+
+## Appearance
+
+Davos is a lean, good-looking young man with a sun-browned face, an easy half-smile, and the steady eyes of someone who is always working out what you want. His hair falls to his shoulders and is never the same colour two days running, silver one morning and wine-red by evening and black as a cellar when he's angry. He dresses a cut above his station, in a sky-blue shirt and a dark mage's vest stitched with little stars and lined in red, with leather straps across his chest and a knife at his belt that he's rather good with. The phases of the moons are tattooed down his right arm, from wrist to shoulder, and when he casts, they seem to glow.
+
 ## Backstory
 
-### Early life
+### Relgoth
 
-Davos grew up in a poor family in **Relgoth**, the capital of the province of Vingaard on the Plains of Solamnia. The city lies along the Knight’s High Road, northwest of Delgaard and southeast of Ryn, set within a dry, bowl-shaped valley near the Vingaard River. Though a place of strategic importance and long Solamnic history, Relgoth in the Age of Despair is marked by uneven recovery, lingering instability, and the social strain of post-war reconstruction.
+Davos grew up in the lower districts of **Relgoth**, outside the old walls, where the river labourers and trade workers and small craftsmen lived on top of one another. Relgoth is the capital of the province of Vingaard, a city of long Solamnic history sitting in a dry, bowl-shaped valley near the Vingaard River on the Knight's High Road, between Delgaard and Ryn. It has been fought over for centuries, and it still hasn't finished recovering from the last occupation.
 
-His family lived in the lower districts outside the older fortified core, where trade workers, river laborers, and minor artisans struggled to maintain stability in a city still recovering from centuries of conflict and recent occupation. His parents are still alive, as are his younger brother and sister, and the family survives by scraping together honest work whenever it can be found. Despite their current hardship, his parents would sometimes speak—half with pride, half with quiet bitterness—of an older past: that their lineage, bearing the name Bloodbane, had once been influential and wealthy. According to family tradition, an ancestor committed a grave sin during the Cataclysm, for which the family was stripped of its standing and fortunes by the Knights of Solamnia, cast down into obscurity where it has remained ever since. The name endured, but little else.
+His father died in the city prison when Davos was still a boy, and nobody in the family likes to talk about why. Since then it has been his mother alone, raising Davos and his younger brother and sister on whatever honest work she can find. They didn't always live like this, or so she says. Now and then, half proud and half bitter, she talks about a time when the name **Bloodbane** meant money and influence, before an ancestor committed some terrible sin during the Cataclysm and the Knights of Solamnia stripped the family of everything it had. The name survived. Not much else did.
 
-As the eldest child, Davos learned early that hunger does not wait for talent. He grew up watching his parents stretch meager meals, bargain for work, and keep the household together through sheer stubbornness. That pressure made him sharp, quick-thinking, and unwilling to waste any advantage. He became used to reading people, anticipating trouble, and finding the angle that let everyone make it through another day.
+As the eldest, Davos learned early that hunger doesn't wait for talent. He watched his mother stretch meals that were too small, haggle for work that paid too little, and hold the household together by stubbornness alone, and he became the man of the house long before he was ready. It made him quick. He learned to read people, to see trouble coming, and to find the angle that got everyone through to the next day.
 
-From a young age, Davos's connection to magic was subtle rather than overt. He did not manifest obvious power as a child, nor did he display the kind of raw talent that draws immediate attention. Instead, it showed itself in quieter, more unsettling ways. He often found himself staring up at the moons for long stretches of time without knowing why, drawn to their shifting light. His sleep was restless, filled with strange, recurring dreams—visions of silver radiance, crimson shadows, and distant whispers he could never quite remember upon waking. At the time, these were dismissed as harmless oddities, the byproduct of an imaginative mind shaped by hardship.
+### The Guard
 
-### A fatal mistake
+As he got older, need started making his choices for him, and one of them went too far. One evening at the public bathhouse, a travelling mage left a fine set of robes folded on a bench, and Davos walked out wearing them. He didn't have a scrap of magic in him and didn't need any. In those robes, with a confident voice and a bag of painted tin, he became a hedge-mage selling "enchanted" charms, protective wards and lucky trinkets to anyone who wanted to believe. He chose his marks carefully, and for a while it worked.
 
-As he grew older, desperation began to shape his choices more than curiosity ever had. Living in poverty in Relgoth, with a family that depended on him, Davos learned to take risks when necessity demanded it. One such risk went too far. Posing as a hedge-mage, he began selling “enchanted” charms and minor trinkets—tokens he claimed carried protective wards or lingering spellwork, but which were little more than clever fabrications dressed in arcane language.
+But the mage had reported his robes stolen, and one day a city guard recognised the embroidery on the sleeves. It was the worst guard it could have been. Everyone down by the river docks and in the poor streets around them knew him. The dock children called him **the Ferryman**, because everyone had to pay his toll, and if you couldn't pay in coin, you paid some other way. He was a big, smiling man who took his bribes in coin or in blood, who beat the dock children for the fun of it, and who had broken Davos's little brother's arm once for stealing an apple. He confronted Davos in the middle of the street, and when Davos tried to talk his way out and slip off, it all went wrong at once. He was thrown to the ground with the guard's hand closing on his throat and the threats pouring out, the lash and the same prison that had killed his father, and worse, his family paying for it alongside him.
 
-For a time, the deception worked. People wanted to believe, and Davos was careful in choosing his marks. But eventually, he crossed the wrong person. A city guard, suspicious after purchasing one of these charms, confronted him publicly. When pressed, Davos tried to deflect and slip away, but the situation escalated too quickly. He was seized before he could escape, forced to the ground as the guard’s grip tightened at his throat, threats spilling out—of prison, of punishment, of consequences that would not end with him alone but fall upon his family as well.
+He had never shown the slightest gift for magic in his life. But that night Nuitari was full, the black moon that only its own can see, and as the guard's grip tightened and the street went dim at the edges, Davos saw it. It hung right above the rooftops, a perfect circle of nothing where the stars should have been, and it was looking at him.
 
-In that moment of panic, something within Davos broke open. By chance—or fate—Nuitari was full that night, and its influence flooded through him. The power was sudden, overwhelming, and completely beyond his control. In a blind surge of fear and instinct, he unleashed sorcery that killed the guard where he stood.
+Then it was inside him. Cold poured into his chest like river water through a broken dam, filling his lungs and his throat and the backs of his eyes, and the panic in him turned into something else, something that wasn't afraid of anything at all. He didn't decide to do it. His hand came up on its own and closed around the guard's wrist, and darkness came out of his fingers like ink spilling into water. It ran up the man's arm under the skin, black veins spreading across his neck and into his face. The guard tried to scream and only managed a wet, choking sound. His skin greyed and split, his eyes went dark from the inside, and he folded down onto the cobbles like a sack of empty clothes, smoking faintly in the cold air.
 
-Before the consequences of that act could fall on him, a watching lunar sorcerer intervened. The mage had observed the incident and recognized not just raw power, but potential. Through the influence of the Mages of High Sorcery, Davos was taken into custody—not as a criminal to be executed, but as an asset to be claimed. He was spared the gallows, but not out of mercy. The Order saw use in him.
+For a long moment Davos lay there and couldn't stop. The cold kept coming, and part of him wanted it to. Then it drained out of him all at once, and he was just a boy in a stolen robe, shaking on the stones beside a dead man. The plain brown hair he'd had all his life hung in his eyes, and it had gone pitch black. Above the rooftops, where no one else could see it, the black moon was still watching.
 
-In the time that followed, his latent connection to the moons began to take clearer form. Under observation and minimal guidance, it became evident that his magic did not align cleanly with any single Order. Instead, he responded—unevenly and unpredictably—to all three: the clarity of Solinari, the adaptability of Lunitari, and the dangerous pull of Nuitari.
+He would have hanged for it, but someone had been watching. It was the owner of the robes himself, a White Robe named **Antimodes**, an old archmage and diviner who wandered the roads of Ansalon and had a famous habit of finding gifted strays. He had seen the whole thing, and he recognised more than a frightened thief. The Mages of High Sorcery leaned on the city with all the quiet weight they had, and the gallows went without him. But the price of that was Davos himself. From that day they held his life in their hands, and they had no intention of letting go of a prodigy like him. He had been claimed, and he has never once mistaken it for mercy.
 
-There was, however, a visible sign that drew particular attention. As a child, Davos had ordinary red hair, but after the incident with the guard, it changed. On the night of the killing—under the full influence of Nuitari—his hair turned jet black. In the days that followed, it did not remain fixed. Instead, it began to shift with the phases of the moons: paling toward silver under Solinari, deepening to red beneath Lunitari, and darkening again toward black when Nuitari’s influence was strongest. The change was subtle at times, pronounced at others, but always present.
+Under their watch, his magic slowly took shape, and it was strange from the start. It didn't answer to one moon the way it should have. It answered to all three, unevenly and unpredictably, to the clarity of Solinari and the shifting balance of Lunitari and the dangerous pull of Nuitari.
 
-The Mages interpreted this as more than coincidence. They invoked an obscure and much-debated prophecy: that one day, a moon-touched sorcerer would arise whose divided nature would “bind the three lights into one balance and still the quarrel of robes.” To them, the shifting of his hair—culminating in its sudden blackening on the night of the killing—was the clearest possible sign that the prophecy had been fulfilled.
+Then there was his hair. It never went back to brown. In the days after, it wouldn't stay put, and it has shifted ever since, with the moons and with his mood. It pales toward silver when Solinari is strong or when he's calm and clear-headed, warms to red under Lunitari or when he's restless and scheming, and goes black again whenever Nuitari rises or his temper does. Sometimes the change is faint, and sometimes it's so sudden that strangers stare, and he has learned that anyone who knows him well can read his mood off his head before he's said a word. The Mages took a far closer interest in that, and in him, than he could account for.
 
-Despite this, Davos himself never embraced their ideals. He saw the Order for what it was: powerful, insulated, and largely composed of those who had never known real hunger or consequence. He distrusted their talk of balance and responsibility, even as he accepted what they offered. They gave him structure, training, and most importantly, a steady income—one he sent almost entirely back to his family in Relgoth. Just as importantly, they gave him protection. Without them, he would still be a condemned man.
+He has never believed a word of their ideals. He sees the Order for what it is, powerful and comfortable and run mostly by people who have never been hungry in their lives, and their talk of balance and responsibility leaves him cold. But he takes what they give him. They gave him training, and a wage that he sends almost all of back to Relgoth, and protection. Without them he'd still be a condemned man.
 
 ### Trial of the Barb
 
-On **Newkolt 1, 351 AC**, during the Night of the Eye, Davos was sent to the Barb, a ruined spire near Maelgoth that awakens with magic during the moons’ alignment. There, he underwent the Trial of the Barb, marking his first true step toward the Mages of High Sorcery. There he was met by Rovina, a mage of the Red Robes, who introduced both herself and the purpose of the gathering. She spoke at length about the three Orders—White, Red, and Black—explaining their differing philosophies and the balance they were meant to uphold. Each initiate was asked to reflect on their own beliefs and declare which path they felt most aligned with, not as a binding choice, but as a measure of their current nature.
+On **1 Newkolt 351 AC**, during the Night of the Eye, Davos was sent to the Barb, a ruined spire near Maelgoth that only wakes with magic while the moons are aligned. That was where he faced the Trial of the Barb, his first real step toward the Mages of High Sorcery.
 
-Once this was done, Rovina led the initiates to a sealed chamber, explaining only what was necessary. The trial within would test both magical aptitude and personal character, much like the true Test of High Sorcery they might one day face. Their goal was simple: retrieve an orb from within and place it upon a pedestal at the center of the room. She warned them that the chamber existed only for the duration of the Night of the Eye, and that failure to complete the task before its end would result in their expulsion.
+A Red Robe named **Rovina** met the initiates there. She talked at length about the three Orders, White and Red and Black, and what each believed, and then asked every initiate to say which of them they felt closest to. It wasn't a binding choice, she said, only a measure of where they stood. After that she led them to a sealed chamber and told them only as much as they needed to know. Inside was an orb, and their task was to bring it to the pedestal at the centre of the room before the Night of the Eye ended, because the chamber would vanish with it, and anyone who failed would be expelled.
 
-Upon entering, Davos found himself in a circular chamber, dim and oppressive, with the faint sound of movement echoing through the space. Each orb they sought hung from the neck of a creature lurking within—a young basilisk, blind but dangerous. The trial quickly revealed itself to be more than a test of strength. Stealth, timing, restraint, and judgment all played their part. The creatures reacted not only to presence, but to sound and spellcasting, forcing careful decisions in every moment.
+The chamber was round and dim and full of small sounds in the dark. Each orb, it turned out, hung around the neck of a young basilisk, blind but very dangerous, and the creatures reacted to movement and noise and spellcasting alike. It wasn't a test of strength, then. It was stealth and timing and restraint, and judging when to strike and when to wait, or whether to find a way that hurt nothing at all.
 
-Davos faced a choice: whether to strike decisively, to act cautiously, or to find a path that avoided unnecessary harm. The trial did not demand a single solution, but it observed every action. When he finally claimed an orb and placed it upon the pedestal, its color shifted—white, red, or black—reflecting not his stated preference, but the truth of his behavior within the trial.
+Davos had told Rovina he felt closest to the Red Robes, mostly because the middle seemed the safest place to stand. In the chamber, he did what he had always done, which was look for the angle. He worked out that the basilisks hunted by sound, so he flicked a coin across the floor, and his basilisk turned toward the noise and blundered straight into another initiate's. While the two creatures tore at each other and the other initiate scrambled out of the way, Davos crept in and cut his orb free. He never lifted a hand against anything. He also didn't look back to see whether the other initiate got out, and he heard the scream behind him as he left.
 
-When Davos returned, Rovina offered her congratulations and explained the meaning behind the orb’s color. She made it clear that no result was failure, only insight. As a final step, she entrusted Davos with a sealed scroll, instructing him to deliver it—unopened and intact—to the mage Wyhan in Kalaman. Wyhan, she explained, would serve as his contact within the Order and guide his next steps, including determining when he would be ready to face the true Test of High Sorcery. With that, Rovina offered no further answers, only a knowing smile, leaving Davos with the sense that the trial had revealed more than it had explained.
+When he set his orb on the pedestal, it turned red, the colour he had claimed. But as he watched, a thread of black curled slowly through the heart of it and stayed there, and beside it, so faint he almost missed it, a single sliver of white.
 
-### Entrypoint
+Rovina congratulated him. Red, she said, was cleverness and balance, the path of those who find their own way between the other two, and no colour was ever a failure, only insight. She didn't say a word about the black, or the white. Then she handed him a sealed scroll to deliver unopened to the mage **Wyhan** in Kalaman, who would be his contact in the Order from now on and would decide when he was ready for the true Test of High Sorcery. She wouldn't answer any more questions. She only smiled in a way that told him the trial had shown her more than it had shown him.
 
-After passing the trial, Davos was dispatched from Relgoth to Kalaman, taking a route that stayed north of the Vingaard River. His route required him to cross the Vingaard River by ship from Vogler to reach Kalaman. At present, he is in Vogler awaiting passage during the Kingfisher Festival and the funeral of Ispin Greenshield. Upon learning that Knights of Solamnia are also present in town, he recognizes an opportunity to present himself favorably and begin building connections that may support his standing as he moves deeper into the Order’s expectations.
+So Davos set out from Relgoth for Kalaman, keeping north of the Vingaard River, which meant crossing it by ferry at Vogler. But Vogler is in the middle of the Kingfisher Festival and getting ready for Ispin Greenshield's funeral, and every ferry is delayed. And there are Solamnic Knights in town, and Davos has never wasted an opportunity in his life. To pass the time, he has found a seat at a knight's table in the tavern and a deck of cards, and he's winning, not too much, with a little help.
 
 ## Personality
 
-Davos is intelligent, observant, and deeply cynical. He does not trust systems that claim justice while protecting privilege, and he has little patience for nobles, officials, or moralizing institutions that ask for obedience from people who already have the least. He learned early that survival often belongs to the quickest thinker in the room, not the most honorable one.
+Davos is clever, watchful and deeply cynical. He doesn't trust any system that talks about justice while it protects the comfortable, and he has very little patience for nobles, officials, or anyone who asks for obedience from people who already have the least. He learned young that survival belongs to the quickest mind in the room, and very rarely to the most honourable one.
 
-He is outwardly controlled but inwardly restless. He resents authority, especially when it speaks in the language of duty or honor, and he remains wary of the Knights of Solamnia despite his current proximity to them. Their ideals sound noble to him, but he has seen too much hardship to accept them at face value.
+He keeps himself under tight control on the outside, but he's restless underneath. Authority gets under his skin, especially when it talks about duty and honour, and the Knights of Solamnia make him wary however close he has to get to them. Their ideals sound fine. He's just seen too much to take them at face value.
 
-At the same time, he is not cruel. He sends nearly everything he earns home to his family, and he takes their welfare seriously. His skepticism comes from experience, not indifference. He wants a better life for the people he loves, even if he has no romantic belief that the world deserves one.
+He isn't cruel, though. He sends nearly every coin he earns home, and his family's welfare is the one thing he takes completely seriously. His cynicism comes from experience, and he wants a better life for the people he loves even if he doesn't believe the world owes anyone one.
 
-He remains bound to the Order for several reasons: coercion, the threat of what could be done with the truth of his past, the salary that keeps his family fed, and the fact that he genuinely enjoys what power he has gained. Even so, his training began late, and he still does not fully control his magic. The phases of the moons affect him strongly, shaping both his mood and the way his spells manifest. He is brightest and most stable under the right alignment, and most volatile when the wrong moon dominates.
+He stays with the Order because of what they could do with the truth about the guard, and because the wage feeds his family, and because, if he's honest, he loves the power. His training started late, though, and he still can't fully control it. The moons pull at him hard, at his moods as much as his spells, and he's at his sharpest when the right moon rides high and at his most dangerous when the wrong one does.
 
-He is now caught between three pressures at once: his family’s needs, the demands of the Mages of High Sorcery, and the rising war around Kalaman and Vogler. He has the power to matter, but not yet the wisdom to know what kind of mage he will become.
+So he is caught three ways at once, between his family's needs and the Mages' demands and a war gathering around Kalaman. He has the power to matter. He doesn't yet know what kind of mage he's going to be.
 
-### Personality Traits
+**Traits**
 
-- Sharp, restless, and quick to improvise.
-- Cynical toward authority and idealized notions of justice.
-- Suspicious of nobles and institutional privilege.
-- Keeps emotions under tight control until pushed.
-- Protective of family to the point of self-sacrifice.
+- Talks fast, smiles easily, and is always working an angle.
+- Reads a room before he enters it.
+- Keeps his temper on a short, tight leash.
+- Counts every coin twice.
 
-### Ideals
+**Ideals**
 
-- **Survival:** the world rewards the prepared, not the noble.
-- **Family:** whatever he becomes, he will not leave his family behind.
-- **Autonomy:** no one gets to own his choices again.
-- **Power with Purpose:** if he has power, it should improve the lives of people he loves.
+- **Survival:** The world rewards the prepared, not the noble. ^ideal-survival
+- **Family:** Whatever he becomes, he will not leave his family behind. ^ideal-family
+- **Autonomy:** No one gets to own his choices again. ^ideal-autonomy
+- **Power with Purpose:** If he has power, it should make life better for the people he loves. ^ideal-power
 
-### Bonds
+**Bonds**
 
-- His parents, brother, and sister in Relgoth.
-- The Mages of High Sorcery, who control his current future.
-- The salary he earns, which he sends home.
-- His own hard-won magical ability, which he is determined to master.
+- His mother, brother and sister in Relgoth. ^bond-family
+- The Mages of High Sorcery, who hold his future. ^bond-mages
+- The wage he sends home. ^bond-salary
+- His magic, hard-won and still wild, which he means to master. ^bond-magic
 
-### Flaws
+**Flaws**
 
-- Distrustful of authority and slow to grant respect.
-- Cynical to the point of dismissiveness.
-- Prone to rationalizing selfish or risky choices if they benefit his family.
-- Magic is still unstable under emotional strain or certain moon phases.
-- Feels trapped between gratitude, coercion, and ambition.
-
-## Hooks
-
-- Davos is tied to the Mages of High Sorcery by prophecy, coercion, and practical necessity.
-- His magic is moon-driven, so lunar phases can dramatically affect his temperament and power.
-- He is being shaped as a possible solution to the Orders’ internal conflict, whether or not he wants that role.
-- He is one of the few people with real reasons to mistrust both the law and the myth of noble justice.
-- His family remains alive and dependent on him, giving him an immediate personal stake in the campaign.
-- His role in Kalaman and his attendance at Ispin’s funeral connect him directly to the campaign’s central military and emotional threads.
-- His late start in formal training leaves him powerful but incomplete, making mastery a story of growth rather than arrival.
+- Distrusts authority and is slow to grant respect. ^flaw-authority
+- Cynical to the point of dismissiveness. ^flaw-cynical
+- Can justify almost anything if it helps his family. ^flaw-rationalizing
+- His magic slips its leash under strain, or under the wrong moon. ^flaw-unstable
+- Feels trapped between gratitude, coercion and ambition. ^flaw-trapped
 
 ## Unique Mechanics
 
-Trials test skill, morality, and identity.  
-- Trial I – The Barb (passed): resisted illusions, survived hostile environments, exploited loopholes. 
-- Trial II – The Heart: tests loyalty and compassion versus power.  
-- Trial III – The Veil: confront shadow self, accepting or destroying inner darkness.  
+Davos's magic follows the three moons. See [[Calendar#The Three Moons]] for their cycles.
 
-| Order                  | Convictions & Beliefs                             | Actions That Lead There                                                                | Temptations / Appeals                                            |
-| ---------------------- | ------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| White Robes (Solinari) | Magic is a sacred gift for justice and protection | Sacrifice wealth, status, safety to aid others; resist shortcuts; protect innocents    | Family struggles tug at compassion; praised by Paladine's allies |
-| Red Robes (Lunitari)   | Knowledge and balance; pursuit of understanding   | Clever compromises, exploiting loopholes, moral gray choices                           | Whispers freedom through knowledge; rules are chains             |
-| Black Robes (Nuitari)  | Magic is power; morality is weakness              | Pursue magic for security or ambition; betray allies; prioritize family over strangers | Poverty and trauma tempt selfishness; Nuitari offers greatness   |
 ## D&D Beyond Character Sheet
 
 ```custom-frames
