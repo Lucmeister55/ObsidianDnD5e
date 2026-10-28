@@ -57,9 +57,9 @@ It started on the road, not long before the end. They were riding the last few m
 
 Not long after, in Kalaman, Ispin told Edric he was ready to seek his knighthood, and then announced that he himself was going home to Vogler to "retire". It wasn't an assignment from the Order. He said he wanted to see old friends like Becklin again and walk the paths of his youth, and then he mentioned, almost in passing, that there were a few things he wanted to look into while he was there. He wouldn't say what. The remark stuck with Edric.
 
-Edric asked to come along, and Ispin refused him kindly but firmly. It was a personal errand to a sleepy village, he said, and Edric had his own trials ahead of him. Edric didn't argue, because he had never once been able to argue with Ispin, and it was the last time he saw him alive.
+Edric asked to come along, and Ispin refused him kindly but firmly. It was a personal errand to a sleepy village, he said, and Edric had his own trials ahead of him, in **Maelgoth**, before the knights there. Edric didn't argue, because he had never once been able to argue with Ispin, and it was the last time he saw him alive.
 
-Not long after, Edric passed his test of knighthood. A few weeks later word reached Kalaman that Ispin had been found dead in the woods near Vogler, killed by some beast down from the Northern Wastes, people said. It was easy to believe. Everyone knows the Wastes beyond Vogler are deadly, and people go missing up there all the time. The Order accepted the story without question. They had never taken Ispin very seriously anyway, with his tall tales and his hedge-knight ways and his cheerful disregard for every tradition they held dear. To most of them he was a joke in armour.
+So Edric rode west to Maelgoth, a hundred and fifty miles across the plains, and spent the winter in the yards of the knights' city. At the turn of the year he stood before the Council of Maelgoth, swore the Oath and took the Measure, and rode out a Knight of the Crown. He was back in Kalaman when the word came that Ispin had been found dead in the woods near Vogler, killed by some beast down from the Northern Wastes, people said. It was easy to believe. Everyone knows the Wastes beyond Vogler are deadly, and people go missing up there all the time. The Order accepted the story without question. They had never taken Ispin very seriously anyway, with his tall tales and his hedge-knight ways and his cheerful disregard for every tradition they held dear. To most of them he was a joke in armour.
 
 Edric couldn't accept it. He had spent fourteen years at Ispin's side, and he knew what the Order never bothered to see. Ispin played the fool so well that people forgot to be afraid of him, and then he was the most dangerous man in any fight Edric ever saw, in any tourney or battle or brawl. Edric is fairly sure Ispin lost more than one tourney on purpose. Once it was because the champion's prize was a seat at the high table beside the most boring lord in Solamnia, and Ispin would sooner take a lance to the face than sit through that dinner. Another time, Edric only worked out afterwards, it was because Ispin had quietly bet a month's wages on the other man. No beast from the Wastes would have caught him by surprise. And he had gone to Vogler to look into something.
 
@@ -105,6 +105,41 @@ So he holds on to the Order's ideals with both hands. The Oath and the Measure, 
 - Guilt can make him reckless. ^flaw-guilt
 - Can't take praise, and doesn't trust himself to lead. ^flaw-leadership
 - Grief hardens him into stubbornness. ^flaw-grief
+
+## The Oath and the Measure
+
+> [!module] Source: **Module** ([[02-chapter-1-character-creation#The Oath and the Measure|ch. 1, "The Oath and the Measure"]] and "Knights of the Crown"). The rules under "What binds him" are **Homebrew** readings of the Measure, for this campaign.
+
+**The Oath.** *Est Sularus oth Mithas*, "My honour is my life." Every knight swears it, and it was never meant as a rule. It's a star to steer by, and when the rulebook runs out, it's what's left.
+
+**The Measure.** The rulebook. Thirty-seven volumes on how a knight must live, from how to address a lord to how to saddle a horse. No Grand Master has been elected in generations, so nobody has the authority to change a word of it. Edric has read more of it than most knights alive. A growing number of knights want it reformed, and he hasn't decided which side he's on.
+
+**What he swore at Maelgoth,** as a Knight of the Crown, before the Council:
+- **The Oath**, on his own sword.
+- **Loyalty** to the Order, and **obedience** to the lawful orders of a superior knight.
+- **To aid** any knight who asks it of him, and any land on the **List of Loyalty**, the Order's roll of its allies.
+- **To protect** those who can't protect themselves.
+
+**What binds him,** in practice:
+- **A knight's word binds him.** An oath freely sworn can't be broken without dishonour. That includes the one he swore to Vendri in the cells.
+- **A knight doesn't leave the field while anyone in his charge is still on it.** That's what the desertion charge says he did. To a knight, nothing worse can be said about him.
+- **A knight accused of cowardice answers to his peers.** Only a council of knights can judge a knight's honour. Leaving a city's charge unanswered is a stain of its own, and if the chapterhouse hears of it, they may want to judge him themselves.
+- **A knight doesn't lie.** He may keep silent.
+- **Quarter is given to any enemy who yields, and a parley is sacred.**
+- **Kalaman isn't on the List of Loyalty.** The city struck itself off after the Cataclysm. The Order owes it nothing, and a Knight of the Crown sworn to its marshal is something the Measure never imagined.
+
+Ispin broke half of these rules, laughing. Whenever the Measure and the people in front of him want different things, the player decides which one Edric serves, and the other one remembers.
+
+## Playing Edric
+
+Ideas, not rules. Use what fits.
+- **Quote the Measure,** volume and chapter, and then do the right thing anyway. "Volume nine says I shouldn't. Hold my horse."
+- **Count heads** out loud after every fight. If someone's missing, he goes back.
+- **Talk to the mare** when he can't talk to people. At first she's the only one he tells the truth to.
+- **Two oaths.** Salute Vendri like a soldier, then look things up in the Measure in private. The strain between the Order and the company is his best material.
+- **Ispin's stories.** When morale is low, tell one of Ispin's tall tales, slightly wrong, and let someone correct him.
+- **With the others.** The sorcerer is everything the Measure warns about, and good company. The dragonborn obeys anyone with rank, Edric included. Refusing to give him orders is a scene in itself.
+- **Look for** a speech from the back of a cart, a duel he shouldn't accept, and an order that would get someone killed if he obeyed it.
 
 ## Unique Mechanics
 

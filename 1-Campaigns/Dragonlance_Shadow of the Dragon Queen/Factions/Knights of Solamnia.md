@@ -20,7 +20,7 @@ The Knights are headquartered far to the west, and in Kalaman they are a small p
 **Rivals:** the [[Mages of High Sorcery]], and, uneasily, the [[Kalaman Smallfolk]], who don't trust them.
 
 > [!warning] The false knights
-> When Caradoc and Soth's undead "Knights of Solamnia" murder the council, the city blames the Order. The case is decided at **the Trial** right after the catacombs ([[4. Duty#The Trial]]). Until it's cleared there, or later, any choice that sides openly with the Knights also costs **-1 Smallfolk**.
+> When Caradoc and Soth's undead "Knights of Solamnia" murder the council, the city blames the Order. The case is decided at **the Trial** right after the catacombs ([[4.01 The Trial#The Trial]]). Until it's cleared there, or later, any choice that sides openly with the Knights also costs **-1 Smallfolk**.
 
 ## By Band
 

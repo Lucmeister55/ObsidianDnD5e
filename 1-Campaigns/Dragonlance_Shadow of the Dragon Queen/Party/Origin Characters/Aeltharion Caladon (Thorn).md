@@ -137,6 +137,18 @@ He never tells anyone who he really is. Part of it is that he has turned his bac
 - Avoids other elves, out of shame. ^flaw-shame
 - Can't always tell mercy from weakness in a fight. ^flaw-mercy
 
+## Playing Thorn
+
+Ideas, not rules. Use what fits.
+- **Say less.** Answer in as few words as possible, and let the silence finish the sentence.
+- **Where he stands.** When the party enters a room, say where Thorn is: by the door, back to the wall, near the window.
+- **The hum.** When he thinks he's alone, he hums a tune, never the same one, never finished. If anyone notices, he stops.
+- **Kapaks.** Freeze for one heartbeat when you see one. Then go for it. It's the only fear he ever shows.
+- **Arcane magic** makes him step back from whoever's casting it, every time.
+- **The leg and the eye.** Let them slow him on stairs and in bad light. He turns down help once, and takes it the second time.
+- **With the others.** The sorcerer is everything he despises, and the one most likely to make him admit what he used to be. The kender won't stop asking where he's from.
+- **The company** means nothing to him. The refugees being fed does. Let that be his reason to stay.
+
 ## Unique Mechanics
 
 ### Downtime: The Grove

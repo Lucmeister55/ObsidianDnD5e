@@ -9,7 +9,7 @@ tags:
 
 Kalaman is a city under strain, and six groups in it all want something from the party: the [[Kalaman Military]], the [[Knights of Solamnia]], the [[Mages of High Sorcery]], the [[Kalaman Guilds]], the [[Kalaman Smallfolk]] and the [[Vogler Refugees]]. They rarely want the same thing. Helping one often costs you with another, and that's the point.
 
-The system runs during [[3. Storm Clouds]], with every downtime event mapped out in [[3. Storm Clouds - Timeline]]. It's where the party stocks up for the two ordeals still ahead: the survival trek through the **Northern Wastes**, and the **Siege of Kalaman**.
+The system runs during [[3.00 Storm Clouds]], with every downtime event mapped out in [[3.00 Storm Clouds]]. It's where the party stocks up for the two ordeals still ahead: the survival trek through the **Northern Wastes**, and the **Siege of Kalaman**.
 
 ## The Only Thing You Track
 
@@ -49,7 +49,7 @@ Two one-off moments make the ends of the track matter:
 
 ## In Vogler
 
-Before the party ever reaches Kalaman, only the **Vogler Refugees** track is in play, and only as the villagers of Vogler. Introduce the system here. Mention it once, show the players the number moving, and let them see that the village remembers. Keep it small, with **at most +3 or -2** in total before Kalaman. The chances are in [[1. An Ordinary Day]] and [[2. Broken Silence]].
+Before the party ever reaches Kalaman, only the **Vogler Refugees** track is in play, and only as the villagers of Vogler. Introduce the system here. Mention it once, show the players the number moving, and let them see that the village remembers. Keep it small, with **at most +3 or -2** in total before Kalaman. The chances are in [[1.00 An Ordinary Day]] and [[2.00 Broken Silence]].
 
 ## Working a Faction (downtime)
 
@@ -92,12 +92,12 @@ Provisions for the Wastes come in two kinds, both counted per character per day:
 - **Supply** is food. **1 Supply is one ration**, one day of food for one character, and it weighs **2 pounds**.
 - **Water** is fresh water. **1 Water** is a gallon, one day's drinking for one character, and it weighs **8 pounds**. It's the hard part in a land flooded with salt.
 
-See [[4. Duty - Survival]] for how they're used.
+See [[4.99 Survival Rules]] for how they're used.
 
 ## Personal Ties
 
 A few characters' own threads are good reasons to move Standing:
-- **[[Davos Bloodbane|Davos]]:** whenever his Moon Charms *Heat* crosses a threshold, -1 Mages.
+- **[[Davos Bloodbane|Davos]]:** if he's caught cheating at cards with magic, -1 Mages.
 - **[[Milo Geartickle|Milo]]:** "borrowing" from the guilds and getting caught, -1 Guilds.
 - **[[Ser Edric of Brackenridge|Edric]]:** reaching 4 progress in "Raising a Company", +1 Knights.
-- **[[Wurm]]** and **[[Aeltharion Caladon (Thorn)|Thorn]]:** their downtime events are in [[3. Storm Clouds - Timeline]].
+- **[[Wurm]]** and **[[Aeltharion Caladon (Thorn)|Thorn]]:** their downtime events are in [[3.00 Storm Clouds]].

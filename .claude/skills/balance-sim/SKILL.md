@@ -30,7 +30,7 @@ Homebrew systems in this vault get checked with numbers, not vibes. The job is t
 ## System checklists
 
 - **Factions** ([[Faction Rules]]): decisions per act, options per decision, the share of options with a rival cost (target: almost all), project rules and caps, scale width and band thresholds, signature thresholds. Check how often everyone ends up Trusted or better (it should be rare), and whether some factions have too few chances to move (Knights and Mages are the usual culprits).
-- **Survival / Supply** ([[4. Duty - Survival]]): daily consumption (50 lb for five), carrying capacity at 5 × and 10 × Strength after stashing, distances and water gaps, sources per location, faction boons (still, scrolls, decanter), the deadline's slack days, encounters per trek against the combat budget.
+- **Survival / Supply** ([[4.99 Survival Rules]]): daily consumption (50 lb for five), carrying capacity at 5 × and 10 × Strength after stashing, distances and water gaps, sources per location, faction boons (still, scrolls, decanter), the deadline's slack days, encounters per trek against the combat budget.
 - **Skirmish units** ([[Skirmish Battles]]): rounds to finish a straight clash, charge and pike swings, a lone hero against a unit (and the reverse), area damage, morale break points. Watch the HP multiplier first.
 - **Weapon triangle** ([[Weapon Triangle]]): to-hit and damage change at typical AC. It should be noticeable, never mandatory.
 - **Harvesting** ([[Harvesting and Crafting]]): Supply per fight against daily use, gold value against the campaign's economy, and anything that trivialises an act (capacity items, food or water creators).
@@ -39,6 +39,7 @@ Homebrew systems in this vault get checked with numbers, not vibes. The job is t
 ## Known good results (keep up to date)
 
 - **Factions (October 2026):** at -3 to +5 with about 55% rival costs, pleasing everyone reached all six Trusted 87% of the time. Retuned to **-5 to +10** (Trusted 3, Honoured 6, signature at 10), rival costs on almost every choice, and projects costing a whole downtime. Pleasing everyone now lands mostly Trusted with Honoured rare, and focusing gets two or three near the top while the rest go Wary or Hostile.
+- **Storm Clouds content (October 2026):** new downtime events had drifted to 39 of 45 decisions with a free gain, and pleasing everyone hit Honoured in four factions. Adding rival costs to 32 options (at most one free option per decision, and gold or a week counts as a cost) brought it back to averages of 2.4–4.8. Re-run `examples/faction-content.pl`, which parses the actual chapter options, whenever events are added: count the free gains first.
 - **Skirmish (October 2026):** 4 × HP made clashes last 4–6 rounds. Cut to **3 ×** (2–5 rounds). Units no longer roll with disadvantage against lone heroes (it was about 2 damage a round).
 - **Wastes:** average Strength 13 and travelling light gives about 10 days carried (Encumbered) against gaps of about 4 days. Encounters cut to 40% a day. The deadline is about 45 days against about 25–30 needed.
 - **Weapon triangle:** +2 is about +17–22% damage at AC 14–17. Fine.

@@ -15,6 +15,13 @@ What Davos doesn't know.
 - **The prophecy.** The Mages read his shifting hair, and its sudden blackening on the night of the killing, as the sign of an obscure, much-debated prophecy: one day a moon-touched sorcerer will arise whose divided nature will "bind the three lights into one balance and still the quarrel of robes." That is why they claimed him instead of letting him hang. Affects [[Davos Bloodbane#^bond-mages|the Mages]].
 - **What they want from him.** They are shaping him as a possible solution to the Orders' internal conflict, whether or not he wants that role. Affects [[Davos Bloodbane#^ideal-autonomy|Autonomy]].
 - **Antimodes left the robes on purpose.** He's a diviner, and he had foreseen a moon-touched boy in Relgoth. The robes on the bathhouse bench were bait, and he was watching from the moment Davos picked them up. He never expected the guard to die, and he feels responsible for it. Davos has no idea any of it was arranged. (Antimodes is canon, a White Robe archmage best known as Raistlin's sponsor. His school is our choice.)
+- **Why Kalaman.** Antimodes chose it. His divinations keep returning to Kalaman: a port at the mouth of the Vingaard, where the three moons pull the tides harder than anywhere on the coast, and where, he believes, the moon-touched boy's fate will turn. "Where the tides run strongest" is no riddle to him.
+- **The sealed scroll.** Besides Wyhan's test, it holds a letter from Antimodes asking that Davos be seated as **the Order's observer on Kalaman's council**. Antimodes has three reasons:
+  - The Conclave wants eyes in the room where the war is decided.
+  - The prophecy needs a mage who understands statecraft and warfare, not just spells, so this is part of his studies.
+  - It puts him exactly where Antimodes's visions say he needs to be.
+
+  If Davos opened the scroll on the road, he already knows, and so does Wyhan.
 - **His father's death.** Why his father was in prison, and how he died there, is left open. It could tie into the Bloodbane name, or into the same city guard who later confronted Davos.
 - **Where the name comes from.** In the elder days of the Third Dragon War, the age of Huma, a company of human warriors swore themselves to the green dragon **Cyan Bloodbane** and took his name as their own. They were his hands among mortals, feared and richly rewarded, and on Cyan's gold they became a powerful house. There's no dragon blood in the family. The name is a legacy of service, not descent.
 - **The Bloodbane sin.** The sin *was* that service, in the Third Dragon War itself. What exactly the Bloodbanes did for Cyan is left open: they could have betrayed a Solamnic army to him, delivered hostages, or poisoned a city's wells. When Huma drove Takhisis and her dragons from the world, the Knights of Solamnia hunted down those who had served the dragons. They stripped the Bloodbanes of their lands, wealth and title, and left them only the name, as a mark of shame. Over the long centuries since, the family forgot what it had done. It remembers only that it was once great, that it committed "a terrible sin", and that the Knights took everything. Davos knows none of this, but the Knights' old records do.
@@ -29,6 +36,7 @@ What Davos doesn't know.
   3. **Standing (mid-campaign).** Renown with the Knights and with Kalaman's factions means influence, money and a little freedom from the Order. He's using the war to buy himself a future.
   4. **The temptation (late).** The Dragon Armies have black-robed mages too, like Lohezet, and they offer exactly what Nuitari whispers about: power without anyone's permission. Make sure, at least once, that switching sides looks genuinely attractive.
 
+- **The Mages' seat.** After "Message for a Mage", Davos sits on Kalaman's council as the Order's observer ([[3.01 Arrival in Kalaman#Message for a Mage]]). He's the Mages' plant, and their student. It gives him a voice in every council briefing, a front-row seat to how the guilds really run the city, and a second loyalty to set against the company. It's also how the Bloodbane name ends up back in the halls of power, for the first time in a thousand years. Plays on [[Davos Bloodbane#^bond-mages|the Mages]] and [[Davos Bloodbane#^flaw-authority|distrust of authority]].
 - **Bound to the Order.** Prophecy, coercion and practical necessity tie him to the Mages. Plays on [[Davos Bloodbane#^bond-mages|the Mages]], [[Davos Bloodbane#^bond-salary|the salary]] and [[Davos Bloodbane#^flaw-trapped|feeling trapped]].
 - **The moons.** His temperament and power swing with the lunar phases. Track them in [[Calendar#The Three Moons]]. Plays on [[Davos Bloodbane#^flaw-unstable|unstable magic]].
 - **Mistrust of justice.** He's one of the few people with real reasons to mistrust both the law and the myth of noble justice, which will clash with the Knights. Plays on [[Davos Bloodbane#^flaw-authority|distrust of authority]].
@@ -36,28 +44,16 @@ What Davos doesn't know.
 - **Kalaman.** His role in Kalaman and his presence at Ispin's funeral tie him to the campaign's central military and emotional threads.
 - **Late training.** He started late, so he's powerful but incomplete. Mastery is a story of growth, not arrival. Plays on [[Davos Bloodbane#^bond-magic|his magic]].
 
-## Downtime: Moon Charms
+## Downtime: The Cards
 
-Davos started out selling fake charms. Now he can make real ones. In Kalaman's refugee quarter and back alleys, he can spend downtime secretly crafting and selling small moon-charged charms: soldiers want luck, refugees want protection, and everyone will pay. It feeds his family, it's exactly the kind of unlicensed magic the Mages of High Sorcery forbid, and every charm he makes pulls him a little further toward one moon or another.
+Davos works Kalaman's gambling dens: the soldiers' dice at the Steady Beacon, the dockhands at Wanderer's Rest, and the guild sons' private tables, where the stakes and the trouble are higher.
 
-**Each workweek,** he makes a Charisma (Arcana) check and chooses a moon to work under. Check [[Calendar#The Three Moons]]. A moon at High Sanction gives advantage, and one at Low Sanction gives disadvantage.
-- **DC 15:** he makes 2 charms.
-- **DC 20:** he makes 4 charms.
-- **Below 10:** a charm misfires on a customer, and rumours spread. Add 1 to **Heat**.
+**Each workweek,** he makes a Charisma (Deception) or Dexterity (Sleight of Hand) check.
+- **15+:** he wins 2d6 × 10 gp, and sends most of it home.
+- **20+:** he also picks up a useful rumour. Use it to point at the next mission, a faction's secret, or the Firefishers.
+- **Below 10:** someone catches him cheating. If he used magic to do it, word reaches Wyhan (**-1 Mages**), and the loser becomes an enemy with friends.
 
-Each charm is a one-use trinket. He can hand them to the party or sell them for 10 gp each, which he sends home to Relgoth.
-
-| Moon | Charm (one use, then it crumbles) |
-|---|---|
-| **Solinari** (white) | Reroll one failed saving throw. |
-| **Lunitari** (red) | Cast *disguise self*, or gain advantage on one Deception or Stealth check. |
-| **Nuitari** (black) | Your next weapon or spell hit deals an extra 2d6 necrotic damage. Each Nuitari charm Davos *sells* to a stranger also adds 1 to his **Black Tally**. |
-
-**Heat.** This tracks how much attention the Order is paying. At 3, Wyhan hears rumours and questions him. At 5, the Mages formally warn him and dock his wage. At 7, they suspend him from the Order's protection until he makes amends. Remember that the Order is the only thing standing between him and the gallows.
-
-**The Black Tally.** This tracks Nuitari's hold on him. At 3, his hair stays black for a week at a time. At 5, Nuitari charms start working a little *too* well, and a customer hurts someone with one. At 7, a black-robed mage of the Dragon Army quietly gets in touch. They've heard about his work, and they'd pay far more than Kalaman ever will (see "The temptation" in Hooks).
-
-**On the side, the cards.** Davos can also spend a workweek working Kalaman's gambling dens. He makes a Charisma (Deception) or Dexterity (Sleight of Hand) check. On a 15+, he wins 2d6 × 10 gp. On a 20+, he also picks up a useful rumour. Below 10, someone catches him cheating, with magic, and he makes an enemy.
+It's small on purpose. His real story is the Mages, his family and the moons, not a side business.
 
 ## Level-Up Moments
 
@@ -82,9 +78,9 @@ On **14 Reapember 351 AC**, from dusk to dawn, all three moons are full, and Dav
 - **His Lunar Sorcery** gives the benefits of all three moon phases at once.
 - **Once that night**, he can cast any sorcerer spell of **7th level or lower**, even one he doesn't know, without a slot. He'll know which one. The moons tell him.
 
-**At dawn**, it all drains out of him at once: **2 levels of exhaustion**, and his hair goes white, red and black in streaks, and stays that way for a week. If he's been playing with Moon Charms, the Heat comes due.
+**At dawn**, it all drains out of him at once: **2 levels of exhaustion**, and his hair goes white, red and black in streaks, and stays that way for a week.
 
-The night falls during the climax: the Dragon Army's ritual, and wherever the party is in the City of Lost Names ([[5. Destiny]]). If they're early, he gets it in the middle of the city. If they're late, he gets it on the walls of Wind's End.
+The night falls during the climax: the Dragon Army's ritual, and wherever the party is in the City of Lost Names ([[5.00 Destiny]]). If they're early, he gets it in the middle of the city. If they're late, he gets it on the walls of Wind's End.
 
 ## Arc: Trials and Orders
 

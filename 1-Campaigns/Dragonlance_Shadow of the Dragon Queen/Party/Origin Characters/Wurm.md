@@ -110,6 +110,19 @@ What happens in battle isn't anger. It's something coming *into* him. The grey l
 - When the spirit takes him in battle, he can't stop it, and doesn't know who he hurts until it's over. ^flaw-violence
 - Trusts anything divine that gives him a purpose. ^flaw-divine
 
+## Playing Wurm
+
+Ideas, not rules. Use what fits.
+- **Eyes down** when anyone with rank speaks to him. As the campaign goes on, let him look up, a little at a time.
+- **Obey first.** When someone gives an order, he does it before he's thought about it. Then, slowly, he starts to hesitate. Save the first time he says no; it's a big moment.
+- **Paper kingfishers.** When he's nervous, he folds one and leaves it somewhere.
+- **Stories.** Ask people for stories, and listen to every word.
+- **The burning eyes.** When the rage comes, describe the light. Afterwards, apologise to anyone who saw.
+- **The voice.** It tells him to kill them all. You decide how much he listens, and how much he tells the others.
+- **Chains.** He can't walk past someone in chains. Make him stop, every time.
+- **"Draconian."** Everyone in Kalaman calls him that. Let him not correct them, until the day he does.
+- **The company** is the first place anyone has ever claimed him without owning him.
+
 ## Unique Mechanics
 
 ### Downtime: Learning His Letters

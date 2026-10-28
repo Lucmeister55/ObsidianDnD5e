@@ -32,7 +32,7 @@ tags:
 
 > [!homebrew] Source: **Homebrew**.
 
-- **Rations count as Supply** ([[4. Duty - Survival]]). One ration is 1 Supply. A dragonnel is 2d6 Supply. A purple worm feeds an army.
+- **Rations count as Supply** ([[4.99 Survival Rules]]). One ration is 1 Supply. A dragonnel is 2d6 Supply. A purple worm feeds an army.
 - **The draconian problem.** Draconians turn to stone, acid or fire when they die, so there's nothing to harvest from their bodies, only the gear they carried. A draconian knocked out with a club ([[Weapon Triangle#Where Each Weapon Shines]]) can be questioned instead.
 - **Who crafts:**
   - **In Kalaman:** the **Hammerstrike Forges** (Kadmos for armour, Tiria for weapons). A crafting job runs during downtime, while the party does other things. Guilds at Trusted: 10% off.
@@ -70,7 +70,7 @@ tags:
 
 **Repairs worth knowing:** a sivak's serrated sword (two-handed, 2d8, 150 gp to repair), a kender's hoopak (Elgo's!), and a Dragon Army officer's *vicious lance* (+1d4 fire, no repair needed).
 
-**Ready to use (no crafting):** the skeletal knights' *enervating blade* and Wersten Kern's *banner pike* (both attunement), Red Ruin's *explosive hand crossbow*, and Kansaldi's *gem of seeing* ([[6. Conquest#Clash of Fallen Flames]]).
+**Ready to use (no crafting):** the skeletal knights' *enervating blade* and Wersten Kern's *banner pike* (both attunement), Red Ruin's *explosive hand crossbow*, and Kansaldi's *gem of seeing* ([[6.06 The Flying Citadel#Clash of Fallen Flames]]).
 
 ## Things to Watch
 

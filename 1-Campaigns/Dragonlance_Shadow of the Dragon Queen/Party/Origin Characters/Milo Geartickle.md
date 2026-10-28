@@ -109,6 +109,18 @@ Milo's mind never sits still. They hop from one wild idea to the next before any
 - Curiosity beats caution, every time. ^flaw-caution
 - Treats their own death as an inconvenience, and takes risks that would kill anyone else. ^flaw-death
 
+## Playing Milo
+
+Ideas, not rules. Use what fits.
+- **Pockets.** Once a session, produce something from a pocket that Milo shouldn't have, with no idea how it got there.
+- **Ask the question** everyone else is too polite to ask, at the worst possible moment.
+- **Fearless, not foolish.** Kender don't feel fear, so Milo walks up to the dragon for a better look. Let the others drag them back.
+- **The drone.** Talk to it like a pet. Give it opinions, and argue with them.
+- **The ring.** Fiddle with it while thinking. Never quite take it off.
+- **Taunts.** When Milo taunts an enemy, say the insult out loud. Specific is funnier.
+- **With the others.** The dragonborn is the most interesting person Milo has ever met, so ask him everything. The elf is a wonderful grump, and won't say where he's from, which only makes it more fun.
+- **Being a suspect** is the most exciting thing that's happened to Milo all year. Tell people about it.
+
 ## Unique Mechanics
 
 ### The Drone

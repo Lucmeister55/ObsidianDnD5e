@@ -49,7 +49,7 @@ Each downtime workweek Milo spends on the drone, they make an Intelligence (tink
 - **DC 20:** 2 progress.
 - **Below 10:** something goes wrong. It sulks and won't light up for a day, or it shorts out and zaps Milo.
 
-The Kalaman downtime in [[3. Storm Clouds]] runs from weeks to months, so that's when most of this happens. Each threshold unlocks one upgrade and one revelation. Give out the upgrades freely. The revelations are how Milo learns the truth, one piece at a time.
+The Kalaman downtime in [[3.00 Storm Clouds]] runs from weeks to months, so that's when most of this happens. Each threshold unlocks one upgrade and one revelation. Give out the upgrades freely. The revelations are how Milo learns the truth, one piece at a time.
 
 | Progress | Upgrade (tell the player) | Revelation (what Milo discovers) |
 |---|---|---|

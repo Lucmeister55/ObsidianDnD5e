@@ -22,7 +22,7 @@ Kalaman runs on trade, and the five great guilds run the trade. Their leaders si
 
 **They want:** profit, stable trade, contracts honoured, and power on the council protected.
 **They hate:** broken deals, disrupted trade, theft, price controls, and having their warehouses searched.
-**Friendly with:** the old nobility, and above all [[Bakaris Uth Estide|Lord Bakaris]]. The guilds admire his Solamnic name and his money, and they're the only reason he has a voice on the council at all. Humiliating the Bakarises usually costs a little Guilds Standing, and [[Bakaris the Younger]] uses the guilds against the party (see "Running Threads" in [[3. Storm Clouds - Timeline]]).
+**Friendly with:** the old nobility, and above all [[Bakaris Uth Estide|Lord Bakaris]]. The guilds admire his Solamnic name and his money, and they're the only reason he has a voice on the council at all. Humiliating the Bakarises usually costs a little Guilds Standing, and [[Bakaris the Younger]] uses the guilds against the party (see "Running Threads" in [[3.00 Storm Clouds]]).
 **Rivals:** the [[Kalaman Military]] (over money and council power), and the [[Vogler Refugees]] (cheap labour and unwelcome competition).
 
 > [!warning] The council massacre

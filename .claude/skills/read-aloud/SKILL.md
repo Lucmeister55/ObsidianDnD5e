@@ -30,7 +30,7 @@ These are the conventions of official D&D and Pathfinder adventures, which are w
 
 ## Second mode: character-perspective narration
 
-The rules above are for the standard box, which describes a scene to the whole party. This campaign also has a second mode the user likes and uses on purpose: narration told from inside one character's head, usually as that character's prologue before the player gets the sheet. See `0. Premonition.md` (close third person, "he") and Edric's ride to Vogler in `1. An Ordinary Day.md` (second person, "you"). This is not a mistake to correct. Write it well.
+The rules above are for the standard box, which describes a scene to the whole party. This campaign also has a second mode the user likes and uses on purpose: narration told from inside one character's head, usually as that character's prologue before the player gets the sheet. See `0.00 Premonition.md` (close third person, "he") and Edric's ride to Vogler in `1.01 Introduction.md` (second person, "you"). This is not a mistake to correct. Write it well.
 
 Work out which mode a box is in before you write. Character-perspective mode is signalled by a named PC being addressed, backstory or memories, or a DM note nearby about handing over a character sheet.
 
@@ -124,7 +124,7 @@ Match the existing chapter files:
 - Music cues sit above the box as `**Music:** [Track](ttrpg-sound:Soundbar/...)`. Don't touch these.
 - Links use Obsidian wikilinks (`[[file|Label]]`). Don't break existing ones.
 - Always use straight quotes and apostrophes (`"` and `'`), never curly ones (“ ” ‘ ’).
-- Player choices inside a box use numbered lists (see `0. Premonition.md`).
+- Player choices inside a box use numbered lists (see `0.00 Premonition.md`).
 
 ## Standard box example (from this repo)
 

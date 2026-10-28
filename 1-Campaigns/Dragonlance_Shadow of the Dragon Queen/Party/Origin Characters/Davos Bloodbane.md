@@ -69,6 +69,8 @@ When he set his orb on the pedestal, it turned red, the colour he had claimed. B
 
 Rovina congratulated him. Red, she said, was cleverness and balance, the path of those who find their own way between the other two, and no colour was ever a failure, only insight. She didn't say a word about the black, or the white. Then she handed him a sealed scroll to deliver unopened to the mage **Wyhan** in Kalaman, who would be his contact in the Order from now on and would decide when he was ready for the true Test of High Sorcery. She wouldn't answer any more questions. She only smiled in a way that told him the trial had shown her more than it had shown him.
 
+Kalaman had been Antimodes's choice, not Rovina's. "Go where the tides run strongest," the old man had told him, the last time they spoke, "and learn how the world is really run." Davos took it for an old man's riddle, and the posting for a polite kind of exile.
+
 So Davos set out from Relgoth for Kalaman, keeping north of the Vingaard River, which meant crossing it by ferry at Vogler. But Vogler is in the middle of the Kingfisher Festival and getting ready for Ispin Greenshield's funeral, and every ferry is delayed. And there are Solamnic Knights in town, and Davos has never wasted an opportunity in his life. To pass the time, he has found a seat at a knight's table in the tavern and a deck of cards, and he's winning, not too much, with a little help.
 
 ## Personality
@@ -112,15 +114,26 @@ So he is caught three ways at once, between his family's needs and the Mages' de
 - His magic slips its leash under strain, or under the wrong moon. ^flaw-unstable
 - Feels trapped between gratitude, coercion and ambition. ^flaw-trapped
 
+## Playing Davos
+
+Ideas, not rules. Use what fits.
+- **Every room is a market.** Before he speaks, decide who in the room has something he wants, and what they'd take for it.
+- **Count the coin** in front of people, then send most of it home. Let the party catch him writing the letter.
+- **Watch the moons.** Look up every night and say which moon is up. It matters to him in a way it doesn't to anyone else.
+- **The robes.** Never explain where they came from the same way twice.
+- **The temper.** Keep the lid on until someone pushes. When it goes, decide which thing he said he'll regret.
+- **With the others.** The elf hates every spell he casts, so cast them politely, and often. The knight preaches honour from a full belly, which Davos can't stand, except that this one shares his rations.
+- **The company** is the best con he's ever been part of: paid, protected, and on the side of the law for once. Enjoy it, out loud.
+
 ## Unique Mechanics
 
 Davos's magic follows the three moons. See [[Calendar#The Three Moons]] for their cycles.
 
-### Downtime: Moon Charms
+### Downtime: The Cards
 
-Davos used to sell fake charms. Now he can make real ones. During downtime, he can secretly craft small one-use charms charged by one of the three moons, and give them to the party or sell them for 10 gp each to send home. For each workweek, choose a moon and make a Charisma (Arcana) check. The DM will tell you how many charms you make and what they do.
+Davos can spend a workweek working Kalaman's gambling dens, from the soldiers' dice games at the Steady Beacon to the guild sons' card tables. Make a Charisma (Deception) or Dexterity (Sleight of Hand) check and tell the DM the result. Win, and the money goes home to Relgoth. Win big, and he hears things worth knowing. Lose badly, and someone catches him cheating.
 
-The Mages of High Sorcery forbid unlicensed magic, so be careful who finds out. And some moons are more generous than others. Or he can spend the week cheating at cards instead.
+The Mages of High Sorcery take a dim view of magic used to cheat at cards, so be careful how much help the moons give him.
 
 ## D&D Beyond Character Sheet
 

@@ -67,3 +67,14 @@ With virtually all of eastern Ansalon under their control, the Dragon Armies hav
 In Neraka, zealots and black-robed mages devise magical plans to empower Dragon Army forces. One such plot, involving the ruins of an Istarian city, captures the imagination of Dragon Highlord Verminaard. He tasks his devotee, Kansaldi Fire-Eyes, with claiming a devastating new weapon for the Dragon Armies.
 ```
 
+
+## Places and Peoples
+
+Lore notes for when players ask. Each gives what a traveller in Kalaman would know, with anything secret in a **DM only** box.
+
+- **Regions:** [[Solamnia]], [[Nightlund]], [[Kalaman & Northern Wastes|Northern Wastes]], [[Estwilde]], [[Taman Busuk]], [[Nordmaar]], [[Khur]], [[Goodlund]], [[Blood Sea of Istar]], [[Silvanesti]], [[Qualinesti]], [[Ergoth]], [[Abanasinia]], [[Plains of Dust]], [[Icereach]]
+- **Settlements:** [[Kalaman]], [[Vogler]], [[Maelgoth]], [[Relgoth]], [[Palanthas]], [[Solace]], [[Tarsis]], [[Kendermore]], [[Thorbardin]], [[Mount Nevermind]]
+- **Sites:** [[Dargaard Keep]], [[Tower of Wayreth]]
+- **Peoples:** [[Elves]], [[Dwarves]], [[Kender]], [[Gnomes]], [[Draconians]] (DM only)
+- **Powers:** [[Forces of Kalaman]] (DM only), [[Dragon Armies]] (DM only), [[Soth's Host]] (DM only)
+- **Time:** [[Calendar]]

@@ -1,6 +1,6 @@
 ## Current Date
 
-**13 Brookgreen, 351 AC** (start of [[1. An Ordinary Day]])
+**13 Brookgreen, 351 AC** (start of [[1.00 An Ordinary Day]])
 
 ## Reckoning Years
 
@@ -67,7 +67,7 @@ Lunitari's cycle matches the 28-day month, so it is full on the same day each mo
 When all three moons are at High Sanction together, full on the same night, they line up in the sky like a great eye. This happens once every **504 days**. Every wizard on Krynn is at the height of their power, and great workings of magic are attempted (and go wrong) on that night.
 
 - **The last Night of the Eye:** **14 Brookgreen 350 AC**, a year before the campaign. Davos's trial on the Barb ([[Davos Bloodbane]]).
-- **The next:** **14 Reapember 351 AC**, the night the Dragon Army means to raise the dead of Onyari ([[4. Duty#The Deadline]]).
+- **The next:** **14 Reapember 351 AC**, the night the Dragon Army means to raise the dead of Onyari ([[4.04 The Deadline#The Deadline]]).
 - **After that:** 14 Brookgreen 353 AC.
 
 ## Tracking the Moons

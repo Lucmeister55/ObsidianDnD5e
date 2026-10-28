@@ -24,10 +24,10 @@ Kalaman can't afford to call on the Knights of Solamnia every time raiders cross
 | Band | How they treat you | In the siege |
 |---|---|---|
 | **Honoured** (+6 to +10) | Vendri asks your opinion before she decides anything. | The party commands a gate's defence. In mass combat, **two** extra veteran units. |
-| **Trusted** (+3 to +5) | Free use of the armoury, stables and healers. | The party commands a wall section. In mass combat, **one** extra veteran unit. |
-| **Neutral** (0 to +2) | Salutes, 5 gp a week as esquires, and Vendri's protection over Wurm. | A post on the walls and soldiers to hold it. |
+| **Trusted** (+3 to +5) | Free use of the armoury, stables and healers. **Vendri burns the Vogler file** the first time they reach Trusted ([[DM Guide#Why They Stay Together]]). | The party commands a wall section. In mass combat, **one** extra veteran unit. |
+| **Neutral** (0 to +2) | Salutes, 5 gp a week as esquires, and Vendri's protection over Wurm, as a member of the company. | A post on the walls and soldiers to hold it. |
 | **Wary** (-1, -2) | Your orders get checked twice, and Vendri quietly withdraws her protection from Wurm. | Nothing. Find your own place to fight. |
-| **Hostile** (-3 to -5) | Esquire status suspended. | Soldiers ignore your orders, and you're kept away from where the fighting matters. |
+| **Hostile** (-3 to -5) | Esquire status suspended. Vendri takes the Vogler file out of her desk, and lets the council see it. If she already burned it, she still remembers what was in it. | Soldiers ignore your orders, and you're kept away from where the fighting matters. |
 
 **Command:** Military Standing decides how many soldiers the party can lead in skirmishes and battles, from none at Hostile to the whole field at Honoured ([[Skirmish Battles#Who Commands What]]).
 
@@ -36,7 +36,7 @@ Kalaman can't afford to call on the Knights of Solamnia every time raiders cross
 
 **For the Wastes:** at Trusted or better, the quartermaster quietly loads **10 Supply** and **10 Water** into the party's own packs, so they aren't on the supply ship when it goes down.
 
-**Signature reward (+10):** Vendri hands the party a company of their own. Forty veterans follow them into the siege and into anything after it.
+**Signature reward (+10):** Vendri puts forty of her veterans under the company's own command. They follow the party into the siege and into anything after it.
 **Signature disaster (-5):** the party is arrested for desertion or treason, and has to talk, fight or break its way out of Castle Kalaman.
 
 ## Favours (Trusted or better)
