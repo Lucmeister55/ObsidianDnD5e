@@ -67,9 +67,24 @@ The gods are almost entirely absent, so any divine touch has to be deniable: a c
 - **Level 5: downtime in Kalaman** *(training)*. Wyhan makes him cast the same cantrip every night for a month, under every phase of every moon, and write down how it feels. It's boring. It works.
 - **Level 6: after the catacombs** *(divine)*. Deep under the city there's no moonlight at all, and his magic should be at its weakest. It isn't. Something answered him in the dark, and his hair stays black for a week. Ask: does he tell Wyhan?
 - **Level 7: the Northern Wastes** *(divine)*. Solinari is bright on the salt flats after the Wash has drained away. He spends magic he can't spare to save someone who's no use to him. Afterwards, one strand of his hair has gone silver and doesn't change back with the others.
-- **Level 8: the passage to the City of Lost Names** *(training)*. A moon calendar is carved into the passage walls, with all three moons aligned. He works out the date of the next Night of the Eye. With this vault's 28-day months, it's 504 days after his trial: **1 Fierswelth, 352 AC**.
+- **Level 8: the passage to the City of Lost Names** *(training)*. A moon calendar is carved into the passage walls, with all three moons aligned. He works out the date of the next Night of the Eye, 504 days after his trial: **14 Reapember 351 AC**, the night the Dragon Army is waiting for. If he worked it out in Kalaman, this is where he's sure.
 - **Level 9: reforging the dragonlance** *(divine)*. In the Temple of Paladine, for one breath, nobody can say what colour his hair is.
-- **Level 10: escaping the Threshold** *(divine or training)*. If the timeline reaches 1 Fierswelth 352 AC, it's the Night of the Eye: all three moons are full and he's at the height of his power. If not, he levels from everything Wyhan has drilled into him and gets them out on skill alone.
+- **Level 10: escaping the Threshold** *(divine or training)*. If it's **14 Reapember**, the Night of the Eye, all three moons are full and he's at the height of his power (see "The Night of the Eye" below). If not, he levels from everything Wyhan has drilled into him and gets them out on skill alone.
+
+## The Night of the Eye
+
+> [!homebrew] Source: **Homebrew**.
+
+On **14 Reapember 351 AC**, from dusk to dawn, all three moons are full, and Davos is the most powerful mage on Krynn. It's one night, so let it be absurd:
+- **At dusk** he regains every spell slot and sorcery point, and gains extra sorcery points equal to his level.
+- **Every spell he casts** counts as cast with a slot **two levels higher** than the one he used (up to 9th), and he has **+2** to his spell attacks and spell save DC.
+- **Metamagic is free**: one option per spell, at no sorcery point cost.
+- **His Lunar Sorcery** gives the benefits of all three moon phases at once.
+- **Once that night**, he can cast any sorcerer spell of **7th level or lower**, even one he doesn't know, without a slot. He'll know which one. The moons tell him.
+
+**At dawn**, it all drains out of him at once: **2 levels of exhaustion**, and his hair goes white, red and black in streaks, and stays that way for a week. If he's been playing with Moon Charms, the Heat comes due.
+
+The night falls during the climax: the Dragon Army's ritual, and wherever the party is in the City of Lost Names ([[5. Destiny]]). If they're early, he gets it in the middle of the city. If they're late, he gets it on the walls of Wind's End.
 
 ## Arc: Trials and Orders
 

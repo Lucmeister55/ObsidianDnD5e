@@ -6,7 +6,7 @@ tags:
 
 # Weapon Triangle
 
-*Source: **Homebrew**, built on the 2024 Weapon Mastery rules.*
+> [!homebrew] Source: **Homebrew**, built on the 2024 Weapon Mastery rules.
 
 **The point:** a fighter should have a reason to carry more than one weapon, and to look at what the enemy is holding before choosing theirs. The 2024 rules already make swapping cheap (you can equip or unequip one weapon as part of each attack), and variant encumbrance makes carrying a whole armoury expensive. The triangle makes that choice matter.
 

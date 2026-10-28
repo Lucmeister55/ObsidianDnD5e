@@ -1,0 +1,32 @@
+/* Source tags for the Dragonlance campaign notes:
+   > [!module] ...    official module (blue)
+   > [!companion] ... DMs Guild companion (purple)
+   > [!homebrew] ...  our own material (green)
+   > [!wok] ...       Warriors of Krynn board game (orange) */
+
+.callout[data-callout="module"] {
+  --callout-color: 70, 130, 200;
+  --callout-icon: lucide-book-open;
+}
+
+.callout[data-callout="companion"] {
+  --callout-color: 150, 100, 200;
+  --callout-icon: lucide-book-plus;
+}
+
+.callout[data-callout="homebrew"] {
+  --callout-color: 80, 170, 100;
+  --callout-icon: lucide-flask-conical;
+}
+
+.callout[data-callout="wok"] {
+  --callout-color: 220, 140, 50;
+  --callout-icon: lucide-swords;
+}
+
+/* Keep the one-line source tags compact. */
+.callout:is([data-callout="module"], [data-callout="companion"], [data-callout="homebrew"], [data-callout="wok"]) {
+  padding: 4px 12px;
+  margin: 4px 0 12px;
+  font-size: 0.9em;
+}

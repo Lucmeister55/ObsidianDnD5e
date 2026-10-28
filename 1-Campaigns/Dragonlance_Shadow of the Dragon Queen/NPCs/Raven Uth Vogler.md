@@ -29,7 +29,11 @@ A good festival, Ispin's funeral done properly, and her people safe. After the b
 
 ## Her Death
 
-Make it count. She dies on the docks during the evacuation, buying the last boats time against Kansaldi, and her whistle ends up in the party's hands, or in the river. Once she's gone, the Vogler Refugees have **no leader** in Kalaman. Who rises to speak for them becomes one of the party's first choices in [[3. Storm Clouds - Timeline]].
+> [!companion] Source: **Companion** ([[2-When_Home_Burns.pdf]], "A Tragic Loss").
+
+Make it count. Play her warm and capable all through Vogler, so the players like her. On the last boat, Kansaldi's dragon snatches her (perhaps after she shoves a character out of its path) and burns her on the end of Vogler's Crossing, in sight of everyone. Her whistle ends up in the party's hands, or in the river. Once she's gone, the Vogler Refugees have **no leader** in Kalaman. Who rises to speak for them becomes one of the party's first choices in [[3. Storm Clouds - Timeline]].
+
+The companion adds that "Uth Vogler" is a title, not a family name, inherited by the village's appointed leader. Her father was mayor before her, killed by a sahuagin while fishing, and the village let her take over at sixteen "for now". Nobody ever got round to replacing her.
 
 ## Stats
 

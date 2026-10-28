@@ -6,7 +6,7 @@ tags:
 
 # One-Turn Resolution
 
-*Source: **Homebrew**. This is the DM-side procedure for the "one-turn" described to the players in [[Session 1.5]].*
+> [!homebrew] Source: **Homebrew**. This is the DM-side procedure for the "one-turn" described to the players in [[Session 1.5]].
 
 **The point:** skip padding fights without skipping the fun. When the party is clearly going to win, everyone gets one cinematic turn, and the description decides the cost.
 
@@ -17,7 +17,16 @@ Call a one-turn when **all** of these are true:
 - Nobody important is in the fight, on either side.
 - Playing it out would take more than one round of real time and teach nobody anything.
 
-Say it out loud: "This is a one-turn." The players then know the fight is won, and the question is only how cleanly.
+**Offer it, don't impose it.** Ask the table: "One-turn this, or play it out?" Playing it out gives them more control over what they spend (slots, potions, hit points). A one-turn is faster and more cinematic. It's their call.
+
+## The Combat Budget
+
+Aim for **one full, played-out fight every 2–4 sessions**. Everything else is a one-turn, a skirmish, a chase or a conversation.
+
+Every encounter in the chapter notes is tagged:
+- **One-turn?**: a good candidate. Offer it.
+- **Avoidable**: it only happens if the party gets it wrong.
+- **Full fight** with an **objective**: worth playing out. These fights are rarely about killing everything. They're about holding a gate, saving someone, grabbing something, or getting out alive, and the objective decides the reward. Tell the players the objective at the start of the fight, so they can play for it.
 
 ## Procedure
 

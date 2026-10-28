@@ -8,7 +8,7 @@ tags:
 
 # Kalaman Military
 
-**Standing:** `$= dv.current().standing` (`$= (s => s >= 4 ? "Honoured" : s >= 2 ? "Trusted" : s >= 0 ? "Neutral" : s == -1 ? "Wary" : "Hostile")(dv.current().standing)`). See [[Faction Rules]].
+**Standing:** `$= dv.current().standing` (`$= (s => s >= 6 ? "Honoured" : s >= 3 ? "Trusted" : s >= 0 ? "Neutral" : s >= -2 ? "Wary" : "Hostile")(dv.current().standing)`). See [[Faction Rules]].
 **Horizon: long.** Banks everything for the siege.
 
 Kalaman can't afford to call on the Knights of Solamnia every time raiders cross the border, so it keeps its own army: tough, practical soldiers who have spent their lives fighting Estwilde raiders and Taman Busuk ogres, and who have never seen anything like the Dragon Army. The party will likely end up working for them as esquires of Kalaman.
@@ -23,19 +23,21 @@ Kalaman can't afford to call on the Knights of Solamnia every time raiders cross
 
 | Band | How they treat you | In the siege |
 |---|---|---|
-| **Honoured** (+4, +5) | Vendri asks your opinion before she decides anything. | The party commands a gate's defence. In mass combat, **two** extra veteran units. |
-| **Trusted** (+2, +3) | Free use of the armoury, stables and healers. | The party commands a wall section. In mass combat, **one** extra veteran unit. |
-| **Neutral** (0, +1) | Salutes, 5 gp a week as esquires, and Vendri's protection over Wurm. | A post on the walls and soldiers to hold it. |
-| **Wary** (-1) | Your orders get checked twice, and Vendri quietly withdraws her protection from Wurm. | Nothing. Find your own place to fight. |
-| **Hostile** (-2, -3) | Esquire status suspended. | Soldiers ignore your orders, and you're kept away from where the fighting matters. |
+| **Honoured** (+6 to +10) | Vendri asks your opinion before she decides anything. | The party commands a gate's defence. In mass combat, **two** extra veteran units. |
+| **Trusted** (+3 to +5) | Free use of the armoury, stables and healers. | The party commands a wall section. In mass combat, **one** extra veteran unit. |
+| **Neutral** (0 to +2) | Salutes, 5 gp a week as esquires, and Vendri's protection over Wurm. | A post on the walls and soldiers to hold it. |
+| **Wary** (-1, -2) | Your orders get checked twice, and Vendri quietly withdraws her protection from Wurm. | Nothing. Find your own place to fight. |
+| **Hostile** (-3 to -5) | Esquire status suspended. | Soldiers ignore your orders, and you're kept away from where the fighting matters. |
+
+**Command:** Military Standing decides how many soldiers the party can lead in skirmishes and battles, from none at Hostile to the whole field at Honoured ([[Skirmish Battles#Who Commands What]]).
 
 **Mission perk (Trusted+):** horses and two veteran soldiers come along, or a fresh report gives advantage on the first check to scout or ambush the enemy.
 **Mission complication (Hostile):** no horses, and no reinforcements when things go wrong.
 
 **For the Wastes:** at Trusted or better, the quartermaster quietly loads **10 Supply** and **10 Water** into the party's own packs, so they aren't on the supply ship when it goes down.
 
-**Signature reward (+5):** Vendri hands the party a company of their own. Forty veterans follow them into the siege and into anything after it.
-**Signature disaster (-3):** the party is arrested for desertion or treason, and has to talk, fight or break its way out of Castle Kalaman.
+**Signature reward (+10):** Vendri hands the party a company of their own. Forty veterans follow them into the siege and into anything after it.
+**Signature disaster (-5):** the party is arrested for desertion or treason, and has to talk, fight or break its way out of Castle Kalaman.
 
 ## Favours (Trusted or better)
 

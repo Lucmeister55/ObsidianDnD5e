@@ -6,7 +6,7 @@ tags:
 
 # Jeyev Veldrews
 
-*Source: **Module** ([[04-chapter-3-when-home-burns#Lost in Battle|ch. 3, "Lost in Battle"]], the "Assassination" option). His life in Kalaman is **Homebrew**.*
+> [!module] Source: **Module** ([[04-chapter-3-when-home-burns#Lost in Battle|ch. 3, "Lost in Battle"]], the "Assassination" option). His life in Kalaman is **Homebrew**.
 
 Cudgel's lieutenant and the Ironclad Regiment's chief scout: easy-going, quick with a joke, the mercenary everyone in Vogler likes. He's also the Dragon Army's second buyout, after Gragonis, and the better one. Gragonis was bought with gold and a grudge. Jeyev was bought with gold and nothing else, and he's patient. His contract is for **the Solamnic knights of Vogler**: Becklin, then Darrett. In the Battle of Vogler, he stabs Becklin in the back (see [[2. Broken Silence]]), takes her helmet, and runs for the last boat to get close to Darrett.
 

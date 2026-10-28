@@ -35,6 +35,12 @@ None, really. He hides how afraid he is that he isn't good enough. If Becklin di
 
 He follows orders, even bad ones, and hates himself for it. He'll send a desperate note to the party before he'll openly disobey (module, Steel Springs).
 
+## His Fate
+
+> [!homebrew] Source: **Homebrew**.
+
+Darrett may die in the siege, holding a gate so the party can reach the citadel. See "Who Falls in the Siege" in [[6. Conquest]].
+
 ## Stats
 
 [[darrett-highwater-dsotdq|Darrett Highwater]] (module appendix B).

@@ -57,7 +57,7 @@ He has never believed a word of their ideals. He sees the Order for what it is, 
 
 ### Trial of the Barb
 
-On **1 Newkolt 351 AC**, during the Night of the Eye, Davos was sent to the Barb, a ruined spire near Maelgoth that only wakes with magic while the moons are aligned. That was where he faced the Trial of the Barb, his first real step toward the Mages of High Sorcery.
+On **14 Brookgreen 350 AC**, during the Night of the Eye, a year before Vogler, Davos was sent to the Barb, a ruined spire near Maelgoth that only wakes with magic while the moons are aligned. That was where he faced the Trial of the Barb, his first real step toward the Mages of High Sorcery.
 
 A Red Robe named **Rovina** met the initiates there. She talked at length about the three Orders, White and Red and Black, and what each believed, and then asked every initiate to say which of them they felt closest to. It wasn't a binding choice, she said, only a measure of where they stood. After that she led them to a sealed chamber and told them only as much as they needed to know. Inside was an orb, and their task was to bring it to the pedestal at the centre of the room before the Night of the Eye ended, because the chamber would vanish with it, and anyone who failed would be expelled.
 

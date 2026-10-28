@@ -62,7 +62,12 @@ The goal is to make sure everyone ends up with a character they enjoy playing.
 
 ### Death and Replacement Policy
 
-If an origin character dies, no new origin characters will be created to replace them. In other words, any replacement character after that point will be made **custom**, together with the DM. This new character will be built to fit the campaign, the party, and the story situation at the time.
+If an origin character dies, you have two options:
+
+- **A new origin character**, made by the DM: a pre-made character with their own backstory, ties and secrets, built to slot into the story where it stands.
+- **A custom character**, made together with the DM, closer to your own concept.
+
+Either way, the new character will be built to fit the campaign, the party, and the story situation at the time.
 
 ## World Overview
 

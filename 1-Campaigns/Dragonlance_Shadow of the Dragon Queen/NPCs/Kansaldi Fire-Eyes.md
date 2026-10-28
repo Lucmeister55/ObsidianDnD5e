@@ -6,7 +6,7 @@ tags:
 
 # Kansaldi Fire-Eyes
 
-Dragon Highmaster of the Red Dragon Army, the woman Highlord Verminaard left in charge of the invasion of the Kalaman region, and a zealot even by the Dragon Army's standards. Verminaard brought her into the Dragon Queen's faith, and the faith ate everything else. To prove her devotion she tore out her own left eye with her fingers and pushed a red gem into the socket, and she still talks about it as the happiest day of her life. Her own soldiers are more afraid of her than of the enemy. She **kills [[Raven Uth Vogler|Raven]]** on the docks at the end of the Vogler arc, and she makes a sermon of it.
+Dragon Highmaster of the Red Dragon Army, the woman Highlord Verminaard left in charge of the invasion of the Kalaman region, and a zealot even by the Dragon Army's standards. Verminaard brought her into the Dragon Queen's faith, and the faith ate everything else. To prove her devotion she tore out her own left eye with her fingers and pushed a red gem into the socket, and she still talks about it as the happiest day of her life. Her own soldiers are more afraid of her than of the enemy. She **kills [[Raven Uth Vogler|Raven]]** at the end of the Vogler arc from the back of her red dragon, Ignia, and she makes a sermon of it.
 
 ## Voice
 
@@ -28,7 +28,9 @@ Kalaman burned clean in the Dragon Queen's name, the City of Lost Names claimed 
 
 ## Raven's Death
 
-At the docks, as the last boats leave, Kansaldi finds Raven holding the line. Have her stop the fighting around her with a raised hand, and offer Raven forgiveness, tenderly, in front of everyone: "Kneel, child, and it can all stop." When Raven spits at her, Kansaldi weeps, kisses her forehead, and burns her alive. Then she turns to the party, still crying, and thanks them for watching.
+> [!companion] Source: **Companion** ([[2-When_Home_Burns.pdf]], "Kansaldi Arrives"), with **Homebrew** dialogue.
+
+As the last boat leaves Vogler, Kansaldi dives out of the smoke on her red dragon **Ignia**, snatches Raven off the deck, and carries her to the last arch of Vogler's Crossing, where everyone can see. She offers forgiveness, tenderly: "Kneel, child, and it can all stop." When Raven spits at her, Kansaldi weeps, kisses her forehead, and lets Ignia burn her. Then she lets the boats go, so the refugees carry the story to Kalaman.
 
 ## Ties
 

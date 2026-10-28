@@ -5,7 +5,7 @@ tags:
 
 # Faction Rules
 
-*Source: **Homebrew**. The factions themselves come from the **Module** ([[05-chapter-4-shadow-of-war#Power in Kalaman|ch. 4, "Power in Kalaman"]]).*
+> [!homebrew] Source: **Homebrew**. The factions themselves come from the **Module** ([[05-chapter-4-shadow-of-war#Power in Kalaman|ch. 4, "Power in Kalaman"]]).
 
 Kalaman is a city under strain, and six groups in it all want something from the party: the [[Kalaman Military]], the [[Knights of Solamnia]], the [[Mages of High Sorcery]], the [[Kalaman Guilds]], the [[Kalaman Smallfolk]] and the [[Vogler Refugees]]. They rarely want the same thing. Helping one often costs you with another, and that's the point.
 
@@ -13,7 +13,7 @@ The system runs during [[3. Storm Clouds]], with every downtime event mapped out
 
 ## The Only Thing You Track
 
-**One number per faction: Standing, from -3 to +5.** It's shared by the whole party and stored in the `standing` property of each faction's note. That's it.
+**One number per faction: Standing, from -5 to +10.** It's shared by the whole party and stored in the `standing` property of each faction's note. That's it.
 
 **Every faction starts at 0.** The one exception is the [[Vogler Refugees]], the first faction the party meets. Their Standing can already move in Vogler, before anyone reaches Kalaman, as a light introduction to the system (see "In Vogler" below).
 
@@ -21,11 +21,13 @@ Standing falls into five **bands**, and every faction uses the same ones:
 
 | Band | Standing | What it feels like |
 |---|---|---|
-| **Honoured** | +4, +5 | They'd follow you anywhere, and they pay out big. |
-| **Trusted** | +2, +3 | Doors open, real rewards, and you can **call in favours**. |
-| **Neutral** | 0, +1 | A small, basic reward. Helping the war is in everyone's interest. |
-| **Wary** | -1 | Nothing. They watch you. |
-| **Hostile** | -2, -3 | They cost you something. |
+| **Honoured** | +6 to +10 | They'd follow you anywhere, and they pay out big. |
+| **Trusted** | +3 to +5 | Doors open, real rewards, and you can **call in favours**. |
+| **Neutral** | 0 to +2 | A small, basic reward. Helping the war is in everyone's interest. |
+| **Wary** | -1, -2 | Nothing. They watch you. |
+| **Hostile** | -3 to -5 | They cost you something. |
+
+**What to expect.** A party that tries to please everyone should end Storm Clouds with most factions **Trusted** and none Honoured. A party that picks favourites can get two or three to Honoured, and maybe one to +10, at the cost of the rest going Wary or Hostile. That's the design: everyone likes you a little, or someone loves you and someone else hates you. Only a party that aces absolutely everything gets close to having it all ([[Playtest Ideas]] has the simulation).
 
 Each faction's note has one table showing what each band means for that faction.
 
@@ -33,7 +35,7 @@ Each faction's note has one table showing what each band means for that faction.
 
 - **±1** for a meaningful choice that faction would notice.
 - **±2** for a big one, like saving their people, a public betrayal, or a choice made in front of the whole city.
-- Many choices are **+1 to one faction and -1 to its rival**.
+- **Almost every choice costs someone.** Most options are +1 to one faction and -1 to another. In any decision, at most **one** option should be free, and it should be the hard or unglamorous one.
 
 Change each faction **at most once per event**, and always tell the players what changed and why. Seeing the cost is half the fun.
 
@@ -42,8 +44,8 @@ The changes listed in the timeline and chapters are **defaults**, not a complete
 ## The Big Moments
 
 Two one-off moments make the ends of the track matter:
-- **The first time a faction reaches +5**, it gives the party its **signature reward**, something big and memorable, once (listed in each note).
-- **The first time a faction drops to -3**, it triggers its **signature disaster** at once (listed in each note).
+- **The first time a faction reaches +10**, it gives the party its **signature reward**, something big and memorable, once (listed in each note).
+- **The first time a faction drops to -5**, it triggers its **signature disaster** at once (listed in each note).
 
 ## In Vogler
 
@@ -51,11 +53,11 @@ Before the party ever reaches Kalaman, only the **Vogler Refugees** track is in 
 
 ## Working a Faction (downtime)
 
-The players don't have to wait for events. Any character can spend **one workweek of their downtime** on their own project to win over a faction, instead of their usual activity. It might be teaching the refugee children to read, guarding a guild warehouse, carrying messages for Vendri, or helping Wyhan with an experiment. They pitch it, you pick a fitting check, and:
+The players don't have to wait for events. Any character can spend **their whole downtime** on a project to win over a faction, instead of their personal activity, Bastion turn or crafting. It might be teaching the refugee children to read, guarding a guild warehouse, carrying messages for Vendri, or helping Wyhan with an experiment. They pitch it, you pick a fitting check, and:
 - **DC 15:** +1 with that faction.
 - **Failed by 5 or more:** it backfires, -1.
 
-Each faction can gain **at most +1 per downtime** from projects like this, however many characters work on it. It's a steady, reliable way to climb, but it costs the downtime they'd otherwise spend on their own activity or Bastion.
+Each faction can gain **at most +1 per downtime** from projects like this, however many characters work on it. It's a reliable way to climb, but it costs that character's entire downtime.
 
 ## Mission Check-ins
 

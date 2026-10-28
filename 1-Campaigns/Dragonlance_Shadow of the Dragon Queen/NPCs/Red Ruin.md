@@ -23,7 +23,7 @@ To obey, to please Kansaldi, and to never fail. If you dig down far enough, she 
 ## Secret
 
 - **Ispin.** She killed [[Ispin Greenshield]] on her dragonnel, on an order that came from [[Lord Soth]] through Kansaldi. Soth openly blames her, and she doesn't deny it, because no one ever taught her she could.
-- **The clasp.** The belt clasp the party finds by the dragonnel in the woods near Vogler is hers (see [[1. An Ordinary Day#Amendments]]).
+- **The clasp.** The belt clasp the party finds by the dragonnel in the woods near Vogler is hers (see [[1. An Ordinary Day#The Missing Child and the Stolen Shield]]).
 
 ## Ties
 

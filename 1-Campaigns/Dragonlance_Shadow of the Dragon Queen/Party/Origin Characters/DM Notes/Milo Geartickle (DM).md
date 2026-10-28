@@ -69,6 +69,9 @@ Every time the ring brings Milo back from 0 hit points, log it here. Each reviva
 3. People Milo has befriended on the road, such as a villager, a soldier or a fellow kender.
 4. Finally, someone who truly matters. Pick an NPC the whole table loves, or someone tied to Milo's past like Elgo or Tatina Rookledust. Never a player character unless that player agrees.
 
+**The log so far:**
+- **High Hill** (prologue): beheaded by a mercenary's axe, and grows a new head on their next turn. The price: a kingfisher, dead out of the tree above.
+
 Don't hurry it. The person should die only after Milo, or the party, has been warned enough to see it coming. The whole log is the bill that comes due in Onyari.
 
 | # | Session | How Milo died | What died in their place |

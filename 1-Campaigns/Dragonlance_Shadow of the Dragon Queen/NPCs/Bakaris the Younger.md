@@ -14,7 +14,7 @@ Silky, sneering and amused by everyone. *(Draco Malfoy, from the films.)*
 
 ## Look
 
-Lean, dark-haired and handsome, in a riding coat better cut than anything the party owns, with a fine yew bow across his back, oiled and never scratched.
+Lean, dark-haired and handsome, in a riding coat better cut than anything the party owns, with a fine ebony crossbow across his back, oiled and never scratched. A crossbow does the aiming for you, and he has never had the patience for a bow.
 
 ## Wants
 

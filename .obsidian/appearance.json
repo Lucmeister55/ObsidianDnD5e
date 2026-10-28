@@ -1,6 +1,7 @@
 {
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
-    "S - Encoded Icons"
+    "S - Encoded Icons",
+    "source-callouts"
   ]
 }

@@ -37,6 +37,12 @@ She knows Kalaman can't hold against a real Dragon Army assault, not without hel
 
 She gets quieter and colder, and makes the hard call. She'll sacrifice the outpost to save the army, and the army to save the city. She respects anyone who disobeys her for a good reason, and never says so out loud.
 
+## Her Fate
+
+> [!homebrew] Source: **Homebrew**.
+
+Vendri may fall on the walls in the siege. If she does, and the city holds, Kalaman needs a new Grand Marshal, which could be Edric. See "Who Falls in the Siege" in [[6. Conquest]].
+
 ## Stats
 
 Knight (lawful neutral, human), per the module.

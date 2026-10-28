@@ -8,7 +8,7 @@ tags:
 
 # Mages of High Sorcery
 
-**Standing:** `$= dv.current().standing` (`$= (s => s >= 4 ? "Honoured" : s >= 2 ? "Trusted" : s >= 0 ? "Neutral" : s == -1 ? "Wary" : "Hostile")(dv.current().standing)`). See [[Faction Rules]].
+**Standing:** `$= dv.current().standing` (`$= (s => s >= 6 ? "Honoured" : s >= 3 ? "Trusted" : s >= 0 ? "Neutral" : s >= -2 ? "Wary" : "Hostile")(dv.current().standing)`). See [[Faction Rules]].
 **Horizon: mixed.** A little every downtime, and a big gift for the Wastes.
 
 The Orders of the White, Red and Black Robes stand apart from the wars of kings. They care about magic: who uses it, who teaches it, and who must never be allowed to. In Kalaman there are very few of them, and they keep a low profile, because the city doesn't love wizards. What they lack in numbers they make up for in patience, secrets and long memories. They want the City of Lost Names found, and they know more about Onyari than they admit.
@@ -23,19 +23,19 @@ The Orders of the White, Red and Black Robes stand apart from the wars of kings.
 
 | Band | How they treat you | Each downtime | When leaving for the Wastes |
 |---|---|---|---|
-| **Honoured** (+4, +5) | They share secrets no one outside a Tower should know. | One uncommon magic item on loan. | A *decanter of endless water*, and a scrying of the route to the City of Lost Names. |
-| **Trusted** (+2, +3) | Wyhan opens her back room. | Free identification, and components at cost. | **Two** scrolls of *create food and water*. |
-| **Neutral** (0, +1) | Wyhan answers questions, mostly. | One item identified for free. | **One** scroll of *create food and water*. |
-| **Wary** (-1) | Watched. Davos's wage is "delayed". | Nothing. | Nothing. |
-| **Hostile** (-2, -3) | Wyhan's shop is closed to you. | Nothing. | Someone in the Order tells the Dragon Army's black robes the party is coming. |
+| **Honoured** (+6 to +10) | They share secrets no one outside a Tower should know. | One uncommon magic item on loan. | A *decanter of endless water*, and a scrying of the route to the City of Lost Names. |
+| **Trusted** (+3 to +5) | Wyhan opens her back room. | Free identification, and components at cost. | **Two** scrolls of *create food and water*. |
+| **Neutral** (0 to +2) | Wyhan answers questions, mostly. | One item identified for free. | **One** scroll of *create food and water*. |
+| **Wary** (-1, -2) | Watched. Davos's wage is "delayed". | Nothing. | Nothing. |
+| **Hostile** (-3 to -5) | Wyhan's shop is closed to you. | Nothing. | Someone in the Order tells the Dragon Army's black robes the party is coming. |
 
 **Mission perk (Trusted+):** Wyhan hands over one *potion of healing* or one 1st-level spell scroll suited to the mission, "on loan".
 **Mission complication (Hostile):** Wyhan "forgets" to mention a magical danger she knew about.
 
 **In the siege:** at Trusted or better, one great working at the decisive moment, like a fog over the harbour, a ward on a gate or a scrying of the enemy's plan.
 
-**Signature reward (+5):** the Orders give the party a fragment of Istarian lore about Onyari, the key to entering one sealed place in the City of Lost Names without a fight.
-**Signature disaster (-3):** the Orders cut Davos loose. His protection is gone, and the old death sentence for the guard is suddenly back on the table.
+**Signature reward (+10):** the Orders give the party a fragment of Istarian lore about Onyari, the key to entering one sealed place in the City of Lost Names without a fight.
+**Signature disaster (-5):** the Orders cut Davos loose. His protection is gone, and the old death sentence for the guard is suddenly back on the table.
 
 ## Favours (Trusted or better)
 

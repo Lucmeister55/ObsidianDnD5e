@@ -6,7 +6,7 @@ tags:
 
 # Combo Attacks
 
-*Source: **Homebrew**, a round-by-round version of the "one-turn" combo play in [[Session 1.5]].*
+> [!homebrew] Source: **Homebrew**, a round-by-round version of the "one-turn" combo play in [[Session 1.5]].
 
 **The point:** the party should be rewarded for fighting *together*, not just next to each other. A combo is two or more characters spending their actions on one move that's better than the sum of its parts.
 

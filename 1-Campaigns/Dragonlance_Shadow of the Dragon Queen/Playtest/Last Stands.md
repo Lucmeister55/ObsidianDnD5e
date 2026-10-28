@@ -6,7 +6,7 @@ tags:
 
 # Last Stands
 
-*Source: **Homebrew**. This is the mechanics for the "blaze of glory" deaths promised in [[Session 1.5]].*
+> [!homebrew] Source: **Homebrew**. This is the mechanics for the "blaze of glory" deaths promised in [[Session 1.5]].
 
 **The point:** when a character dies, it should be a scene, not a dice roll. The player gets to choose a last stand, and it's always worth something.
 
