@@ -1,52 +1,45 @@
 ---
 type: faction
 name: Kalaman Military
-renown: 0
-updated: 2026-04-24
+standing: 0
+tags:
+  - faction
 ---
 
 # Kalaman Military
 
-Military forces defending Kalaman from threats.
+**Standing:** `$= dv.current().standing` (`$= (s => s >= 4 ? "Honoured" : s >= 2 ? "Trusted" : s >= 0 ? "Neutral" : s == -1 ? "Wary" : "Hostile")(dv.current().standing)`). See [[Faction Rules]].
+**Horizon: long.** Banks everything for the siege.
 
-**Current Renown:** `$= dv.current().renown`
+Kalaman can't afford to call on the Knights of Solamnia every time raiders cross the border, so it keeps its own army: tough, practical soldiers who have spent their lives fighting Estwilde raiders and Taman Busuk ogres, and who have never seen anything like the Dragon Army. The party will likely end up working for them as esquires of Kalaman.
 
-## Standing & Reputation
+**Who speaks for them:** [[Nestra Vendri|Marshal Nestra Vendri]], pragmatic and stern, who hates wasted lives. [[Darrett Highwater]] is the party's liaison. **Jesen Thold**, who runs the Steady Beacon tavern, is Vendri's old friend and hears every soldier's gossip.
 
-| Renown | Opinion | Bonus/Penalty | How They Treat You |
-|--------|---------|---------|----------|
-| **50+** | Legend | +5 | Soldiers would follow you into battle |
-| **25-49** | Honored | +4 | Treated as honorary officer, given intelligence |
-| **10-24** | Highly Regarded | +3 | Officers request your aid directly |
-| **4-9** | Trusted | +2 | Given garrison access, share supplies |
-| **1-3** | Acquaintance | +1 | Soldiers greet you respectfully |
-| **0** | Unknown | — | Soldiers ignore or suspect you |
-| **-1 to -5** | Distrusted | -1 | Denied garrison access, watched closely |
-| **-6 to -20** | Suspected Traitor | -2 | Soldiers refuse orders to aid you, barred from city |
-| **-21+** | Enemy | -3 | Actively hunted; military attacks on sight |
+**They want:** Kalaman defended, good intelligence, soldiers who come home alive, and orders that are followed.
+**They hate:** cowardice, wasting lives on glory, disobeying orders, and nobles playing at generals (Lord Bakaris above all).
+**Rivals:** the [[Kalaman Guilds]], who hold the council's purse.
 
-## Values & Relationships
+## By Band
 
-**What They Value:** Defense of Kalaman, martial courage, protecting the common people
+| Band | How they treat you | In the siege |
+|---|---|---|
+| **Honoured** (+4, +5) | Vendri asks your opinion before she decides anything. | The party commands a gate's defence. In mass combat, **two** extra veteran units. |
+| **Trusted** (+2, +3) | Free use of the armoury, stables and healers. | The party commands a wall section. In mass combat, **one** extra veteran unit. |
+| **Neutral** (0, +1) | Salutes, 5 gp a week as esquires, and Vendri's protection over Wurm. | A post on the walls and soldiers to hold it. |
+| **Wary** (-1) | Your orders get checked twice, and Vendri quietly withdraws her protection from Wurm. | Nothing. Find your own place to fight. |
+| **Hostile** (-2, -3) | Esquire status suspended. | Soldiers ignore your orders, and you're kept away from where the fighting matters. |
 
-**What They Hate:** Cowardice during dragon attacks, working with enemies, defeatist propaganda, nobility profiteering
+**Mission perk (Trusted+):** horses and two veteran soldiers come along, or a fresh report gives advantage on the first check to scout or ambush the enemy.
+**Mission complication (Hostile):** no horses, and no reinforcements when things go wrong.
 
-**Allied With:** Kalaman Smallfolk (protecting them is core mission)
+**For the Wastes:** at Trusted or better, the quartermaster quietly loads **10 Supply** and **10 Water** into the party's own packs, so they aren't on the supply ship when it goes down.
 
-**Opposed By:** Vogler Refugees (blame them for overwhelming city), Kalaman Guilds (nobility hoarding power on council)
+**Signature reward (+5):** Vendri hands the party a company of their own. Forty veterans follow them into the siege and into anything after it.
+**Signature disaster (-3):** the party is arrested for desertion or treason, and has to talk, fight or break its way out of Castle Kalaman.
 
-## Currently Enabled
+## Favours (Trusted or better)
 
-**Based on Renown `$= dv.current().renown`:**
-
-`$= dv.current().renown >= 3 ? "✓ Soldiers trust you, free meals at garrison" : ""`  
-`$= dv.current().renown >= 10 ? "✓ Garrison access, military units support missions" : ""`  
-`$= dv.current().renown >= 25 ? "✓ Officer authority, receive intelligence" : ""`  
-
-## How to Gain Renown
-
-**+1 Renown:** Help defend Kalaman's walls, scout for dragon activity, escort supply convoys through enemy territory, train new recruits.
-
-**+2 Renown:** Accept military commissions—investigate enemy movements, sabotage siege equipment, retrieve classified intelligence, defend key positions during battles.
-
-**+3+ Renown:** Repel major dragon raids on the city, break an enemy siege, recover powerful artifacts for the war effort, or assassinate enemy commanders. Your actions directly save Kalaman.
+- A squad of six guards for one mission.
+- Fast horses, or a river boat and crew.
+- A captured prisoner released into the party's custody.
+- One soldier quietly reassigned, protected or punished.

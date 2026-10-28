@@ -27,7 +27,7 @@ His sacrifice became the family's creed: an order is only worth obeying if it se
 - **Why it's so hard to destroy.** It held back the fires of the Cataclysm, the same flames that consumed Dargaard and damned Soth, and was found unburnt on its bearer's arm. Since that night no fire, hammer or curse has marked it, and the blessing burns undead hands, so neither Soth nor his knights can even hold it. That galls him more than anything. So he wants it carried by living hands to Dargaard, where he can keep trying to break it, and where, if he can't, at least no Greenshield or anyone else will ever carry it again.
 - **Soth's mockery: Ispin's body.** The funeral boat that carries Ispin's body down the Vingaard (see the module's funeral scene) never reaches the sea. Soth's servants take it from the river downstream, and Soth raises it as a **death knight** of his retinue, wearing the black rose. At around 6th level, use the [[death-knight-aspirant-xmm|death knight aspirant]] stat block. The full [[death-knight-xmm|death knight]] is too strong that early. It's the cruellest joke he knows: the last Greenshield "finally" kneeling to the lord his family defied. But it's only the body. Ispin's spirit is safe in the shield, so the thing Soth raised is hollow, an empty suit of Ispin wearing his face, with none of his humour or his kindness.
   - **The reveal.** In the catacombs beneath Kalaman, the Death Knight's retinue includes a knight whose helm comes off to show Ispin's face. Have Soth introduce it with relish.
-  - **The shield knows.** When it gets close, the shield goes cold for the first time. Then it burns hot, and Edric hears, clearly for the first time, Ispin's voice: "That isn't me, lad." That's the shield's first real stirring. Its full power waits for the Temple of Paladine.
+  - **The shield knows.** When it gets close, the shield goes cold for the first time. Then it burns hot, and Edric hears, clearly for the first time, Ispin's voice: "That isn't me, lad." That's the shield's first real stirring. Its full power waits for the Temple of Paladine (see "Ispin's Shield").
   - **Laying him to rest.** Destroying the hollow knight is something only Edric should do, and it's the most painful thing he'll ever do as a knight. The shield's blessing could be what finally lets the body fall still, Ispin protecting his squire one last time.
 - **Soth's lies.** Soth won't deny the shield, but he'll lie about it. To Edric, he'll say the first Greenshield was a coward who flung open the gates in a panic, let a mob into the keep, and died for nothing, that the family's famous defiance was nothing but treachery dressed up as virtue, and that Ispin, a laughing fool the Order rightly ignored, was cut from the same cloth. He's very convincing, and it lands hardest on a knight who already doubts whether rules or Ispin were right.
 - **Red Ruin was only the dagger.** In this campaign Red Ruin is a child of the Dragon Army, taken young and shaped into a weapon who has never been allowed to be anything else. She killed Ispin because she was told to.
@@ -85,6 +85,21 @@ When the party reforges the dragonlance at the Temple of Paladine in the City of
 - **Through the Flames.** While you wield the shield, you have resistance to fire damage, and you can't be harmed by the fire of the Cataclysm or any fire like it. That includes Dargaard's undying flames and dragonfire of the gods' own wrath. Exactly what counts is up to the DM.
 
 The Voices stay a story element. Ispin and the Greenshield line speak through the shield when the story needs them to, not as a mechanic.
+
+## Downtime: Raising a Company
+
+Kalaman is full of frightened refugees and green recruits, and Edric can't walk past them. For each workweek he spends drilling them, he makes a Charisma (Persuasion) or Wisdom (Insight) check, his choice:
+- **DC 15:** 1 progress.
+- **DC 20:** 2 progress.
+- **Below 10:** a recruit is badly hurt in drill, or deserts, and Edric blames himself.
+
+| Progress | What he gains |
+|---|---|
+| 2 | **A loyal few.** Four recruits (use **guard** stats) call themselves his, and will follow him on any mission near Kalaman. |
+| 4 | **Renown.** +1 renown with the Knights of Solamnia, as word spreads about the young knight who trains anyone who asks. |
+| 6 | **A banner.** The company sews him a banner. When Edric uses his Banneret rallying features while it flies within sight, allies who can see it also have advantage on their next saving throw against being frightened. |
+| 8 | **Edric's Company.** About forty soldiers who would die for him. In mass combat (Warriors of Krynn) or the Siege of Kalaman, they count as an extra allied unit, or they can hold one position the party would otherwise have to defend themselves. |
+| 10 | **Their captain.** The Order formally gives him command of them. This lines up with the Captain rung of his rank progression, and gives Soth a lot of people to threaten. |
 
 ## Level-Up Moments
 

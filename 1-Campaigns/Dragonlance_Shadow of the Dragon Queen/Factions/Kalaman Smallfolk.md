@@ -1,53 +1,45 @@
 ---
 type: faction
 name: Kalaman Smallfolk
-renown: 0
-updated: 2026-04-24
+standing: 0
+tags:
+  - faction
 ---
+
 # Kalaman Smallfolk
 
-Common folk of Kalaman—farmers, laborers, and everyday people.
+**Standing:** `$= dv.current().standing` (`$= (s => s >= 4 ? "Honoured" : s >= 2 ? "Trusted" : s >= 0 ? "Neutral" : s == -1 ? "Wary" : "Hostile")(dv.current().standing)`). See [[Faction Rules]].
+**Horizon: mixed.** A little every downtime, and a lot in the siege.
 
-**Current Renown:** `$= dv.current().renown`
+The ordinary people of Kalaman: dock labourers, fishwives, carters, washerwomen, farmers from the villages outside the walls, and children underfoot everywhere. They don't sit on any council, but there are more of them than anyone else, and they're the ones who will suffer first if the city falls. They're tough and suspicious, gossip travels fast among them, and they never forget who helped them and who didn't.
 
-## Standing & Reputation
+**Who speaks for them:** no one officially. **Jesen Thold** at the Steady Beacon hears everything. **Meulara**, the kender who runs Meulara's Oddities, knows every family in the poor quarters (and every kender in town).
 
-| Renown | Opinion | Bonus/Penalty | How They Treat You |
-|--------|---------|---------|----------|
-| **50+** | Legend | +5 | Folk would die to protect you |
-| **25-49** | Honored | +4 | Communities rally to your cause |
-| **10-24** | Highly Regarded | +3 | Seen as local hero, free meals and aid |
-| **4-9** | Trusted | +2 | People offer shelter, share stories |
-| **1-3** | Acquaintance | +1 | Friendly and helpful neighbors |
-| **0** | Unknown | — | Cautious strangers |
-| **-1 to -5** | Questioned | -1 | Suspicion, doors close, locals warn others |
-| **-6 to -20** | Dangerous | -2 | Avoided, refused service, families flee you |
-| **-21+** | Enemy | -3 | Towns mob or lynch you on sight |
+**They want:** bread, safety, their families protected, honest dealing, and to be noticed by those in charge.
+**They hate:** nobles and guilds who profit from their misery, broken promises, and anything that brings the war to their door.
+**Rivals:** the [[Vogler Refugees]] (who eat the same scarce bread), and the [[Knights of Solamnia]] (whom many blame for the Cataclysm).
 
-## Values & Relationships
+## By Band
 
-**What They Value:** Protecting innocents, honesty, community loyalty, survival
+| Band | How they treat you | Each downtime | In the siege |
+|---|---|---|---|
+| **Honoured** (+4, +5) | Your names are sung in the taverns. | Two useful rumours, and the street children are your eyes everywhere. | The whole lower city fights: militia, fire brigades and barricades in every street. |
+| **Trusted** (+2, +3) | People bring you their problems. | One useful rumour, and free food and lodging in the lower city. | Fire brigades and runners. Fires never spread, and messages always get through. |
+| **Neutral** (0, +1) | Smiles and directions. | One useful rumour. | People stay calm and out of the defenders' way. |
+| **Wary** (-1) | Doors close as you pass. | Nothing. | Nothing. |
+| **Hostile** (-2, -3) | Jeered in the street. | Nobody sells to you in the poor quarters. | Panic, with riots at the granaries and crowds blocking the streets. |
 
-**What They Hate:** Harming families, stealing from poor, abandoning people, working with monsters
+**Mission perk (Trusted+):** carters and farmers who've seen the enemy tell you exactly where. The party can't be surprised on arrival.
+**Mission complication (Hostile):** someone gossips about the party's plans in a tavern, and the enemy is waiting.
 
-**Allied With:** Vogler Refugees (shared hardship), Kalaman Military (protecting them)
+**When leaving for the Wastes:** whatever the poor can spare, given with pride. That's 2 Supply at Neutral, and 5 at Trusted or better.
 
-**Fear:** Knights of Solamnia (unpredictable, rigid authority)
+**Signature reward (+5):** the lower city hides a secret store for the siege, enough food and arrows to let Kalaman hold for one extra day when it matters most.
+**Signature disaster (-3):** a mob comes for the party, and anyone they protect, in the middle of the night.
 
-**Opposed By:** Kalaman Guilds (wealth inequality, greed)
+## Favours (Trusted or better)
 
-## Currently Enabled
-
-**Based on Renown `$= dv.current().renown`:**
-
-`$= dv.current().renown >= 3 ? "✓ Warm welcomes, free meals and shelter" : ""`  
-`$= dv.current().renown >= 10 ? "✓ Community rallies to aid you" : ""`  
-`$= dv.current().renown >= 25 ? "✓ Can call on townspeople for support" : ""`  
-
-## How to Gain Renown
-
-**+1 Renown:** Help families with immediate needs, rescue people from danger, protect neighborhoods from bandits or refugees, resolve local disputes.
-
-**+2 Renown:** Accept community requests—investigate disappearances, protect key locations, recover stolen family heirlooms, stand up to corrupt officials.
-
-**+3+ Renown:** Defend Kalaman from dragon attacks, organize evacuation of civilians, save children from danger, rally the town to stand against impossible odds. Your name becomes legend among commoners.
+- Hide someone, or something, where no official will find it.
+- Find anyone in the city within a day.
+- A crowd to cause a distraction, or to stand somewhere and refuse to move.
+- A rumour spread, or one quietly killed.

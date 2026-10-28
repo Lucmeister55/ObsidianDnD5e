@@ -31,7 +31,7 @@ Davos is a lean, good-looking young man with a sun-browned face, an easy half-sm
 
 Davos grew up in the lower districts of **Relgoth**, outside the old walls, where the river labourers and trade workers and small craftsmen lived on top of one another. Relgoth is the capital of the province of Vingaard, a city of long Solamnic history sitting in a dry, bowl-shaped valley near the Vingaard River on the Knight's High Road, between Delgaard and Ryn. It has been fought over for centuries, and it still hasn't finished recovering from the last occupation.
 
-His father died in the city prison when Davos was still a boy, and nobody in the family likes to talk about why. Since then it has been his mother alone, raising Davos and his younger brother and sister on whatever honest work she can find. They didn't always live like this, or so she says. Now and then, half proud and half bitter, she talks about a time when the name **Bloodbane** meant money and influence, before an ancestor committed some terrible sin during the Cataclysm and the Knights of Solamnia stripped the family of everything it had. The name survived. Not much else did.
+His father died in the city prison when Davos was still a boy, and nobody in the family likes to talk about why. Since then it has been his mother alone, raising Davos and his younger brother and sister on whatever honest work she can find. They didn't always live like this, or so she says. Now and then, half proud and half bitter, she talks about a time when the name **Bloodbane** meant money and influence, before an ancestor committed some terrible sin in the old wars, so long ago no one remembers what it was, and the Knights of Solamnia stripped the family of everything it had. The name survived. Not much else did.
 
 As the eldest, Davos learned early that hunger doesn't wait for talent. He watched his mother stretch meals that were too small, haggle for work that paid too little, and hold the household together by stubbornness alone, and he became the man of the house long before he was ready. It made him quick. He learned to read people, to see trouble coming, and to find the angle that got everyone through to the next day.
 
@@ -81,7 +81,7 @@ He isn't cruel, though. He sends nearly every coin he earns home, and his family
 
 He stays with the Order because of what they could do with the truth about the guard, and because the wage feeds his family, and because, if he's honest, he loves the power. His training started late, though, and he still can't fully control it. The moons pull at him hard, at his moods as much as his spells, and he's at his sharpest when the right moon rides high and at his most dangerous when the wrong one does.
 
-So he is caught three ways at once, between his family's needs and the Mages' demands and a war gathering around Kalaman. He has the power to matter. He doesn't yet know what kind of mage he's going to be.
+So he is caught three ways at once, between his family's needs and the Mages' demands and a war gathering around Kalaman. He knows the river better than most. If Kalaman falls, there's nothing between the Dragon Army and Relgoth but the Vingaard itself, and that would carry them straight to his mother's door. He has the power to matter. He doesn't yet know what kind of mage he's going to be.
 
 **Traits**
 
@@ -115,6 +115,12 @@ So he is caught three ways at once, between his family's needs and the Mages' de
 ## Unique Mechanics
 
 Davos's magic follows the three moons. See [[Calendar#The Three Moons]] for their cycles.
+
+### Downtime: Moon Charms
+
+Davos used to sell fake charms. Now he can make real ones. During downtime, he can secretly craft small one-use charms charged by one of the three moons, and give them to the party or sell them for 10 gp each to send home. For each workweek, choose a moon and make a Charisma (Arcana) check. The DM will tell you how many charms you make and what they do.
+
+The Mages of High Sorcery forbid unlicensed magic, so be careful who finds out. And some moons are more generous than others. Or he can spend the week cheating at cards instead.
 
 ## D&D Beyond Character Sheet
 

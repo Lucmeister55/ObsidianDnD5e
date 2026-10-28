@@ -118,6 +118,10 @@ The Order he serves shapes the character further, through feats you can swap in 
 | Order of the Sword | Combat specialists; valor-focused, frontline-oriented. |
 | Order of the Rose | Courtly and diplomatic knights; focus on noble protection, ceremonies, and investigation. |
 
+### Downtime: Raising a Company
+
+In Kalaman, Edric can spend downtime drilling refugees and new recruits into soldiers. For each workweek, make a Charisma (Persuasion) or Wisdom (Insight) check and tell the DM the result. Over time, the people he trains become *his*, and what they can do grows with them.
+
 ## D&D Beyond Character Sheet
 
 ```custom-frames

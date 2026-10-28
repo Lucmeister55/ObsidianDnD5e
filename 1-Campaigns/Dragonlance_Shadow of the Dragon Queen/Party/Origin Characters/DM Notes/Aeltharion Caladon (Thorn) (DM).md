@@ -19,7 +19,7 @@ What Thorn doesn't know, or what the other players shouldn't learn early.
 - **Lorac was a good man.** Without the Orb he is a wise Speaker and a loving father, which is what makes this a tragedy. Thorn saw his father change but has no idea why. He blames Lorac's arrogance and sorcery itself, and has no idea there was a dragon behind it.
 - **How Silvanost was breached.** The draconians came in by the hidden way Cyan had been shown. Lorac, already mad, blamed Alhana and House Mystic for betraying the city. The fear he was manipulated with, that the enemy would learn the way in, had already come true.
 - **The Orb's blast.** Lorac bends the Orb to destruction during his struggle with Eltharion. The blast wrecks Silvanost, and his madness pours out through the Orb into the land, turning Silvanesti into the land of nightmares from canon and the module. Whether Lorac survived is left open; Eltharion found no sign of him.
-- **The Bloodbane name.** Davos's family is the **Bloodbanes**, disgraced for a sin during the Cataclysm. The name comes from a company of humans who served Cyan in the Third Dragon War, and the family's Cataclysm-era sin was a return to that allegiance. That ties Davos and Thorn together through the dragon who destroyed Thorn's home. See [[Davos Bloodbane (DM)]].
+- **The Bloodbane name.** Davos's family is the **Bloodbanes**, disgraced for a sin during the Cataclysm. The name comes from a company of humans who served Cyan in the Third Dragon War, and that service was the family's sin. That ties Davos and Thorn together through the dragon who destroyed Thorn's home. See [[Davos Bloodbane (DM)]].
 - **Silvanesti refugees in the Northern Wastes.** Some of them may have known the royal family. Affects [[Aeltharion Caladon (Thorn)#^bond-silvanesti|Silvanesti]] and [[Aeltharion Caladon (Thorn)#^flaw-shame|shame]].
 
 ## Hooks
@@ -36,6 +36,21 @@ What Thorn doesn't know, or what the other players shouldn't learn early.
 - **Exile and shame.** He knows the Silvanesti survived as refugees, but he avoids them. His survival while his people suffered, and his failure to protect them, make him shy away from elven society and from anything that could expose him as a Caladon prince. Plays on [[Aeltharion Caladon (Thorn)#^flaw-shame|shame]] and [[Aeltharion Caladon (Thorn)#^flaw-guilt|survivor's guilt]].
 - **The refugees of the Northern Wastes.** Later, the party meets Silvanesti refugees in the Wastes, some of whom may have known the royal family. His scars mean they don't recognise him at first. He can reveal himself and reclaim his place, or stay anonymous. Either choice has real political and emotional consequences for him and for the survivors. Plays on [[Aeltharion Caladon (Thorn)#^bond-alhana|Alhana]] and [[Aeltharion Caladon (Thorn)#^bond-silvanesti|Silvanesti]].
 - **The magic he tore out.** He was once one of the most powerful mages in Silvanost, and he severed himself from magic by force after the Orb. Whether that wound can heal, and whether he'd ever let it, is a long-term thread. A late-campaign multiclass back into wizard would be his story's biggest turn. Magical artifacts, sorcerers in the party (see [[Davos Bloodbane]]) and any Silvanesti magic the party finds all press on that. Plays on [[Aeltharion Caladon (Thorn)#^flaw-arcane|distrust of the arcane]] and [[Aeltharion Caladon (Thorn)#^bond-zhelsuel|Zhelsuel]].
+
+## Downtime: The Grove
+
+Outside Kalaman's walls there's a patch of old woodland the war has half trampled. Thorn can spend downtime there, alone, tending it the old way: clearing the dead wood, planting, burying his kills according to his rite (see his level 5 moment), and keeping watch. For each workweek, he makes a Wisdom (Survival) or Intelligence (Nature) check:
+- **DC 15:** 1 progress.
+- **DC 20:** 2 progress.
+- **Below 10:** soldiers or refugees cut wood from the grove, and Thorn has to decide what to do about it.
+
+| Progress | What he gains |
+|---|---|
+| 2 | **His bow.** He carves himself a longbow from yew in the grove, the first weapon he has owned since Silvanost. It counts as a magic weapon for overcoming resistance, and it's his. |
+| 4 | **Sanctuary.** A long rest taken in the grove grants each creature resting there temporary hit points equal to Thorn's level, once per downtime period. |
+| 6 | **The beasts know him.** Animals around Kalaman are never hostile to him unless magically compelled. Once per long rest, he can cast *speak with animals* or *locate animals or plants* without a spell slot. |
+| 8 | **Something stirs.** A dryad, or the spirit of an old tree, wakes in the grove and starts speaking to him, the first of the forest's old powers he's met since Silvanost fell. It knows things about the land around Kalaman that no map does. |
+| 10 | **The forest answers.** When the Dragon Army comes for Kalaman, the grove comes too: a treant, or a wave of roots and thorns, stands with the defenders for one decisive scene in the Siege of Kalaman. This time an elf stood with the forest, and the forest stands with him. |
 
 ## Level-Up Moments
 

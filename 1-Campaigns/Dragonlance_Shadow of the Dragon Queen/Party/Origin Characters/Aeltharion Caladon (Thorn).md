@@ -137,6 +137,12 @@ He never tells anyone who he really is. Part of it is that he has turned his bac
 - Avoids other elves, out of shame. ^flaw-shame
 - Can't always tell mercy from weakness in a fight. ^flaw-mercy
 
+## Unique Mechanics
+
+### Downtime: The Grove
+
+Outside Kalaman's walls, Thorn can tend a patch of old woodland the war has half destroyed, clearing it, planting it, and keeping it safe the old elven way. For each workweek, make a Wisdom (Survival) or Intelligence (Nature) check and tell the DM the result. The more he gives back to the land, the more it gives back.
+
 ## D&D Beyond Character Sheet
 
 ```custom-frames

@@ -110,6 +110,12 @@ What happens in battle isn't anger. It's something coming *into* him. The grey l
 - When the spirit takes him in battle, he can't stop it, and doesn't know who he hurts until it's over. ^flaw-violence
 - Trusts anything divine that gives him a purpose. ^flaw-divine
 
+## Unique Mechanics
+
+### Downtime: Learning His Letters
+
+Wurm can barely read. He can spend downtime learning, best of all with someone in the party teaching him. For each workweek, make an Intelligence check (with advantage if someone teaches you) and tell the DM the result. Words open doors, including some that other people would rather he couldn't open. He can also spend time folding paper kingfishers for the refugee children.
+
 ## D&D Beyond Character Sheet
 
 ```custom-frames
