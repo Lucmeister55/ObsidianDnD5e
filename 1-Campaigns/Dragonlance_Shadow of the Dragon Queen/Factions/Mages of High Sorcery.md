@@ -13,7 +13,7 @@ tags:
 
 The Orders of the White, Red and Black Robes stand apart from the wars of kings. They care about magic: who uses it, who teaches it, and who must never be allowed to. In Kalaman there are very few of them, and they keep a low profile, because the city doesn't love wizards. What they lack in numbers they make up for in patience, secrets and long memories. They want the City of Lost Names found, and they know more about Onyari than they admit.
 
-**Who speaks for them:** **Wyhan**, the "retired" Black Robe who runs an apothecary and is Davos's contact in the Order. Occasionally a visitor like **Rovina** (Red) or **Antimodes** (White) turns up when something important is happening. On the council, the Order's voice is its new observer: [[Davos Bloodbane|a spellcaster PC]], seated at Antimodes's request.
+**Who speaks for them:** **[[Wyhan]]**, the "retired" Black Robe who runs an apothecary and is Davos's contact in the Order. Occasionally a visitor like **Rovina** (Red) or **[[Antimodes]]** (White) turns up when something important is happening. On the council, the Order's voice is its new observer: [[Davos Bloodbane|a spellcaster PC]], seated at Antimodes's request.
 
 **They want:** magic kept under the Orders' control, rogue magic dealt with, lore recovered, and Davos kept safe and watched.
 **They hate:** renegade magic, magic-hating mobs, the destruction of knowledge, and being made to take sides.

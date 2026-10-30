@@ -12,13 +12,13 @@ The map and terrain for every encounter are listed under it in the chapter notes
 
 | Chapter | Figures, with pawns | Figures, all minis | Terrain | Total, with pawns |
 |---|---|---|---|---|
-| Core kit (once) | | | | ≈ €95 |
+| Core kit (once) | | | | ≈ €118 |
 | Prologue (0–2) | €127 | €235 | €106 | ≈ €233 |
-| 3. Storm Clouds | €140 | €254 | €51 | ≈ €191 |
+| 3. Storm Clouds | €170 | €284 | €51 | ≈ €221 |
 | 4. Duty | €90 | €325 | €135 | ≈ €225 |
 | 5. Destiny | €59 | €59 | €45 | ≈ €104 |
 | 6. Conquest | €138 | €249 | €179 | ≈ €317 |
-| **Campaign** | **€554** | **€1,122** | **€516** | **≈ €1,165** |
+| **Campaign** | **€584** | **€1,152** | **€516** | **≈ €1,218** |
 
 **Cheaper still:**
 - **Soulblight proxies.** Use the Soulblight Gravelords minis for every undead, if you'd rather not use pawns for them.
@@ -35,6 +35,7 @@ Once, for the whole campaign.
 - [ ] Map tokens (€20), [[Wishlist#Map tokens]]
 - [ ] Height platforms and flight stands (€15), [[Wishlist#Height platforms]]
 - [ ] Pathfinder pawn box insert (3D print), [[Wishlist#Pathfinder pawn box insert]]
+- [ ] Handout pack, 70+ (€23), [[Wishlist#Handouts]]. On Ko-fi it's $20.50, which is cheaper.
 
 ## Terrain Plan
 
@@ -88,7 +89,7 @@ The gap. Most encounters draw on the same few kinds of terrain, so buy or build 
 | Commoners | 4 | 4 | 0 | 4 | **Pawn** |
 | **The PCs** (knight, sorcerer, kender, elf, dragonborn) | 5 | 5 | 0 | 8 | [[Wishlist#PCs]] |
 | Becklin, Darrett, Cudgel, Raven, Lord Bakaris | 5 | 5 | 0 | 6 | [[Wishlist#Darrett Highwater]] |
-| Kansaldi on Ignia (ideal, for Raven's death) | 0 | 1 | 0 | 60 | [[Wishlist#Kansaldi and Ignia]] |
+| Kansaldi on Ignia (ideal, for Raven's death) | 0 | 1 | 0 | 90 | [[Wishlist#Kansaldi and Ignia]] |
 
 ### Terrain
 
@@ -107,7 +108,7 @@ The gap. Most encounters draw on the same few kinds of terrain, so buy or build 
 
 ## 3. Storm Clouds
 
-≈ **€191** with pawns (€305 all minis)
+≈ **€221** with pawns (€335 all minis)
 
 ### Maps
 
@@ -136,7 +137,7 @@ The gap. Most encounters draw on the same few kinds of terrain, so buy or build 
 | Red Ruin on her dragonnel | 1 | 1 | 0 | 15 | [[Wishlist#Red Ruin]] |
 | Aurak | 1 | 1 | 0 | 4 | [[Wishlist#Draconians]] |
 | Dragon Queen abomination | 1 | 1 | 0 | 10 | **Pawn** |
-| Kansaldi on Ignia | 1 | 1 | 0 | 60 | [[Wishlist#Kansaldi and Ignia]] |
+| Kansaldi on Ignia | 1 | 1 | 0 | 90 | [[Wishlist#Kansaldi and Ignia]] |
 | Vendri, Tatina, Wyhan, Jeyev, Bakaris the Younger, Durstan | 6 | 6 | 0 | 6 | |
 | Lord Soth | 1 | 1 | 0 | 15 | [[Wishlist#Soth]] |
 | Kalaman soldiers, for skirmish units | 15 | 20 | 0 | bundle €30 | **Pawn**, or [[Wishlist#Kalaman soldiers]] |

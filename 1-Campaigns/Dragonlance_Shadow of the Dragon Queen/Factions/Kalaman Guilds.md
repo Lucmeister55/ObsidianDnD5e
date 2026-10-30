@@ -13,7 +13,7 @@ tags:
 
 Kalaman runs on trade, and the five great guilds run the trade. Their leaders sit on the city council beside the governor, and between them they control the food supply, the docks, the ships, the walls and the maps. They present a united front when the city is threatened. Behind closed doors, they compete for every advantage, and a war is the biggest opportunity any of them has ever seen.
 
-**Who speaks for them:**
+**Who speaks for them:** ([[The Guild Council]] has a profile of each.)
 - **Alexandra Nightvane** (Cartographers): knows every road and sells maps to whoever pays.
 - **Reynold "Rey" Costwyn** (Fishers): feeds the city, and knows it.
 - **Uri Stonegrey** (Masons): keeps the walls standing, at a price.

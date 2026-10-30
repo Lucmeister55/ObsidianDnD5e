@@ -88,7 +88,7 @@ wrap: true               # wrap text; useful with left/right alignment
 > [!module] Source: **Module** ([[05-chapter-4-shadow-of-war#Trade Camps|ch. 4]] and [[08-chapter-7-siege-of-kalaman#Assault on Hawker's Grove|ch. 7]]).
 
 - **The Trade Camps.** East and west of the city, rows of shacks on muddy streets. They started as caravan camps. Now hundreds who can't find room inside live there, and the [[Vogler Refugees]] join them.
-- **Esker Brook.** The road south through fields, hills and scattered woods. **Tatina Rookledust's** workshop is twelve miles down it, until the goblins come.
+- **Esker Brook.** The road south through fields, hills and scattered woods. **[[Tatina Rookledust|Tatina Rookledust's]]** workshop is twelve miles down it, until the goblins come.
 - **Hawker's Grove.** A wood southwest of the city, where Clystran brings his dragonnels in the siege. It burns.
 - **The Dargaard Mountains.** On the southern skyline, always under cloud. Nightlund is said to be a land where the sun never shines. Really it's just gloomy, and it drizzles a lot ([[Dargaard Keep]]).
 
