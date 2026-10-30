@@ -45,3 +45,9 @@ Darrett may die in the siege, holding a gate so the party can reach the citadel.
 ## Stats
 
 [[darrett-highwater-dsotdq|Darrett Highwater]] (module appendix B).
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

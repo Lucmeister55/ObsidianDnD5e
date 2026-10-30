@@ -135,7 +135,7 @@ One unit per origin character, on top of the generic ones. They're earned throug
 | **Thorn's Wild Hunt** | Horse | 13 | 60 | 50 | +5 | 20 | +2 | **Pack Run:** ignores difficult terrain, and can move around a unit to hit its side or rear in the same turn. Never routs while Thorn is in sight. | [[Aeltharion Caladon (Thorn)\|Thorn]]'s grove at progress 6 ("The beasts know him"): wolves, boars and one great stag from the woods around Kalaman. |
 | **Wurm's Unchained** | Foot | 14 | 55 | 30 | +4 | 20 | +3 | **Follow Him:** never Shaken while Wurm fights within 30 feet. **The Burning Eyes:** whenever Wurm rages, it makes a Morale check. They've seen what's in him too. | [[Wurm]]'s followers. It starts with the refugees who began leaving offerings at his door after High Hill ("Kneeling to Wurm" in [[3.00 Storm Clouds]]), if he treated them as people instead of worshippers. Runaway serfs, freed prisoners and the people the city spits on join them. If he spared draconians in the Wastes, one or two deserters stand with them. |
 
-**Where the numbers come from:** [[Kalaman Military]] supplies most of these (more units the higher the band), [[Knights of Solamnia]] the knights, and [[Vogler Refugees]] and [[Kalaman Smallfolk]] the militia. Cudgel brings her regiment. See [[6.02 Return to Kalaman#The Siege Ledger]].
+**Where the numbers come from:** [[Kalaman Military]] supplies most of these (more units the higher the band), [[Knights of Solamnia]] the knights, and [[Kalaman Smallfolk]] the militia. Cudgel brings her regiment. See [[6.02 Return to Kalaman#The Siege Ledger]].
 
 ## Enemy Units
 

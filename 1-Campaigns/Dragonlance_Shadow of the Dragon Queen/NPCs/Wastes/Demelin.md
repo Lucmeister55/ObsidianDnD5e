@@ -39,3 +39,9 @@ She tests the party with an air elemental before she speaks to them, and she cal
 ## Stats
 
 [[demelin-dsotdq|Demelin]] (module), an archmage.
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

@@ -39,3 +39,9 @@ He trades. Everything has a price, including his loyalty, and including his life
 ## Stats
 
 [[dalamar-dsotdq|Dalamar]] (module), a mage.
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

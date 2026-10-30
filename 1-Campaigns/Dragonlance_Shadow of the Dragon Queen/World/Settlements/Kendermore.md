@@ -7,3 +7,9 @@
 **The news.** Since 349 AC Kendermore has led the resistance in Goodlund: a guerrilla war of ambushes, stolen supplies, and occupiers who wake up with their boots tied together.
 
 **Ties.** A kender PC grew up here ([[Milo Geartickle]]). In Kalaman, Meulara knows every kender who comes through ([[Kalaman]]).
+
+## Who Knows What
+
+- **Everyone:** a whole city of kender, which is a frightening thought.
+- **Kender:** that there's a war on, and that it's going rather well.
+- **Black Army quartermasters:** exactly how many pairs of boots have gone missing.

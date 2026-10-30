@@ -136,3 +136,8 @@ How the war goes decides how far he gets. If Steel Springs is a rout, or the Was
 
 **If Edric dies,** the promotions go to whoever held the line with him, most likely Darrett, if he's still alive.
 
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

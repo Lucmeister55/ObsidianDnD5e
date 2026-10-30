@@ -39,3 +39,9 @@ If she's attacked or disbelieved, she vanishes, and reappears later to help anyw
 ## Stats
 
 [[leedara-dsotdq|Leedara]] (module).
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

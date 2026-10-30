@@ -6,3 +6,9 @@
 
 > [!warning] DM only
 > The small **White Dragon Army** has gone south to conquer it, since white dragons fight best on ice. Its highlord, **Feal-Thas**, is a Silvanesti elf and a Black Robe ([[Dragon Armies]]).
+
+## Who Knows What
+
+- **Everyone:** nothing lives in the far south.
+- **Sailors and whalers:** the thanoi, and the Ice Folk who hunt beside them.
+- **Dragon Army officers:** that the White Army has gone south, and why.

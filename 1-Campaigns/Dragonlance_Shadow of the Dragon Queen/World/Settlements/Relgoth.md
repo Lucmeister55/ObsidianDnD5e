@@ -12,3 +12,9 @@
 - **The bathhouse** where the white robes were left on a bench, and where a guard died for them. Antimodes was watching ([[Davos Bloodbane (DM)]]).
 
 **In the war.** The Red and Blue Dragon Armies are massing on Solamnia, and Relgoth is upriver from Kalaman. If Kalaman falls, nothing stands between the armies and the river towns. Letters from home ([[3.00 Storm Clouds]]) bring the war closer to the family one rumour at a time.
+
+## Who Knows What
+
+- **Everyone on the river:** that it's an old city, and that it has been fought over for centuries.
+- **Its lower districts:** who runs what, and which guards can be bought.
+- **A sorcerer PC and Antimodes:** what happened at the bathhouse.

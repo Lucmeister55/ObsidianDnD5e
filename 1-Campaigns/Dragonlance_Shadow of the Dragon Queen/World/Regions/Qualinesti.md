@@ -6,3 +6,17 @@
 
 > [!warning] DM only
 > Verminaard's Red Dragon Army is heading into [[Abanasinia]], next door, and Qualinesti is in its path.
+
+## History
+
+> [!info] Source: **Canon** ([Kith-Kanan](https://dragonlance.fandom.com/wiki/Kith-Kanan_Silvanos), [Dragonlance Timeline](https://dragonlance.fandom.com/wiki/Dragonlance_Timeline)). Fan wikis, so dates can vary. Who knows what is **Homebrew**.
+
+- **Kith-Kanan's kingdom.** Founded by the western elves after the Kinslayer War, on land granted by the Swordsheath Scroll ([[Elves#The Kinslayer War]]).
+- **A freer people.** The Qualinesti traded with humans and with [[Thorbardin]], and helped raise Pax Tharkas in the pass between them.
+- **The Cataclysm.** Like Silvanesti, they closed their borders.
+
+## Who Knows What
+
+- **Everyone in Abanasinia:** elf country starts at the forest, and strangers aren't welcome.
+- **Older traders and Thorbardin's historians:** that the Qualinesti were once friends to humans and dwarves.
+- **Qualinesti scouts:** how close the Red Dragon Army has come.

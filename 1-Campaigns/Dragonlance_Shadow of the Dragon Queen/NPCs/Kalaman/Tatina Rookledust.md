@@ -48,3 +48,9 @@ She talks faster. She'll fix anything put in front of her, even in the middle of
 ## Stats
 
 [[tatina-rookledust-dsotdq|Tatina Rookledust]] (module). She uses the Acolyte stat block, with spells from gadgets.
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

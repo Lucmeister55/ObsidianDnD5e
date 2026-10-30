@@ -34,3 +34,9 @@ To ruin the elves, to be admired, and to be proven cleverer than everyone, gods 
 ## Using Him
 
 Keep him offstage. He works best as a name that turns up in the wrong place: a Bloodbane record in the Knights' archives, a green scale in a box of Lorac's, a stranger at the edge of a crowd who smiles at Thorn as if they've met before. If Davos and Thorn ever work out what links them, that's the moment to let him speak, once.
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

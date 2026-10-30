@@ -39,3 +39,9 @@ She gets calmer. She won't show her true shape to save herself, but she might to
 ## Stats
 
 [[adult-bronze-dragon-xmm|Adult Bronze Dragon]], magically disguised. She's **Nezrah** in the module, and no one knows what she is.
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

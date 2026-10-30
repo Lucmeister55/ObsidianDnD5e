@@ -58,3 +58,9 @@ She never retreats from fear, only on the Queen's word. Wounding her makes her e
 ## Stats
 
 [[kansaldi-fire-eyes-dsotdq|Kansaldi Fire-Eyes]] (module appendix B).
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

@@ -40,3 +40,9 @@ He mocks the party and promises their souls to the Queen. The moment they threat
 ## Stats
 
 [[belephaion-dsotdq|Belephaion]] (module), a young blue dragon with Alter Shape. He carries a *bag of holding* with part of his hoard.
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

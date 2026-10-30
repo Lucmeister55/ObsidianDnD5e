@@ -6,7 +6,7 @@ tags:
 # DM Guide
 
 > [!tip] At the table
-> Start every session at the [[Campaign Tracker]]: where you are, faction Standing, troop totals ([[The War in Numbers]]), and notes still to act on. Session notes go in **Sessions**, made from the `Session Note` template. Chapters live in one folder each under **Chapters**, numbered in play order (`N.00` is the chapter overview, `N.99` holds reference rules), and every file links to the previous and next one.
+> Campaign state lives on the props at the table: the calendar and the faction Standing sliders. If anyone asks how many troops are left, look it up in [[The War in Numbers]]. Session notes go in **Sessions**, made from the `Session Note` template. Chapters live in one folder each under **Chapters**, numbered in play order (`N.00` is the chapter overview, `N.99` holds reference rules), and every file links to the previous and next one.
 
 > [!homebrew] Source: **Homebrew**. Campaign-wide notes for running *Shadow of the Dragon Queen* our way.
 
@@ -115,7 +115,7 @@ After the prologue, the chapters don't name the origin characters. They say **"a
 | Label in the chapters | Threads it carries | Currently |
 |---|---|---|
 | **a knight PC** | Ispin's shield, the Greenshield line, the Order, Soth's grudge, rising through the ranks, the mare | [[Ser Edric of Brackenridge\|Edric]] |
-| **a sorcerer PC** | The Bloodbane name, Relgoth and the family, raw untrained magic | [[Davos Bloodbane\|Davos]] |
+| **a sorcerer PC** | The Bloodbane name, Relgoth and the family, raw untrained magic, the card tables and the underground | [[Davos Bloodbane\|Davos]] |
 | **a moon-touched PC** | The three moons, the Wash, the Night of the Eye | [[Davos Bloodbane\|Davos]] |
 | **a spellcaster PC** | The Mages, Wyhan, the Test, the robes, reading old magic, the Mages' seat on the council | [[Davos Bloodbane\|Davos]] |
 | **a kender PC** | The Onyari ring, Heart's Hollow and the lost months, Tatina, Elgo | [[Milo Geartickle\|Milo]] |

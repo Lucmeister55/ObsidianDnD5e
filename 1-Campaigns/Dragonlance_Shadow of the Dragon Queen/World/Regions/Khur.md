@@ -10,3 +10,9 @@
 > Salah-Khan beat the Green Dragon Army's highlord in battle, and Ariakas made him highlord in the man's place ([[Dragon Armies]]).
 
 **Ties.** Khur raiders burned a knight PC's village. The slavers were taking him to Khur when Ispin rode them down ([[Ser Edric of Brackenridge]]).
+
+## Who Knows What
+
+- **Everyone:** Khur is where raiders and slavers come from.
+- **Refugees and caravan guards:** that Salah-Khan went over to the invaders.
+- **Khur resisters:** that he may have done it to spare his people, and whether he's forgiven.

@@ -38,3 +38,9 @@ He goes very still and very polite. He won't risk his people for a human war unl
 ## Stats
 
 Mage (module).
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

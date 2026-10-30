@@ -87,3 +87,10 @@ creatures:
 ## After Kalaman
 
 The open end. Soth falls into the dark when the citadel breaks ([[6.00 Conquest]]), but he isn't destroyed. If the players want more, the obvious sequel is a **showdown at Dargaard Keep**: the shadow, the barrows, the vampire lords, and the end of the Greenshield story. It isn't written yet. Just keep the threads loose.
+
+## Who Knows What
+
+- **Everyone:** stories of the Dread Knight.
+- **Nightlund's farmers:** that the barrows don't rest as they used to.
+- **Scouts and the Maelgoth patrols:** that undead soldiers have been seen, and won't be believed.
+- **Very few:** that Soth serves the Dragon Queen, and why ([[Lord Soth#Why He Serves the Queen]]).

@@ -27,3 +27,11 @@ tags:
 **Seen, not visited.** Dargaard stays on the skyline: a black shape the party sees from the castle's windows and the Esker Brook road. Mention it often and explain it never. Ispin's campfire stories ([[1.00 An Ordinary Day]]) are the first time the players hear of it.
 
 **After Kalaman.** Soth falls into the dark when the citadel breaks, but he isn't destroyed. If the players want more, the sequel is a **showdown at Dargaard Keep**: the barrows, the vampire lords, Leedara's song, and the end of the Greenshield story. It isn't written yet. See [[Soth's Host#After Kalaman]].
+
+## Who Knows What
+
+- **Everyone:** it's a cursed ruin, and you don't go there.
+- **Knights, and readers of the Order's old records:** that Soth was a Knight of the Rose who broke his vows.
+- **Very few:** that he was offered the chance to stop the Cataclysm. The Knights don't tell that part.
+- **Bards and old people in Nightlund:** the song of a fallen knight and an elf-maid, without knowing it's true.
+- **Almost nobody living:** that Soth has answered the Dragon Queen's call ([[Soth's Host]]).

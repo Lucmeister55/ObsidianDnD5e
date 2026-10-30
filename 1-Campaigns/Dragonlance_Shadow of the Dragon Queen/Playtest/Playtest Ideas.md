@@ -71,6 +71,7 @@ Elsewhere there's plenty of room: nothing new arrives between the Wastes and the
 | **Skirmish clashes** | 2–5 rounds | 4–6 at 4 × HP | HP cut to **3 ×**. Units no longer have disadvantage against heroes. |
 | **Weapon Triangle** | Noticeable, not mandatory | +17–22% damage | Fine. |
 | **Storm Clouds content** (re-check after new events) | As for Factions above | 39 of 45 decisions had a free gain, 11 had several. Pleasing everyone left four factions Honoured (Military about 9). | Rival costs added to 32 options, so at most one free option per decision. Pleasing everyone now averages 2.4 to 4.8, mostly Trusted, with Military or Refugees sometimes Honoured. |
+| **Factions after the fold** (Refugees closed, Firefishers added) | Convicts can't please everyone. Harder factions pay better. | Pleasing everyone: Military 4.7, Smallfolk 4.1, Knights 2.9, Guilds 2.5, Firefishers 2.3, Mages 2.3. All six Trusted 7%. Favourites: two at +10, Guilds at -5. Casual: Smallfolk Honoured 82%, Guilds below 0 77%. | Left uneven on purpose. Knights and Mages signature rewards raised, Mages Trusted gets a scroll, three Smallfolk options got a cost. |
 
 ## Feedback Log
 

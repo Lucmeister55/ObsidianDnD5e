@@ -44,4 +44,4 @@ Human, 60s, lawful evil. Nicknamed "the Barge" for his size.
 Dwarf, looks in his 50s, neutral evil. He oversees all the trade through the harbour.
 - **Voice:** tired and reasonable, a man worn out by committees.
 - **Wants:** things done. He's given up on the council, and on Kalaman.
-- **Secret:** he runs the **Firefishers** ([[Kalaman Guilds]]). He has decided the city can't be saved, he works against Vendri, and he means to help surrender it for a reward. It doesn't save him when Soth comes.
+- **Secret:** he's the local boss of the **Firefishers** ([[The Firefishers]]), with Marta Dace running the street. He sends a cut upstairs to someone he has never met ([[Peppino Fettuccini#The Man Upstairs]]). He has decided the city can't be saved, he works against Vendri, and he means to help surrender it for a reward. It doesn't save him when Soth comes.

@@ -35,7 +35,7 @@ To be a good knight his own way, to see his old friends again, and to keep Edric
 - **[[Ser Edric of Brackenridge|Edric]]:** his squire, and the closest thing he had to a son.
 - **[[Becklin Uth Viharin]]** and **[[Cudgel Ironsmile]]:** his old adventuring companions.
 - **[[Lord Soth]]:** his family's ancient enemy.
-- **The befuddled old man:** Ispin once shared a fire with an old man who vanished before dawn (one of the module's funeral stories). That's the same old man who mentors [[Wurm]].
+- **[[Fizban|The befuddled old man]]:** Ispin once shared a fire with an old man who vanished before dawn (one of the module's funeral stories). That's the same old man who mentors [[Wurm]].
 
 ## Stories to Tell About Him
 
@@ -44,3 +44,9 @@ The module's funeral reception has players share Ispin's tall tales. Have Edric'
 - the gnome's weasel launched from Mount Nevermind;
 - the Lord of Palanthas's poodles;
 - the unicorn who gave him his shield.
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

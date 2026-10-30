@@ -10,3 +10,10 @@
 - **The High Clerist's Tower.** The knights' great fortress, guarding the mountain pass south of the city.
 
 **Trade.** Even near Palanthas, it's often cheaper to send goods down the Vingaard to [[Kalaman]].
+
+## Who Knows What
+
+- **Everyone:** the city, the Library and the cursed Tower.
+- **Merchants:** that Palanthas will trade with anyone, and that Amothus would sooner negotiate than fight.
+- **Mages:** the words of the Tower's curse ([[Tower of Wayreth#History]]).
+- **Aesthetics of the Great Library:** more than they'll say. Nikkas of Palanthas wrote the Knights' briefing on Kalaman.

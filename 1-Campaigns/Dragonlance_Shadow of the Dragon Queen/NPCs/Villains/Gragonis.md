@@ -40,3 +40,9 @@ He hits things until they stop. When he falls, the rest of the mercenaries run.
 ## Stats
 
 Half-ogre: [[ogrillon-ogre-xmm|Ogrillon Ogre]].
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

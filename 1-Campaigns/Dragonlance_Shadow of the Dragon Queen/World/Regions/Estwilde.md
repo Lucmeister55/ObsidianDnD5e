@@ -9,3 +9,9 @@
 - **The swamps of Qwalmish**, across the bay from Kalaman in northern Estwilde.
 
 **In Kalaman**, "Estwilder" means raider. Half the bandit weapons on the Steady Beacon's walls came from over the border.
+
+## Who Knows What
+
+- **Everyone in Kalaman:** Estwilders are raiders.
+- **Border scouts and caravan masters:** which tribes will trade, and which won't.
+- **The tribes themselves:** that hobgoblin bands from the east have been passing through in numbers.

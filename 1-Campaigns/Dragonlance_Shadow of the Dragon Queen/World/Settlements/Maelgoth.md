@@ -17,3 +17,9 @@
 
 > [!homebrew] Source: **Homebrew** ([[Davos Bloodbane]]).
 > **The Barb**, a ruined spire near Maelgoth, only wakes with magic while the moons are aligned. A sorcerer PC sat the Trial of the Barb there on the Night of the Eye, 14 Brookgreen 350 AC.
+
+## Who Knows What
+
+- **Everyone:** a knights' city somewhere west.
+- **Knights and squires:** that the Order's strength in the east is mostly here, and how thin it is.
+- **Vendri and the Council of Maelgoth:** what passed between them in her secret letters.

@@ -105,3 +105,9 @@ Wurm is the exception to the rule that the gods stay silent. **Takhisis** speaks
 - **Trusts Takhisis:** he ends up betraying humanity, believing it is beyond redemption. In the end the meek Wurm disappears completely, and Takhisis walks the world in his body as her avatar.
 - **Rejects Takhisis**, helped by everything Fizban taught him: the real Paladine awakens in him. His weapon changes from the dragon-bone greataxe to a radiant greatsword, and his power becomes his own.
 - **Or neither:** he breaks free of both gods' manipulation and defines his own moral path.
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

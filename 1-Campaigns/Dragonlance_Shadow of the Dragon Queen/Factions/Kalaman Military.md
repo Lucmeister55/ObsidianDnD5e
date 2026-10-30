@@ -1,14 +1,13 @@
 ---
 type: faction
 name: Kalaman Military
-standing: 0
 tags:
   - faction
 ---
 
 # Kalaman Military
 
-**Standing:** `$= dv.current().standing` (`$= (s => s >= 6 ? "Honoured" : s >= 3 ? "Trusted" : s >= 0 ? "Neutral" : s >= -2 ? "Wary" : "Hostile")(dv.current().standing)`). See [[Faction Rules]].
+See [[Faction Rules]].
 **Horizon: long.** Banks everything for the siege.
 
 Kalaman can't afford to call on the Knights of Solamnia every time raiders cross the border, so it keeps its own army: tough, practical soldiers who have spent their lives fighting Estwilde raiders and Taman Busuk ogres, and who have never seen anything like the Dragon Army. The party will likely end up working for them as esquires of Kalaman.

@@ -7,15 +7,15 @@ tags:
 
 > [!homebrew] Source: **Homebrew**. The factions themselves come from the **Module** ([[05-chapter-4-shadow-of-war#Power in Kalaman|ch. 4, "Power in Kalaman"]]).
 
-Kalaman is a city under strain, and six groups in it all want something from the party: the [[Kalaman Military]], the [[Knights of Solamnia]], the [[Mages of High Sorcery]], the [[Kalaman Guilds]], the [[Kalaman Smallfolk]] and the [[Vogler Refugees]]. They rarely want the same thing. Helping one often costs you with another, and that's the point.
+Kalaman is a city under strain, and six groups in it all want something from the party: the [[Kalaman Military]], the [[Knights of Solamnia]], the [[Mages of High Sorcery]], the [[Kalaman Guilds]], the [[Kalaman Smallfolk]] and [[The Firefishers]]. They rarely want the same thing. Helping one often costs you with another, and that's the point.
 
 The system runs during [[3.00 Storm Clouds]], with every downtime event mapped out in [[3.00 Storm Clouds]]. It's where the party stocks up for the two ordeals still ahead: the survival trek through the **Northern Wastes**, and the **Siege of Kalaman**.
 
 ## The Only Thing You Track
 
-**One number per faction: Standing, from -5 to +10.** It's shared by the whole party and stored in the `standing` property of each faction's note. That's it.
+**One number per faction: Standing, from -5 to +10.** It's shared by the whole party and kept on the slider board at the table. That's it.
 
-**Every faction starts at 0.** The one exception is the [[Vogler Refugees]], the first faction the party meets. Their Standing can already move in Vogler, before anyone reaches Kalaman, as a light introduction to the system (see "In Vogler" below).
+**Every faction starts at 0.** The one exception is the Smallfolk, who can start a little higher or lower because of what the party did for the [[Vogler Refugees]], the small track that introduces the system (see "In Vogler" below).
 
 Standing falls into five **bands**, and every faction uses the same ones:
 
@@ -27,7 +27,9 @@ Standing falls into five **bands**, and every faction uses the same ones:
 | **Wary** | -1, -2 | Nothing. They watch you. |
 | **Hostile** | -3 to -5 | They cost you something. |
 
-**What to expect.** A party that tries to please everyone should end Storm Clouds with most factions **Trusted** and none Honoured. A party that picks favourites can get two or three to Honoured, and maybe one to +10, at the cost of the rest going Wary or Hostile. That's the design: everyone likes you a little, or someone loves you and someone else hates you. Only a party that aces absolutely everything gets close to having it all ([[Playtest Ideas]] has the simulation).
+**What to expect.** Nobody gets to make the whole city happy, least of all a company of half-convicts. A party that tries to please everyone ends Storm Clouds with two or three factions **Trusted**, the rest Neutral, and maybe one Honoured. A party that picks favourites can get two to +10, at the cost of the rest going Wary or Hostile ([[Playtest Ideas]] has the simulation).
+
+**Some factions are harder than others, and pay better for it.** The Military and the Smallfolk are the easy ones: soldiers need bodies, and the poor notice anyone who helps. The Knights, the Mages and the Firefishers don't warm to convicts, so their rewards are the strongest in the game. The Guilds are easy to lose, and they pay while they can.
 
 Each faction's note has one table showing what each band means for that faction.
 
@@ -49,7 +51,9 @@ Two one-off moments make the ends of the track matter:
 
 ## In Vogler
 
-Before the party ever reaches Kalaman, only the **Vogler Refugees** track is in play, and only as the villagers of Vogler. Introduce the system here. Mention it once, show the players the number moving, and let them see that the village remembers. Keep it small, with **at most +3 or -2** in total before Kalaman. The chances are in [[1.00 An Ordinary Day]] and [[2.00 Broken Silence]].
+Before the party reaches Kalaman, the only track in play is the **Vogler Refugees**, a seventh, temporary one. Introduce the system here. Mention it once, show the players the number moving, and let them see that the village remembers. Keep it small, with **at most +3 or -2** in total before the end of the arrival. The chances are in [[1.00 An Ordinary Day]], [[2.00 Broken Silence]] and [[3.01 Arrival in Kalaman]].
+
+At the end of the arrival, the track pays **one last dividend** and closes ([[Vogler Refugees#The Last Dividend]]). From then on, Vogler's people are part of the Smallfolk.
 
 ## Working a Faction (downtime)
 
@@ -78,7 +82,7 @@ Every faction pays out according to its band, but on a different **horizon**:
 | Faction | Horizon | Pays out |
 |---|---|---|
 | [[Kalaman Guilds]] | **Short** | At the end of every downtime, until the council massacre |
-| [[Vogler Refugees]] | **Mixed** | A little every downtime, and in the siege |
+| [[The Firefishers]] | **Short** | At the end of every downtime, and they stay until the end |
 | [[Kalaman Smallfolk]] | **Mixed** | A little every downtime, and in the siege |
 | [[Mages of High Sorcery]] | **Mixed** | A little every downtime, and when leaving for the Wastes |
 | [[Kalaman Military]] | **Long** | In the siege |

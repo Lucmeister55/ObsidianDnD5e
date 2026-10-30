@@ -63,7 +63,7 @@ Some weapons are just worse versions of others under the normal rules: the club 
 | **In the city** (see the Peace-Tie below) | Club, quarterstaff, sickle, dagger, light hammer, handaxe, sling | **Never peace-tied**, so always to hand. | Martial weapons take an action to free. |
 | **In the Wastes** | Sickle, handaxe | **+2 to foraging checks**, and a handaxe makes shelter without a check. | |
 
-**The harpoon** is a new simple weapon, sold by Vogler's fishers (if the Refugees are Trusted) and in Kalaman's harbour: 1d8 piercing, thrown (20/60), with 30 feet of line. It counts as a polearm in the triangle. On a hit you can let go, or keep hold of the line and pull: the target makes a Strength save against your attack's damage or is pulled 10 feet toward you. It's the best weapon in the Wash, and a fine way to drag a kapak out of the sky.
+**The harpoon** is a new simple weapon, sold by Vogler's fishers (if the Smallfolk are Trusted) and in Kalaman's harbour: 1d8 piercing, thrown (20/60), with 30 feet of line. It counts as a polearm in the triangle. On a hit you can let go, or keep hold of the line and pull: the target makes a Strength save against your attack's damage or is pulled 10 feet toward you. It's the best weapon in the Wash, and a fine way to drag a kapak out of the sky.
 
 ### The Peace-Tie
 

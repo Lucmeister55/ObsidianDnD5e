@@ -38,3 +38,9 @@ She follows her last order to the letter, even to death, unless someone gives he
 ## Stats
 
 [[red-ruin-dsotdq|Red Ruin]] (module appendix B).
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

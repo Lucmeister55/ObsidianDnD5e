@@ -39,3 +39,9 @@ He leaves the body and laughs on the way out. He's a coward to the end, and neve
 ## Stats
 
 [[caradoc-dsotdq|Caradoc]] (module).
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

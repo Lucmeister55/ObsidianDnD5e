@@ -51,3 +51,9 @@ He lies smoothly, then blames someone else, then runs. Cornered, he fights dirty
 ## Stats
 
 [[jeyev-veldrews-dsotdq|Jeyev Veldrews]] (module).
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

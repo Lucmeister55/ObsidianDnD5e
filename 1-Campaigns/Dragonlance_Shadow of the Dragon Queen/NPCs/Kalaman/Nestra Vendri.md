@@ -46,3 +46,9 @@ Vendri may fall on the walls in the siege. If she does, and the city holds, Kala
 ## Stats
 
 Knight (lawful neutral, human), per the module.
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

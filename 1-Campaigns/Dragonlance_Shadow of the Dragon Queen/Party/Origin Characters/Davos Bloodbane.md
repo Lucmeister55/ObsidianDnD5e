@@ -135,6 +135,8 @@ Davos can spend a workweek working Kalaman's gambling dens, from the soldiers' d
 
 The Mages of High Sorcery take a dim view of magic used to cheat at cards, so be careful how much help the moons give him.
 
+Every card sharp on the docks tells the same story: there's a bigger game somewhere under the lower city, run by the Firefishers, and you can't get a seat unless they ask you. Davos has never turned down a bigger game.
+
 ## D&D Beyond Character Sheet
 
 ```custom-frames

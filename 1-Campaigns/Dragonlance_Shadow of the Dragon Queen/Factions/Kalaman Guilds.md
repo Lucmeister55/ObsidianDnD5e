@@ -1,14 +1,13 @@
 ---
 type: faction
 name: Kalaman Guilds
-standing: 0
 tags:
   - faction
 ---
 
 # Kalaman Guilds
 
-**Standing:** `$= dv.current().standing` (`$= (s => s >= 6 ? "Honoured" : s >= 3 ? "Trusted" : s >= 0 ? "Neutral" : s >= -2 ? "Wary" : "Hostile")(dv.current().standing)`). See [[Faction Rules]].
+See [[Faction Rules]].
 **Horizon: short.** Pays every downtime, until the council massacre.
 
 Kalaman runs on trade, and the five great guilds run the trade. Their leaders sit on the city council beside the governor, and between them they control the food supply, the docks, the ships, the walls and the maps. They present a united front when the city is threatened. Behind closed doors, they compete for every advantage, and a war is the biggest opportunity any of them has ever seen.
@@ -23,7 +22,7 @@ Kalaman runs on trade, and the five great guilds run the trade. Their leaders si
 **They want:** profit, stable trade, contracts honoured, and power on the council protected.
 **They hate:** broken deals, disrupted trade, theft, price controls, and having their warehouses searched.
 **Friendly with:** the old nobility, and above all [[Bakaris Uth Estide|Lord Bakaris]]. The guilds admire his Solamnic name and his money, and they're the only reason he has a voice on the council at all. Humiliating the Bakarises usually costs a little Guilds Standing, and [[Bakaris the Younger]] uses the guilds against the party (see "Running Threads" in [[3.00 Storm Clouds]]).
-**Rivals:** the [[Kalaman Military]] (over money and council power), and the [[Vogler Refugees]] (cheap labour and unwelcome competition).
+**Rivals:** the [[Kalaman Military]] (over money and council power), [[The Firefishers]] (whom they use, and deny knowing), and the [[Kalaman Smallfolk]] (cheap labour).
 
 > [!warning] The council massacre
 > All five guild leaders die with the governor in the Lord's Arrival. Their successors keep the party's Standing, and pay **one final dividend** when the party leaves for the Wastes.
@@ -44,12 +43,7 @@ Kalaman runs on trade, and the five great guilds run the trade. Their leaders si
 **Mission complication (Hostile):** the map they sold you is wrong, and you arrive late or lost.
 
 **Signature reward (+10):** a fully provisioned expedition. **50 Supply**, **50 Water**, three pack mules and a guild guide who has been to the edge of the Wastes and back.
-**Signature disaster (-5): the Firefishers come calling.** The guilds don't do their own dirty work. They pay the **Firefishers**, the dockside gang that councillor **Oflyn Vinhollow** quietly runs out of the Hetch Warehouse (companion). It happens in three steps, one per session, so the party can see it coming:
-1. **The courtesy call.** A polite young man in a good coat visits the Bastion and admires the place. "Shame if anything happened to it, with a war on." He suggests a monthly "insurance" fee.
-2. **The message.** If they don't pay, they find a gutted fish nailed to the Bastion door one morning. A hireling stops turning up for work. A friendly merchant suddenly won't serve them.
-3. **The hit.** One night, the Firefishers come for the Bastion with knives, clubs and lamp oil, and with someone inside who let them in. If it's still standing in the morning, the guilds express their deepest sympathies.
-
-They can buy peace (a lot of gold, or a public favour to the guild that's angriest), go to war with the Firefishers, or bring proof of Vinhollow's hand to Vendri, which turns a guild war into a city scandal.
+**Signature disaster (-5): the ledger closes.** One morning, every guild in Kalaman stops dealing with the party. No ship will carry them, no merchant will sell to them, and the lease on the Bastion is called in. The council votes to dock the army's budget for "keeping such company", and Vendri has to explain that to them in person. It lifts only with a public apology, a very large payment, or the guild leaders' funerals.
 
 ## Favours (Trusted or better)
 

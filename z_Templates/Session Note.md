@@ -34,7 +34,7 @@ tags:
 
 ## Fix Later
 
-*Changes to make in upcoming chapter files because of what happened. These show up on the [[Campaign Tracker]] until ticked.*
+*Changes to make in upcoming chapter files because of what happened.*
 
 - [ ] 
 

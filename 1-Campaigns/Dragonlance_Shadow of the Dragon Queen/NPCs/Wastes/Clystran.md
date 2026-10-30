@@ -42,3 +42,9 @@ He keeps talking, and he takes one risk too many. He's brave, and he hasn't yet 
 ## Stats
 
 [[clystran-dsotdq|Clystran]] (module), a scout.
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

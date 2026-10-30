@@ -47,7 +47,7 @@ He blusters and then folds, or backs down the moment someone stands up to him (D
 | [[Kalaman Guilds]] | -3. They backed him. | -1 |
 | [[Kalaman Military]] | -2. Vendri adds a murder charge to the file, and won't burn it this act. | -1. Vendri asks them once, to their face, and remembers the answer. |
 | [[Knights of Solamnia]] | -2. A knight PC's friends murder lords in their beds. | No change |
-| [[Vogler Refugees]] | +1, quietly | +1, quietly |
+| [[Kalaman Smallfolk]] | +1, quietly | +1, quietly |
 
 **With proof, they're arrested.** Use [[4.03 The Trial - Verdicts#If They Are Arrested]] early: a faction gets them out, or the old man does. After that, they're fugitives in their own city until they earn their way back.
 
@@ -68,3 +68,9 @@ He blusters and then folds, or backs down the moment someone stands up to him (D
 ## Stats
 
 [[bakaris-uth-estide-dsotdq|Bakaris Uth Estide]] (noble).
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

@@ -10,3 +10,9 @@
 > The Black and White Dragon Armies took it. The Black Army holds it now ([[Dragon Armies]]).
 
 **Ties.** A kender PC's home ([[Milo Geartickle]]).
+
+## Who Knows What
+
+- **Everyone:** it fell without a fight, far away.
+- **Kender and Meulara's friends:** exactly what's happening, in far too much detail.
+- **Tribes in the Istarian ruins:** what still works out there.

@@ -11,3 +11,10 @@
 > [!warning] DM only
 > - The temple at Neraka grew from a piece of the Kingpriest's ruined temple, planted there by Takhisis. It's her door into the world, but without its missing foundation stone she can't fully come through.
 > - Her champion **Ariakas** commands the highlords from here ([[Dragon Armies]]).
+
+## Who Knows What
+
+- **Everyone:** bad country, and lately the source of bad news.
+- **Hobgoblin and ogre bands:** that the Dragon Armies offer a choice: join, or be crushed.
+- **Dragon Army officers:** the temple at Neraka, and how the highlords really get along.
+- **Only Takhisis's inner circle:** what the temple is, and what it's missing.

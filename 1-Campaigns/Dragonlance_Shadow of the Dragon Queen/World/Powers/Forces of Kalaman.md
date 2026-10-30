@@ -51,7 +51,7 @@ Each comes in through the story or through a faction. [[6.02 Return to Kalaman#T
 | **Cudgel's Ironclad Regiment** | Ten hard mercenaries, back from the wilds and unpaid. | [[3.10 Downtime 5]] |
 | **Tatina Rookledust** | Vendri's chief of tech development, and the gnomeflinger on the southwest wall. | [[3.03 Mission 1 - Rookledust Rescue]] |
 | **The Mages** | One great working at the decisive moment. | [[Mages of High Sorcery]] Standing |
-| **The smallfolk and refugees** | Bodies on the walls, cooks, runners and healers. | [[Kalaman Smallfolk]], [[Vogler Refugees]] |
+| **The smallfolk and refugees** | Bodies on the walls, cooks, runners and healers. | [[Kalaman Smallfolk]] |
 | **The Wastes** | Heart's Hollow scouts, Zhelsuel's exiles, and Clystran's dragonnels. | [[4.00 Duty]] |
 | **The party's own units** | A knight PC's Company and the other heroes' units. | [[Skirmish Battles#Heroes' Own Units]] |
 
@@ -81,8 +81,15 @@ Each comes in through the story or through a faction. [[6.02 Return to Kalaman#T
 
 Not counted above:
 - **The city watch** (150) never leaves the walls.
-- **The militia** is 40 Vogler fighters at first. Vendri drills it up to about **1,500** by the siege, more or fewer depending on the Smallfolk and Refugees ([[6.02 Return to Kalaman#The Siege Ledger|Siege Ledger]]).
+- **The militia** is 40 Vogler fighters at first. Vendri drills it up to about **1,500** by the siege, more or fewer depending on the Smallfolk ([[6.02 Return to Kalaman#The Siege Ledger|Siege Ledger]]).
 - **The Knights' chapterhouse** has 8 knights and 15 men-at-arms.
 - **The guild fleet** is about 30 hulls, 10 of which can carry troops.
 
 **At skirmish scale**, a unit stands for a company of about 50. Warriors of Krynn keeps its own scale.
+
+## Who Knows What
+
+- **Everyone:** Kalaman's walls have never fallen, and the army is the city's pride.
+- **Soldiers and the Steady Beacon's regulars:** that the army is stretched thin.
+- **Vendri, Darrett and the party:** the real numbers.
+- **The guild leaders:** what it costs, which they mention constantly.

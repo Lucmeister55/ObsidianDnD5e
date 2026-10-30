@@ -40,3 +40,9 @@ He runs. *Dimension door* first, questions later. His research matters far more 
 ## Stats
 
 [[lohezet-dsotdq|Lohezet]] (module appendix B).
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

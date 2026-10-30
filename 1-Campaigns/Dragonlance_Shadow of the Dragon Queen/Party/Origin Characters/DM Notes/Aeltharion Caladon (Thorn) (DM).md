@@ -69,3 +69,9 @@ Then let the question hang. **Was the stag at fault?** It never meant anyone har
 ## Arc
 
 His journey is defined by the tension between vengeance and restoration. It keeps testing whether he stays a weapon shaped by trauma, or can recover the identity of Eltharion Vanyarin of Silvanost: son of Lorac, brother of Alhana, and heir to a broken legacy.
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

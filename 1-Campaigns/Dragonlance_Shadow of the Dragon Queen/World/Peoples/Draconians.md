@@ -20,3 +20,10 @@ tags:
 | **Aurak** | Gold | Bursts into green fire |
 
 **Ties.** A dragonborn PC is Takhisis's first creation, and something else entirely ([[Wurm (DM)]]).
+
+## Who Knows What
+
+- **Everyone:** the Dragon Army has scaled soldiers now.
+- **Veterans and Kalaman's soldiers:** that they turn to stone, acid or fire when they die, and that you should let go of your sword.
+- **Black-robed mages and Dragon Army zealots:** where they come from. Almost nobody else does.
+- **Metallic dragons:** only that their eggs were taken. They don't know what's been done with them.

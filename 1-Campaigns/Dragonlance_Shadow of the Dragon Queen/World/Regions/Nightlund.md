@@ -7,3 +7,10 @@
 **The land.** Open fields, rolling hills and scattered woods around Kalaman. The **Dargaard Mountains** rise to the south, always under cloud. [[Estwilde]] lies to the east and the [[Kalaman & Northern Wastes|Northern Wastes]] to the north.
 
 **Why Kalaman keeps an army.** Nobody else will defend it. Raiders come over from Estwilde, and monsters come down from the Dargaard Mountains.
+
+## Who Knows What
+
+- **Everyone:** the land is cursed, and Soth is a story to frighten children.
+- **Farmers near the Dargaard Mountains:** which roads to avoid at night, and that the stories aren't all stories.
+- **Kalaman's scouts:** what actually comes down from the mountains.
+- **Very few:** that Soth still rides, or who he serves now ([[Soth's Host]]).

@@ -38,3 +38,9 @@ She stops the hearing. Once she's decided, she doesn't change her mind in public
 ## Stats
 
 Noble (module).
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

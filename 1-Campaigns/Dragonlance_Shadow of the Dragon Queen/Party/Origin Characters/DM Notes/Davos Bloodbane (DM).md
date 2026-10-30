@@ -53,7 +53,25 @@ Davos works Kalaman's gambling dens: the soldiers' dice at the Steady Beacon, th
 - **20+:** he also picks up a useful rumour. Use it to point at the next mission, a faction's secret, or the Firefishers.
 - **Below 10:** someone catches him cheating. If he used magic to do it, word reaches Wyhan (**-1 Mages**), and the loser becomes an enemy with friends.
 
-It's small on purpose. His real story is the Mages, his family and the moons, not a side business.
+## Downtime: The Underground
+
+The cards are the way in. The first time Davos rolls **20+**, or wins three weeks running, someone at the table slides him a black chip with five little heads on it: an invitation to the **Cinque Teste**, under the lower city, and to **Marta Dace**, who runs the Firefishers' street business for their local boss.
+
+From then on, he can spend a workweek on the underground instead of the cards. It's the same check. Each week he takes one job from Dace, and each one is a **favour**: keep a tally of how many he's done. He'll hear the stories about the man upstairs ([[Peppino Fettuccini#The Man Upstairs]]), and nobody can tell him which ones are true.
+
+| Favours | What he's asked | What he gets |
+|---|---|---|
+| **1–2** | Run a table. Spot a cheat. Carry a small box and don't look in it. | 3d6 × 10 gp a week. |
+| **3–4** | Collect a debt from someone who can't pay. Fix a card game for a guild son. Sit in on a meeting and read the room. | 5d6 × 10 gp, and one secret a week about a councillor or a faction. |
+| **5+** | Make someone disappear from the docks, use magic on a mark, or put a word in the council's ear from his seat as the Mages' observer. | Whatever he asks for. The Firefishers "take care" of one problem for him, and his family in Relgoth is quietly looked after. |
+
+Below 10 on any job, it goes wrong. Someone gets hurt, and it's on him.
+
+**It costs him.** Each favour is one he owes back, and **+1 Firefishers** ([[The Firefishers]]). At 3 favours, Wyhan hears about it (**-1 Mages**). At 5, he's one of theirs, and the Firefishers call him by name in the street. The favours are written down, and they don't go away when Vinhollow dies. Late in the game, someone new calls them all in, at the worst possible moment ([[Peppino Fettuccini#In Kalaman, Late]]).
+
+**Why it fits him.** He already answers to the Mages, to Vendri and to the council, and now he has a fourth owner. It's the life his mother tried to keep him out of, and the money feeds his family.
+
+**The upside.** Davos is the company's line to the man upstairs: he's the one who can take a deal to Dace ([[Peppino Fettuccini#Doing Business]]).
 
 ## Level-Up Moments
 
@@ -94,3 +112,9 @@ Trials test skill, morality, and identity.
 | White Robes (Solinari) | Magic is a sacred gift for justice and protection | Sacrifice wealth, status, safety to aid others; resist shortcuts; protect innocents    | Family struggles tug at compassion; praised by Paladine's allies |
 | Red Robes (Lunitari)   | Knowledge and balance; pursuit of understanding   | Clever compromises, exploiting loopholes, moral gray choices                           | Whispers freedom through knowledge; rules are chains             |
 | Black Robes (Nuitari)  | Magic is power; morality is weakness              | Pursue magic for security or ambition; betray allies; prioritize family over strangers | Poverty and trauma tempt selfishness; Nuitari offers greatness   |
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

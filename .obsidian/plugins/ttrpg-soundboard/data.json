@@ -148,7 +148,47 @@
     "Soundbar/FE-Awakening/1-11 - Menace.mp3": {
       "volume": 1
     },
-    "Soundbar/Ambience/Medieval Battlefield.mp3": {}
+    "Soundbar/Ambience/Medieval Battlefield.mp3": {},
+    "vault:Soundbar/Ambience/Barren Wastes.mp3": {},
+    "vault:Soundbar/Ambience/Battle In City.mp3": {},
+    "vault:Soundbar/Ambience/Medieval Battlefield.mp3": {},
+    "vault:Soundbar/FE-Awakening/1-01 - Id~Beginnings.mp3": {},
+    "vault:Soundbar/FE-Awakening/1-04 - Id~Serenity.mp3": {},
+    "vault:Soundbar/FE-Awakening/1-05 - Prelude.mp3": {},
+    "vault:Soundbar/FE-Awakening/1-06 - Prelude~Ablaze.mp3": {},
+    "vault:Soundbar/FE-Awakening/1-07 - Assault.mp3": {},
+    "vault:Soundbar/FE-Awakening/1-11 - Menace.mp3": {},
+    "vault:Soundbar/FE-Awakening/1-12 - It appears the capital was spared the chaos..mp3": {},
+    "vault:Soundbar/FE-Awakening/1-14 - Something is very wrong..mp3": {},
+    "vault:Soundbar/FE-Awakening/1-17 - Oh, it's not so bad, Lissa. Just a healthy little walk!.mp3": {},
+    "vault:Soundbar/FE-Awakening/1-18 - We'd best prepare for combat, just to be safe..mp3": {},
+    "vault:Soundbar/FE-Awakening/1-19 - Duty.mp3": {},
+    "vault:Soundbar/FE-Awakening/1-20 - Duty~Ablaze.mp3": {},
+    "vault:Soundbar/FE-Awakening/1-21 - Here we are! The Shepherd's garrison..mp3": {},
+    "vault:Soundbar/FE-Awakening/2-01 - Destiny.mp3": {},
+    "vault:Soundbar/FE-Awakening/2-02 - Destiny~Ablaze.mp3": {},
+    "vault:Soundbar/FE-Awakening/2-11 - .......mp3": {},
+    "vault:Soundbar/FE-Awakening/2-12 - Don't speak her name!.mp3": {},
+    "vault:Soundbar/FE-Awakening/2-15 - Divine Decree.mp3": {},
+    "vault:Soundbar/FE-Awakening/2-16 - Divine Decree~Ablaze.mp3": {},
+    "vault:Soundbar/FE-Awakening/3-16 - Storm Clouds.mp3": {},
+    "vault:Soundbar/FE-Awakening/3-17 - Storm Clouds~Ablaze.mp3": {},
+    "vault:Soundbar/FE-Awakening/4-01 - Chaos.mp3": {},
+    "vault:Soundbar/FE-Awakening/4-02 - Chaos~Ablaze.mp3": {},
+    "vault:Soundbar/FE-Fates/Dusk Falls.flac": {},
+    "vault:Soundbar/FE-Fates/Resolve (Dark).flac": {},
+    "vault:Soundbar/FE-SoV/1.13 Where the Wind Rustles.mp3": {},
+    "vault:Soundbar/FE-SoV/1.14 March to Deliverance (Prologue).mp3": {},
+    "vault:Soundbar/FE-SoV/1.23 With Mila's Divine Protection (Prologue).mp3": {},
+    "vault:Soundbar/FE-SoV/2.02 Preparations- Deliverance.mp3": {},
+    "vault:Soundbar/FE-SoV/2.09 Where the Hammer Sings.mp3": {},
+    "vault:Soundbar/OoT/Market - The Legend of Zelda_ Ocarina of Time OST Remastered.mp3": {},
+    "vault:Soundbar/FE-Awakening/2-13 - And what if I can't What if I'm not worthy of her ideals.mp3": {
+      "volume": 1
+    },
+    "vault:Soundbar/FE-SoV/1.14 March to Deliverance - Prologue.mp3": {},
+    "vault:Soundbar/FE-SoV/1.23 With Mila's Divine Protection - Prologue.mp3": {},
+    "vault:Soundbar/Monster Hunter World/1.06 Cornerstone of the New World ~ Astera.flac": {}
   },
   "playlistPrefs": {
     "Soundbar/Music/FE_Awakening": {},
@@ -344,6 +384,26 @@
       "seconds": 3600.091429,
       "mtime": 1778100391733,
       "size": 61093149
+    },
+    "Soundbar/FE-Awakening/2-13 - And what if I can't What if I'm not worthy of her ideals.mp3": {
+      "seconds": 226.45551,
+      "mtime": 1793401508788,
+      "size": 6753152
+    },
+    "Soundbar/FE-SoV/1.14 March to Deliverance - Prologue.mp3": {
+      "seconds": 136.672653,
+      "mtime": 1778095926285,
+      "size": 5667938
+    },
+    "Soundbar/FE-SoV/1.23 With Mila's Divine Protection - Prologue.mp3": {
+      "seconds": 112.53551,
+      "mtime": 1778095926312,
+      "size": 4702466
+    },
+    "Soundbar/Monster Hunter World/1.06 Cornerstone of the New World ~ Astera.flac": {
+      "seconds": 302.146667,
+      "mtime": 1793402392143,
+      "size": 29218172
     }
   }
 }

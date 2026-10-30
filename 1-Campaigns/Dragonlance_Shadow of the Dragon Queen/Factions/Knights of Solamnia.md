@@ -1,14 +1,13 @@
 ---
 type: faction
 name: Knights of Solamnia
-standing: 0
 tags:
   - faction
 ---
 
 # Knights of Solamnia
 
-**Standing:** `$= dv.current().standing` (`$= (s => s >= 6 ? "Honoured" : s >= 3 ? "Trusted" : s >= 0 ? "Neutral" : s >= -2 ? "Wary" : "Hostile")(dv.current().standing)`). See [[Faction Rules]].
+See [[Faction Rules]].
 **Horizon: long.** Banks everything for the siege, and for Edric.
 
 The Knights are headquartered far to the west, and in Kalaman they are a small presence: a cold chapterhouse with a handful of knights, a lot of old banners and a great deal of pride. Many in Kalaman still blame the Order for the Cataclysm, and the Knights know it. They live by the Oath and the Measure, they remember every slight, and they badly need someone to make them look good again.
@@ -35,7 +34,7 @@ The Knights are headquartered far to the west, and in Kalaman they are a small p
 **Mission perk (Trusted+):** a knight's blessing and advice before the mission. Each character gains **inspiration**, and Edric rides out on a chapterhouse warhorse.
 **Mission complication (Hostile):** a knight is sent along "to observe", and reports every dishonourable thing the party does.
 
-**Signature reward (+10):** the chapterhouse names Edric a Knight of the Sword or Rose, his choice, on the spot, and gives him the chapterhouse's finest warhorse.
+**Signature reward (+10):** the chapterhouse names Edric a Knight of the Sword or Rose, his choice, on the spot, and gives him the chapterhouse's finest warhorse. The Order also gives the company its **war banner**: once per battle, every ally within 60 feet of it automatically succeeds on saves against fear until the end of the fight, even against [[Lord Soth|Soth]].
 **Signature disaster (-5):** the Order declares the party dishonourable, and Edric is called before a tribunal that could take his spurs.
 
 ## Favours (Trusted or better)

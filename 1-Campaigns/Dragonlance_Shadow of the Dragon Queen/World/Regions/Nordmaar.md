@@ -8,3 +8,9 @@
 
 > [!warning] DM only
 > The Red and Green Dragon Armies took it, and the victory brought many hobgoblin and ogre bands over to the Dragon Queen. The Black Army now holds it ([[Dragon Armies]]).
+
+## Who Knows What
+
+- **Everyone:** there's a war somewhere over the sea.
+- **Nordmaar refugees and Kalaman's dockhands:** how fast it fell, and what dragons do to a city.
+- **Knights and Solamnic nobles:** the old ties, and that no help was sent.

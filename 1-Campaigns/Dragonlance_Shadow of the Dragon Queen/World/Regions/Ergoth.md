@@ -10,3 +10,18 @@
 
 > [!warning] DM only
 > Thousands of Silvanesti refugees have landed in Southern Ergoth. The Kagonesti are helping them, but they won't be swamped by them.
+
+## History
+
+> [!info] Source: **Canon** ([Dragonlance Timeline](https://dragonlance.fandom.com/wiki/Dragonlance_Timeline), [Daltigoth](https://dlsaga.com/daltigoth-the-crimson-keep/), [Lost Battles](https://dragonlance.fandom.com/wiki/Lost_Battles)). Fan wikis, so dates can vary. Who knows what is **Homebrew**.
+
+- **The first human empire.** Ergoth was once the most powerful force on the continent, until it gave way to Istar.
+- **Wars with the elves.** Its push east started the Kinslayer War ([[Elves#The Kinslayer War]]).
+- **The empire shrinks.** It lost its eastern provinces in the Rose Rebellion ([[Solamnia]]).
+- **Daltigoth.** The old capital. In the Lost Battles the mages destroyed their own Tower there, and the blast took a quarter of the city with it.
+
+## Who Knows What
+
+- **Everyone:** there used to be an Empire of Ergoth.
+- **Ergothian merchants and sailors:** that their towns still claim the empire's name.
+- **Kagonesti:** how many Silvanesti have landed, and how badly it's going.

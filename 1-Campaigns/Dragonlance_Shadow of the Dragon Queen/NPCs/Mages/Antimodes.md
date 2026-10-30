@@ -38,3 +38,9 @@ He answers a different question from the one you asked, and then he's gone.
 ## Stats
 
 Archmage, if it ever comes to that. It shouldn't.
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

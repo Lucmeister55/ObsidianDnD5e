@@ -90,3 +90,9 @@ The gods are almost entirely absent, so any divine touch has to be deniable: a c
 - **Level 8: the passage to the City of Lost Names** *(divine)*. An ancient anvil sits in the passage, cold for centuries. Milo hits it, because of course they do. It rings and keeps ringing far longer than it should, and the sparks come off grey.
 - **Level 9: reforging the dragonlance** *(divine)*. Milo's hands are steady as they help with the work. When it's done, for the first time in their life, they hold something wonderful and don't want to keep it.
 - **Level 10: escaping the Threshold** *(earned)*. The way out is a maze, and Milo walks it from memory, every turn, out loud. Afterwards they close the chronicle on its first full volume. If they've unmade the ring in Onyari by now, this is the first chapter they write as a mortal.
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

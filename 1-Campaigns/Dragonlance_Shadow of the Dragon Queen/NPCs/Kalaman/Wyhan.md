@@ -41,3 +41,9 @@ She doesn't raise her voice. She closes the shop, and whoever crossed her finds 
 ## Stats
 
 [[wyhan-dsotdq|Wyhan]] (module), a mage.
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

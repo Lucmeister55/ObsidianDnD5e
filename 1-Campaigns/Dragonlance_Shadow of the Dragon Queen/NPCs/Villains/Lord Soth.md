@@ -53,3 +53,9 @@ He doesn't get angry, and he doesn't hurry. When he's losing, he simply leaves, 
 ## Stats
 
 [[lord-soth-dsotdq|Lord Soth]] (module appendix B). Don't fight him in the catacombs. That's a conversation, not a battle.
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

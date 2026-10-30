@@ -123,3 +123,11 @@ Rough sizes, for rumours and for scale. Nobody in Kalaman knows these.
 | **Green** | 8,000 | Holding [[Khur]]. |
 | **Black** | 10,000 | Spread thin occupying [[Nordmaar]] and [[Goodlund]]. |
 | **White** | 3,000 | In [[Icereach]]. |
+
+## Who Knows What
+
+- **Everyone:** invaders from the east, somewhere far away, until they aren't.
+- **Kalaman's soldiers and refugees:** that there are dragons, and draconians, and that it's a real army.
+- **Vendri, Darrett and their scouts:** the rough numbers, and that the Blue Army is a second force.
+- **Very few in the west:** the highlords' names, or that Ariakas commands them.
+- **Their own officers:** that the highlords would happily betray each other.

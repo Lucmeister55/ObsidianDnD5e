@@ -43,3 +43,9 @@ He smiles and backs away, then strikes later, from behind. He's a coward who kno
 ## Stats
 
 [[bakaris-the-younger-dsotdq|Bakaris the Younger]]. Later a [[dragon-army-officer-dsotdq|Dragon Army officer]] (module, chapter 7).
+
+## Miniature
+
+```dataviewjs
+await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/tracker", { mode: "npc" })
+```

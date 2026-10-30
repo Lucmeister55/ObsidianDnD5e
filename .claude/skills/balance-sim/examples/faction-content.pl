@@ -1,7 +1,7 @@
 use strict; use warnings; no warnings 'once';
 # Faction drift over Storm Clouds, from the actual options in the chapter files.
 my $DIR = '/d/Luca/Documents/GitHub/ObsidianDnD5e/1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Chapters/3. Storm Clouds';
-my @F = qw(Military Knights Mages Guilds Smallfolk Refugees);
+my @F = qw(Military Knights Mages Guilds Smallfolk Firefishers);
 my ($LO,$HI,$TRU,$HON) = (-5,10,3,6);
 my $PICK = $ENV{PICK} // 3;      # downtime events run per downtime
 my $PROJ = $ENV{PROJ} // 1;      # faction projects per downtime
@@ -9,7 +9,7 @@ srand(7);
 
 sub deltas {
   my $l = shift; my %d;
-  while ($l =~ /([+-])(\d) (?:Kalaman |Vogler )?(Military|Knights|Mages|Guilds|Smallfolk|Refugees)\b/g) { $d{$3} += ($1 eq '+' ? $2 : -$2); }
+  while ($l =~ /([+-])(\d) (?:Kalaman |Vogler )?(Military|Knights|Mages|Guilds|Smallfolk|Firefishers)\b/g) { $d{$3} += ($1 eq '+' ? $2 : -$2); }
   if ($l =~ /\+(\d) to both/) { $d{_both} = $1 }
   return \%d;
 }
@@ -36,8 +36,6 @@ for my $f (@files) {
   }
   $flush->();
 }
-# The "both" option in the bread event is +1 Refugees +1 Smallfolk.
-for my $dec ((map { $_->[1] } @fixed), map { map { $_->[1] } @$_ } values %pool) { for my $o (@$dec) { if (delete $o->{_both}) { $o->{Refugees}++; $o->{Smallfolk}++ } } }
 
 my $nfix = @fixed; my $npool = 0; $npool += @{$pool{$_}} for keys %pool;
 my ($free, $multifree, $decs) = (0,0,0);
@@ -47,7 +45,7 @@ for my $dec ((map { $_->[1] } @fixed), map { map { $_->[1] } @$_ } values %pool)
 printf "Parsed %d fixed decisions and %d downtime events (%d decisions). %d have a cost-free gain option, %d have more than one.\n\n", $nfix, $npool, $decs, $free, $multifree;
 
 sub clamp { my $v = shift; $v < $LO ? $LO : $v > $HI ? $HI : $v }
-my @fav = qw(Military Refugees Smallfolk);
+my @fav = qw(Military Smallfolk Firefishers);
 sub value {
   my ($pol, $s, $o) = @_; my $v = 0;
   for my $k (keys %$o) {
@@ -60,7 +58,7 @@ sub value {
   return $v;
 }
 sub run {
-  my $pol = shift; my %s = map { $_ => 0 } @F; $s{Refugees} = 2;
+  my $pol = shift; my %s = map { $_ => 0 } @F; $s{Smallfolk} = 1;
   my @order = sort keys %pool;     # downtime files in order
   my $apply = sub { my $dec = shift; my ($best,$bv); for my $o (@$dec) { my $v = value($pol, \%s, $o); ($best,$bv) = ($o,$v) if !defined $bv || $v > $bv } $s{$_} = clamp($s{$_} + $best->{$_}) for keys %$best; };
   my %fixedby; push @{$fixedby{$_->[0]}}, $_->[1] for @fixed;
@@ -88,6 +86,6 @@ for my $pol (qw(everyone focus casual)) {
     for (@F) { $sum{$_} += $s->{$_}; $hon{$_}++ if $s->{$_} >= $HON; $tru{$_}++ if $s->{$_} >= $TRU; $neg{$_}++ if $s->{$_} < 0; $at = 0 if $s->{$_} < $TRU; $h++ if $s->{$_} >= $HON }
     $allT += $at; $anyH++ if $h; $twoH++ if $h >= 2 }
   printf "== %s\n", $pol;
-  printf "  %-10s avg %4.1f  Trusted+ %3d%%  Honoured %3d%%  below 0 %3d%%\n", $_, $sum{$_}/$N, 100*$tru{$_}/$N, 100*$hon{$_}/$N, 100*$neg{$_}/$N for @F;
+  printf "  %-10s avg %4.1f  Trusted+ %3d%%  Honoured %3d%%  below 0 %3d%%\n", $_, $sum{$_}/$N, 100*($tru{$_}//0)/$N, 100*($hon{$_}//0)/$N, 100*($neg{$_}//0)/$N for @F;
   printf "  All six Trusted+: %d%%   any Honoured: %d%%   2+ Honoured: %d%%\n\n", 100*$allT/$N, 100*$anyH/$N, 100*$twoH/$N;
 }
