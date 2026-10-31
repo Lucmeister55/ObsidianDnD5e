@@ -24,6 +24,11 @@ Which figure, terrain piece or map you'll use for each entry on the [[Need List]
 **Uses:**
 **Buy:** [[Wishlist#Edric]]
 
+## Ser Edric, mounted
+
+**Uses:**
+**Buy:** [[Wishlist#Edric]]
+
 ## Wurm
 
 **Uses:**
@@ -103,7 +108,7 @@ Which figure, terrain piece or map you'll use for each entry on the [[Need List]
 
 ## Baaz Draconian
 
-**Uses:** [[Monster Core Pawn Box#Medium|Lizardfolk defender]] (4), [[Monster Core Pawn Box#Medium|Lizardfolk scout]], [[Monster Core Pawn Box#Medium|Lizardfolk stargazer]]
+**Uses:**
 **Buy:** [[Wishlist#Draconians]]
 
 ## Black Dragon Wyrmling
@@ -120,11 +125,11 @@ Which figure, terrain piece or map you'll use for each entry on the [[Need List]
 
 ## Boilerdrak
 
-**Uses:** [[Monster Core Pawn Box#Huge|Giant animated statue]]
+**Uses:**
 
 ## Bozak Draconian
 
-**Uses:** [[Monster Core Pawn Box#Medium|Boggard warrior]] (4), [[Monster Core Pawn Box#Medium|Boggard scout]] (2), [[Monster Core Pawn Box#Medium|Boggard swampseer]], [[Monster Core Pawn Box#Medium|Xulgath leader]]
+**Uses:**
 **Buy:** [[Wishlist#Draconians]]
 
 ## Commoner
@@ -212,14 +217,9 @@ Which figure, terrain piece or map you'll use for each entry on the [[Need List]
 
 **Uses:** [[Monster Core Pawn Box#Medium|Animated armor]] (2)
 
-## Kalaman Soldier
-
-**Uses:** [[Battlecry Pawn Box#Troops|First-class infantry]], [[Battlecry Pawn Box#Troops|Archer regiment]], [[Battlecry Pawn Box#Troops|Viking guard]]
-**Buy:** [[Wishlist#Kalaman soldiers]]
-
 ## Kapak Draconian
 
-**Uses:** [[Monster Core Pawn Box#Medium|Xulgath skulker]] (2), [[Monster Core Pawn Box#Medium|Xulgath warrior]] (2)
+**Uses:**
 **Buy:** [[Wishlist#Draconians]]
 
 ## Knight
@@ -260,7 +260,7 @@ Which figure, terrain piece or map you'll use for each entry on the [[Need List]
 
 ## Sivak Draconian
 
-**Uses:** [[Monster Core Pawn Box#Medium|Aapoph serpentfolk]] (2)
+**Uses:**
 **Buy:** [[Wishlist#Draconians]]
 
 ## Skeletal Knight
@@ -586,11 +586,111 @@ Which figure, terrain piece or map you'll use for each entry on the [[Need List]
 
 **Uses:**
 
+# Army Units
+
+For [[Skirmish Battles]]. One unit is one Battlecry troop of 4 Large pawns, or about 4 figures on a tray.
+
+## Infantry
+
+**Uses:** [[Battlecry Pawn Box#Troops|First-class infantry]], [[Battlecry Pawn Box#Troops|Viking guard]]
+
+## Knights
+
+**Uses:** [[Materials#Miniatures|Warhammer Blood Knights]], mounted
+
+## Mercenaries
+
+**Uses:** [[Battlecry Pawn Box#Troops|Dwarf longshot squad]]
+
+## Siege Crew
+
+**Uses:** [[Battlecry Pawn Box#Medium|Ribauldequin]]
+
+## Pikes
+
+**Uses:** [[Battlecry Pawn Box#Troops|Dromaar company]]
+
+## Archers
+
+**Uses:** [[Battlecry Pawn Box#Troops|Archer regiment]]
+
+## Militia
+
+**Uses:** [[Battlecry Pawn Box#Troops|Halfling lucky draw]]
+
+## Veterans
+
+**Uses:** [[Battlecry Pawn Box#Troops|Monk cadre]]
+
+## Edric's Company
+
+**Uses:**
+
+## Davos's Apprentices
+
+**Uses:** [[Battlecry Pawn Box#Troops|Apprentice magician clique]]
+
+## Milo's Bombard Crew
+
+**Uses:** [[Battlecry Pawn Box#Troops|Gnome cannon corps]]
+
+## Thorn's Wild Hunt
+
+**Uses:** [[Battlecry Pawn Box#Troops|Wolf pack]]
+
+## Wurm's Unchained
+
+**Uses:** [[Battlecry Pawn Box#Troops|Orc raiding party]]
+
+## Baaz unit
+
+**Uses:**
+
+## Kapaks unit
+
+**Uses:**
+
+## Bozaks unit
+
+**Uses:**
+
+## Dragon Army Soldiers
+
+**Uses:** [[Materials#Miniatures|Warhammer Chaos Warriors]], split in two
+
+## Dragon Army Crossbows
+
+**Uses:** [[Battlecry Pawn Box#Troops|Xulgath army]]
+
+## Dragonnel Riders
+
+**Uses:** [[Battlecry Pawn Box#Troops|Drake flight]]
+
+## Undead Knights
+
+**Uses:** [[Materials#Miniatures|Warhammer Barrow Knights]], [[Battlecry Pawn Box#Troops|Wight battalion]]
+
+## Ogres
+
+**Uses:** [[Monster Core Pawn Box#Large|Ogre warrior]] (2), [[Monster Core Pawn Box#Large|Ogre boss]], [[Monster Core Pawn Box#Large|Ogre glutton]]
+
+## War Engine
+
+**Uses:** [[Battlecry Pawn Box#Troops|Gnome cannon corps]]
+
+## Rabble
+
+**Uses:** [[Battlecry Pawn Box#Troops|Goblin rabble]]
+
+## Hired Blades
+
+**Uses:** [[Battlecry Pawn Box#Troops|Hobgoblin veteran regiment]]
+
 # Maps
 
-Maps are printed free on A0. Full-size versions to buy are in the [[Wishlist#Maps]].
+Maps are printed free: battlemaps on A1, and town, city and region maps on A2. Full-size versions to buy are in the [[Wishlist#Maps]].
 
-## Map 3.1 Vogler (A3 handout)
+## Map 3.1 Vogler (A2)
 
 **Uses:**
 
@@ -620,7 +720,7 @@ Maps are printed free on A0. Full-size versions to buy are in the [[Wishlist#Map
 
 ![[map-3.03-escape-from-vogler-player.png|300]]
 
-## Map 4.1 Kalaman (A3 handout)
+## Map 4.1 Kalaman (A2)
 
 **Uses:**
 
@@ -674,7 +774,7 @@ Maps are printed free on A0. Full-size versions to buy are in the [[Wishlist#Map
 
 ![[1878331-242_Sail_Ship-grid.jpg|300]]
 
-## Map 5.1 Kalaman and the Northern Wastes (A3 handout)
+## Map 5.1 Kalaman and the Northern Wastes (A2)
 
 **Uses:**
 
@@ -708,7 +808,7 @@ Maps are printed free on A0. Full-size versions to buy are in the [[Wishlist#Map
 
 ![[map-5.05-bluemaw-cave-player.png|300]]
 
-## Map 5.6 Heart's Hollow (A3 handout)
+## Map 5.6 Heart's Hollow (A2)
 
 **Uses:**
 
@@ -738,7 +838,7 @@ Maps are printed free on A0. Full-size versions to buy are in the [[Wishlist#Map
 
 ![[map-6.01-path-of-memories-player.png|300]]
 
-## Map 6.2 City of Lost Names (A3 handout)
+## Map 6.2 City of Lost Names (A2)
 
 **Uses:**
 

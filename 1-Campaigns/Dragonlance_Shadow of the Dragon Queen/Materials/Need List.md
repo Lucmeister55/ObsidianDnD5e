@@ -1,10 +1,11 @@
 # Need List
 
-Everything this campaign puts on the table in a fight: the PCs, the NPCs and monsters that actually get fought or fight beside the party, the terrain and the maps. Anything outside combat is theatre of mind, so it isn't here. **Need** is the most of it in any one encounter, and it updates when an encounter changes. Tick **Done** to cross a row off, or use the - and + buttons for a partial count. **Notes** starts with suggested stand-ins from what you already own. Click a name to see its pictures and buy links in the [[Picture Board]]. What you own overall is in the master [[Materials]] list.
+Everything this campaign puts on the table in a fight: the PCs, the NPCs and monsters that actually get fought or fight beside the party, the terrain and the maps. Anything outside combat is theatre of mind, so it isn't here. **Need** is the most of it in any one encounter, and it updates when an encounter changes. Tick **Done** when you have them all, or use the - and + buttons for a partial count. An **orange** row means you own them all but some are unpainted, and **Short** says how many. A **green** greyed-out row is finished. Maps and paper pieces have nothing to paint, so they go straight to green. Pawns stay orange unless you set Painted to match. **Notes** starts with suggested stand-ins from what you already own. Click a name to see its pictures and buy links in the [[Picture Board]]. What you own overall is in the master [[Materials]] list.
 
 The counts are saved in `stock.json` in this folder.
 
-- **Maps** are printed free on A0.
+- **Maps** are printed free: battlemaps on A1, and town, city and region maps on A2.
+- **Army units** are for [[Skirmish Battles]], counted in units, not figures. One unit is one Battlecry troop (4 Large pawns), or about 4 figures on a tray. Warriors of Krynn battles use the board game's own pieces.
 - **Pawns** are for generic monsters and soldiers only, marked *pawn ok*. Named PCs and NPCs always get a real 3D mini. Add a pawn to **Have** if you're using one.
 
 ```dataviewjs

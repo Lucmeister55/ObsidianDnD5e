@@ -9,7 +9,7 @@ const CHAPTERS = "1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Chapters/";
 const STOCK = "1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/stock.json";
 const BOARD = "1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/Picture Board.md";
 const GROUPS = [["Prologue (0-2)", [0, 1, 2]], ["3. Storm Clouds", [3]], ["4. Duty", [4]], ["5. Destiny", [5]], ["6. Conquest", [6]]];
-const SECTIONS = [["PCs", "figures", "PC"], ["NPCs", "figures", "NPC"], ["Monsters", "figures", "Monster"], ["Terrain", "terrain"], ["Accessories", "accessories"], ["Maps", "maps"]];
+const SECTIONS = [["PCs", "figures", "PC"], ["NPCs", "figures", "NPC"], ["Monsters", "figures", "Monster"], ["Terrain", "terrain"], ["Accessories", "accessories"], ["Army Units", "units"], ["Maps", "maps"]];
 const IMAGE = /\.(png|jpe?g|webp|gif|avif)$/i;
 
 const mode = (input && input.mode) || "need";
@@ -152,6 +152,16 @@ function counter(parent, item, field, kind, onChange) {
   return show;
 }
 
+// open: still short. owned: all in hand, some unpainted. painted: finished.
+// Maps and paper pieces have nothing to paint, so owning them finishes them.
+function status(item) {
+  if (!num(item.need) || num(item.have) < num(item.need)) return "open";
+  if (item.painted === undefined) return "painted";
+  return num(item.painted) >= num(item.need) ? "painted" : "owned";
+}
+const STATUS_COLOUR = { owned: "orange", painted: "limegreen" };
+const STATUS_TINT = { owned: "rgba(255, 165, 0, 0.18)", painted: "rgba(50, 205, 50, 0.18)" };
+
 function drawTable(parent, title, kind, rows, pictures, onChange) {
   if (!rows.length) return;
   const isFigure = kind === "figures";
@@ -168,7 +178,7 @@ function drawTable(parent, title, kind, rows, pictures, onChange) {
     const name = tr.createEl("td");
     const pics = pictures[item.name];
     if (pics) imageEl(pic, pics[0], 56);
-    linkEl(name, item.name, `${BOARD}#${item.name}`);
+    const link = linkEl(name, item.name, `${BOARD}#${item.name}`);
     if (item.pawn) name.createEl("small", { text: " (pawn ok)" });
     const detail = [item.set, item.used].filter(Boolean).join(". ");
     if (detail) { name.createEl("br"); name.createEl("small", { text: detail }); }
@@ -182,10 +192,12 @@ function drawTable(parent, title, kind, rows, pictures, onChange) {
     const refresh = () => {
       showPainted();
       const s = Math.max(0, num(item.need) - num(item.have));
-      short.textContent = s ? String(s) : "✓";
+      const st = status(item);
+      short.textContent = s ? String(s) : st === "painted" ? "✓✓" : `Paint ${Math.max(0, num(item.need) - num(item.painted))}`;
       check.checked = !s;
-      tr.style.opacity = item.need && !s ? "0.5" : "";
-      name.style.textDecoration = item.need && !s ? "line-through" : "";
+      tr.style.opacity = st === "painted" ? "0.5" : "";
+      for (const cell of tr.children) cell.style.backgroundColor = STATUS_TINT[st] || "";
+      link.style.textDecoration = st === "open" ? "" : `line-through ${STATUS_COLOUR[st]} 2px`;
       onChange();
     };
     if (isFigure) need.setText(String(item.need));
@@ -223,7 +235,7 @@ function drawAdd(parent, kind, onAdded) {
       if (kind === "maps") { delete e.painted; }
     });
     const file = app.vault.getAbstractFileByPath(BOARD);
-    const heading = { terrain: "# Terrain", accessories: "# Accessories", maps: "# Maps" }[kind];
+    const heading = { terrain: "# Terrain", accessories: "# Accessories", units: "# Army Units", maps: "# Maps" }[kind];
     await app.vault.process(file, (text) => {
       const at = text.indexOf("\n" + heading + "\n");
       const next = text.indexOf("\n# ", at + 1);
@@ -249,6 +261,7 @@ function drawTotals(parent, stock) {
   line("Figures", stock.figures, sum(stock.figures, (e) => num(e.painted)));
   line("Terrain", stock.terrain, sum(stock.terrain, (e) => (e.painted === undefined ? num(e.have) : num(e.painted))));
   line("Accessories", stock.accessories, sum(stock.accessories, (e) => (e.painted === undefined ? num(e.have) : num(e.painted))));
+  line("Army units", stock.units, sum(stock.units, (e) => (e.painted === undefined ? num(e.have) : num(e.painted))));
   line("Maps", stock.maps, null);
 }
 
@@ -264,9 +277,10 @@ async function drawNeed() {
   const pick = bar.createEl("select");
   pick.createEl("option", { text: "All chapters", value: "" });
   GROUPS.forEach(([label], i) => pick.createEl("option", { text: label, value: String(i) }));
-  const label = bar.createEl("label");
-  const hide = label.createEl("input", { attr: { type: "checkbox" } });
-  label.appendText(" Hide done");
+  const hide = bar.createEl("select");
+  hide.createEl("option", { text: "Show everything", value: "" });
+  hide.createEl("option", { text: "Hide owned", value: "owned" });
+  hide.createEl("option", { text: "Hide painted", value: "painted" });
   const body = box.createDiv();
 
   const draw = () => {
@@ -275,7 +289,8 @@ async function drawNeed() {
     for (const [title, kind, who] of SECTIONS) {
       let rows = stock[kind].filter((e) => !who || e.kind === who);
       if (chapters) rows = rows.filter((e) => (kind === "figures" ? extraIn(e, chapters) > 0 : chapters.includes(num(e.chapter))));
-      if (hide.checked) rows = rows.filter((e) => num(e.have) < num(e.need));
+      if (hide.value === "owned") rows = rows.filter((e) => status(e) === "open");
+      if (hide.value === "painted") rows = rows.filter((e) => status(e) !== "painted");
       rows.sort((a, b) => num(a.chapter) - num(b.chapter) || a.name.localeCompare(b.name));
       drawTable(body, title, kind, rows, pictures, refreshTotals);
       if (kind !== "figures" && !chapters) drawAdd(body, kind, async () => { stock[kind] = (await readStock())[kind]; draw(); });

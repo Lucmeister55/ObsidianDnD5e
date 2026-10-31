@@ -188,7 +188,19 @@
     },
     "vault:Soundbar/FE-SoV/1.14 March to Deliverance - Prologue.mp3": {},
     "vault:Soundbar/FE-SoV/1.23 With Mila's Divine Protection - Prologue.mp3": {},
-    "vault:Soundbar/Monster Hunter World/1.06 Cornerstone of the New World ~ Astera.flac": {}
+    "vault:Soundbar/Monster Hunter World/1.06 Cornerstone of the New World ~ Astera.flac": {},
+    "vault:Soundbar/Ace Attorney/02. Defendant Lobby - So it Begins.flac": {},
+    "vault:Soundbar/Ace Attorney/03. Phoenix Wright Ace Attorney - Court is Now in Session.flac": {},
+    "vault:Soundbar/Ace Attorney/04. Cross-Examination - Moderato 2001.flac": {},
+    "vault:Soundbar/Ace Attorney/05. Tricks and Deductions.flac": {},
+    "vault:Soundbar/Ace Attorney/07. Cross-Examination - Allegro 2001.flac": {},
+    "vault:Soundbar/Ace Attorney/08. Pursuit - Corner the Culprit.flac": {},
+    "vault:Soundbar/Ace Attorney/09. The Truth Revealed 2001.flac": {},
+    "vault:Soundbar/Ace Attorney/10. Suspense.flac": {},
+    "vault:Soundbar/Ace Attorney/11. Pursuit - Corner the Culprit (Variation).flac": {},
+    "vault:Soundbar/FE-Fates/Resolve - Dark.flac": {},
+    "vault:Soundbar/FE-SoV/1.04 An Ordinary Day.mp3": {},
+    "vault:Soundbar/FE-SoV/1.05 Spring Radiance.mp3": {}
   },
   "playlistPrefs": {
     "Soundbar/Music/FE_Awakening": {},
@@ -404,6 +416,66 @@
       "seconds": 302.146667,
       "mtime": 1793402392143,
       "size": 29218172
+    },
+    "Soundbar/Ace Attorney/02. Defendant Lobby - So it Begins.flac": {
+      "seconds": 77.406259,
+      "mtime": 1793403631861,
+      "size": 17002344
+    },
+    "Soundbar/Ace Attorney/03. Phoenix Wright Ace Attorney - Court is Now in Session.flac": {
+      "seconds": 108.286463,
+      "mtime": 1793403561702,
+      "size": 21701211
+    },
+    "Soundbar/Ace Attorney/04. Cross-Examination - Moderato 2001.flac": {
+      "seconds": 104.766871,
+      "mtime": 1793403555138,
+      "size": 22652433
+    },
+    "Soundbar/Ace Attorney/08. Pursuit - Corner the Culprit.flac": {
+      "seconds": 96.004172,
+      "mtime": 1793403530181,
+      "size": 24441493
+    },
+    "Soundbar/Ace Attorney/05. Tricks and Deductions.flac": {
+      "seconds": 152.732948,
+      "mtime": 1793403549230,
+      "size": 28627277
+    },
+    "Soundbar/Ace Attorney/07. Cross-Examination - Allegro 2001.flac": {
+      "seconds": 126.273311,
+      "mtime": 1793403542854,
+      "size": 27496412
+    },
+    "Soundbar/Ace Attorney/09. The Truth Revealed 2001.flac": {
+      "seconds": 79.340272,
+      "mtime": 1793403537189,
+      "size": 18711944
+    },
+    "Soundbar/Ace Attorney/11. Pursuit - Corner the Culprit (Variation).flac": {
+      "seconds": 90.409365,
+      "mtime": 1793403655469,
+      "size": 23199309
+    },
+    "Soundbar/Ace Attorney/10. Suspense.flac": {
+      "seconds": 92.575896,
+      "mtime": 1793403650765,
+      "size": 21833701
+    },
+    "Soundbar/FE-Fates/Resolve - Dark.flac": {
+      "seconds": 311.493333,
+      "mtime": 1776458637352,
+      "size": 33774951
+    },
+    "Soundbar/FE-SoV/1.05 Spring Radiance.mp3": {
+      "seconds": 212.349388,
+      "mtime": 1793402622165,
+      "size": 8694968
+    },
+    "Soundbar/FE-SoV/1.04 An Ordinary Day.mp3": {
+      "seconds": 187.846531,
+      "mtime": 1793402598722,
+      "size": 7714854
     }
   }
 }

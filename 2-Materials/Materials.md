@@ -97,5 +97,5 @@ Dice, condition rings, initiative trackers, spell templates, screens, tokens.
 
 | What | Where | Cost | Notes |
 |---|---|---|---|
-| Maps, up to A0 | | Free | |
+| Battlemaps on A1, town and city maps on A2 | | Free | |
 | 3D printing | | | |
