@@ -10,7 +10,7 @@ Becklin's squire, and Edric's friend from their squire days. His parents abandon
 
 ## Voice
 
-Quick, eager and polite, tripping over himself, apologising, then starting again. *(Suggestion: Tom Holland.)*
+Warm, easy and likable, the friend who's thrilled to see you and doesn't hide it. With Edric he's a bro: teasing, laughing at himself, pulling out a nickname the moment nobody senior is listening ("Ric", "Ser Spurs", now that the spurs are new). His mind runs ahead of his mouth, so he trails off, grins and starts again. The earnest, apologising squire only comes out when Becklin or the Order is watching: he catches himself mid-sentence and straightens up like it's inspection, and Edric can tease him for it. Slightly folksy English, a village lad's turn of phrase ("mate", "daft", "come off it") that his knightly manners never quite cover. Nothing American. *(Suggestion: Paul Mescal at his most relaxed, with a bit of West Country in it.
 
 ## Look
 
