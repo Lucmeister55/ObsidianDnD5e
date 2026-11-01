@@ -12,7 +12,7 @@ tags:
 ![[1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Party/Origin Characters/Portraits/Edric.jpg]]
 
 > [!abstract] Ser Edric of Brackenridge
-> **Steadfast** · **Unforgiven** · **Horse Girl**
+> **Vanguard** · **Unforgiven** · **Horse Girl**
 > 
 > - **You are** a 26-year-old human Knight of the Crown, knighted only weeks ago.
 > - **You were** orphaned at twelve when Khur raiders burned your village. Ser Ispin Greenshield freed you from the slavers and took you on as his squire. You spent the next fourteen years on the road with him.

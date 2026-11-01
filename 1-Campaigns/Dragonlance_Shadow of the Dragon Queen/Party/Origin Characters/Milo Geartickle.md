@@ -12,7 +12,7 @@ tags:
 ![[Milo.jpg]]
 
 > [!abstract] Milo Geartickle
-> **Light-Fingered** · **Fearless** · **Just Browsing**
+> **Tinkerer** · **Fearless** · **Just Browsing**
 > 
 > - **You are** a 31-year-old kender rogue from Kendermore, a wanderer, tinkerer and self-appointed archaeologist who rescues relics for "safekeeping".
 > - **You were** in a kender resistance band until it got boring. Since then you've wandered Ansalon "borrowing" things, learned machines from a dwarf and a gnome, and saw a bronze dragon in the Northern Wastes that nobody believes in. A little drone you found up north follows you everywhere, and no one can tell you what it is. You also wear an iron ring that won't come off, and as far as you can tell, it won't let you die.
