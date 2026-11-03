@@ -29,6 +29,9 @@ Takhisis's forces, five armies of draconians ([[Draconians]]), humans, goblins, 
 | Late 349 to 350 AC | Red and Blue take [[Silvanesti]]. Lorac's Orb turns it into a nightmare. |
 | 351 AC | The armies regroup. Red and Blue prepare for Solamnia, and White heads for Icereach. |
 
+> [!homebrew] Source: **Homebrew** ([[4.13 Camp Carrionclay]]).
+> **Camp idols.** Every Dragon Army camp of any size raises an idol of the Dragon Queen: five heads of timber, mud and stone, daubed in the five colours, where the camp prays at dusk. Draconians and Dragon Army soldiers who can see one fight as if a dragon were watching (Draconic Devotion). Use one wherever the army has dug in and no real dragon is on the field.
+
 ## Faces of the Army
 
 > [!homebrew] Source: **Homebrew**, built on the module's note that the armies include "humans, goblins, hobgoblins, ogres, and others".

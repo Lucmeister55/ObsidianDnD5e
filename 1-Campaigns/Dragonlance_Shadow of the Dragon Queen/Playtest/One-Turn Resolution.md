@@ -17,6 +17,8 @@ Call a one-turn when **all** of these are true:
 - Nobody important is in the fight, on either side.
 - Playing it out would take more than one round of real time and teach nobody anything.
 
+**Be honest about it.** Don't one-turn a fight just because the party will win. If it's a mission, the first time they meet a new kind of enemy, a villain's first appearance, or the main event of the session, play it out. Winning isn't the only thing a fight is for: it's also where the players feel the danger and the world.
+
 **Offer it, don't impose it.** Ask the table: "One-turn this, or play it out?" Playing it out gives them more control over what they spend (slots, potions, hit points). A one-turn is faster and more cinematic. It's their call.
 
 ## The Combat Budget

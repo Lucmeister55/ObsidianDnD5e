@@ -85,7 +85,7 @@ Dice, condition rings, initiative trackers, spell templates, screens, tokens.
 
 | Item | Count | Owner | Notes |
 |---|---|---|---|
-| Dragonlance: Warriors of Krynn | 1 | Me | |
+| Dragonlance: Warriors of Krynn | 1 | Me | Notes and page pictures in [[Warriors of Krynn]] |
 
 ## Books and PDFs
 

@@ -8,7 +8,7 @@ tags:
 
 > [!homebrew] Source: **Homebrew**, after the "troop" approach to units-as-creatures (as in MCDM's *Flee, Mortals!* and *Strongholds & Followers*), stripped down. The big battles still use **WoK**.
 
-**The point:** a mass-combat mode for the battlemap, with a handful of units on each side and the heroes in the middle of them. It plays like normal 5e combat. A unit is just a big creature with a few extra rules. Use it when a battle is too small for *Warriors of Krynn*, or when you want the party in the fray instead of above it.
+**The point:** a mass-combat mode for the battlemap, with a handful of units on each side and the heroes in the middle of them. It plays like normal 5e combat. A unit is just a big creature with a few extra rules. Use it when a battle is too small for *[[Warriors of Krynn]]*, or when you want the party in the fray instead of above it.
 
 **Good fits in this campaign:** the Inkwater crossing at Steel Springs, the Trade Gate in the siege, Wheelwatch's courtyard, Darrett's assault in Scenario 7 (instead of WoK), and any WoK scenario you'd rather zoom in on.
 

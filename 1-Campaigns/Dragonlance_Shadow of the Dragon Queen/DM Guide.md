@@ -18,7 +18,7 @@ Every section in the chapter notes starts with a coloured bar showing where it c
 
 > [!companion] **Companion**: the DMs Guild companion PDF for that act, in `Documents/DMs Guild/companions`.
 
-> [!wok] **WoK**: a *Warriors of Krynn* board game scenario, often with a custom outcome.
+> [!wok] **WoK**: a *Warriors of Krynn* board game scenario, often with a custom outcome. The rules, the scenario pages and where each one is played are in [[Warriors of Krynn]].
 
 > [!homebrew] **Homebrew**: our own, with links to the notes it lives in.
 

@@ -123,7 +123,8 @@
  {"name":"Hide hut with bone spikes","need":1,"have":0,"painted":0,"chapter":4,"set":"8 One-offs","used":"Camp Carrionclay","notes":""},
  {"name":"Fallen stone spire, 30 feet tall","need":1,"have":0,"painted":0,"chapter":6,"set":"8 One-offs","used":"Clash of Fallen Flames","notes":""},
  {"name":"Dragon bones","need":1,"have":0,"painted":0,"chapter":6,"set":"8 One-offs","used":"Clash of Fallen Flames","notes":"Ravenak's Gnashing Jaws"},
- {"name":"Black-rose banner","need":1,"have":0,"painted":0,"chapter":6,"set":"8 One-offs","used":"The black rose on the road","notes":""}
+ {"name":"Black-rose banner","need":1,"have":0,"painted":0,"chapter":6,"set":"8 One-offs","used":"The black rose on the road","notes":""},
+ {"name":"Idol of the Dragon Queen","need":1,"have":0,"painted":0,"chapter":4,"set":"6 Dungeon dressing","used":"Camp Carrionclay, Prisoner Cages. Five heads, about Large size.","notes":""}
 ],
 "accessories": [
  {"name":"Condition rings","need":1,"have":0,"chapter":-1,"used":"","notes":""},

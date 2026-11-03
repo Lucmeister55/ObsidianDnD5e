@@ -532,6 +532,11 @@ Which figure, terrain piece or map you'll use for each entry on the [[Need List]
 
 **Uses:**
 
+## Idol of the Dragon Queen
+
+**Uses:**
+**Buy:** [[Wishlist#Takhisis]]
+
 # Accessories
 
 ## Condition rings
