@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[01 - Scenario 6 - Dark Moon Rises Setup.jpg]]. A dark page with a diagram, photographed sideways. The page number isn't printed on it. The unit icons in the diagram aren't transcribed one by one.*
 
-![[01 - Scenario 6 - Dark Moon Rises Setup.jpg]]
-
 ### SCENARIO 6: DARK MOON RISES
 
 #### Objective
@@ -48,8 +46,6 @@ Four battle tiles: **2B** (left, **LEFT** flank, commander **C12**), **3B** (**C
 ## Scenario 6, Dark Moon Rises, Running This Scenario (printed page 15)
 
 *Photo: [[02 - Scenario 6 - Dark Moon Rises Running.jpg]]. Words washed out by glare in the Scenario Rules intro are reconstructed from context. Text printed in red in the book is in *italics* here and marked (red).*
-
-![[02 - Scenario 6 - Dark Moon Rises Running.jpg]]
 
 ### RUNNING THIS SCENARIO
 

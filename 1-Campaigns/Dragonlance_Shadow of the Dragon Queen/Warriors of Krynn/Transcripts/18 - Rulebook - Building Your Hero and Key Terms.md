@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[07 - Rulebook p6 - Building Your Hero.jpg]]. Text inside the small card illustrations is partly too small to read and is only summarised.*
 
-![[07 - Rulebook p6 - Building Your Hero.jpg]]
-
 ### BUILDING YOUR HERO
 
 At the start of a scenario, you choose a hero figure, a hero board and stress marker, and a Recruit class card. One side of each hero board has the name and an illustration of a hero from the world of Krynn. Backstories for these heroes appear in the scenario book. Alternatively, you may use the nameless side of a hero board and your class card choice to represent any hero you imagine.
@@ -74,8 +72,6 @@ Throughout the game, abilities use the colors shown above and the following abbr
 ## Rulebook p. 7, Key Terms
 
 *Photo: [[08 - Rulebook p7 - Key Terms.jpg]]. *
-
-![[08 - Rulebook p7 - Key Terms.jpg]]
 
 ### KEY TERMS
 

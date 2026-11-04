@@ -12,8 +12,9 @@ Everything here is a test. Run each one for two or three sessions, then ask the 
 
 | Idea | What it's for | Status | Note |
 |---|---|---|---|
-| **Weapon Triangle** | Fighters choosing weapons by the job and the enemy. Fire Emblem style, plus a niche for every weapon. | Not yet tested | [[Weapon Triangle]] |
-| **Combo Attacks** | Rewarding teamwork in normal rounds. | Not yet tested | [[Combo Attacks]] |
+| **Weapon Triangle** | Fighters choosing weapons by the job and the enemy. Fire Emblem style, plus a niche for every weapon. | Not yet tested | [[Combat Extras#Weapon Triangle\|Weapon Triangle]] |
+| **Combo Attacks** | Rewarding teamwork in normal rounds. | Not yet tested | [[Combat Extras#Combo Attacks\|Combo Attacks]] |
+| **Slopes and High Ground** | Terrain that matters: downhill charges, slow climbs, archers on a hill. | Not yet tested | [[Combat Extras#Slopes and High Ground\|Slopes and High Ground]] |
 | **Skirmish Battles** | Small mass combat on the battlemap, with units of soldiers. | Not yet tested | [[Skirmish Battles]] |
 | **Harvesting and Crafting** | Monster parts, ammunition tips and crafted gear. Mostly for Milo and Thorn. | Not yet tested | [[Harvesting and Crafting]] |
 | **One-Turn Resolution** | Skipping padding fights cinematically. | Not yet tested | [[One-Turn Resolution]] |
@@ -21,7 +22,7 @@ Everything here is a test. Run each one for two or three sessions, then ask the 
 | **Infiltrations** | Heists and break-ins without the hour of planning. Blades in the Dark style: one-sentence plans, stress and flashbacks. | Not yet tested | [[Infiltrations]] |
 | **Variant encumbrance** | Making travel and supplies a real choice. | Running all campaign | [[4.99 Survival Rules#Encumbrance]] |
 | **Faction Standing** | Social consequences with minimal tracking. | Starts in Vogler | [[Faction Rules]] |
-| **Warriors of Krynn** | Big battles on the board game, with custom outcomes. | Scenario 1 in Vogler | [[2.00 Broken Silence]] |
+| **Warriors of Krynn** | Big battles on the board game. Scenario 1 is the first game and is required. Every later scenario is an optional bonus, kept only if the first one works. | Scenario 1 in Vogler | [[2.00 Broken Silence]] |
 
 ## Introduction Schedule
 
@@ -37,7 +38,7 @@ Every system in the campaign, and the moment it first appears. The rule of thumb
 | 6 | **Session 1.5**, after the prologue ([[Session 1.5]]) | **The house rules, explained** | The first time the players get it all in writing: encumbrance, factions, large-scale battles, one-turns, last stands, and what they can change about their characters. Everything they met in the prologue gets its name here. |
 | 7 | **Kalaman: arrival** ([[3.00 Storm Clouds]]) | **All six factions** | The big one. Hand out a one-page summary of the six, and nothing else new this session. |
 | 8 | **Downtime 1** | **Personal downtime activities** | Each player's own, from their sheet. No Bastion yet. |
-| 9 | **Mission 1: Rookledust** | **Mission check-ins** and the **Weapon Triangle** | Check-ins take ten seconds. The goblins are all blades, so let someone notice the hafted edge. |
+| 9 | **Mission 1: Rookledust** | **Mission check-ins** and the **Weapon Triangle** | Check-ins take ten seconds. The goblins are all blades, so let someone notice the polearm edge. |
 | 10 | **Downtime 2** | **The Bastion** and **Working a Faction** | The party has just been given the Bastion. Both are choices on the same downtime list. |
 | 11 | **Mission 2 or 3** | **Combo Attacks** | Once the party knows each other's tricks. Hint with a pairing. |
 | 12 | **Mission 3: the Blockade** | **Supply** (the stolen food) | The word, and the idea that food can be banked for later. No rules yet. |
@@ -70,6 +71,8 @@ Elsewhere there's plenty of room: nothing new arrives between the Wastes and the
 | **Deadline** | Some pressure on rest days | About 45 days against 25–30 needed | Left lenient on purpose. |
 | **Skirmish clashes** | 2–5 rounds | 4–6 at 4 × HP | HP cut to **3 ×**. Units no longer have disadvantage against heroes. |
 | **Weapon Triangle** | Noticeable, not mandatory | +17–22% damage | Fine. |
+| **Slopes and High Ground** | Noticeable when a map has a hill, never mandatory | Ranged +2: hit chance 55% to 65% at AC 15 and +5 to hit, about **+18%** damage. Downhill charge: one extra weapon die on the first hit, about **+30%** damage that round, once. | Fine, and it works both ways. |
+| **Against fliers** (in Where Each Weapon Shines) | Bows and crossbows matter when something is in the air | +1d6 on a longbow hit (avg 3.5 on about 7.5, so **about +45%** on that hit), but only against flying or gliding targets: dragonnels, gliding kapaks, the death dragons. | Fine: situational, and the party has few fliers to shoot at. |
 | **Storm Clouds content** (re-check after new events) | As for Factions above | 39 of 45 decisions had a free gain, 11 had several. Pleasing everyone left four factions Honoured (Military about 9). | Rival costs added to 32 options, so at most one free option per decision. Pleasing everyone now averages 2.4 to 4.8, mostly Trusted, with Military or Refugees sometimes Honoured. |
 | **Factions after the fold** (Refugees closed, Firefishers added) | Convicts can't please everyone. Harder factions pay better. | Pleasing everyone: Military 4.7, Smallfolk 4.1, Knights 2.9, Guilds 2.5, Firefishers 2.3, Mages 2.3. All six Trusted 7%. Favourites: two at +10, Guilds at -5. Casual: Smallfolk Honoured 82%, Guilds below 0 77%. | Left uneven on purpose. Knights and Mages signature rewards raised, Mages Trusted gets a scroll, three Smallfolk options got a cost. |
 

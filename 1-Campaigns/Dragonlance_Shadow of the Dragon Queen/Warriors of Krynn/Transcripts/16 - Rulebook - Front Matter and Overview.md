@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[01 - Rulebook - Credits and Components.jpg]] (photographed upside down). The credits are transcribed only in part, since they have no use at the table.*
 
-![[01 - Rulebook - Credits and Components.jpg]]
-
 ### CREDITS
 
 **Game Design:** Rob Daviau, Stephen Baker. **Additional Game Design & Development:** Noah Cohen, Brian Neff. **Project Lead:** Steve Scott. **Art Directors:** Bree Heiss, Emi Tanji. **Producer:** Rob Hawkey. **Writers:** Stephen Baker, Rob Daviau, Ari Levitch, F. Wesley Schneider, Michael Zenke. **Editors:** Judy Bauer, Gregg Luben, Adrian Ng, Jason Tondro. **Rules Consultation:** Jeremy Crawford. **Graphic Designers:** Matt Cole, Trystan Falcone, Bob Jordan, Trish Yochum. **Box Illustrators:** Antonio José Manzanedo, Dominik Mayer. **Tile and Card Illustrators:** Tom Babbey, David René Christensen, Nikki Dawes, Olga Drebas, Tinnel Lovitt, Warren Mahy, Calder Moore, Claudio Pozas, Julio Reyna, Hex Sharpe, David Sladek, Jeremy Wilson, Shawn Wood. **Concept Illustrator:** Shawn Wood. **Packaging Engineer:** Roni Ruggenberg. **Project Engineer:** Cynda Callaway. **Prepress Specialist:** Jefferson Dunlap.
@@ -67,8 +65,6 @@ tags:
 ## Rulebook p. 1, Table of Contents and Overview
 
 *Photo: [[02 - Rulebook p1 - Contents and Overview.jpg]]. *
-
-![[02 - Rulebook p1 - Contents and Overview.jpg]]
 
 ### TABLE OF CONTENTS
 

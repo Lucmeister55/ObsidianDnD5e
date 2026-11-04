@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[01 - Scenario 12 - Retreat from the Field Setup.jpg]]. A dark page with a diagram. The page number isn't printed on it. The unit icons in the diagram aren't transcribed one by one. **The printed title of Scenario 12 is "Retreat from the Field"**; our campaign notes call it "The Field of Kalaman".*
 
-![[01 - Scenario 12 - Retreat from the Field Setup.jpg]]
-
 ### SCENARIO 12: RETREAT FROM THE FIELD
 
 #### Objective
@@ -52,8 +50,6 @@ Five battle tiles: **6B** (left, **CENTER** flank, commander **C1**), **8A** and
 ## Scenario 12, Retreat from the Field, Running This Scenario (printed page 27)
 
 *Photo: [[02 - Scenario 12 - Retreat from the Field Running.jpg]]. Words washed out by glare in the first column are reconstructed from context. Text printed in red in the book is in *italics* here and marked (red).*
-
-![[02 - Scenario 12 - Retreat from the Field Running.jpg]]
 
 ### RUNNING THIS SCENARIO
 

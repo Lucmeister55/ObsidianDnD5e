@@ -169,154 +169,130 @@ Lines that put the rest of the campaign on the board. Use one when that faction'
 
 ## Scenario Lines
 
+> [!info] Source
+> Everything below comes from the book's own scenario text and key-moment entries ([[Scenario Book]], with the page transcripts in [[Transcripts]]). The key moments are listed in the order they come up. Nothing is added to them.
+
 ### Scenario 0: Introduction
 
-A practice game with no ties to the story. Use the generic lines.
+Not played. We skip the book's Training Ground ([[Warriors of Krynn#How We Use It]]).
 
 ### Scenario 1: Battle of Vogler
 
 *[[2.02 Preparing for the Worst#Scenario 1: Battle of Vogler|2.02]]*
 
-- **Opening:** The pass is narrow, between the sea and the cliffs. A hundred and fifty of Cudgel's mercenaries hold it, half of them in borrowed armour.
-- The point of the pass is that it forces the enemy into a bottleneck. It doesn't matter how many they have if only a few can fight at once.
-- Behind the line, carts leave Vogler by the inland road. Each hour held is a few more carts clear.
-- Becklin is behind the line, relaying orders through runners. Jeyev stays close to her.
-- **If the mercenaries' line buckles:** Cudgel rides into the gap himself.
-- **If an evacuation cart is in reach:** a wheel has come off on the inland road, and the family is pulling the cart by hand.
-- **The turn:** Smoke, banners, and a warhorn from the hills. A second force, many times larger, is coming.
-- **Ending:** Becklin orders everyone back to Vogler. The pass is no longer worth holding.
+- **Opening:** Becklin says this battle can't be won. The aim is to buy time for the villagers of Vogler to reach the ships on the coast.
+- Enemy forces are hunting the evacuees, and a fire-throwing war machine sits behind their lines, out of reach.
+- The heroes move the villagers one tile at a time, and never onto a tile with a vile champion.
+- **Key moments:** runners report that vile champions are hunting villagers on the road. Word comes that the left flank has fallen, though the centre holds for now. War engines throw flame across the right flank. Knights from the centre rush past, wounded and pursued, and nobody knows what has become of Becklin. The enemy musters far more than the force can withstand, and the last villagers have to go at once.
+- **If a line is lost:** the commanders do all they can to reinforce the rest, and in the chaos some villagers are killed.
+- **Ending:** Darrett reports that Becklin fell in battle.
 
 ### Scenario 2: Marshal's Gambit
 
 *[[3.05 Mission 2 - Ambushing the Enemy#Scenario 2: Marshal's Gambit|3.05]]*
 
-- **Opening:** Six hundred soldiers lie in the long grass, waiting for a column of eight hundred to walk into them. An ambush is only as good as the discipline of the men who wait.
-- The column is on the road and strung out, as columns are. The head and the tail are a long way apart.
-- **The choice:** A column of farmers is on the road between the armies. *(See the faction choice in 3.05.)*
-- **If an ambushing unit is spotted early:** a horn sounds too soon, from somewhere down the line. The plan is over, and the generals know it.
-- **If the column's rear guard is destroyed:** the farmers' carts are unprotected.
-- A runner from Vendri: "The Marshal says, now."
-- **Ending:** Vendri will want a written report by morning.
+- **Opening:** Kalaman's forces engage the Dragon Army as a mass distraction. Vendri's spy is on the right flank and the heroes have to find them.
+- Taking the spy out is a Dexterity conflict, and its difficulty is the number of enemy units on that flank.
+- Anyone leaving a tile with a vile champion while escorting the spy risks capture on a Woe.
+- **Key moments:** Keza Daywatcher's forces feint on the left flank and gain a tactical advantage. Fewmaster Roake sends his most loyal forces to cut off reinforcements reaching the camp. Daywatcher's forces redouble their assault on the left while vile champions search the shadows. Lohezet's forces move to cover the high road, which leads to safety. Enemy forces sight the spy and are in hot pursuit.
+- **If the spy is caught:** it can happen in the bracken, in the shadow of a boulder, or when the lines collapse and the spy is executed.
+- **Ending:** Darrett says what the spy's warnings were worth, or that a good one was lost.
 
 ### Scenario 3: Engines of War
 
 *[[3.07 Mission 3 - Draconian Blockade#Scenario 3: Engines of War|3.07]]*
 
-- **Opening:** The enemy engines are slow. Six of them, each pulled by a team of oxen, and they have to be unlimbered and ranged before they can fire.
-- The first shots are ranging shots, and they miss. The second round will not.
-- The crews are exposed whenever they reload. That's the opening.
-- A Mason from the guild rode out with you and is sketching the nearest engine. He can't be stopped.
-- **If an engine is destroyed:** it burns slowly and comes apart one beam at a time.
-- **If the oxen are killed:** the engine can't move. It's now a fixed position.
-- **The choice:** Burn them, or take one home for Uri Stonegrey. *(See the faction choice in 3.07.)*
-- **Ending:** On a win, Tatina will want to see it before anyone else touches it.
+- **Opening:** The ambush was met by Dragon Army reinforcements, but the enemy's war engines are out in the open. The heroes destroy the minor engines and capture their crews.
+- Larger engines sit behind the enemy lines and smaller ones are among the troops.
+- **Key moments:** Hana Shadowbolt's scouting party warns of mounted units approaching from the right flanks. The foot soldiers of Grikan Ghar and Belephaion advance together. Belephaion's warhorn restores the Dragon Army's commanders. The enemy commander orders the troops to target the heroes. The draconians march.
+- **If the lines collapse:** captured engine crews break free, and a war band led by Xemira can storm the command tent and nearly kill Darrett.
+- **Ending:** Darrett says how many crews got away.
 
 ### Scenario 4: Catastrophe
 
 *[[3.12 Steel Springs#Scenario 4: Catastrophe|3.12]]*
 
-- **Opening:** Kalaman's army has marched thirty-five miles and is tired. The enemy is rested, and there are more of them than the outriders counted.
-- Most of Kansaldi's force is draconians, who need no tents or fires. The scouts counted what an army of men looks like, so the numbers were wrong.
-- Ignia passes low over the field. Kansaldi is on her back.
-- Kalaman's units are retreating in disorder, and the order has come too late to help.
-- **If a Kalaman unit is destroyed:** another banner goes down, and the units next to it are now flanked.
-- **If an enemy unit is destroyed:** more come out of the old diggings round the springs.
-- **If Darrett's unit is hurt:** Darrett has Lord Bakaris on his own saddle and is leaving the field.
-- **The turn:** Ignia breathes a column of fire straight up. The Dragon Army's horns answer it, and its line falls back.
-- **Ending:** The ford over the Inkwater is behind the army, and the wounded are already in the water. *(Go to the Inkwater skirmish.)*
+- **Opening:** Bakaris the Elder's attack has failed and he has left the field. Darrett needs the army to be standing at dawn, when the riders sent for reinforcements can arrive.
+- Locals say a witch in the woods helps those who leave offerings for Lunitari. The heroes have to bring four offerings to her hut.
+- **Key moments:** Keza Daywatcher's forces escort a vile champion to the crossroads while more enemy units stream in. Bakaris the Elder flees the battlefield with his vanguard, and Darrett has the command tent set up again at once. The Dragon Army deploys more archers, and Dram Nosebiter sends a vile champion at the village. Korav the Shadow Weaver completes a ritual and the enemy commanders are renewed. Mounted soldiers under Kalaman's banner arrive. At dawn, Hana Shadowbolt charges from the tree line and Darrett gives the order to attack.
+- **Ending:** Willem reports that Bakaris the Younger is missing and presumed dead, and Bakaris the Elder takes it badly.
 
 ### Scenario 5: Valley of Barbed Tails
 
 *[[3.12 Steel Springs#Scenario 5: Valley of Barbed Tails|3.12]]*
 
-- **Opening:** The valley narrows. Three hundred men turn around to hold it so the rest can get through.
-- A rearguard's job is to delay, not to win. Every hour held is a few miles of distance for the wounded.
-- The pursuers are tired too. They have been marching since Steel Springs.
-- **Ending:** In Kalaman, Vendri is counting how many come home. *(On a loss, the city sees the losses.)*
+- **Opening:** After Bakaris's attack, Graystone, Lord Deveral and Tatina look for a fast route through the Daargard Mountains. The Dragon Army has blocked the usual passes, and the Dragon Army has been capturing wyverns in the region.
+- The heroes scout seven places for an old route around the mountains: an ancient monolith, a mine, an old bridge, a sacred glade, a tomb, a witch's hut and woods.
+- **Key moments:** wyverns attack from the frontier highlands. Luang Charfingers sends a champion to the old bridge to keep the army bottled up in the valley, while wyverns lash the lines. Jorl Morg sends the wyvern-riders to hunt the heroes. As night approaches, Wersten Kern raises the dead to reinforce the enemy. Darkness falls and the Alliance lines begin to buckle.
+- **If a place is scouted:** the monolith's sigils glow red and set off a fireball later, the mine's beacon throws the enemy into chaos, the bridge's boulders shake enemy foot, the tomb holds a map of an escape route beneath the highlands, and the witch's hut shakes enemy units.
+- **Ending:** Tatina reports how smooth the passage through the valley was.
 
 ### Scenario 6: Dark Moon Rises
 
-*[[4.05 Dark Moon Rises#Scenario 6: Dark Moon Rises|4.05]]*
+*[[3.13 The Raided Catacombs#Bonus Battle: Dark Moon Rises (Scenario 6)|3.13]]*
 
-- **Opening:** Read the boxed text in 4.05. Visibility is a few feet, and ships can't see each other.
-- Boarding is a land battle on a small deck. The attackers need grappling lines, and the defenders can cut them.
-- Fire is the real threat. A burning ship takes everything on it down.
-- Lunitari hangs low and red, and Solinari is almost gone. [A moon-touched PC] can feel the third moon overhead.
-- **If a boarding party is destroyed:** a minotaur goes over the rail and swims back to its ship with the axe in its teeth.
-- **If a fire spreads:** the supply ship's hold is next.
-- **If a Kalaman ship is hit:** the ones nearby lose their formation in the fog, and the fleet scatters.
-- **Ending:** The black ships turn away. They came to sink one ship and they did.
+- **Opening:** A Dragon Army ritual has made four Alliance commanders (Graystone, Lord Deveral, Shadowbolt and Thea) join the enemy. Thea warned that the Dragon Army is using Nuitari's magic to open portals for reinforcements.
+- An enchanted commander acts as a second Dragon Army commander on their tile. Freeing one is a conflict, and it gets harder with every magic effect on them.
+- Each of the three portals is held by a vile champion, and defeating the champion closes the portal.
+- **Key moments:** draconian mages complete their incantations and the portals open. Fewmaster Roake commands the vile champions into action. A prayer from Belephaion floods the field with Dragon Army units. Wersten Kern sounds his warhorn and the Dragon Army charges along every flank. Korav the Shadow Weaver completes his ritual as Nuitari rises, and every portal flares.
+- **Ending:** Graystone speaks for the freed commanders, or the commander says their magic was too much.
 
 ### Scenario 7: Break the Walls
 
 *[[4.15 Break the Walls#Scenario 7: Break the Walls|4.15]]*
 
-The party is slipping through Wind's End, so these are the battle as they hear and glimpse it.
-
-- **Opening:** Darrett's horns, far off, then the crash of the first assault on the canyon wall.
-- An assault on a wall uses ladders and ropes. The first wave carries the ladders, and it takes the worst of the fire.
-- Dragonnels fly over, low, heading for the fighting. They haven't seen you.
-- *(If the camp is starving.)* Darrett's soldiers are slow on the ladders. They haven't eaten properly since the wreck.
-- **The turn:** A second horn, further up the canyon. More of the Dragon Army is coming.
-- **Ending:** Whatever is happening at the wall, it's drawing every defender to it. Use it.
+- **Opening:** The siege of the City of Lost Names went well at first, until Dragon Army reinforcements arrived. The Alliance is caught between the enemy in the city and the foes closing in behind it.
+- Willem sends the heroes to gather intelligence around the battlefield and find the secret passage into the ruins.
+- **Key moments:** the Dragon Army builds crude barricades from the city's rubble under Lohezet's eye. The roar of war engines calls more vile champions. Dram Nosebiter brings mounted reserves. Morphir the Gold raises an illusory sigil and the draconians go into a frenzy. Red dragons scour the Alliance troops, and the passage must be found now.
+- **If a wall falls:** Dragon Army troops from within the ruin rush the lines, or the siege fails and the allies are assaulted from within and without.
+- **Ending:** the heroes head into the passage, or retreat and look for another way.
 
 ### Scenario 8: Fighting Retreat
 
 *[[6.01 Fighting Retreat#Scenario 8: Fighting Retreat|6.01]]*
 
-- **Opening:** About three hundred remain. A retreating army moves at the speed of its slowest wagon.
-- A fighting retreat means one unit holds while the next falls back past it, then they swap. Done right, it costs few men. Done wrong, it's a rout.
-- *(If Cudgel lived.)* Cudgel's mercenaries are the rearguard, as they were at Vogler.
-- Something large and dead flies over, out of the citadel's shadow. Every unit in the column checks its formation.
-- **Ending:** The coast, and the ships.
+- **Opening:** Boulder-sized debris falls from the fortress rising into the sky. Willem signals a full retreat to the river, since the enemy is trying to cut the army off, and gives the heroes scouts to command.
+- Each time the Alliance takes the active flank, the army moves one tile closer to the River Crossing.
+- **Key moments:** fighting free of the city into a vast tract of desert and leading the charge into the canyon. The battle on the Cactus Trail. Huts and ruins on the foothills, and the river in sight. The race for the River Crossing. The final stand with the river at the army's back.
+- **If the Dragon Army takes the active flank:** fear takes hold, the line of retreat is sundered and the army scatters.
+- **Ending:** Willem is alone beside a campfire at the rendezvous point.
 
 ### Scenario 9: March of the Black Rose
 
 *[[6.03 March of the Black Rose#Scenario 9: March of the Black Rose|6.03]]*
 
-- **Opening:** The dead ride in silence. No drums, no horns, and no rest. They don't tire or need water.
-- That's the advantage: our units run down over the day, and theirs don't.
-- Behind the riders, the trade camps outside Kalaman's walls. The people in them are watching.
-- At the head of the column rides a knight with Ispin's face.
-- **If a skeletal knight falls:** the others close up the gap without a glance.
-- **If a Kalaman unit breaks:** the dead don't pursue. They hold the road and keep marching.
-- **If a knight PC strikes at the one with Ispin's face:** the whole column stops for a moment.
-- Ispin's shield on [the knight PC]'s arm is warm.
-- **Ending:** The black rose is down, or it isn't. Either way, the city has seen what's coming.
+- **Opening:** Thea's image wakes the heroes. Lord Soth's forces have ambushed the contingent, and an unnatural mist kills soldiers with weak constitutions and raises them as undead.
+- Most of the field is hidden in the mist. Tiles, units and commanders are set up as scouts reach them.
+- The heroes look for mystic forces friendly to the cause: a witch, barrow spirits, a fairy pool, a tomb, a scrying pool and a catapult crew.
+- **Key moments:** Lord Soth's voice moves the vile champions and shakes the Alliance commanders. Wyvern-riders arrive from the wastes. Vile champions hunt the heroes in the mist. At the Dragon Army's command, the weak and wounded who fall rise again as undead soldiers. The mists thicken and the dead rise all around.
+- **If a line is lost:** soldiers are dragged down by the undead and the survivors escape into the mist.
+- **Ending:** Thea comes to find the heroes with her red robes stained darker.
 
 ### Scenario 10: Day of a Thousand Fires
 
 *[[6.04 Day of a Thousand Fires#Scenario 10: Day of a Thousand Fires|6.04]]*
 
-- **Opening:** The enemy isn't trying to storm the walls tonight. They're setting the city on fire, and fire does more damage than the assault would.
-- The defence is water. Bucket lines run up from the harbour, and the harbour is a long way from the fire.
-- Ballistae on the towers fire at dragonnels. A hit panics the whole flight.
-- A guard in Kalaman colours walks past you on the wall. You don't know his face. Nobody does.
-- **If a wall unit is destroyed:** fire pots land in the gap, and the bell on the tower beside it rings faster.
-- **If a bucket line is lost:** the fire reaches the next roof.
-- **If a district burns:** the people run for the walls, and the soldiers have to decide whether to let them pass.
-- **Ending:** Dawn is grey with smoke. Outside the walls, the army is forming up.
+- **Opening:** Darrett says the Dragon Army has taken the fight to Kalaman on all sides, but Tatina Rookledust's device can carry the heroes past the blockade. Five local leaders are waiting.
+- Two have already made requests: a vile beast troubles Bransad Wheathair's land, and the Bandit King, Ghaldric Longfang, wants supplies and is fickle in his loyalties.
+- Each land has its own battle tile. When one falls, that land is lost and the others carry on.
+- **Key moments:** red dragons burn a swathe from the steppes to the crossroads. Dragons sweep in from the west and scour the earth from the mountains to the scrublands. A mighty red dragon joins the Red Ruin in assaulting the broken lands. The people of the five lands ride to the aid of Kalaman, one unit for every leader won. Night falls on the north, and alliances must be cemented now or not at all.
+- **Ending:** Darrett says how much the alliances will matter in the battles to come.
 
 ### Scenario 11: Siege of Kalaman
 
 *[[6.05 Siege of Kalaman#Scenario 11: Siege of Kalaman|6.05]]*
 
-- **Opening:** Six thousand of them, and the ladders go up all along the wall.
-- Defenders on a wall have the advantage of height, but only where there are enough of them. A thin wall falls quickly.
-- Every ally the party brought to this wall is on it: [the Siege Ledger allies]. This is what all of that was for.
-- The ram hits the Trade Gate, and the whole gatehouse shudders.
-- **If a wall unit is destroyed:** a ladder lands on the empty stretch, and the first man up is already shouting.
-- **If the ram hits the gate:** every unit on the wall hears it. The portcullis groans.
-- **If a Siege Ledger ally arrives:** name them, and say who they are.
-- **Ending:** Clystran's dragonnels come in low over the harbour, and there's an empty saddle for each of you.
+- **Opening:** Kalaman is under siege, and the flying citadel is the greater threat. Vendri says dragonnels are coming to carry the heroes to the citadel and the army will cover their ascent with an attack, then fall back. Contact was lost with the scouts who know where to meet them.
+- The battle moves through three zones (outer defence, field fortifications, the city). A retreat shifts the whole defence one zone inwards.
+- **Key moments:** a red dragon lands practically on top of the command tent. Kansaldi orders the red dragons to renew their attack. The dead rise wherever the citadel's shadow passes. Dragonnel-riders appear on the horizon. A red dragon draws the Alliance arrows while fresh troops advance. Kansaldi sends her most dangerous champions to hunt the dragonnel-riders. Despair is on every soldier's face and fire rains on the city.
+- **If a zone falls:** the citadel's shadow chills the soldiers, veterans drop their weapons and flee, and if the city itself falls the scenario is lost.
+- **Ending:** the heroes mount the dragonnels and fly to the citadel.
 
 ### Scenario 12: The Field of Kalaman
 
-*[[6.07 Kalaman Victorious#Scenario 12: The Field of Kalaman|6.07]]*
+*[[6.07 Kalaman Victorious#Scenario 12: The Field of Kalaman|6.07]] (the book prints it as "Retreat from the Field")*
 
-- **Opening:** The gates open. Kalaman's army walks out for the first time since Steel Springs.
-- The Dragon Army has lost its citadel and its commanders. The units left don't know who's giving orders.
-- The militia goes out with the soldiers. Nobody tells them not to.
-- **If an enemy unit breaks:** it runs for the hills, and its officers are the first ones running.
-- **If a Kalaman unit is hit:** it should be easy by now, and it makes the survivors angrier than anything has been.
-- **Ending:** Darrett comes back across the field carrying something out of the rubble. *(See 6.07.)*
+- **Opening:** Darrett and Vendri watch from Kalaman's battlements as the flying citadel crumbles. The army will defend the gates and sweep the field, and the heroes are asked to rally the troops beyond them.
+- Idle troops don't fight until a hero places a commander on their tile.
+- **Key moments:** Kansaldi's will re-forms the scattered Dragon Army units. Sergeants and dragons drive the cowering enemy soldiers back into line. The Dragon Army's banners rise again as the soldiers rally. Kansaldi prevents a rout. The flying citadel crashes into the field beyond Kalaman, and Kansaldi rallies the Dragon Army anyway.
+- **Ending:** Vendri tells the army what the defence of Kalaman has earned.

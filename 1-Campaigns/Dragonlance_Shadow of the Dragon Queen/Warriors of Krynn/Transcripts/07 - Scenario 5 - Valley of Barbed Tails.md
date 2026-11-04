@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[01 - Scenario 5 - Valley of Barbed Tails Setup.jpg]]. A dark page with a diagram. The page number isn't printed on it. The unit icons in the diagram aren't transcribed one by one.*
 
-![[01 - Scenario 5 - Valley of Barbed Tails Setup.jpg]]
-
 ### SCENARIO 5: VALLEY OF BARBED TAILS
 
 #### Objective
@@ -50,8 +48,6 @@ Three battle tiles: **2B** (left), **4B** (center) and **9A** (lower right, with
 ## Scenario 5, Valley of Barbed Tails, Running This Scenario (printed page 13)
 
 *Photo: [[02 - Scenario 5 - Valley of Barbed Tails Running.jpg]]. Words washed out by glare in the first column are reconstructed from context. Text printed in red in the book is in *italics* here and marked (red).*
-
-![[02 - Scenario 5 - Valley of Barbed Tails Running.jpg]]
 
 ### RUNNING THIS SCENARIO
 

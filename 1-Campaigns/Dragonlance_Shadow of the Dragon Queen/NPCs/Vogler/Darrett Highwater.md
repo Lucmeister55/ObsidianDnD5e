@@ -8,6 +8,8 @@ tags:
 
 Becklin's squire, and Edric's friend from their squire days. His parents abandoned him in Vogler as a boy, the village raised him, and Becklin took him under her wing. He's fastidious, well-read and painfully earnest. His mind works faster than his mouth, and he apologises every time he catches himself saying something he thinks isn't knightly enough. He's the party's link to Kalaman's military, and he wants more than anything to deserve the Order.
 
+**At a glance:** lawful good human man, early 20s, squire to [[Becklin Uth Viharin]] and a Knight of Solamnia in training. His parents abandoned him in Vogler about ten years ago, at twelve. Stat block in the companion's Appendix A.
+
 ## Voice
 
 Warm, easy and likable, the friend who's thrilled to see you and doesn't hide it. With Edric he's a bro: teasing, laughing at himself, pulling out a nickname the moment nobody senior is listening ("Ric", "Ser Spurs", now that the spurs are new). His mind runs ahead of his mouth, so he trails off, grins and starts again. The earnest, apologising squire only comes out when Becklin or the Order is watching: he catches himself mid-sentence and straightens up like it's inspection, and Edric can tease him for it. Slightly folksy English, a village lad's turn of phrase ("mate", "daft", "come off it") that his knightly manners never quite cover. Nothing American. *(Suggestion: Paul Mescal at his most relaxed, with a bit of West Country in it.

@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[01 - Scenario 7 - Break the Walls Setup.jpg]]. A dark page with a diagram, photographed sideways. The page number isn't printed on it. The unit icons in the diagram aren't transcribed one by one.*
 
-![[01 - Scenario 7 - Break the Walls Setup.jpg]]
-
 ### SCENARIO 7: BREAK THE WALLS
 
 #### Objective
@@ -52,8 +50,6 @@ Five battle tiles around a central one: **2A** (center, **CENTER** flank, comman
 ## Scenario 7, Break the Walls, Running This Scenario (printed page 17, number cut off in the photo)
 
 *Photo: [[02 - Scenario 7 - Break the Walls Running.jpg]]. Words washed out by glare in the first column are reconstructed from context. Text printed in red in the book is in *italics* here and marked (red).*
-
-![[02 - Scenario 7 - Break the Walls Running.jpg]]
 
 ### RUNNING THIS SCENARIO
 

@@ -33,7 +33,7 @@ Every encounter in the chapter notes is tagged:
 ## Procedure
 
 1. **Set the scene** in two or three lines: who's where, and what's dangerous (the archer on the roof, the ogre's reach, the cliff edge).
-2. **Go round the table once,** in any order. Each player describes their one turn. Combos ([[Combo Attacks]]) are encouraged, and players can build on each other's descriptions.
+2. **Go round the table once,** in any order. Each player describes their one turn. Combos ([[Combat Extras#Combo Attacks|Combo Attacks]]) are encouraged, and players can build on each other's descriptions.
 3. **Rate each description** (quietly, or out loud if the table likes it):
 
 | Rating | What it looks like | Cost to that character |

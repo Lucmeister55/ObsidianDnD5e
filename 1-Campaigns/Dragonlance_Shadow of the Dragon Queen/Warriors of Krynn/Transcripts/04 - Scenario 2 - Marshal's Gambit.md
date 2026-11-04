@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[01 - Scenario 2 - Marshal's Gambit Setup.jpg]]. A dark page with a diagram. The page number isn't printed on it. The unit icons in the diagram aren't transcribed one by one, and the commander card on the far left is hidden by glare.*
 
-![[01 - Scenario 2 - Marshal's Gambit Setup.jpg]]
-
 ### SCENARIO 2: MARSHAL'S GAMBIT
 
 #### Objective
@@ -43,8 +41,6 @@ Three battle tiles in a row: **8A** (left), **2A** (center) and **7B** (right). 
 ## Scenario 2, Marshal's Gambit, Running This Scenario (printed page 7)
 
 *Photo: [[02 - Scenario 2 - Marshal's Gambit Running.jpg]]. Words washed out by glare in the first column are reconstructed in [square brackets]. Text printed in red in the book is in *italics* here and marked (red).*
-
-![[02 - Scenario 2 - Marshal's Gambit Running.jpg]]
 
 ### RUNNING THIS SCENARIO
 

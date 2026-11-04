@@ -8,6 +8,8 @@ tags:
 
 **Ridomir "Cudgel" Ironsmile**, a hill dwarf from Kayolin, south of Solamnia, and captain of the **Ironclad Regiment**, a small mercenary company with a reputation for beating the odds. She spent most of her life on the road with Ispin and Becklin, which is where she earned the name. She's loud, warm and practical, she loves a good plan and a better tavern, and she grins at everything, especially trouble. Her people would follow her anywhere, and at Vogler most of them do.
 
+**At a glance:** neutral hill dwarf woman, a veteran, **120 years old** though physically in her mid-30s. Friend and former adventuring companion of [[Ispin Greenshield]].
+
 ## Voice
 
 Big, booming and cheerful, always the loudest voice in the room, because "the loudest voice usually wins the argument". She calls everyone "lad" or "lass" regardless. *(Suggestion: Brian Blessed, as a dwarf woman.)*
@@ -37,6 +39,8 @@ Short, broad and solid as a door, with copper braids bound in iron rings and the
 - **The party:** she met them at the funeral, and a knight PC knows her from Ispin's road. After the Missing Scouts mission she owes them her life.
 
 ## In the Campaign
+
+> [!homebrew] **Branching.** Cudgel survives the Battle of Vogler on a **win or a hold**, and falls on a **loss** ([[2.02 Preparing for the Worst#Resolution]]). If she falls, there is no Mission 4 return: a sergeant of the Regiment leads the last ten in her place.
 
 - **Vogler** ([[1.00 An Ordinary Day]], [[2.00 Broken Silence]]): the funeral, the reenactment, Gragonis's betrayal at High Hill, and the stand at the pass with Becklin.
 - **Back from the wilds** ([[3.09 Mission 4 - Missing Scouts]]): she and the last ten of the regiment run into the party, dead on their feet. Then there's the fight over their pay ([[3.10 Downtime 5]]).

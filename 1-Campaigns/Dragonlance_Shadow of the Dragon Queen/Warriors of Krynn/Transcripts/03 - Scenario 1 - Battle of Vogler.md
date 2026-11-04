@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[01 - Scenario 1 - Battle of Vogler Setup.jpg]]. A dark page with a diagram. The page number isn't printed on it. The unit icons in the diagram aren't transcribed one by one.*
 
-![[01 - Scenario 1 - Battle of Vogler Setup.jpg]]
-
 ### SCENARIO 1: BATTLE OF VOGLER
 
 #### Objective
@@ -41,8 +39,6 @@ Battle tiles **4A** (left) and **9B** (right), joined through adventure tiles **
 ## Scenario 1, Battle of Vogler, Running This Scenario (printed page 5)
 
 *Photo: [[02 - Scenario 1 - Battle of Vogler Running.jpg]]. Words washed out by glare in the first column are reconstructed in [square brackets]. Text printed in red in the book is in *italics* here and marked (red).*
-
-![[02 - Scenario 1 - Battle of Vogler Running.jpg]]
 
 ### RUNNING THIS SCENARIO
 

@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[01 - Scenario 11 - Siege of Kalaman Setup.jpg]]. A dark page with a diagram. The page number isn't printed on it. The unit icons in the diagram aren't transcribed one by one.*
 
-![[01 - Scenario 11 - Siege of Kalaman Setup.jpg]]
-
 ### SCENARIO 11: SIEGE OF KALAMAN
 
 #### Objective
@@ -60,8 +58,6 @@ Adventure tiles connect the zones (11B, 25A, 30B, 16B, 19B, 29B, 20B at the top;
 ## Scenario 11, Siege of Kalaman, Running This Scenario (printed page 25)
 
 *Photo: [[02 - Scenario 11 - Siege of Kalaman Running.jpg]]. **The photo ends partway through the last row of the rendezvous table and partway through the last retreat bullet**, so those two spots are marked [cut off]. Everything else on the page is visible. Text printed in red in the book is in *italics* here and marked (red).*
-
-![[02 - Scenario 11 - Siege of Kalaman Running.jpg]]
 
 ### RUNNING THIS SCENARIO
 

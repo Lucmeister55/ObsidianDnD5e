@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[01 - Scenario 10 - Day of a Thousand Fires Setup.jpg]]. A dark page with a diagram. The page number isn't printed on it. The unit icons in the diagram aren't transcribed one by one.*
 
-![[01 - Scenario 10 - Day of a Thousand Fires Setup.jpg]]
-
 ### SCENARIO 10: DAY OF A THOUSAND FIRES
 
 #### Objective
@@ -58,8 +56,6 @@ Five separate lands, each a lone battle tile with adventure tiles round it: **3A
 ## Scenario 10, Day of a Thousand Fires, Running This Scenario (printed page 23)
 
 *Photo: [[02 - Scenario 10 - Day of a Thousand Fires Running.jpg]]. Words washed out by glare in the first column are reconstructed from context. Text printed in red in the book is in *italics* here and marked (red). The spelling "Calvary" in the quest table is as printed.*
-
-![[02 - Scenario 10 - Day of a Thousand Fires Running.jpg]]
 
 ### RUNNING THIS SCENARIO
 

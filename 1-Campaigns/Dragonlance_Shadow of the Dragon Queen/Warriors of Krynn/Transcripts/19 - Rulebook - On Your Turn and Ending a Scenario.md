@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[09 - Rulebook p8 - Stop Stress Wilderness and Turn.jpg]]. The page number is cut off at the bottom-left of the photo. This page continues the Key Terms from page 7.*
 
-![[09 - Rulebook p8 - Stop Stress Wilderness and Turn.jpg]]
-
 #### Stop
 
 Some adventure and battle tiles contain an obstacle represented by either a stop symbol printed on the tile itself or a stop token placed on the tile. If you move to a tile that has a stop symbol or token on it, you must stop moving until your next turn, unless an effect allows you to cover the symbol or remove the token.
@@ -72,8 +70,6 @@ To succeed in a conflict, you must roll hits on the battle dice equal to or grea
 ## Rulebook p. 9, Conflicts (end), Encounters, Moving Your Hero
 
 *Photo: [[10 - Rulebook p9 - Encounters and Movement.jpg]]. *
-
-![[10 - Rulebook p9 - Encounters and Movement.jpg]]
 
 *(Continued from "Initiate a Conflict", page 8.)* Once your dice pool is set, roll the dice and count the hits. If the hits equal or exceed the difficulty, you succeed. If you defeat a vile champion this way, remove it. If you roll more hits than the difficulty against a vile champion, you also draw 1 equipment card. If you roll fewer hits, you fail, but you may spend 1 or more actions to try again.
 
@@ -136,8 +132,6 @@ You can't move from the Dragon Army's side of a battle tile to an adjacent adven
 ## Rulebook p. 10, Free Actions to Fights between Lines (steps 1 and 2)
 
 *Photo: [[11 - Rulebook p10 - Respite and Battle Phase.jpg]]. The page number is not visible in the photo.*
-
-![[11 - Rulebook p10 - Respite and Battle Phase.jpg]]
 
 #### Play Free Action Cards
 
@@ -204,8 +198,6 @@ When the unit card is revealed, any hero on the active flank may play cards and 
 ## Rulebook p. 11, Applying Hits, Controlled Tiles, Ending a Scenario
 
 *Photo: [[12 - Rulebook p11 - Hits Control and Ending.jpg]]. A few words along the left edge are washed out by glare and reconstructed from context.*
-
-![[12 - Rulebook p11 - Hits Control and Ending.jpg]]
 
 ##### 3: Roll Battle Dice and Apply Hits
 

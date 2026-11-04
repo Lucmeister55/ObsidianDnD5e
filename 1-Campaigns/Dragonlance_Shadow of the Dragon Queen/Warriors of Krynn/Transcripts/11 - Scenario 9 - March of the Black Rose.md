@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[01 - Scenario 9 - March of the Black Rose Setup.jpg]]. A dark page with a diagram, photographed upside down. The page number isn't printed on it. The unit icons in the diagram aren't transcribed one by one.*
 
-![[01 - Scenario 9 - March of the Black Rose Setup.jpg]]
-
 ### SCENARIO 9: MARCH OF THE BLACK ROSE
 
 #### Objective
@@ -50,8 +48,6 @@ Call-out beside the diagram: Set aside the following adventure tiles for later i
 ## Scenario 9, March of the Black Rose, Running This Scenario (printed page 21)
 
 *Photo: [[02 - Scenario 9 - March of the Black Rose Running.jpg]] (photographed upside down). Words washed out by glare in the first column are reconstructed from context. Text printed in red in the book is in *italics* here and marked (red).*
-
-![[02 - Scenario 9 - March of the Black Rose Running.jpg]]
 
 ### RUNNING THIS SCENARIO
 

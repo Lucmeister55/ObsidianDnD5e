@@ -8,6 +8,8 @@ tags:
 
 Vogler's mayor: a practical, warm, river-born woman in her thirties who runs the village the way she'd run a boat, by doing whatever needs doing herself, first. She lives in a two-storey house on the village circle and keeps two guest rooms, lavishly decorated with mounted fish, for any villager going through a hard time. She's the one who blows the whistle to start the Battle of High Hill reenactment every year. She **dies at the end of the Vogler arc**, killed by [[Kansaldi Fire-Eyes]] while holding the line so her people can get onto the boats (see the companion PDF and [[2.00 Broken Silence]]).
 
+**At a glance:** neutral good human woman (scout stat block), early 30s. Down to earth but strong willed, and passionate about fishing.
+
 ## Voice
 
 Brisk, friendly and blunt, with a fisherwoman's turn of phrase. She laughs easily and swears freely. *(Suggestion: Jodie Whittaker.)*

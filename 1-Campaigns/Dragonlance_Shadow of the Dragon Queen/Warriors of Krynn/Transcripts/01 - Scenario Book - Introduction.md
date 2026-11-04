@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[01 - Scenario Book - Introduction.jpg]]. Part of the text is washed out by glare in the photo, and letters reconstructed from context are marked with [square brackets].*
 
-![[01 - Scenario Book - Introduction.jpg]]
-
 ### INTRODUCTION
 
 This book presents scenarios for *Dragonlance: Warriors of Krynn*, tales of fantasy adventure and warfare. Use the rules presented in the rulebook to run these scenarios as a complete campaign, or choose your favorite scenarios to run as single-session battles. This section details what you'll find in this book and how to use it in your *Warriors of Krynn* games.

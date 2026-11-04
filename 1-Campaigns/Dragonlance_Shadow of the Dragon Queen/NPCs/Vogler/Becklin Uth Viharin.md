@@ -8,6 +8,8 @@ tags:
 
 A Knight of the Crown in her later years, and castellan of the ruined Thornwall Keep above Vogler for the last decade, a posting that is half duty and half quiet retirement. She adventured with Ispin and Cudgel when they were young. She's warm and patient, fiercely protective of Vogler and of her squire Darrett, and happiest of all with a trowel in her hand, digging through the ruins of Thornwall and telling anyone who'll listen that Vogler was an island before the Cataclysm.
 
+**At a glance:** lawful good human woman, early 50s, Knight of Solamnia (Knight of the Crown). Friend and former adventuring companion of [[Ispin Greenshield]].
+
 ## Voice
 
 Calm, kind, a little dry, with a teacher's habit of turning everything into a history lesson. *(Suggestion: Olivia Colman.)*

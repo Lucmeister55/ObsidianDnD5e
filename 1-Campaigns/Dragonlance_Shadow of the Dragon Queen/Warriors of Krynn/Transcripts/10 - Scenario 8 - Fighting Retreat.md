@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[01 - Scenario 8 - Fighting Retreat Setup.jpg]]. A dark page with a diagram. The page number isn't printed on it. The unit icons in the diagram aren't transcribed one by one.*
 
-![[01 - Scenario 8 - Fighting Retreat Setup.jpg]]
-
 ### SCENARIO 8: FIGHTING RETREAT
 
 #### Objective
@@ -52,8 +50,6 @@ A chain of five battle tiles running from the top right to the bottom left: **7A
 ## Scenario 8, Fighting Retreat, Running This Scenario (printed page 19)
 
 *Photo: [[02 - Scenario 8 - Fighting Retreat Running.jpg]]. Words washed out by glare in the Scenario Rules intro are reconstructed from context. Text printed in red in the book is in *italics* here and marked (red).*
-
-![[02 - Scenario 8 - Fighting Retreat Running.jpg]]
 
 ### RUNNING THIS SCENARIO
 

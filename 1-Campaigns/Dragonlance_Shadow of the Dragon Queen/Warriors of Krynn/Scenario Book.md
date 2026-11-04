@@ -7,15 +7,11 @@ tags:
 
 *Back to [[Warriors of Krynn]]*
 
-Pictures of the *Warriors of Krynn* scenario book, one folder per scenario. Drop a scenario's pages into `Warriors of Krynn/Pages/Scenarios/NN` (for example `Pages/Scenarios/04`) and they show up under it by themselves, in name order. Pages that aren't about one scenario (the introduction, general setup) go in `Pages/Scenarios/General`. Click a page to open it full size.
+The *Warriors of Krynn* scenario book, one section per scenario, with a link to its transcript and to our narration lines. The page photos are in `Pages/Scenarios` (one folder per scenario).
 
 ## General
 
 **Transcripts:** [[01 - Scenario Book - Introduction|Scenario Book - Introduction]] · [[15 - Scenario Book - Campaign Conclusion, Chronicle and Heroes|Scenario Book - Campaign Conclusion, Chronicle and Heroes]]
-
-```dataviewjs
-await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Krynn/pages", { folder: "Pages/Scenarios/General" })
-```
 
 ## Scenario 0: Introduction
 
@@ -23,11 +19,7 @@ await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Kr
 
 **Lines:** [[Battle Lines#Scenario 0: Introduction]]
 
-**Played in:** not placed. A practice game, before Scenario 1 if the table wants one.
-
-```dataviewjs
-await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Krynn/pages", { folder: "Pages/Scenarios/00" })
-```
+**Role:** never run. We skip the Training Ground and learn by playing Scenario 1.
 
 **Notes:**
 
@@ -37,11 +29,7 @@ await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Kr
 
 **Lines:** [[Battle Lines#Scenario 1: Battle of Vogler]]
 
-**Played in:** [[2.02 Preparing for the Worst#Scenario 1: Battle of Vogler|2.02 Preparing for the Worst]]
-
-```dataviewjs
-await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Krynn/pages", { folder: "Pages/Scenarios/01" })
-```
+**Role:** required, always the first game. **Played in:** [[2.02 Preparing for the Worst#Scenario 1: Battle of Vogler|2.02 Preparing for the Worst]]
 
 **Notes:**
 
@@ -51,11 +39,7 @@ await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Kr
 
 **Lines:** [[Battle Lines#Scenario 2: Marshal's Gambit]]
 
-**Played in:** [[3.05 Mission 2 - Ambushing the Enemy#Scenario 2: Marshal's Gambit|3.05 Mission 2 - Ambushing the Enemy]]
-
-```dataviewjs
-await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Krynn/pages", { folder: "Pages/Scenarios/02" })
-```
+**Role:** optional bonus battle. **Played in:** [[3.05 Mission 2 - Ambushing the Enemy#Scenario 2: Marshal's Gambit|3.05 Mission 2 - Ambushing the Enemy]]
 
 **Notes:**
 
@@ -65,11 +49,7 @@ await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Kr
 
 **Lines:** [[Battle Lines#Scenario 3: Engines of War]]
 
-**Played in:** [[3.07 Mission 3 - Draconian Blockade#Scenario 3: Engines of War|3.07 Mission 3 - Draconian Blockade]]
-
-```dataviewjs
-await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Krynn/pages", { folder: "Pages/Scenarios/03" })
-```
+**Role:** optional bonus battle. **Played in:** [[3.07 Mission 3 - Draconian Blockade#Scenario 3: Engines of War|3.07 Mission 3 - Draconian Blockade]]
 
 **Notes:**
 
@@ -79,11 +59,7 @@ await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Kr
 
 **Lines:** [[Battle Lines#Scenario 4: Catastrophe]]
 
-**Played in:** [[3.12 Steel Springs#Scenario 4: Catastrophe|3.12 Steel Springs]]
-
-```dataviewjs
-await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Krynn/pages", { folder: "Pages/Scenarios/04" })
-```
+**Role:** optional bonus battle. **Played in:** [[3.12 Steel Springs#Scenario 4: Catastrophe|3.12 Steel Springs]]
 
 **Notes:**
 
@@ -93,11 +69,7 @@ await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Kr
 
 **Lines:** [[Battle Lines#Scenario 5: Valley of Barbed Tails]]
 
-**Played in:** [[3.12 Steel Springs#Scenario 5: Valley of Barbed Tails|3.12 Steel Springs]]
-
-```dataviewjs
-await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Krynn/pages", { folder: "Pages/Scenarios/05" })
-```
+**Role:** optional bonus battle. **Played in:** [[3.12 Steel Springs#Scenario 5: Valley of Barbed Tails|3.12 Steel Springs]]
 
 **Notes:**
 
@@ -107,11 +79,7 @@ await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Kr
 
 **Lines:** [[Battle Lines#Scenario 6: Dark Moon Rises]]
 
-**Played in:** [[4.05 Dark Moon Rises#Scenario 6: Dark Moon Rises|4.05 Dark Moon Rises]]
-
-```dataviewjs
-await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Krynn/pages", { folder: "Pages/Scenarios/06" })
-```
+**Role:** optional bonus battle. **Played in:** [[3.13 The Raided Catacombs#Bonus Battle: Dark Moon Rises (Scenario 6)|3.13 The Raided Catacombs]]
 
 **Notes:**
 
@@ -121,11 +89,7 @@ await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Kr
 
 **Lines:** [[Battle Lines#Scenario 7: Break the Walls]]
 
-**Played in:** [[4.15 Break the Walls#Scenario 7: Break the Walls|4.15 Break the Walls]]
-
-```dataviewjs
-await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Krynn/pages", { folder: "Pages/Scenarios/07" })
-```
+**Role:** optional bonus battle. **Played in:** [[4.15 Break the Walls#Scenario 7: Break the Walls|4.15 Break the Walls]]
 
 **Notes:**
 
@@ -135,11 +99,7 @@ await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Kr
 
 **Lines:** [[Battle Lines#Scenario 8: Fighting Retreat]]
 
-**Played in:** [[6.01 Fighting Retreat#Scenario 8: Fighting Retreat|6.01 Fighting Retreat]]
-
-```dataviewjs
-await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Krynn/pages", { folder: "Pages/Scenarios/08" })
-```
+**Role:** optional bonus battle. **Played in:** [[6.01 Fighting Retreat#Scenario 8: Fighting Retreat|6.01 Fighting Retreat]]
 
 **Notes:**
 
@@ -149,11 +109,7 @@ await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Kr
 
 **Lines:** [[Battle Lines#Scenario 9: March of the Black Rose]]
 
-**Played in:** [[6.03 March of the Black Rose#Scenario 9: March of the Black Rose|6.03 March of the Black Rose]]
-
-```dataviewjs
-await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Krynn/pages", { folder: "Pages/Scenarios/09" })
-```
+**Role:** optional bonus battle. **Played in:** [[6.03 March of the Black Rose#Scenario 9: March of the Black Rose|6.03 March of the Black Rose]]
 
 **Notes:**
 
@@ -163,11 +119,7 @@ await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Kr
 
 **Lines:** [[Battle Lines#Scenario 10: Day of a Thousand Fires]]
 
-**Played in:** [[6.04 Day of a Thousand Fires#Scenario 10: Day of a Thousand Fires|6.04 Day of a Thousand Fires]]
-
-```dataviewjs
-await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Krynn/pages", { folder: "Pages/Scenarios/10" })
-```
+**Role:** optional bonus battle. **Played in:** [[6.04 Day of a Thousand Fires#Scenario 10: Day of a Thousand Fires|6.04 Day of a Thousand Fires]]
 
 **Notes:**
 
@@ -177,11 +129,7 @@ await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Kr
 
 **Lines:** [[Battle Lines#Scenario 11: Siege of Kalaman]]
 
-**Played in:** [[6.05 Siege of Kalaman#Scenario 11: Siege of Kalaman|6.05 Siege of Kalaman]]
-
-```dataviewjs
-await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Krynn/pages", { folder: "Pages/Scenarios/11" })
-```
+**Role:** optional bonus battle. **Played in:** [[6.05 Siege of Kalaman#Scenario 11: Siege of Kalaman|6.05 Siege of Kalaman]]
 
 **Notes:**
 
@@ -191,10 +139,6 @@ await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Kr
 
 **Lines:** [[Battle Lines#Scenario 12: The Field of Kalaman]]
 
-**Played in:** [[6.07 Kalaman Victorious#Scenario 12: The Field of Kalaman|6.07 Kalaman Victorious]]
-
-```dataviewjs
-await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Warriors of Krynn/pages", { folder: "Pages/Scenarios/12" })
-```
+**Role:** optional bonus battle. **Played in:** [[6.07 Kalaman Victorious#Scenario 12: The Field of Kalaman|6.07 Kalaman Victorious]]
 
 **Notes:**

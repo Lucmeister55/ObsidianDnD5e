@@ -8,19 +8,19 @@ All the combat music, with every fight in play order. These are placeholders for
 
 # Generic
 
-- **A normal fight:** [1-07 - Assault](ttrpg-sound:Soundbar/FE-Awakening/1-07 - Assault.mp3)
-- **It's gone wrong:** [1-11 - Menace](ttrpg-sound:Soundbar/FE-Awakening/1-11 - Menace.mp3)
-- **A boss:** [2-16 - Divine Decree~Ablaze](ttrpg-sound:Soundbar/FE-Awakening/2-16 - Divine Decree~Ablaze.mp3)
+- **A normal fight:** [1-07 - Assault](ttrpg-sound:Soundbar/Fire Emblem Awakening/1-07 - Assault.mp3)
+- **It's gone wrong:** [1-11 - Menace](ttrpg-sound:Soundbar/Fire Emblem Awakening/1-11 - Menace.mp3)
+- **A boss:** [2-16 - Divine Decree~Ablaze](ttrpg-sound:Soundbar/Fire Emblem Awakening/2-16 - Divine Decree~Ablaze.mp3)
 - **Warriors of Krynn or a skirmish:** [Medieval Battlefield](ttrpg-sound:Soundbar/Ambience/Medieval Battlefield.mp3)
 - **A city under attack:** [Battle In City](ttrpg-sound:Soundbar/Ambience/Battle In City.mp3)
 
 | Chapter | Battle theme |
 |---|---|
-| Prologue | [Prelude~Ablaze](ttrpg-sound:Soundbar/FE-Awakening/1-06 - Prelude~Ablaze.mp3) |
-| 3. Storm Clouds | [Storm Clouds~Ablaze](ttrpg-sound:Soundbar/FE-Awakening/3-17 - Storm Clouds~Ablaze.mp3) |
-| 4. Duty | [Duty~Ablaze](ttrpg-sound:Soundbar/FE-Awakening/1-20 - Duty~Ablaze.mp3) |
-| 5. Destiny | [Destiny~Ablaze](ttrpg-sound:Soundbar/FE-Awakening/2-02 - Destiny~Ablaze.mp3) |
-| 6. Conquest | [Chaos~Ablaze](ttrpg-sound:Soundbar/FE-Awakening/4-02 - Chaos~Ablaze.mp3) |
+| Prologue | [Prelude~Ablaze](ttrpg-sound:Soundbar/Fire Emblem Awakening/1-06 - Prelude~Ablaze.mp3) |
+| 3. Storm Clouds | [Storm Clouds~Ablaze](ttrpg-sound:Soundbar/Fire Emblem Awakening/3-17 - Storm Clouds~Ablaze.mp3) |
+| 4. Duty | [Duty~Ablaze](ttrpg-sound:Soundbar/Fire Emblem Awakening/1-20 - Duty~Ablaze.mp3) |
+| 5. Destiny | [Destiny~Ablaze](ttrpg-sound:Soundbar/Fire Emblem Awakening/2-02 - Destiny~Ablaze.mp3) |
+| 6. Conquest | [Chaos~Ablaze](ttrpg-sound:Soundbar/Fire Emblem Awakening/4-02 - Chaos~Ablaze.mp3) |
 
 # Prologue
 
@@ -44,10 +44,11 @@ All the combat music, with every fight in play order. These are placeholders for
 - **Scenario 4: Steel Springs:** *Unique*
 - **Scenario 5: Valley of Barbed Tails:** *Generic*
 - **The Tomb Rises:** *Unique*
+- **Scenario 6: Dark Moon Rises (bonus):** *Generic*
 
 # 4. Duty
 
-- **Scenario 6: Dark Moon Rises:** *Unique*
+- **The Night Crossing:** *Unique*
 - **Elven Ship Guardians:** *Generic*
 - **Altar Guardians:** *Generic*
 - **Shrine Guardians:** *Generic*
@@ -90,5 +91,5 @@ All the combat music, with every fight in play order. These are placeholders for
 - **Mourning Sanctum:** *Unique*
 - **Lord Soth (don't fight him straight):** *Unique*
 - **Karavarix's Revenge:** *Unique*
-- **Clash of Fallen Flames:** [1-11 - Menace](ttrpg-sound:Soundbar/FE-Awakening/1-11 - Menace.mp3)
+- **Clash of Fallen Flames:** [1-11 - Menace](ttrpg-sound:Soundbar/Fire Emblem Awakening/1-11 - Menace.mp3)
 - **Scenario 12: The Field of Kalaman:** *Unique*

@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[02 - Scenario Book - Campaign Conclusion.jpg]]. The page number isn't visible in the photo. Words washed out by glare in the left column are reconstructed from context.*
 
-![[02 - Scenario Book - Campaign Conclusion.jpg]]
-
 ### CAMPAIGN CONCLUSION
 
 After you've completed scenario 12, read or paraphrase the following text:
@@ -34,8 +32,6 @@ Count the number of honor cards gained over the course of the campaign, then che
 ## Scenario Book, Campaign Chronicle (back cover)
 
 *Photo: [[03 - Scenario Book - Campaign Chronicle.jpg]]. A blank form. Reproduced here as an empty table.*
-
-![[03 - Scenario Book - Campaign Chronicle.jpg]]
 
 ### CAMPAIGN CHRONICLE
 
@@ -71,8 +67,6 @@ Permission is granted to photocopy this page for personal use.
 ## Scenario Book, Heroes (printed page 29, the inside back cover)
 
 *Photo: [[04 - Scenario Book - Heroes.jpg]]. Words washed out by glare in Andir's entry are reconstructed from context.*
-
-![[04 - Scenario Book - Heroes.jpg]]
 
 ### HEROES
 

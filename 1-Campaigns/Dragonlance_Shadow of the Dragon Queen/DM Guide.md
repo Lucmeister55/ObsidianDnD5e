@@ -18,7 +18,7 @@ Every section in the chapter notes starts with a coloured bar showing where it c
 
 > [!companion] **Companion**: the DMs Guild companion PDF for that act, in `Documents/DMs Guild/companions`.
 
-> [!wok] **WoK**: a *Warriors of Krynn* board game scenario, often with a custom outcome. The rules, the scenario pages and where each one is played are in [[Warriors of Krynn]].
+> [!wok] **WoK**: a *Warriors of Krynn* board game scenario. Only the first (Vogler) is required; every later one is an optional bonus battle, flagged where it goes. The rules, the scenario pages and where each one is played are in [[Warriors of Krynn]].
 
 > [!homebrew] **Homebrew**: our own, with links to the notes it lives in.
 
@@ -148,5 +148,7 @@ Origin characters can die, and the chapters are written so that losing one doesn
 | **The Test of High Sorcery** (Davos) | Optional anyway. Offer it to any other caster. |
 | **Silvanesti and the Orb shard** (Thorn) | Zhelsuel and Dalamar run as the module has them. |
 | **Kansaldi's "brother"** (Wurm, in the finale) | Her demand still stands: one of them must kneel and burn. She picks whoever she hates most. |
+
+**Turning evil or changing sides** is a different path from dying: see [[Fall and Turn]] for each origin character's late-game dark turn, and the redemption door that stays open until the end.
 
 **A new origin character** should come with one tie to a thread the dead character leaves behind: a Greenshield cousin for the shield, another of Takhisis's experiments, a kender who knew Milo, an elf from Zhelsuel's camp. That way, the story keeps its shape.

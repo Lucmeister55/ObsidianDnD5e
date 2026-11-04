@@ -9,7 +9,7 @@ obsidianUIMode: preview
 - **Cudgel:** 
 - **Raven:** 
 - **Vendri:** 
-- **Tatina:** [2.09 Where the Hammer Sings](ttrpg-sound:Soundbar/FE-SoV/2.09 Where the Hammer Sings.mp3)
+- **Tatina:** [2.09 Where the Hammer Sings](ttrpg-sound:Soundbar/Fire Emblem Echoes - Shadows of Valentia/2.09 Where the Hammer Sings.mp3)
 - **Wyhan:** 
 - **Ness:** 
 - **Clystran:** 
@@ -18,9 +18,9 @@ obsidianUIMode: preview
 
 # Villains
 
-- **Soth:** [Dusk Falls](ttrpg-sound:Soundbar/FE-Fates/Dusk Falls.flac)
+- **Soth:** [Dusk Falls](ttrpg-sound:Soundbar/Fire Emblem Fates/Dusk Falls.flac)
 - **Kansaldi:** 
-- **Takhisis, the voice:** [2-12 - Don't speak her name!](ttrpg-sound:Soundbar/FE-Awakening/2-12 - Don't speak her name!.mp3)
+- **Takhisis, the voice:** [2-12 - Don't speak her name!](ttrpg-sound:Soundbar/Fire Emblem Awakening/2-12 - Don't speak her name!.mp3)
 - **Red Ruin:** 
 - **Lord Bakaris:** 
 - **Bakaris the Younger:** 

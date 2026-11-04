@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[01 - Scenario 0 - Training Ground Setup.jpg]]. A dark page with a diagram. The printed page number isn't visible. The unit icons in the diagram aren't transcribed one by one.*
 
-![[01 - Scenario 0 - Training Ground Setup.jpg]]
-
 ### SCENARIO 0: TRAINING GROUND
 
 #### Objective
@@ -61,8 +59,6 @@ Two battle tiles, **2A** (left) and **1A** (right), with adventure tiles round t
 ## Scenario 0, Training Ground, Running This Scenario (printed page 3)
 
 *Photo: [[02 - Scenario 0 - Running This Scenario.jpg]]. Some words in the "Starting the Scenario" section are washed out by glare, and are marked [in brackets] where I reconstructed them.*
-
-![[02 - Scenario 0 - Running This Scenario.jpg]]
 
 ### RUNNING THIS SCENARIO
 

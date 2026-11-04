@@ -26,6 +26,12 @@ Kalaman burned clean in the Dragon Queen's name, the City of Lost Names claimed 
 - **The deal.** She passed on [[Lord Soth]]'s order to kill [[Ispin Greenshield|Ispin]] without asking why. The Queen allows the Dread Knight, so she allows him too.
 - **She hears things.** Something answers when she talks to the Dragon Queen. Takhisis really does whisper to her, and it's slowly driving her mad.
 
+## Why She Is in Vogler
+
+> [!companion] Source: **Companion** ([[2-When_Home_Burns.pdf]], "Why Is Kansaldi in Vogler?").
+
+A Dragon Highmaster leading the attack on a small fishing village looks strange, so expect the question. The village and its ferry across the Vingaard connect Kalaman directly to the Northern Wastes, and so to the City of Lost Names, which is now a key part of the army's plan to conquer Kalaman. A foothold in Vogler cuts Kalaman off from the Wastes and takes the village's abundant natural resources. By appearing on her red dragon at the end of the invasion, she also hopes to slow Kalaman's decision to counterattack, out of fear of how many other dragons her army might keep. (Homebrew: Vogler is also where Ispin's shield was, see [[6.02 Return to Kalaman]].) [[Nestra Vendri]] wonders about all of this in [[3.02 Downtime 1]].
+
 ## Why She Lets Them Go
 
 > [!homebrew] Source: **Homebrew**.
@@ -35,6 +41,8 @@ She let Vogler's boats go downriver. She let the army run from Steel Springs, an
 - **Another quarrel**, refugee against local, guild against marshal, while the walls go unmended.
 - **Another frightened voice** telling the others what dragons do.
 - **And in the end, another offering.** The more people inside Kalaman when it falls, the greater the sacrifice to the Queen.
+
+The companion adds her pride. She is a powerful servant of the Dragon Queen and arrogant with it, and she wants Vogler's survivors to see how fearsome she, her dragon and her army are, so that they spread the word in Kalaman. The wider plan is the one above: the army has been attacking the region's smaller communities and forcing their people to relocate to Kalaman as refugees, to overcrowd the city while cutting off its surrounding resources.
 
 If anyone ever asks her why, she'll tell them, happily: "I didn't spare them. I *sent* them."
 

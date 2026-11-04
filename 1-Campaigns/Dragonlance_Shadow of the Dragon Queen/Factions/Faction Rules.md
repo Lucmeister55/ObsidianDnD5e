@@ -43,6 +43,37 @@ Change each faction **at most once per event**, and always tell the players what
 
 The changes listed in the timeline and chapters are **defaults**, not a complete list. When the party does something nobody planned for, ask two questions: which faction would notice, and would it be small (±1) or big (±2)? Then decide whether a rival would mind.
 
+## Hidden Consequences
+
+> [!homebrew] Source: **Homebrew**.
+
+**Not every choice moves a number.** About one decision in three should change **no Standing at all**, or less than it seems, and instead leave a **hidden mark**: an unseen effect that comes back later. A faction can like you today and still hold something against you, or a quiet favour can cost nothing now and pay off in the siege.
+
+- **Say what happened, not what it means.** Narrate the scene and the reaction ("Vendri nods slowly and writes something down"). Don't announce a mark, and don't move the slider.
+- **Write it on a card, not in the vault.** Per the [[IRL tracking|tracking rule]], each mark is one line on a physical card in your DM folder: the choice, who remembers, and where it pays off.
+- **It must come back.** Each mark has a payoff scene, so it pays off at least once. Tell the players the cause in the moment it lands: "You remember the baker you didn't help."
+- **A mark can also sit on top of a Standing change.** A +1 with a rival's grudge is more interesting than a clean +1.
+
+**Where they pay off.**
+
+| Horizon | Scene | What a mark does there |
+|---|---|---|
+| The council massacre | [[3.13 The Raided Catacombs]] | Who is in the room, and who warned the party |
+| The Trial | [[4.01 The Trial]] and [[4.02 The Trial - Testimony]] | A witness appears or refuses, evidence is offered or withheld, Thren's patience starts higher or lower |
+| The Wastes | [[4.04 The Deadline]] to [[4.15 Break the Walls]] | A supply, a guide, an ambush that someone sold |
+| The siege | [[6.02 Return to Kalaman#The Siege Ledger]] to [[6.05 Siege of Kalaman]] | A gate watched or unwatched, an extra unit, a sabotaged wall |
+
+**Examples.**
+
+| The choice | Hidden mark | Pays off |
+|---|---|---|
+| Favour the locals over the refugees at the bread cart | The Spokesperson remembers | At the Trial, the refugees' voice won't speak for the party |
+| Let Bakaris keep his story at the Steady Beacon | The soldiers keep believing it | At the Trial, the hall opens already convinced; Thren's patience starts one lower |
+| Refuse to name a refugee voice | The militia captain takes over | At the siege, the refugee wall answers to him, not Vendri |
+| Pay the Firefishers to quiet a guildmaster | The fishermen now owe Peppino | In the Wastes or the siege, someone calls the debt in |
+| Spare a Dragon Army prisoner | The prisoner talks to the wrong person | A leak: an ambush in the Wastes |
+| Take a guild's gift without asking what it cost | A guild son owes a favour to a rival | At the siege, a barricade is thinner than it should be |
+
 ## The Big Moments
 
 Two one-off moments make the ends of the track matter:

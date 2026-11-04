@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[13 - Rulebook p12 - Tiers of Play and D&D Companion.jpg]]. The page number is cut off at the bottom-left of the photo.*
 
-![[13 - Rulebook p12 - Tiers of Play and D&D Companion.jpg]]
-
 ### TIERS OF PLAY
 
 The campaign has 3 tiers of play: Recruit, Veteran, and Legendary. The first 4 scenarios of the campaign are the Recruit tier, with the Veteran and Legendary components removed. When the heroes reach the latter tiers, those components are added into the game, and other aspects of game play change as well.

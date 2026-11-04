@@ -32,7 +32,8 @@ Homebrew systems in this vault get checked with numbers, not vibes. The job is t
 - **Factions** ([[Faction Rules]]): decisions per act, options per decision, the share of options with a rival cost (target: almost all), project rules and caps, scale width and band thresholds, signature thresholds. Check how often everyone ends up Trusted or better (it should be rare), and whether some factions have too few chances to move (Knights and Mages are the usual culprits).
 - **Survival / Supply** ([[4.99 Survival Rules]]): daily consumption (50 lb for five), carrying capacity at 5 × and 10 × Strength after stashing, distances and water gaps, sources per location, faction boons (still, scrolls, decanter), the deadline's slack days, encounters per trek against the combat budget.
 - **Skirmish units** ([[Skirmish Battles]]): rounds to finish a straight clash, charge and pike swings, a lone hero against a unit (and the reverse), area damage, morale break points. Watch the HP multiplier first.
-- **Weapon triangle** ([[Weapon Triangle]]): to-hit and damage change at typical AC. It should be noticeable, never mandatory.
+- **Weapon triangle** ([[Combat Extras#Weapon Triangle|Weapon Triangle]]): to-hit and damage change at typical AC. It should be noticeable, never mandatory.
+- **Slopes and high ground** ([[Combat Extras#Slopes and High Ground|Slopes and High Ground]]): +2 to hit with ranged weapons and one extra weapon die on a downhill charge. Noticeable, never mandatory, and symmetric.
 - **Harvesting** ([[Harvesting and Crafting]]): Supply per fight against daily use, gold value against the campaign's economy, and anything that trivialises an act (capacity items, food or water creators).
 - **Encounter frequency**: expected fights per act against the combat budget (one full fight every 2–4 sessions).
 

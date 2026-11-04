@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[03 - Rulebook p2 - Battlefield Overview.jpg]]. A full-page annotated photo of a sample battlefield. The page number isn't visible in the photo.*
 
-![[03 - Rulebook p2 - Battlefield Overview.jpg]]
-
 ### BATTLEFIELD OVERVIEW
 
 In this game, the heroes maneuver around the battlefield as they race to complete missions, while the Dragon Army attempts to rout the Alliance defenders. In this sample battlefield, the Alliance is threatened by Dragon Army forces, as well as by a fire, a war engine, and a vile champion!
@@ -57,8 +55,6 @@ A sample battlefield: the War Drums war engine card (1) beside its token (2) on 
 ## Rulebook p. 3, Setting Up a Scenario and Battlefield Components (Tiles)
 
 *Photo: [[04 - Rulebook p3 - Setting Up and Tiles.jpg]]. *
-
-![[04 - Rulebook p3 - Setting Up and Tiles.jpg]]
 
 ### SETTING UP A SCENARIO
 
@@ -106,8 +102,6 @@ Each battle tile has 6 battle lines, 3 for each side, on which units are deploye
 ## Rulebook p. 4, Markers and Tracker, Tokens
 
 *Photo: [[05 - Rulebook p4 - Markers and Tokens.jpg]]. *
-
-![[05 - Rulebook p4 - Markers and Tokens.jpg]]
 
 ### MARKERS AND TRACKER
 
@@ -166,8 +160,6 @@ Wilderness tokens indicate that a tile has become a wilderness tile during a sce
 ## Rulebook p. 5, Cards and Dice
 
 *Photo: [[06 - Rulebook p5 - Cards and Dice.jpg]]. *
-
-![[06 - Rulebook p5 - Cards and Dice.jpg]]
 
 ### CARDS
 

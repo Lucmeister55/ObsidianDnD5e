@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[01 - Scenario 3 - Engines of War Setup.jpg]]. A dark page with a diagram. The page number isn't printed on it. The unit icons in the diagram aren't transcribed one by one.*
 
-![[01 - Scenario 3 - Engines of War Setup.jpg]]
-
 ### SCENARIO 3: ENGINES OF WAR
 
 #### Objective
@@ -43,8 +41,6 @@ Four battle tiles in a chain: **5B**, **7B**, **1B** and **8B** (8B hangs off th
 ## Scenario 3, Engines of War, Running This Scenario (printed page 9)
 
 *Photo: [[02 - Scenario 3 - Engines of War Running.jpg]]. Words washed out by glare in the first column are reconstructed in [square brackets], and one name I couldn't read is marked [...]. Text printed in red in the book is in *italics* here and marked (red).*
-
-![[02 - Scenario 3 - Engines of War Running.jpg]]
 
 ### RUNNING THIS SCENARIO
 

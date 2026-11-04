@@ -23,7 +23,7 @@ To be paid, and to stop taking orders from a dwarf.
 ## Secret
 
 - **He sold the regiment.** The Red Dragon Army bought him. The spy **Svilnt** arranged a meeting with [[Lohezet]], and he paid off the mercenaries he trusted most.
-- **The shield.** He took it from Ispin's casket the night before High Hill ([[1.02 Arrival in Vogler#The Missing Child and the Stolen Shield]]).
+- **The shield.** He took it off Ispin's corpse in the woods the night Ispin died, two nights before the party arrives (it was never at the funeral) ([[1.02 Arrival in Vogler#The Missing Child and the Stolen Shield]]).
 - **He isn't the only one.** He knows about [[Jeyev Veldrews|Jeyev]], and if he's taken alive, he may say so.
 
 ## Ties

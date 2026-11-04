@@ -8,6 +8,8 @@ tags:
 
 Lord Bakaris's son, and much more dangerous than his father. He's lean, dark and handsome, and knows it. Where his father blusters, he smiles. He killed another lord's son in a duel in Draevenfall and got his family exiled, and he has never once been sorry. He treats [[Wurm]] as entertainment, and carries the contract that owns him in his coat so he can wave it at people. In the module he goes over to the Dragon Army in the end, as one of its officers in the Siege of Kalaman.
 
+**At a glance:** neutral evil human noble, early 20s. Known for his arrogance, pettiness and short temper. He was forced to leave his old home after killing the son of a local leader in a duel. Hates being called "the Younger", which his father encourages.
+
 ## Voice
 
 Silky, sneering and amused by everyone. *(Draco Malfoy, from the films.)*

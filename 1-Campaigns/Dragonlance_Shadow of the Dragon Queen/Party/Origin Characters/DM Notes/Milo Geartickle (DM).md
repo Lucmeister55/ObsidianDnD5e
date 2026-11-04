@@ -79,6 +79,33 @@ Don't hurry it. The person should die only after Milo, or the party, has been wa
 | 1 | Before the campaign | Fell forty feet through a rotten floor in the Estwilde manor | The rats in the walls, all of them |
 |   |         |               |                          |
 
+## The Ring's Temptations
+
+> [!homebrew] Source: **Homebrew**. These are what make Milo *choose* at Onyari ([[5.01 Path of Memories#Demelin]]), instead of just paying a bill. Each is a gift first. Introduce them one at a time between the catacombs and the Wastes, and let Milo enjoy them.
+
+| Effect | What Milo gets | The cost |
+|---|---|---|
+| **Borrowed memories** | Each revival leaves a flicker of the victim: a soldier's sword drill, a baker's recipe, a priest's half-prayer. At each flicker, Milo may gain one skill or tool proficiency until the next long rest, then keep it for good after three. | Milo starts to prefer the borrowed memories to their own, and begins to choose victims for what they know. |
+| **Numbness** | After a loss, the ring dulls the grief into a calm. | Milo stops grieving, and then stops missing. |
+| **A life for a life, both ways** | Milo learns the ring can *give* life as well as take it. They could bring back a dead friend (Raven, Becklin, Ispin if his body were found, Elgo if he is lost). | It costs a life Milo is bound to, in exchange. |
+| **The maker's voice** | In Onyari the ring speaks in a forge-voice, almost Reorx's, and calls itself a gift. It offers a throne in the City Without Sin and the power to free Kendermore. | Milo would be the Kingpriest's chosen, fed by the devoted: the ring's creature. |
+| **Withering bonds** | The ring takes whoever is bound to Milo, and with them the ties that made Milo care. | Nothing is left to hold them. |
+
+**The choice** (the Onyari scene): Demelin says unmaking the ring releases every life it took, and the debt lands on Milo or on someone else.
+
+**Embracing the ring** gets Milo:
+- Immortality while it is fed, and the borrowed skills.
+- The power to bring back one lost friend, at the price of someone Milo is bound to.
+- A place in Onyari, with the drone made to obey the ring.
+
+**Removing the ring** gets Milo:
+- **Mortality, and the chronicle.** The level 10 moment: the first chapter written as a mortal.
+- **The lives come back,** one small, vivid scene each. The kingfisher flies out of the tree at High Hill, and the rats are in the Estwilde walls again.
+- **The skills stay, the hold goes.** Milo keeps the borrowed skills as proficiencies, but the ring's hold is gone.
+- **The drone is free,** no longer a warden but a loyal ally.
+- **A grey spark from Reorx.** Once per day, a small, deniable boon in the "never say a god did it" register.
+- **The bronze dragon.** Milo's story is finally proved, with Clystran or the dragon appearing at the siege.
+
 ## Level-Up Moments
 
 The gods are almost entirely absent, so any divine touch has to be deniable: a coincidence, a sound, a spark, something mechanical behaving oddly. Never say a god did it. Milo's patron is **Reorx**, the forge god, whose lost Graygem kender folk say gave rise to their people. So Milo's moments come through metal, forges, the drone, and a faint grey gleam. The ring is a separate, cursed thing: keep its moments clearly creepier than Reorx's. *Divine* moments are the gods nudging; *training* and *earned* moments are just Milo getting better.

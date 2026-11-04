@@ -17,7 +17,7 @@ tags:
 
 ## Units
 
-A **unit** is about **ten soldiers** fighting as one, on a **2 × 2** base, facing one way (its **front**). It has **HP**, a **Damage** number, an **AC** and attack bonus for fighting heroes, a **troop type** (below), and a **Morale** bonus. The [[Weapon Triangle]] is for heroes only. Units have their own matchups.
+A **unit** is about **ten soldiers** fighting as one, on a **2 × 2** base, facing one way (its **front**). It has **HP**, a **Damage** number, an **AC** and attack bonus for fighting heroes, a **troop type** (below), and a **Morale** bonus. The [[Combat Extras#Weapon Triangle|Weapon Triangle]] is for heroes only. Units have their own matchups.
 
 - **Bloodied** (half HP or less): it deals **half**.
 - **0 HP:** it's broken. Take it off the table.
@@ -30,6 +30,8 @@ A **unit** is about **ten soldiers** fighting as one, on a **2 × 2** base, faci
 |---|---|
 | **Hit in the side or rear** | The defender **doesn't strike back**. |
 | **Behind cover** (a wall, a barricade, the top of a gate) | Takes **half**. |
+| **Charged downhill** (the attacker moved at least 20 feet downhill, in a line, into the clash) | The attacker deals **double**, as a Horse charge does. Pikes stop it, as they stop any charge: into Pikes' front it gets no bonus. |
+| **On higher ground** (the defender holds a hill, a ramp or a rampart above the attacker) | The defender counts as **behind cover**, and takes **half** from the unit clashing up at it. |
 
 ### Troop Types
 
@@ -45,6 +47,16 @@ Like *Advance Wars*: every unit is one of six types. Pikes stop charges, Horse r
 | **Fliers** | Dragonnel Riders | Only Shooters, Engines, Pikes and other Fliers can hit them, and they never take damage back when they swoop in. | They take **double** from volleys. |
 
 **Example.** Kalaman Soldiers (Foot, Damage 20) attack Baaz (Foot, Damage 15) head-on: the baaz take 20, and the soldiers take 15. Then the Knights charge the baaz in the flank: double, so the baaz take 50, and strike nothing back. If the Knights had charged Kalaman's Pikes head-on instead, the knights would deal a plain 25 and take 30.
+
+### Slopes and High Ground
+
+Units use the same slopes as heroes ([[Combat Extras#Slopes and High Ground|what counts as a slope]]), with the same three operations:
+- **Movement.** Moving downhill, a unit covers **double** the distance. Moving uphill, it covers **half**.
+- **Charging downhill.** Any unit, not only Horse, that moves downhill into a clash gets the Horse charge: it deals **double** (see the table above). Horse charging downhill still deals just double. Nothing stacks.
+- **Holding the high ground.** The unit on top counts as behind cover against melee from below, so it takes **half**. A **Shooters** or **Engines** unit on the high ground also Volleys at **+50% range**.
+- **Fliers** ignore all of it.
+
+A hill therefore does two things: it makes the army on top hard to dislodge, and it punishes the army that waits at the bottom. Say which way is up when you set up the map.
 
 ## Units and Heroes
 
@@ -93,7 +105,7 @@ On top of that:
 |---|---|
 | **Hold** (default) | Stays put, turns to face anything, and fights whatever reaches it. |
 | **Advance** | Moves up to its speed, then clashes with an enemy unit or attacks a hero. |
-| **Charge** (Horse only) | Moves up to double its speed in a straight line, then clashes. It can't move next turn. |
+| **Charge** (Horse only, and any unit going downhill) | Moves up to double its speed in a straight line, then clashes. It can't move next turn. |
 | **Volley** (Shooters and Engines) | Shoots at anything in range. |
 | **Rally** | The commander, standing beside it, spends their action: it's no longer Shaken. |
 

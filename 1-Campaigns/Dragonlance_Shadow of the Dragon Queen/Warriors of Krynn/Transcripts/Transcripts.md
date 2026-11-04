@@ -8,7 +8,10 @@ tags:
 
 *Back to [[Warriors of Krynn]]*
 
-Chapter-by-chapter transcripts of the *Warriors of Krynn* scenario book and rulebook, read from the photos in `Pages`. Every page keeps its own heading and its photo, in the order of the book. The unit icons in the setup diagrams aren't transcribed one by one, and words hidden by glare are reconstructed from context and marked [in brackets].
+Chapter-by-chapter transcripts of the *Warriors of Krynn* scenario book and rulebook, read from the photos in `Pages`. Every page keeps its own heading, in the order of the book, and names the photo it was read from (the photos are in `Pages`). The unit icons in the setup diagrams aren't transcribed one by one, and words hidden by glare are reconstructed from context and marked [in brackets].
+
+> [!info] Our changes
+> The transcripts are faithful to the book. Where the book uses a character who is dead in our campaign (Raven Uth Vogler, and Becklin if she died), the replacements are in [[Warriors of Krynn#House Rules]].
 
 ## Scenario Book
 

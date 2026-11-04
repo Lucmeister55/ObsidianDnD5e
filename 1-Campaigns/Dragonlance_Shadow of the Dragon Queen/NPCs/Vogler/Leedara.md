@@ -8,6 +8,8 @@ tags:
 
 A blue-skinned, sombre Silvanesti woman at the edge of Ispin's funeral reception. She says she was a performer who knew him. She's politely evasive, and nobody in Vogler knows anything else about her. In truth she's a ghost: once an elven priest and one of Isolde's attendants, who helped turn Soth back from his quest and has been cursed for it ever since. For three and a half centuries she has made sure he never finds peace. Now the Queen has called him away, and she has followed him.
 
+**At a glance:** neutral elven ghost who appears in her late 20s. She was once an elven priestess and has returned as a spirit to torment [[Lord Soth]]. At the funeral she keeps to the edges, and anyone with passive Perception 14+ notices her watching.
+
 ## Voice
 
 Soft and sad, with an elven formality, and she stops mid-sentence as if listening to something else. *(Suggestion: Cate Blanchett's Galadriel, tired.)*

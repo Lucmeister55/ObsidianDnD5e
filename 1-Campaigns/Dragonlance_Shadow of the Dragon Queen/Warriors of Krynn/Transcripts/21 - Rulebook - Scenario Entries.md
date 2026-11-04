@@ -12,8 +12,6 @@ tags:
 
 *Photo: [[14 - Rulebook p13 - Scenario Entries 1-9.jpg]]. Text printed in red in the book is in *italics* here. A few words in entries 1 and 2 are washed out by glare and reconstructed from context.*
 
-![[14 - Rulebook p13 - Scenario Entries 1-9.jpg]]
-
 ### SCENARIO ENTRIES
 
 This section contains scenario entries, descriptions of how the situation evolves as a scenario progresses. As you're playing through a scenario, whenever the key moment tracker advances or a situation specified in the scenario occurs, check the scenario book to see which scenario entry to read. Some scenario entries also send you directly to other entries. When a scenario entry tells you to do something, if you can't do everything, do as much as you can.
@@ -89,8 +87,6 @@ Add a Dragon Army Foot unit to both the right and far right flanks.
 ## Rulebook p. 14, Scenario Entries 10 to 21
 
 *Photo: [[15 - Rulebook p14 - Scenario Entries 10-21.jpg]]. Text printed in red in the book is in *italics* here.*
-
-![[15 - Rulebook p14 - Scenario Entries 10-21.jpg]]
 
 #### 10: Dragons from the East
 
@@ -179,8 +175,6 @@ If all portals are closed, instead immediately activate the commander powers of 
 ## Rulebook p. 15, Scenario Entries 22 to 34
 
 *Photo: [[16 - Rulebook p15 - Scenario Entries 22-34.jpg]]. Text printed in red in the book is in *italics* here. Some words along the left edge are washed out by glare and reconstructed from context.*
-
-![[16 - Rulebook p15 - Scenario Entries 22-34.jpg]]
 
 #### 22: Ride of the Allies
 
@@ -274,8 +268,6 @@ Flip the Pond tile to the Fairy Pool side, and add an objective token to it.
 
 *Photo: [[17 - Rulebook p16 - Scenario Entries 35-43.jpg]]. The page number is cut off at the bottom of the photo. Text printed in red in the book is in *italics* here.*
 
-![[17 - Rulebook p16 - Scenario Entries 35-43.jpg]]
-
 #### 35: Mine Entrance
 
 *Through the mists you see a great crossroads upon a bleak plain. Burning corpses litter the ground on the Alliance side of the field. Behind the enemy lines, a commander watches your approach.*
@@ -345,8 +337,6 @@ The scenario is over at the end of this turn.
 ## Rulebook p. 17, Scenario Entries 44 to 53
 
 *Photo: [[18 - Rulebook p17 - Scenario Entries 44-53.jpg]]. Text printed in red in the book is in *italics* here. Some words along the left edge are washed out by glare and reconstructed from context.*
-
-![[18 - Rulebook p17 - Scenario Entries 44-53.jpg]]
 
 #### 44: Scrying Pool
 
@@ -427,8 +417,6 @@ Set up the tiles as shown below. Add an objective token to the Alliance Catapult
 ## Rulebook p. 18, Scenario Entries 54 to 66
 
 *Photo: [[19 - Rulebook p18 - Scenario Entries 54-66.jpg]]. Text printed in red in the book is in *italics* here.*
-
-![[19 - Rulebook p18 - Scenario Entries 54-66.jpg]]
 
 #### 54: Hunters in the Mist
 
@@ -521,8 +509,6 @@ Take 3 vile champions from near the Command Tent or Command Post tile, and place
 ## Rulebook p. 19, Scenario Entries 67 to 80
 
 *Photo: [[20 - Rulebook p19 - Scenario Entries 67-80.jpg]]. Text printed in red in the book is in *italics* here. Some words along the left edge are washed out by glare and reconstructed from context.*
-
-![[20 - Rulebook p19 - Scenario Entries 67-80.jpg]]
 
 #### 67: Kansaldi's Will
 
@@ -624,8 +610,6 @@ Add a tactic token to each Dragon Army line on the left flank. Add a vile champi
 
 *Photo: [[21 - Rulebook p20 - Scenario Entries 81-90.jpg]]. Text printed in red in the book is in *italics* here.*
 
-![[21 - Rulebook p20 - Scenario Entries 81-90.jpg]]
-
 #### 81: Quest End: Defeat the Monster
 
 *The death dragon is fearsome but no match for your might. Bransad Wheathair's councilors promise to send their cavalry to aid the Alliance.*
@@ -712,8 +696,6 @@ Add a vile champion to the Village tile.
 
 *Photo: [[22 - Rulebook p21 - Scenario Entries 91-100.jpg]]. Text printed in red in the book is in *italics* here.*
 
-![[22 - Rulebook p21 - Scenario Entries 91-100.jpg]]
-
 #### 91: The Village
 
 *Raven Uth Vogler's friendly voice carries through the mist as you emerge into a stunted forest. Across the field, Morphir the Gold sneers down from atop a throne.*
@@ -795,8 +777,6 @@ Add a vile champion to the Command Tent or Command Post tile.
 ## Rulebook p. 22, Scenario Entries 101 to 113
 
 *Photo: [[23 - Rulebook p22 - Scenario Entries 101-113.jpg]]. Text printed in red in the book is in *italics* here.*
-
-![[23 - Rulebook p22 - Scenario Entries 101-113.jpg]]
 
 #### 101: Red Wings on High
 
@@ -886,8 +866,6 @@ Remove 4 objective tokens.
 
 *Photo: [[24 - Rulebook p23 - Scenario Entries 114-124.jpg]]. Text printed in red in the book is in *italics* here. A few words along the left edge are washed out by glare and reconstructed from context.*
 
-![[24 - Rulebook p23 - Scenario Entries 114-124.jpg]]
-
 #### 114: Crimson Sands
 
 *The blood of Alliance forces stains the soil of the valley. Your commanders work to re-form the battle lines and hold against further assault. Across the battlefield, you see the Dragon Army on the march, emboldened by this victory.*
@@ -972,8 +950,6 @@ Add 1 fire token to an Alliance line on each battle tile. The scenario is over a
 
 *Photo: [[25 - Rulebook p24 - Scenario Entries 125-135.jpg]]. Text printed in red in the book is in *italics* here.*
 
-![[25 - Rulebook p24 - Scenario Entries 125-135.jpg]]
-
 #### 125: Raiders or Runners
 
 *Some scouts wish to send message runners to their forward camp, which would improve tactics across the battlefield. Others want to launch a raid to destroy the Dragon Army's archer tower. What is your command?*
@@ -1057,8 +1033,6 @@ The scenario immediately ends in a loss.
 ## Rulebook p. 25, Scenario Entries 136 to 146
 
 *Photo: [[26 - Rulebook p25 - Scenario Entries 136-146.jpg]]. Text printed in red in the book is in *italics* here. Some words along the left edge are washed out by glare and reconstructed from context. This is the last page of the rulebook.*
-
-![[26 - Rulebook p25 - Scenario Entries 136-146.jpg]]
 
 #### 136: Chaos Reigns
 
