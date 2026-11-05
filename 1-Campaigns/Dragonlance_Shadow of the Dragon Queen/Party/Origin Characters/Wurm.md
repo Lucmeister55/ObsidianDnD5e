@@ -41,7 +41,7 @@ He remembers two things about her better than her face. Across the back of her l
 
 Then one day she didn't come. Through the door he heard the cult whispering that she had been "given" to an oracle of dragons. Wurm didn't know what an oracle was. He only knew what "given" meant in that place, because he had seen it before. He believed they had sacrificed her.
 
-The whispers gave him one more name, too, though he never understood what it meant. The leaders said **Lohezet** the way other people said a god's name, quietly and a little afraid, and they said it when the elf lady came and again when she was taken away. Wurm still remembers the sound of it.
+The whispers gave him one more name, too, though he never understood what it meant. The leaders said **Kansaldi** the way other people said a god's name, quietly and a little afraid, and they said it when the elf lady came and again when she was taken away. Wurm still remembers the sound of it.
 
 After that, Wurm was very lonely. The elf lady had only ever managed to teach him a handful of letters, and he couldn't put many of them together, but he remembered the word for *help*, and how to fold a kingfisher. So he scratched the word onto anything he could find and folded it into a bird, scraps of cloth and splinters of wood and the backs of the cult's own prayers, and pushed them out through a grate in the wall, one after another, for months. He didn't know who might find them or what they would do. He just believed, the way a child believes, that if he kept doing it, someone kind would come.
 

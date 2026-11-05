@@ -181,7 +181,7 @@ Not played. We skip the book's Training Ground ([[Warriors of Krynn#How We Use I
 *[[2.02 Preparing for the Worst#Scenario 1: Battle of Vogler|2.02]]*
 
 - **Opening:** Becklin says this battle can't be won. The aim is to buy time for the villagers of Vogler to reach the ships on the coast.
-- Enemy forces are hunting the evacuees, and a fire-throwing war machine sits behind their lines, out of reach.
+- Enemy forces are hunting the evacuees, and a fire-throwing war machine sits behind their lines, out of reach. *(In our telling, the first wave is the vanguard: inexperienced bandits and ruffians, with a few real soldiers. The "vile champions" are those few. The real warhost of draconians and elites comes after.)*
 - The heroes move the villagers one tile at a time, and never onto a tile with a vile champion.
 - **Key moments:** runners report that vile champions are hunting villagers on the road. Word comes that the left flank has fallen, though the centre holds for now. War engines throw flame across the right flank. Knights from the centre rush past, wounded and pursued, and nobody knows what has become of Becklin. The enemy musters far more than the force can withstand, and the last villagers have to go at once.
 - **If a line is lost:** the commanders do all they can to reinforce the rest, and in the chaos some villagers are killed.

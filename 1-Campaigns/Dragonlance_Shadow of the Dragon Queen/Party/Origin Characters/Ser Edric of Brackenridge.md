@@ -49,7 +49,7 @@ And Ispin himself was a character. He told a new story every night by the fire, 
 
 It was on the road near Estwilde that they came across the mare. A caravan was trying to get rid of her. Her rider had died in battle, and ever since she had refused every saddle, kicked anyone who came close, and once nearly crushed a handler to death against a wagon wheel. An old burn scar ran across her hide. Edric knew the breed at a glance, a steppe horse from the same eastern plains as the riders who had burned his home, and where anyone else would have sent her to the knacker, he bought her on the spot against all good sense, with every coin he and Ispin had earned that season hunting down bandits on the roads. Ispin laughed about it for a week, and they ate very little that month. For days he didn't even try to ride her. He just stayed near. Slowly she stopped fighting him, and then stopped running from him, until in the end he was the only person alive she would let near her reins. They've been inseparable ever since.
 
-Ispin's road kept crossing the paths of his old adventuring companions, and that was how Edric came to know [[Becklin Uth Viharin]], a Knight of the Crown, and **Cudgel**, a mercenary with a famous grin, and Becklin's squire, [[Darrett Highwater]]. He and Darrett were the same age, and they became fast friends over long rides and shared drills.
+Ispin's road kept crossing the paths of his old adventuring companions, and that was how Edric came to know [[Becklin Uth Viharin]], a Knight of the Crown, and **Cudgel**, a mercenary with a famous grin, and Becklin's squire, [[Darrett Highwater]]. Darrett was a year or two younger than him, and they became fast friends over long rides and shared drills.
 
 ### Ispin's Death
 

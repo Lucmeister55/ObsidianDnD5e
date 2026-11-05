@@ -8,7 +8,7 @@ tags:
 
 A minor Solamnic lord who has lived his whole life on stories of his family's honour, none of which are his own. His ancestors were Knights of Solamnia. He is a coward full of bluster, and he has decided the war is his chance at glory. In this campaign he was also a lord of Draevenfall in Estwilde until his son's duel got the family exiled. He owns [[Wurm]], by contract, and treats him like an ox.
 
-**At a glance:** neutral evil human noble, mid 50s. He claims raiders burned his family home, but he and his son were really driven out and sought anonymity in Vogler, where they have spent over a year throwing their wealth around (Westide House, in [[1.02 Arrival in Vogler]]).
+**At a glance:** neutral evil human noble, mid 50s. He claims raiders burned his family home, but he and his son were really driven out and sought anonymity in Vogler, where they have spent over a year throwing their wealth around (Westide House, in [[1.02 Arrival in Vogler]]). Vogler tolerates him because he holds the loan on the wharf and half the Ironclad Regiment's fee, which is also why he later claims he "saved" Vogler.
 
 ## Voice
 

@@ -18,4 +18,10 @@ A neutral evil spy for the Red Dragon Army, planted in the Ironclad Regiment as 
 
 ## Voice
 
-Calm and eager to please. Under questioning he turns serene, then smiles. *(Suggestion: a mild clerk who has just found God.)*
+**Before the battle:** calm, helpful, eager to please, easy to overlook.
+
+**After he is taken, he speaks only in babbling, cryptic, manic riddles.** He rocks, laughs mid-sentence, jumps between ideas, and answers a question with another question or a rhyme. The facts are all in there (the army, Kansaldi, Gragonis's payment, Ispin) but wrapped up, and the players have to unpick them. He is not stupid: every riddle points where he wants it to point. Example:
+
+> "Eyes to the Queen, eyes to the Queen! One for the seeing and one for the seen. A dragon's got a hundred thousand scales, and each one is a soldier, soldier, soldier. Ask the dwarf where she walked in the dusk. Ask the ogre what he carried home. Ask the knight what he's missing. Ha!"
+
+*(Suggestion: a mild clerk who has just found God and cannot stop talking about it.)*

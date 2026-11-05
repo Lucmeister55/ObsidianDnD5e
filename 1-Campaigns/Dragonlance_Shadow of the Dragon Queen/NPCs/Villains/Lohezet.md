@@ -22,9 +22,7 @@ Onyari restored to the skies, ancient knowledge recovered at any cost, and his n
 
 ## Secret
 
-- **The cult (optional).** If you choose, he's the "Lohezet" whose name the Draevenfall cult whispered: the distant patron who paid for it, sent [[Wurm|the elf lady]] to study the hatchling, and then took her away, "given" to an oracle of dragons. He was interested in Wurm because he suspected what the hatchling really was. See [[Wurm (DM)]].
-- **Vrella Farsky** may still be alive in his service.
-- **His contract seal.** The second seal on Wurm's ownership contract may be his.
+- **The disguise.** At Vogler he wore Cudgel's face (a *disguise self*) to lure Ispin into the trap, and brokered the gold through [[Svilnt Sunderlit|Svilnt]] ([[1.00 An Ordinary Day]]). He is the Dragon Army's teleporter, and opens the gate for Soth in Kalaman ([[3.13 The Raided Catacombs]]).
 
 ## Ties
 

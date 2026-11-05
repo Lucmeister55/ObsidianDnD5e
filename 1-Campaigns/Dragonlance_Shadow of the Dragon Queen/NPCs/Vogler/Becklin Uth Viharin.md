@@ -27,6 +27,7 @@ To give Ispin the send-off he deserved, to find out what really killed him, and 
 - **The Greenshields.** She is the only person Ispin told the truth about his family to, so she knows the story of the Dread Knight is real ("You know the story. Not the truth").
 - **Her suspicions.** She suspected Ispin's wounds were too long and targeted for a beast, and wrote to Edric about it.
 - **The box in Thornwall Keep** holds a suit of armour made for Darrett (module, chapter 4).
+- **Darrett is ready, and has been for a while.** She keeps telling him he isn't, out of motherly fear. Handing him the armour is her accepting her fate, and his first official step to knighthood ([[Darrett Highwater#Why He's Still a Squire]]).
 
 ## Ties
 

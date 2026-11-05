@@ -6,13 +6,14 @@ tags:
 
 # Combat Extras
 
-> [!homebrew] Source: **Homebrew**. Small combat mechanics that are each too small for a note of their own, bundled together: the weapon triangle, combo attacks, and slopes and high ground. The weapon triangle is built on the 2024 Weapon Mastery rules, and combos are a round-by-round version of the "one-turn" combo play in [[Session 1.5]].
+> [!homebrew] Source: **Homebrew**. Small combat mechanics that are each too small for a note of their own, bundled together: the weapon triangle, combo attacks, slopes and high ground, and scrolls and quick items. The weapon triangle is built on the 2024 Weapon Mastery rules, and combos are a round-by-round version of the "one-turn" combo play in [[Session 1.5]].
 
 | Extra | What it's for |
 |---|---|
 | [[#Weapon Triangle]] | Choosing a weapon by the enemy and the job: swords beat axes, axes beat spears, spears beat swords, plus a niche for every weapon. |
 | [[#Combo Attacks]] | Rewarding the party for fighting together: two or more characters spend their actions on one move. |
 | [[#Slopes and High Ground]] | Making terrain matter: a charge downhill hits harder, climbing is slow, and an archer on a hill shoots better. |
+| [[#Scrolls and Quick Items]] | Anyone can use any spell scroll (as in Baldur's Gate), and potions and a few small items cost only a bonus action. |
 
 ## Weapon Triangle
 
@@ -179,7 +180,40 @@ A **slope** is ground steep enough that the scene would call it a hill: a cliff 
 - **[[2.01 Back in Vogler#Encounter: Soldiers on the Cliffs]]:** the clifftop and the slope on the village side. Whoever holds the top shoots down with the bonus.
 - **Any map with a hill.** Name the slope when you describe the scene, and tell the players which way is up.
 
+## Scrolls and Quick Items
+
+> [!homebrew] Source: **Homebrew**, in the style of *Baldur's Gate 3*: consumables are for everyone and cheap to use.
+
+### Scrolls for Everyone
+
+**Any creature that can read the scroll can cast any spell scroll**, whatever its class or spell list. Casting takes the spell's normal casting time, and the scroll is used up.
+- **Save DC and attack bonus.** Use the scroll's own numbers, from the table below, or the caster's own if they have a spellcasting ability and it's better. A spell with a spell attack or a save that the scroll doesn't list uses the scroll's DC.
+- **No Arcana check** for higher-level spells, and no failure roll.
+- **Concentration** still applies, and the spell is still the scroll's level.
+
+| Spell level | Save DC | Spell attack |
+|---|---|---|
+| Cantrip to 2nd | 13 | +5 |
+| 3rd to 4th | 15 | +7 |
+| 5th to 6th | 17 | +9 |
+| 7th to 8th | 18 | +10 |
+| 9th | 19 | +11 |
+
+**Why.** Scrolls are single-use and rare, so the point is that the fighter can throw the fireball from a scroll in an emergency, not that martials become casters. It also makes finding a scroll exciting for the whole table, and gives Davos something to trade.
+
+### Quick Items
+
+These items take a **bonus action**, not an action. You can use **one per turn**:
+- **Drinking a potion**, or **giving one to an adjacent creature** (normally an action).
+- **Applying an oil, coating or antitoxin** to a weapon or a creature (see [[Harvesting and Crafting]]).
+- **Lighting a torch or lantern**, or **drawing and using a smoke pellet** or similar small item.
+
+Throwing alchemist's fire, acid or a flask is still an action. Stabilising a creature, or tending a wound, is still an action.
+
 ## Things to Watch
+
+- **Scrolls.** Do scrolls feel like a gift or a free fireball? If the party hoards them, give a use-it-or-lose-it reason (a fight they can't win without one). If a fighter's scroll becomes a daily plan, tell the table scrolls are rarer than they think.
+- **Quick items.** Does the bonus-action potion make fights too easy? If so, only drinking your own potion is a bonus action, and giving one stays an action.
 
 - **Weapon Triangle.** Do fighters actually carry a second weapon, and switch it mid-fight?
 - **Weapon Triangle.** Does +2 feel noticeable without being mandatory? If nobody notices, raise it to advantage on the first attack each turn. If it feels mandatory, drop it to +1.

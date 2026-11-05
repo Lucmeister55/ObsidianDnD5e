@@ -22,6 +22,18 @@ Young, tidy, armour polished more often than it needs to be, always carrying a b
 
 To become a Knight of Solamnia worthy of Becklin, to keep Vogler's people safe, and to never let anyone down.
 
+## Why He's Still a Squire
+
+> [!homebrew] Source: **Homebrew**.
+
+He is a year or two younger than Edric, but he could have been knighted by now. He has the skill, the manners and the record. **Becklin keeps saying he isn't ready yet, and he is.** She is being motherly: he is the closest thing she has to a son, a knight's life ends in places like Steel Springs, and as long as he is her squire she can keep him near her and out of it. Darrett takes her word for it and works harder.
+
+**His tone about it changes.** Before Vogler is invaded, he is **jokingly frustrated**: "Any day now, Ser Spurs, and I'll be a knight too. Becklin says next year. She's said next year for three years." With Edric he makes a running gag of it, and he laughs when he says it. After Vogler (the invasion, Becklin's fate and the box), the joke goes quiet. He is **solemn** about it, and nothing about becoming a knight is funny any more. When he is finally knighted, he does not joke.
+
+**The armour in the box** (the module's gift, [[2.02 Preparing for the Worst]]) is the answer to all of that. When Becklin sends it to him she is **accepting her fate**, and she is also giving him his **first official step to knighthood**: the plate she has quietly had made to fit him. She will not say it aloud. It is why her final message, "tell him I'm proud of him," matters more than it sounds.
+
+**His knighthood.** He is knighted the night before the ships leave for the Wastes ([[4.04 The Deadline]]): by Becklin, if she survived Vogler, or by a knight PC with her helmet on the altar. From then on he is **Ser Darrett**.
+
 ## Secret
 
 None, really. He hides how afraid he is that he isn't good enough. If Becklin dies at Vogler, he hides how much he's grieving too.
@@ -29,7 +41,7 @@ None, really. He hides how afraid he is that he isn't good enough. If Becklin di
 ## Ties
 
 - **[[Becklin Uth Viharin]]:** his mentor.
-- **[[Ser Edric of Brackenridge|Edric]]:** his oldest friend, and his rival for the Order's notice. They're the same age, and they want the same thing.
+- **[[Ser Edric of Brackenridge|Edric]]:** his oldest friend, and his rival for the Order's notice. Darrett is a year or two younger, and they want the same thing.
 - **[[Wurm]]:** the natural person to teach him to fight instead of beating him (see Wurm's level 5 moment).
 - **[[Nestra Vendri]]:** when the party is arrested at the Trade Gate, Darrett is the one who goes to find someone who outranks a lord, and brings her down to the cells ([[3.01 Arrival in Kalaman]]). He's also the only one who knows where she really goes in Downtime 5.
 - **Lord Bakaris:** he's forced to serve under him at Steel Springs, and it nearly kills him.

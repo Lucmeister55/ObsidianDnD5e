@@ -8,11 +8,11 @@ tags:
 
 *Back to [[Index]]*
 
-Index of the whole album: 148 tracks, 8h 25m, 2016. The numbers are as in the listing, which skips some and repeats 156 and 158. **2 of 148** are in the soundbar (folder `Soundbar/Fire Emblem Fates`). Tracks in the soundbar are buttons and say "yes". The rest are listed so you can see what else exists.
+Index of the whole album: 148 tracks, 8h 25m, 2016. The numbers are as in the listing, which skips some and repeats 156 and 158. **2 of 148** are used in the campaign. They are played from the media server, and no audio files are kept in the repo. Those tracks say "yes". The rest are listed so you can see what else exists.
 
 ## Tracks
 
-| # | Track | Length | In the soundbar |
+| # | Track | Length | Used in the campaign |
 |---|---|---|---|
 | 1 | Abundant Solace | 4:31 |  |
 | 2 | Far Dawn | 5:49 |  |
@@ -23,7 +23,7 @@ Index of the whole album: 148 tracks, 8h 25m, 2016. The numbers are as in the li
 | 7 | Justice RIP (Storm) | 5:15 |  |
 | 8 | Alight | 5:39 |  |
 | 9 | Alight (Storm) | 5:39 |  |
-| 10 | [Dusk Falls](ttrpg-sound:Soundbar/Fire Emblem Fates/Dusk Falls.flac) | 5:28 | yes |
+| 10 | Dusk Falls | 5:28 | yes |
 | 11 | Dusk Falls (Fire) | 5:28 |  |
 | 12 | Dark Wastes | 4:55 |  |
 | 13 | Dark Wastes (Fire) | 4:55 |  |
@@ -117,7 +117,7 @@ Index of the whole album: 148 tracks, 8h 25m, 2016. The numbers are as in the li
 | 101 | Warmth Is Gone | 4:17 |  |
 | 102 | Pleasure Capital | 3:03 |  |
 | 103 | Resolve (Light) | 5:11 |  |
-| 104 | [Resolve (Dark)](ttrpg-sound:Soundbar/Fire Emblem Fates/Resolve - Dark.flac) | 5:11 | yes |
+| 104 | Resolve (Dark) | 5:11 | yes |
 | 105 | Those Who Visit | 4:39 |  |
 | 106 | To a Foreign Land | 4:27 |  |
 | 107 | Seperation | 0:53 |  |
@@ -163,3 +163,14 @@ Index of the whole album: 148 tracks, 8h 25m, 2016. The numbers are as in the li
 | 161 | End of All (Land, Japanese) | 4:37 |  |
 | 162 | End of All (Below, Japanese) | 4:37 |  |
 
+## Used in the Campaign
+
+Links from the campaign notes land here.
+
+### Dusk Falls
+
+Track 10, 5:28.
+
+### Resolve (Dark)
+
+Track 104, 5:11.

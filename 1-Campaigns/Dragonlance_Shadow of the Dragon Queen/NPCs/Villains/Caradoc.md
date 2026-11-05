@@ -24,7 +24,7 @@ To amuse himself, and to get Soth back to what matters: revenge on the Knights. 
 
 - **He's Durstan Rial.** He possesses the knight **Durstan Rial** for over a week before the massacre, and arrives in Kalaman in his body. Darrett remembers Durstan, and Caradoc has to fake it.
 - **He kills Governor Miat** himself ([[Calof Miat]]).
-- **At the Trial** he's the hidden witness ([[4.02 The Trial - Testimony]]). When the possession is exposed, Durstan collapses with no memory, and Caradoc is already gone. Don't let him be caught, and don't let him be fought to a finish.
+- **At the Trial** he is the prosecution's advocate, wearing a guild lawyer ([[4.02 The Trial - Testimony#The Prosecutor: Caradoc in Disguise]]). When the possession is exposed, Durstan collapses with no memory, and Caradoc is already gone. Don't let him be caught, and don't let him be fought to a finish.
 
 ## Ties
 

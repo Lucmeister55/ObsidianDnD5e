@@ -8,11 +8,11 @@ tags:
 
 *Back to [[Index]]*
 
-Index of the whole album: 51 tracks, 1h 16m, 2011. **1 of 51** are in the soundbar (folder `Soundbar/Zelda - Ocarina of Time 3D`). Tracks in the soundbar are buttons and say "yes". The rest are listed so you can see what else exists.
+Index of the whole album: 51 tracks, 1h 16m, 2011. **1 of 51** are used in the campaign. They are played from the media server, and no audio files are kept in the repo. Those tracks say "yes". The rest are listed so you can see what else exists.
 
 ## Tracks
 
-| # | Track | Length | In the soundbar |
+| # | Track | Length | Used in the campaign |
 |---|---|---|---|
 | 1 | Title Theme | 1:29 |  |
 | 2 | Deku Tree | 0:56 |  |
@@ -25,7 +25,7 @@ Index of the whole album: 51 tracks, 1h 16m, 2011. **1 of 51** are in the soundb
 | 9 | Boss Battle | 1:26 |  |
 | 10 | Hyrule Field Main Theme | 3:59 |  |
 | 11 | Kaepora Gaebora's Theme | 1:08 |  |
-| 12 | [Market](ttrpg-sound:Soundbar/Zelda - Ocarina of Time 3D/Market - The Legend of Zelda_ Ocarina of Time OST Remastered.mp3) | 0:56 | yes |
+| 12 | Market | 0:56 | yes |
 | 13 | Hyrule Castle Courtyard | 0:38 |  |
 | 14 | Zelda's Theme | 0:58 |  |
 | 15 | LonLon Ranch | 4:04 |  |
@@ -66,3 +66,10 @@ Index of the whole album: 51 tracks, 1h 16m, 2011. **1 of 51** are in the soundb
 | 50 | End Credits | 7:07 |  |
 | 51 | End Credits 2 | 2:36 |  |
 
+## Used in the Campaign
+
+Links from the campaign notes land here.
+
+### Market
+
+Track 12, 0:56.

@@ -6,28 +6,13 @@ obsidianUIMode: preview
 
 All the combat music, with every fight in play order. These are placeholders for what's still to find: **Unique** means the fight is big enough for its own track, and **Generic** means a shared track will do.
 
-# Generic
-
-- **A normal fight:** [1-07 - Assault](ttrpg-sound:Soundbar/Fire Emblem Awakening/1-07 - Assault.mp3)
-- **It's gone wrong:** [1-11 - Menace](ttrpg-sound:Soundbar/Fire Emblem Awakening/1-11 - Menace.mp3)
-- **A boss:** [2-16 - Divine Decree~Ablaze](ttrpg-sound:Soundbar/Fire Emblem Awakening/2-16 - Divine Decree~Ablaze.mp3)
-- **Warriors of Krynn or a skirmish:** [Medieval Battlefield](ttrpg-sound:Soundbar/Ambience/Medieval Battlefield.mp3)
-- **A city under attack:** [Battle In City](ttrpg-sound:Soundbar/Ambience/Battle In City.mp3)
-
-| Chapter | Battle theme |
-|---|---|
-| Prologue | [Prelude~Ablaze](ttrpg-sound:Soundbar/Fire Emblem Awakening/1-06 - Prelude~Ablaze.mp3) |
-| 3. Storm Clouds | [Storm Clouds~Ablaze](ttrpg-sound:Soundbar/Fire Emblem Awakening/3-17 - Storm Clouds~Ablaze.mp3) |
-| 4. Duty | [Duty~Ablaze](ttrpg-sound:Soundbar/Fire Emblem Awakening/1-20 - Duty~Ablaze.mp3) |
-| 5. Destiny | [Destiny~Ablaze](ttrpg-sound:Soundbar/Fire Emblem Awakening/2-02 - Destiny~Ablaze.mp3) |
-| 6. Conquest | [Chaos~Ablaze](ttrpg-sound:Soundbar/Fire Emblem Awakening/4-02 - Chaos~Ablaze.mp3) |
-
 # Prologue
 
-- **The Battle of High Hill:** *Unique*
+- **The Battle of High Hill:** [[Fire Emblem Awakening#Assault|Fire Emblem Awakening: Assault]] ^high-hill-first
+- **The Battle of High Hill, once Gragonis appears:** [[Fire Emblem Awakening#Assault~Galvanised|Fire Emblem Awakening: Assault~Galvanised]] ^high-hill-second
 - **Pursuing Draconian:** *Generic*
 - **Soldiers on the Cliffs:** *Generic*
-- **Scenario 1: Battle of Vogler:** [Battle In City](ttrpg-sound:Soundbar/Ambience/Battle In City.mp3)
+- **Scenario 1: Battle of Vogler:** [[Fire Emblem Echoes - Shadows of Valentia#March to Deliverance (Prologue)|Fire Emblem Echoes - Shadows of Valentia: 1.14 March to Deliverance (Prologue)]] ^scenario-1
 - **The Boilerdrak:** *Unique*
 - **Fewmaster Gholcag:** *Generic*
 - **Raven's Last Stand:** *Unique*
@@ -86,10 +71,10 @@ All the combat music, with every fight in play order. These are placeholders for
 - **Testing the Defenses:** *Generic*
 - **Highmaster's Message:** *Generic*
 - **Bakaris Defects:** *Unique*
-- **Scenario 11: Siege of Kalaman:** [Medieval Battlefield](ttrpg-sound:Soundbar/Ambience/Medieval Battlefield.mp3)
+- **Scenario 11: Siege of Kalaman:** 
 - **Red Ruin:** *Unique*
 - **Mourning Sanctum:** *Unique*
 - **Lord Soth (don't fight him straight):** *Unique*
 - **Karavarix's Revenge:** *Unique*
-- **Clash of Fallen Flames:** [1-11 - Menace](ttrpg-sound:Soundbar/Fire Emblem Awakening/1-11 - Menace.mp3)
+- **Clash of Fallen Flames:**
 - **Scenario 12: The Field of Kalaman:** *Unique*

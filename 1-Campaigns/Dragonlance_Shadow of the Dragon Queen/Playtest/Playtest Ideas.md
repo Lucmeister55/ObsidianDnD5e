@@ -15,6 +15,7 @@ Everything here is a test. Run each one for two or three sessions, then ask the 
 | **Weapon Triangle** | Fighters choosing weapons by the job and the enemy. Fire Emblem style, plus a niche for every weapon. | Not yet tested | [[Combat Extras#Weapon Triangle\|Weapon Triangle]] |
 | **Combo Attacks** | Rewarding teamwork in normal rounds. | Not yet tested | [[Combat Extras#Combo Attacks\|Combo Attacks]] |
 | **Slopes and High Ground** | Terrain that matters: downhill charges, slow climbs, archers on a hill. | Not yet tested | [[Combat Extras#Slopes and High Ground\|Slopes and High Ground]] |
+| **Scrolls and Quick Items** | Any class can use any spell scroll (like Baldur's Gate), and potions and small items cost a bonus action. | Not yet tested | [[Combat Extras#Scrolls and Quick Items\|Scrolls and Quick Items]] |
 | **Skirmish Battles** | Small mass combat on the battlemap, with units of soldiers. | Not yet tested | [[Skirmish Battles]] |
 | **Harvesting and Crafting** | Monster parts, ammunition tips and crafted gear. Mostly for Milo and Thorn. | Not yet tested | [[Harvesting and Crafting]] |
 | **One-Turn Resolution** | Skipping padding fights cinematically. | Not yet tested | [[One-Turn Resolution]] |

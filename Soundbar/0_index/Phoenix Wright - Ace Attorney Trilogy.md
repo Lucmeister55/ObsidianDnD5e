@@ -8,21 +8,21 @@ tags:
 
 *Back to [[Index]]*
 
-Index of the whole album: 101 tracks, 3h 7m, 2021. **9 of 101** are in the soundbar (folder `Soundbar/Phoenix Wright - Ace Attorney Trilogy`). Tracks in the soundbar are buttons and say "yes". The rest are listed so you can see what else exists.
+Index of the whole album: 101 tracks, 3h 7m, 2021. **9 of 101** are used in the campaign. They are played from the media server, and no audio files are kept in the repo. Those tracks say "yes". The rest are listed so you can see what else exists.
 
 ## Disc 1
 
-| # | Track | Length | In the soundbar |
+| # | Track | Length | Used in the campaign |
 |---|---|---|---|
 | 1 | Phoenix Wright: Ace Attorney - Opening | 0:40 |  |
-| 2 | [Defendant Lobby - So it Begins](ttrpg-sound:Soundbar/Phoenix Wright - Ace Attorney Trilogy/02. Defendant Lobby - So it Begins.flac) | 1:17 | yes |
-| 3 | [Phoenix Wright: Ace Attorney - Court is Now in Session](ttrpg-sound:Soundbar/Phoenix Wright - Ace Attorney Trilogy/03. Phoenix Wright Ace Attorney - Court is Now in Session.flac) | 1:48 | yes |
-| 4 | [Cross-Examination - Moderato 2001](ttrpg-sound:Soundbar/Phoenix Wright - Ace Attorney Trilogy/04. Cross-Examination - Moderato 2001.flac) | 1:44 | yes |
-| 5 | [Tricks and Deductions](ttrpg-sound:Soundbar/Phoenix Wright - Ace Attorney Trilogy/05. Tricks and Deductions.flac) | 2:32 | yes |
-| 7 | [Cross-Examination - Allegro 2001](ttrpg-sound:Soundbar/Phoenix Wright - Ace Attorney Trilogy/07. Cross-Examination - Allegro 2001.flac) | 2:06 | yes |
-| 8 | [Pursuit - Corner the Culprit](ttrpg-sound:Soundbar/Phoenix Wright - Ace Attorney Trilogy/08. Pursuit - Corner the Culprit.flac) | 1:36 | yes |
-| 9 | [The Truth Revealed 2001](ttrpg-sound:Soundbar/Phoenix Wright - Ace Attorney Trilogy/09. The Truth Revealed 2001.flac) | 1:19 | yes |
-| 10 | [Suspense](ttrpg-sound:Soundbar/Phoenix Wright - Ace Attorney Trilogy/10. Suspense.flac) | 1:32 | yes |
+| 2 | Defendant Lobby - So it Begins | 1:17 | yes |
+| 3 | Phoenix Wright: Ace Attorney - Court is Now in Session | 1:48 | yes |
+| 4 | Cross-Examination - Moderato 2001 | 1:44 | yes |
+| 5 | Tricks and Deductions | 2:32 | yes |
+| 7 | Cross-Examination - Allegro 2001 | 2:06 | yes |
+| 8 | Pursuit - Corner the Culprit | 1:36 | yes |
+| 9 | The Truth Revealed 2001 | 1:19 | yes |
+| 10 | Suspense | 1:32 | yes |
 | 11 | Pursuit - Corner the Culprit (Variation) | 1:30 | yes, but the file name has brackets or quotes, so rename it to make it a button |
 | 12 | Jingle - There's No Stopping Here | 0:05 |  |
 | 13 | Initial Investigation 2001 | 1:50 |  |
@@ -126,3 +126,38 @@ Index of the whole album: 101 tracks, 3h 7m, 2021. **9 of 101** are in the sound
 | 34 | Victory! - An Eternal Win | 2:41 |  |
 | 35 | Trials and Tribulations - Ending | 3:57 |  |
 
+## Used in the Campaign
+
+Links from the campaign notes land here.
+
+### Defendant Lobby - So it Begins
+
+Track 2, 1:17.
+
+### Phoenix Wright Ace Attorney - Court is Now in Session
+
+Track 3, 1:48.
+
+### Cross-Examination - Moderato 2001
+
+Track 4, 1:44.
+
+### Tricks and Deductions
+
+Track 5, 2:32.
+
+### Cross-Examination - Allegro 2001
+
+Track 7, 2:06.
+
+### Pursuit - Corner the Culprit
+
+Track 8, 1:36.
+
+### The Truth Revealed 2001
+
+Track 9, 1:19.
+
+### Suspense
+
+Track 10, 1:32.

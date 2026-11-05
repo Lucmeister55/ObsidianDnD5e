@@ -22,7 +22,8 @@ Kalaman burned clean in the Dragon Queen's name, the City of Lost Names claimed 
 
 ## Secret
 
-- **Red Ruin.** She raised [[Red Ruin]] from childhood and shaped her into the weapon she is. She loves the girl in her own way, and would sacrifice her in an instant if the Queen asked.
+- **Red Ruin.** She raised [[Red Ruin]] from childhood and **broke her with her own hands**: a girl who loved dragonnels and was the best rider in the region because they trusted her, remade into the weapon she is ([[Red Ruin#Who She Was]]). She loves the girl in her own way, and would sacrifice her in an instant if the Queen asked.
+- **The Draevenfall cult.** She was the cult's distant patron: she paid for it, sent an elf lady (**Vrella Farsky**) to study the platinum hatchling [[Wurm]], then took her away, "given" to an oracle of dragons. The second seal on Wurm's contract is hers ([[Wurm (DM)]]).
 - **The deal.** She passed on [[Lord Soth]]'s order to kill [[Ispin Greenshield|Ispin]] without asking why. The Queen allows the Dread Knight, so she allows him too.
 - **She hears things.** Something answers when she talks to the Dragon Queen. Takhisis really does whisper to her, and it's slowly driving her mad.
 

@@ -8,11 +8,11 @@ tags:
 
 *Back to [[Index]]*
 
-Index of the whole album: 113 tracks, 2h 31m, 2015. **0 of 113** are in the soundbar (no folder for it yet). Tracks in the soundbar are buttons and say "yes". The rest are listed so you can see what else exists.
+Index of the whole album: 113 tracks, 2h 31m, 2015. **0 of 113** are used in the campaign. They are played from the media server, and no audio files are kept in the repo. Those tracks say "yes". The rest are listed so you can see what else exists.
 
 ## Disc 1
 
-| # | Track | Length | In the soundbar |
+| # | Track | Length | Used in the campaign |
 |---|---|---|---|
 | 1 | Title Theme | 2:13 |  |
 | 2 | Opening | 1:13 |  |

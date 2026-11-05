@@ -48,6 +48,10 @@ Short, broad and solid as a door, with copper braids bound in iron rings and the
 - **The Wastes** ([[4.04 The Deadline]]): her ten sail with Darrett. In skirmishes, they're the **Mercenaries** unit ([[Skirmish Battles]]).
 - **The end** ([[6.07 Kalaman Victorious]]): she buries Jeyev's name, whatever happened to him.
 
+## Under Suspicion
+
+The party may suspect her. A hunter saw Ispin walk into the woods the evening before with a dwarf and an ogre (faces unseen), and it was Lohezet in her face ([[1.00 An Ordinary Day]]). Two of her lieutenants (Gragonis, then Jeyev) and Svilnt, a mercenary in her ranks, are all traitors. Her alibi is Jeyev, who is useless. She is hurt, not angry: she will answer every question and ask them to look at her camp. What clears her is the footprints at the scene (the "dwarf" left slim, shallow prints, not her heavy boots), and much later Lohezet himself. Svilnt only hints, because he wants her doubted ([[2.01 Back in Vogler]]).
+
 ## Under Pressure
 
 She gets louder, and then she makes a plan, and the plan is usually good. She never leaves her people behind, and she takes every loss personally. Her weakness is comfort: she can be slow to leave a warm inn, and slow to believe the worst of a friend.

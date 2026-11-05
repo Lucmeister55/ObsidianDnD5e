@@ -8,18 +8,18 @@ tags:
 
 *Back to [[Index]]*
 
-Index of the whole album: 83 tracks, 3h 40m, 2018. **1 of 83** are in the soundbar (folder `Soundbar/Monster Hunter World`). Tracks in the soundbar are buttons and say "yes". The rest are listed so you can see what else exists.
+Index of the whole album: 83 tracks, 3h 40m, 2018. **1 of 83** are used in the campaign. They are played from the media server, and no audio files are kept in the repo. Those tracks say "yes". The rest are listed so you can see what else exists.
 
 ## Disc 1
 
-| # | Track | Composer | Length | In the soundbar |
+| # | Track | Composer | Length | Used in the campaign |
 |---|---|---|---|---|
 | 1 | Main Theme - Stars at Our Backs | Tadayoshi Makino | 4:31 |  |
 | 2 | Main Menu | Zhenlan Kang | 1:14 |  |
 | 3 | Meeting a Friend | Zhenlan Kang | 3:43 |  |
 | 4 | Prologue | Tadayoshi Makino | 3:31 |  |
 | 5 | The New World - First Uproar | Akihiko Narita | 2:06 |  |
-| 6 | [Cornerstone of the New World ~ Astera](ttrpg-sound:Soundbar/Monster Hunter World/1.06 Cornerstone of the New World ~ Astera.flac) | Tadayoshi Makino | 5:02 | yes |
+| 6 | Cornerstone of the New World ~ Astera | Tadayoshi Makino | 5:02 | yes |
 | 7 | Meowscular Chef's Custom Platter | Akihiko Narita | 0:18 |  |
 | 8 | First Council Meeting ~ Daily Matters | Akihiko Narita | 3:15 |  |
 | 9 | Preparing for the Journey ~ Living Quarters | Tadayoshi Makino | 2:35 |  |
@@ -46,7 +46,7 @@ Index of the whole album: 83 tracks, 3h 40m, 2018. **1 of 83** are in the soundb
 
 ## Disc 2
 
-| # | Track | Composer | Length | In the soundbar |
+| # | Track | Composer | Length | Used in the campaign |
 |---|---|---|---|---|
 | 1 | Proof of a Hero ~ Monster Hunter: World version | Zhenlan Kang | 2:10 |  |
 | 2 | Returning from an Expedition | Akihiko Narita | 2:40 |  |
@@ -84,7 +84,7 @@ Index of the whole album: 83 tracks, 3h 40m, 2018. **1 of 83** are in the soundb
 
 ## Disc 3
 
-| # | Track | Composer | Length | In the soundbar |
+| # | Track | Composer | Length | Used in the campaign |
 |---|---|---|---|---|
 | 1 | Even Elder Dragons Tremble ~ Nergigante | Yuko Komiyama | 4:53 |  |
 | 2 | Even Elder Dragons Tremble ~ Nergigante: The Chase | Yuko Komiyama | 2:19 |  |
@@ -108,3 +108,10 @@ Index of the whole album: 83 tracks, 3h 40m, 2018. **1 of 83** are in the soundb
 | 20 | State of Emergency! | Yuko Komiyama | 4:11 |  |
 | 21 | Pride of a Nameless Hunter | Tadayoshi Makino | 4:25 |  |
 
+## Used in the Campaign
+
+Links from the campaign notes land here.
+
+### Cornerstone of the New World ~ Astera
+
+Track 6, 5:02.

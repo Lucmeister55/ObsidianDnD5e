@@ -35,7 +35,7 @@ What Wurm doesn't know about himself.
     Ispin met the same old man once. It's on the module's table of his funeral stories, "a befuddled old man who disappeared before dawn". If Edric or Becklin recognises the description, that's a lovely thread between the two characters.
 
   Spread these through the campaign and the level-up moments. The goal is that once the truth comes out, the players can look back and see that every clue was there. Affects [[Wurm#^bond-voice|the voice]] and [[Wurm#^ideal-truth|Truth]].
-- **Lohezet**, the cult's patron, shares his name with the module's Lohezet (chapter 6, *City of Lost Names*). If they're the same person, that ties Wurm straight to the campaign's endgame. Your call.
+- **Kansaldi**, the cult's patron, is the Dragon Highmaster who raised [[Red Ruin]] from childhood ([[Kansaldi Fire-Eyes]]). She paid for the Draevenfall cult, sent the elf lady to study the hatchling, and then took her away, "given" to an oracle of dragons. That ties Wurm straight to the finale, and makes Wurm and Red Ruin two of the same kind of child.
 
 ## Hooks
 
@@ -43,13 +43,13 @@ What Wurm doesn't know about himself.
   1. **The voice (from the start).** "Paladine" tells him to destroy the draconians and protect the worthy, and Wurm obeys. Takhisis is happy to spend a few draconians to win a champion.
   2. **Freedom (early on).** The Bakarises are in Kalaman, and he's still legally theirs (see "The contract" below). Renown with the Knights and the Kalaman military is the only road he can see to having his bond broken.
   3. **Belonging (mid-campaign).** The party and the Knights are the first people who've ever treated him as a person. He fights for them because no one has ever let him fight for anyone before.
-  4. **Vrella and Lohezet (late).** The trail to Lohezet, and maybe to Vrella, runs straight through the Dragon Army in the City of Lost Names.
+  4. **Vrella and Kansaldi (late).** The trail to Kansaldi, and maybe to Vrella, runs through the Dragon Army, from the City of Lost Names to the flying citadel.
 
 - **The contract.** Wurm's whole servitude rests on one sealed parchment from the magistrate of Draevenfall. Serfdom is still legal around Kalaman, so as long as that contract exists, the law says he's the Bakarises' property, however many draconians he kills. Bakaris the Younger keeps it on him, or in a locked strongbox in the family's Kalaman lodgings, and loves to show it off. It's a ready-made side quest with several ways to solve it:
   - **Steal it.** A job made for [[Milo Geartickle|Milo]]. Burning it in front of the Younger would be one of the most satisfying scenes in the campaign. But a stolen contract can be copied from the Draevenfall records, so it may only buy time.
   - **Buy it.** The Bakarises are short of money since their exile. A big enough sum, perhaps a reward from the Kalaman council, might tempt the Elder, if the Younger doesn't find out.
   - **Pull strings.** Renown with the Knights of Solamnia, Marshal Vendri or Kalaman's ruling council could get the contract voided, or Wurm's freedom granted for service to the city. It's slow but permanent, and it's a good reason to invest in the faction system in [[3.00 Storm Clouds]].
-  - **The fine print.** Whoever finally reads it might discover something odd. It names Wurm as "the creature recovered from the Paladine sect", and the magistrate's signature sits beside a second seal that matches a mark tied to **Lohezet**.
+  - **The fine print.** Whoever finally reads it might discover something odd. It names Wurm as "the creature recovered from the Paladine sect", and the magistrate's signature sits beside a second seal that matches a mark tied to **Kansaldi**.
 
   Plays on [[Wurm#^ideal-freedom|Freedom]] and [[Wurm#^flaw-freedom|fear of freedom]]. When the contract is finally gone, Wurm should have to face the question of what he does when no one owns him.
 
@@ -98,7 +98,7 @@ Wurm is the exception to the rule that the gods stay silent. **Takhisis** speaks
 - **Level 7: the Northern Wastes** *(divine)*. He comes across a wounded draconian and doesn't kill it. The voice screams at him. When he stands up, there's a single silver scale lying in the dust where he knelt, and it isn't his. That night he dreams of the party's last war council, seen from somewhere above and behind his own head, and in the dream a grey shape is listening.
 - **Level 8: the passage to the City of Lost Names** *(divine)*. A metallic dragon is carved into the passage wall. When Wurm touches it, his black scales reflect for a heartbeat under his hand. It's the first hint of what he really hatched from.
 - **Level 9: reforging the dragonlance** *(divine)*. In the Temple of Paladine, the voice is quiet and uneasy, and his dragon-bone axe won't come when he calls it. Ask: what does Wurm pray to, here, when it isn't the voice?
-- **Level 10: escaping the Threshold** *(divine or earned)*. If you've decided Lohezet is the cult's patron, this is where Wurm faces the man who took Vrella. If not, he levels by carrying the party's wounded out, and the voice tells him they'll owe him for it.
+- **Level 10: escaping the Threshold** *(divine or earned)*. If you've decided Kansaldi is the cult's patron, this is where Wurm finds her seal, and the cult's old mark, on a captured Dragon Army order, and learns who took Vrella. If not, he levels by carrying the party's wounded out, and the voice tells him they'll owe him for it.
 
 ## Arc
 

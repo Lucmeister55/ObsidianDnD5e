@@ -8,17 +8,17 @@ tags:
 
 *Back to [[Index]]*
 
-Index of the whole album: 154 tracks, 6h 33m, 2017. **7 of 154** are in the soundbar (folder `Soundbar/Fire Emblem Echoes - Shadows of Valentia`). Tracks in the soundbar are buttons and say "yes". The rest are listed so you can see what else exists.
+Index of the whole album: 154 tracks, 6h 33m, 2017. **7 of 154** are used in the campaign. They are played from the media server, and no audio files are kept in the repo. Those tracks say "yes". The rest are listed so you can see what else exists.
 
 ## Disc 1
 
-| # | Track | Composer | Length | In the soundbar |
+| # | Track | Composer | Length | Used in the campaign |
 |---|---|---|---|---|
 | 1 | Title Loop | Takeru Kanazaki | 2:13 |  |
 | 2 | Echoes | Takeru Kanazaki | 1:18 |  |
 | 3 | Fire Emblem Theme | Yuka Tsujiyoko | 1:57 |  |
-| 4 | [An Ordinary Day](ttrpg-sound:Soundbar/Fire Emblem Echoes - Shadows of Valentia/1.04 An Ordinary Day.mp3) | Yasuhisa Baba | 3:07 | yes |
-| 5 | [Spring Radiance](ttrpg-sound:Soundbar/Fire Emblem Echoes - Shadows of Valentia/1.05 Spring Radiance.mp3) | Shoh Murakami | 3:32 | yes |
+| 4 | An Ordinary Day | Yasuhisa Baba | 3:07 | yes |
+| 5 | Spring Radiance | Shoh Murakami | 3:32 | yes |
 | 6 | Treason | Takafumi Wada | 2:36 |  |
 | 7 | Courage in Numbers | Takafumi Wada | 2:38 |  |
 | 8 | The Approaching Menace | Takafumi Wada | 2:23 |  |
@@ -26,8 +26,8 @@ Index of the whole album: 154 tracks, 6h 33m, 2017. **7 of 154** are in the soun
 | 10 | Opening | Yuka Tsujiyoko | 2:36 |  |
 | 11 | Serenity | Yasuhisa Baba | 3:06 |  |
 | 12 | Uprising | Yuka Tsujiyoko | 1:52 |  |
-| 13 | [Where the Wind Rustles](ttrpg-sound:Soundbar/Fire Emblem Echoes - Shadows of Valentia/1.13 Where the Wind Rustles.mp3) | Yuka Tsujiyoko | 2:13 | yes |
-| 14 | [March to Deliverance (Prologue)](ttrpg-sound:Soundbar/Fire Emblem Echoes - Shadows of Valentia/1.14 March to Deliverance - Prologue.mp3) | Yuka Tsujiyoko | 2:16 | yes |
+| 13 | Where the Wind Rustles | Yuka Tsujiyoko | 2:13 | yes |
+| 14 | March to Deliverance (Prologue) | Yuka Tsujiyoko | 2:16 | yes |
 | 15 | The Dauntless Blade | Yuka Tsujiyoko | 1:22 |  |
 | 16 | The Air of Brutality (Prologue) | Yuka Tsujiyoko | 2:33 |  |
 | 17 | Undercurrents | Yuka Tsujiyoko | 2:59 |  |
@@ -36,7 +36,7 @@ Index of the whole album: 154 tracks, 6h 33m, 2017. **7 of 154** are in the soun
 | 20 | A Bewitching Dance | Takeru Kanazaki | 0:52 |  |
 | 21 | Song of Peace | Yuka Tsujiyoko | 2:48 |  |
 | 22 | The Ark of Dawn | Yuka Tsujiyoko | 3:31 |  |
-| 23 | [With Mila's Divine Protection (Prologue)](ttrpg-sound:Soundbar/Fire Emblem Echoes - Shadows of Valentia/1.23 With Mila's Divine Protection - Prologue.mp3) | Yuka Tsujiyoko | 1:52 | yes |
+| 23 | With Mila's Divine Protection (Prologue) | Yuka Tsujiyoko | 1:52 | yes |
 | 24 | A Blade on the Wind | Yuka Tsujiyoko | 1:21 |  |
 | 25 | Disquieting Steps (Prologue) | Yuka Tsujiyoko | 3:07 |  |
 | 26 | Sea Winds and Travelers | Yasuhisa Baba | 3:49 |  |
@@ -44,17 +44,17 @@ Index of the whole album: 154 tracks, 6h 33m, 2017. **7 of 154** are in the soun
 
 ## Disc 2
 
-| # | Track | Composer | Length | In the soundbar |
+| # | Track | Composer | Length | Used in the campaign |
 |---|---|---|---|---|
 | 1 | Undiscovered Horizons | Yuka Tsujiyoko | 4:17 |  |
-| 2 | [Preparations: Deliverance](ttrpg-sound:Soundbar/Fire Emblem Echoes - Shadows of Valentia/2.02 Preparations- Deliverance.mp3) | Takafumi Wada | 3:13 | yes |
+| 2 | Preparations: Deliverance | Takafumi Wada | 3:13 | yes |
 | 3 | March to Deliverance | Yuka Tsujiyoko | 4:04 |  |
 | 4 | The Air of Brutality | Yuka Tsujiyoko | 2:28 |  |
 | 5 | The Fiends' Rapture | Yuka Tsujiyoko | 1:16 |  |
 | 6 | The Fallen Knight | Yasuhisa Baba | 2:31 |  |
 | 7 | Borders | Takeru Kanazaki | 2:28 |  |
 | 8 | Disquiet | Shoh Murakami | 3:26 |  |
-| 9 | [Where the Hammer Sings](ttrpg-sound:Soundbar/Fire Emblem Echoes - Shadows of Valentia/2.09 Where the Hammer Sings.mp3) | Takeru Kanazaki | 2:07 | yes |
+| 9 | Where the Hammer Sings | Takeru Kanazaki | 2:07 | yes |
 | 10 | Preparations: Pilgrimage | Yasuhisa Baba | 3:21 |  |
 | 11 | With Mila's Divine Protection | Yuka Tsujiyoko | 3:32 |  |
 | 12 | Disquieting Steps | Yuka Tsujiyoko | 2:58 |  |
@@ -72,7 +72,7 @@ Index of the whole album: 154 tracks, 6h 33m, 2017. **7 of 154** are in the soun
 
 ## Disc 3
 
-| # | Track | Composer | Length | In the soundbar |
+| # | Track | Composer | Length | Used in the campaign |
 |---|---|---|---|---|
 | 1 | A Song for Bygone Days | Yuka Tsujiyoko | 3:30 |  |
 | 2 | What Lies at the End | Yuka Tsujiyoko | 5:52 |  |
@@ -98,7 +98,7 @@ Index of the whole album: 154 tracks, 6h 33m, 2017. **7 of 154** are in the soun
 
 ## Disc 4
 
-| # | Track | Composer | Length | In the soundbar |
+| # | Track | Composer | Length | Used in the campaign |
 |---|---|---|---|---|
 | 1 | Truth | Yuka Tsujiyoko | 3:42 |  |
 | 2 | Duma's Scourge | Yuka Tsujiyoko | 3:55 |  |
@@ -123,7 +123,7 @@ Index of the whole album: 154 tracks, 6h 33m, 2017. **7 of 154** are in the soun
 
 ## Disc 5
 
-| # | Track | Composer | Length | In the soundbar |
+| # | Track | Composer | Length | Used in the campaign |
 |---|---|---|---|---|
 | 1 | Stairway of Delight | Yuka Tsujiyoko | 5:06 |  |
 | 2 | Chasing the Wind on the Plains | Yuka Tsujiyoko | 4:05 |  |
@@ -189,3 +189,34 @@ Index of the whole album: 154 tracks, 6h 33m, 2017. **7 of 154** are in the soun
 | 62 | The Course of Gods and Men (Classic) | Yuka Tsujiyoko | 2:42 |  |
 | 63 | The Borders of Justice (Classic) | Yuka Tsujiyoko | 3:57 |  |
 
+## Used in the Campaign
+
+Links from the campaign notes land here.
+
+### An Ordinary Day
+
+Track 4, 3:07.
+
+### Spring Radiance
+
+Track 5, 3:32.
+
+### Where the Wind Rustles
+
+Track 13, 2:13.
+
+### March to Deliverance (Prologue)
+
+Track 14, 2:16.
+
+### With Mila's Divine Protection (Prologue)
+
+Track 23, 1:52.
+
+### Preparations Deliverance
+
+Track 2, 3:13.
+
+### Where the Hammer Sings
+
+Track 9, 2:07.

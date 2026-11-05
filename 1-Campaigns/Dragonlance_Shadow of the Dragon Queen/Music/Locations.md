@@ -4,19 +4,21 @@ obsidianUIMode: preview
 
 # Vogler
 
-- **Exploring the village:** [1-04 - Id~Serenity](ttrpg-sound:Soundbar/Fire Emblem Awakening/1-04 - Id~Serenity.mp3)
-- **The funeral:** [2-13 - And what if I can't What if I'm not worthy of her ideals](ttrpg-sound:Soundbar/Fire Emblem Awakening/2-13 - And what if I can't What if I'm not worthy of her ideals.mp3)
-- **The Kingfisher Festival:** [Market - The Legend of Zelda_ Ocarina of Time OST Remastered](ttrpg-sound:Soundbar/Zelda - Ocarina of Time 3D/Market - The Legend of Zelda_ Ocarina of Time OST Remastered.mp3)
+- **The prologue opens (Edric's ride):** [[Fire Emblem Awakening#Prelude|Fire Emblem Awakening: Prelude]] ^prologue-intro
+- **Exploring the village:** [[Fire Emblem Awakening#Id~Serenity|Fire Emblem Awakening: Id~Serenity]]
+- **The funeral:** [[Fire Emblem Awakening#And what if I can't? What if I'm not worthy of her ideals?|Fire Emblem Awakening: And what if I can't? What if I'm not worthy of her ideals?]]
+- **The Kingfisher Festival:** [[Zelda - Ocarina of Time 3D#Market|Zelda - Ocarina of Time 3D: Market]] ^kingfisher-festival
+- **After High Hill (discussing what happened):** [[Fire Emblem Awakening#Something is very wrong.|Fire Emblem Awakening: Something is very wrong.]] ^high-hill-aftermath
 
 # Kalaman
 
-- **Entering/returning:** [1-21 - Here we are! The Shepherd's garrison.](ttrpg-sound:Soundbar/Fire Emblem Awakening/1-21 - Here we are! The Shepherd's garrison..mp3)
-- **Exploring the city:** [1.06 Cornerstone of the New World ~ Astera](ttrpg-sound:Soundbar/Monster Hunter World/1.06 Cornerstone of the New World ~ Astera.flac)
-- **Council meeting:** [1-12 - It appears the capital was spared the chaos.](ttrpg-sound:Soundbar/Fire Emblem Awakening/1-12 - It appears the capital was spared the chaos..mp3)
-- **War room:** [2.02 Preparations- Deliverance](ttrpg-sound:Soundbar/Fire Emblem Echoes - Shadows of Valentia/2.02 Preparations- Deliverance.mp3)
-- **The cells:** [Resolve - Dark](ttrpg-sound:Soundbar/Fire Emblem Fates/Resolve - Dark.flac)
+- **Entering/returning:** [[Fire Emblem Awakening#Here we are! The Shepherd's garrison.|Fire Emblem Awakening: Here we are! The Shepherd's garrison.]]
+- **Exploring the city:** [[Monster Hunter World#Cornerstone of the New World ~ Astera|Monster Hunter World: 1.06 Cornerstone of the New World ~ Astera]]
+- **Council meeting:** [[Fire Emblem Awakening#It appears the capital was spared the chaos.|Fire Emblem Awakening: It appears the capital was spared the chaos.]]
+- **War room:** 
+- **The cells:** 
 - **The Trial:** 
-- **Hammerstrike Forges:** [2.09 Where the Hammer Sings](ttrpg-sound:Soundbar/Fire Emblem Echoes - Shadows of Valentia/2.09 Where the Hammer Sings.mp3)
+- **Hammerstrike Forges:** [[Fire Emblem Echoes - Shadows of Valentia#Where the Hammer Sings|Fire Emblem Echoes - Shadows of Valentia: 2.09 Where the Hammer Sings]]
 - **The Steady Beacon:** 
 - **Wanderer's Rest:** 
 - **The Cinque Teste:** 
@@ -29,7 +31,7 @@ obsidianUIMode: preview
 
 # The Catacombs
 
-- **Exploring:** [1-14 - Something is very wrong.](ttrpg-sound:Soundbar/Fire Emblem Awakening/1-14 - Something is very wrong..mp3)
+- **Exploring:** 
 
 # The Northern Wastes
 
@@ -48,7 +50,7 @@ obsidianUIMode: preview
 # City of Lost Names
 
 - **Exploring:** 
-- **Threshold of the Heavens:** [2-15 - Divine Decree](ttrpg-sound:Soundbar/Fire Emblem Awakening/2-15 - Divine Decree.mp3)
+- **Threshold of the Heavens:** 
 
 # The flying citadel
 
