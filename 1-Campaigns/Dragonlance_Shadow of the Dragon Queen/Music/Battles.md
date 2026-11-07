@@ -8,14 +8,13 @@ All the combat music, with every fight in play order. These are placeholders for
 
 # Prologue
 
-- **The Battle of High Hill:** [[Fire Emblem Awakening#Assault|Fire Emblem Awakening: Assault]] ^high-hill-first
-- **The Battle of High Hill, once Gragonis appears:** [[Fire Emblem Awakening#Assault~Galvanised|Fire Emblem Awakening: Assault~Galvanised]] ^high-hill-second
-- **Pursuing Draconian:** *Generic*
-- **Soldiers on the Cliffs:** *Generic*
+- **The Battle of High Hill:** [[Fire Emblem Echoes - Shadows of Valentia#The Air of Brutality (Prologue)|Fire Emblem Echoes - Shadows of Valentia: The Air of Brutality (Prologue)]] ^high-hill-first
+- **The Battle of High Hill, once Gragonis appears:** [[Fire Emblem Echoes - Shadows of Valentia#The Air of Brutality|Fire Emblem Echoes - Shadows of Valentia: The Air of Brutality]] ^high-hill-second
+- **The Stalkers in the Trees:** [[Fire Emblem Echoes - Shadows of Valentia#Treason|Fire Emblem Echoes - Shadows of Valentia: Treason]] ^stalkers
+- **Soldiers on the Cliffs:** [[Fire Emblem Echoes - Shadows of Valentia#Courage in Numbers|Fire Emblem Echoes - Shadows of Valentia: Courage in Numbers]] ^cliffs
 - **Scenario 1: Battle of Vogler:** [[Fire Emblem Echoes - Shadows of Valentia#March to Deliverance (Prologue)|Fire Emblem Echoes - Shadows of Valentia: 1.14 March to Deliverance (Prologue)]] ^scenario-1
-- **The Boilerdrak:** *Unique*
-- **Fewmaster Gholcag:** *Generic*
-- **Raven's Last Stand:** *Unique*
+- **The Boilerdrak:** [[The Witcher 3 - Wild Hunt#The Hunt Is Coming|The Witcher 3 - Wild Hunt: The Hunt Is Coming]] ^boilerdrak
+- **Fewmaster Gholcag:** [[The Witcher 3 - Wild Hunt#Like A Wounded Animal|The Witcher 3 - Wild Hunt: Like A Wounded Animal]] ^gholcag
 
 # 3. Storm Clouds
 

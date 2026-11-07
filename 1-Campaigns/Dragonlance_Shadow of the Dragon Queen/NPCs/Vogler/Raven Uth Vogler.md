@@ -26,7 +26,7 @@ A good festival, Ispin's funeral done properly, and her people safe. After the b
 
 - **The villagers of Vogler** ([[Vogler Refugees]]): her people, every one of them.
 - **[[Becklin Uth Viharin|Becklin]]** and **[[Cudgel Ironsmile]]:** old friends and defenders of the village.
-- **[[Bakaris Uth Estide|The Bakarises]]:** she can't stand them, and they undermine her at every turn. She tolerates them because Bakaris holds the loan on the wharf and the Regiment's fee, and because she has guessed they are exiles hiding in Vogler. Neither side says so ([[1.02 Arrival in Vogler#Vogler's Details]]).
+- **[[Bakaris Uth Estide|The Bakarises]]:** she can't stand them, and they undermine her at every turn. She tolerates them because Bakaris holds the loan on the wharf and the Regiment's fee, and because she has guessed they are exiles hiding in Vogler. Neither side says so ([[1.02 Arrival in Vogler#Vogler at a Glance]]).
 - **[[Kansaldi Fire-Eyes]]:** her killer.
 
 ## Her Death

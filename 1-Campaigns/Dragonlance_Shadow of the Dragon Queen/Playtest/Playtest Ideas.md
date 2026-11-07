@@ -34,7 +34,7 @@ Every system in the campaign, and the moment it first appears. The rule of thumb
 | 1 | **Prologue, from the first scene** ([[0.00 Premonition]]) | Variant encumbrance | Already switched on in D&D Beyond. Nobody needs to be told yet, and it won't bite until the Wastes. |
 | 2 | **Prologue: the festival** ([[1.00 An Ordinary Day]]) | **Faction Standing**, one track only | Show the villagers' number move once, without explaining the system. |
 | 3 | **Prologue: High Hill** | **Objective fights** | Not a new rule, just a new habit: the fight is about the villagers. |
-| 4 | **Prologue: the pursuing draconian or the cliffs** ([[2.00 Broken Silence]]) | **One-Turn Resolution** | The first offer, explained in two sentences at the table. Small and low-stakes, and the players can say no. |
+| 4 | **Prologue: the cliffs (the stalkers in the trees are a horror scene, not a one-turn)** ([[2.00 Broken Silence]]) | **One-Turn Resolution** | The first offer, explained in two sentences at the table. Small and low-stakes, and the players can say no. |
 | 5 | **Prologue: the Battle of Vogler** | ***Warriors of Krynn*** | Give it its own session if you can. The wharf fight after it is a plain objective fight. |
 | 6 | **Session 1.5**, after the prologue ([[Session 1.5]]) | **The house rules, explained** | The first time the players get it all in writing: encumbrance, factions, large-scale battles, one-turns, last stands, and what they can change about their characters. Everything they met in the prologue gets its name here. |
 | 7 | **Kalaman: arrival** ([[3.00 Storm Clouds]]) | **All six factions** | The big one. Hand out a one-page summary of the six, and nothing else new this session. |

@@ -14,23 +14,22 @@ await dv.view("1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Materials/trac
 
 ## Terrain Plan
 
-The gap. Most encounters draw on the same few kinds of terrain, so buy or build **sets**, in this order, and most of the campaign is covered.
+The gap. Only **larger terrain pieces** are listed here: things the figures stand on, or take cover behind. Fire tokens, markers, barrels, banners, bones and other table dressing are left out (use coins, paper or anything you own). Most encounters draw on the same few kinds of terrain, so buy or build **sets**, in this order, and most of the campaign is covered.
 
 | # | Set | What's in it | Used in | First needed |
 |---|---|---|---|---|
-| 1 | **Flat stuff** | Fire tokens (red, and violet for Soth), blue felt for water, cotton wool for fog, printed markers (quicksand, cracks, the Wash level, tide pools) | Nearly every encounter | Prologue |
-| 2 | **Forest** | 8 trees, patches of brush, a foam hill | High Hill, the woods west of Vogler, the missing scouts, both road ambushes, the Inkwater, the Temple of Paladine, Hawker's Grove | Prologue |
-| 3 | **Rocks and rubble** | 10 boulders, scree patches, 3 rubble piles. On flight stands, they're the rising city's floating rocks. | The cliffs, the missing scouts, Wakenreth, Bluemaw, both canyons, Dread Wolf Cove, the citadel surface, the rising city, the Clash of Fallen Flames | Prologue |
-| 4 | **Camp scatter** | Crates, barrels and sacks, 2 wagons and a cart, 4 tents, 3 market stalls | The wharf, High Hill, the blockade, the supply ship, the Sunward camp, Camp Carrionclay, Wind's End, Bluemaw, the trade camps, Highmaster's Message | Prologue |
-| 5 | **Walls and gates** | Low stone wall and fence sections, 6 rampart sections, a gatehouse with portcullis, a watchtower, 3 ballistae, siege ladders and a ram | High Hill, the workshop, the blockade, Wheelwatch, Camp Carrionclay, the black rose on the road, Testing the Defences, the Warrior's Gate, the Trade Gate | Prologue (low walls), Conquest (the rest) |
-| 6 | **Dungeon dressing** | 4 pillars, 6 coffins, 2 crypts, an altar and statue, a well, a brazier, a portal arch, a throne on a dais, and a crystal set (salt crystals, the Spawning Shard, columns, scrying panels) | The catacombs, the Blue Phoenix Shrine, Sunward, Wakenreth, Bluemaw, the Threshold of the Heavens, the Mourning Sanctum | Storm Clouds |
-| 7 | **Bridges and cages** | 3 footbridges, 4 cages, an iron scaffold with floating supports | Sunward, Camp Carrionclay, the Mourning Sanctum | Duty |
-| 8 | **One-offs** | The Brass Crab and the Wharfinger's office, the hide hut, the fallen spire, dragon bones | One encounter each | Varies |
+| 1 | **Forest** | 6 trees, a sloped hill, a log, a lookout platform, a grass barrow mound | High Hill, the woods west of Vogler, the missing scouts, the farmstead, both road ambushes, the Inkwater, the Temple of Paladine, Hawker's Grove | Prologue |
+| 2 | **Rocks and rubble** | 10 boulders, 3 rubble piles, floating wall fragments and floating rocks (on flight stands) | The cliffs, the missing scouts, Wakenreth, Bluemaw, both canyons, Dread Wolf Cove, the Shadowfell, the citadel surface, the rising city, the Clash of Fallen Flames | Prologue |
+| 3 | **Camps and carts** | 4 red tents, a supply cart, 2 toppled wagons, 3 market stalls, beached hulls | The wharf, High Hill, the blockade, the raid on the fleet, the Sunward camp, Camp Carrionclay, Wind's End, the trade camps, Highmaster's Message | Prologue |
+| 4 | **Walls and gates** | Low stone walls, 6 crenellated wall sections, a gatehouse with portcullis, a watchtower, 3 ballistae, a war engine, siege ladders and a ram | High Hill, the workshop, the blockade, Wheelwatch, Camp Carrionclay, Testing the Defences, the Warrior's Gate, the Trade Gate | Prologue (low walls), Conquest (the rest) |
+| 5 | **Dungeon pieces** | 6 coffins, 2 twin pillars, 2 stone crypts, a coral altar and phoenix statue, the Dragon Queen's idol, 4 crystal-banded columns, blue salt crystals, a sunburst throne on a dais | The catacombs, the Blue Phoenix Shrine, Wakenreth, Camp Carrionclay, Bluemaw, the Threshold of the Heavens, the bridge | Storm Clouds |
+| 6 | **Bridges and cages** | 2 footbridges, a wooden bridge, 4 cages, the dragonnel pens, an iron scaffold with stairs and supports | Sunward, Camp Carrionclay, Wind's End, the Mourning Sanctum | Duty |
+| 7 | **One-offs** | The Brass Crab, the burning Wharfinger's office, the hide hut, the fallen stone spire | One encounter each | Varies |
 
-**Buy first:** sets 1–4 cover the whole prologue and most of Storm Clouds. Then set 6 before the catacombs, set 7 before the Wastes, and the rest of set 5 before the siege.
+**Buy first:** sets 1–3 cover the whole prologue and most of Storm Clouds. Then set 5 before the catacombs, set 6 before the Wastes, and the rest of set 4 before the siege.
 
 **Cheap routes:**
 - **Forest:** aquarium plants glued to washers.
 - **Rocks:** cork bark and offcuts of slate.
 - **Walls and buildings:** foam board, or free printable card terrain.
-- **Dressing:** 3D prints if you have access to a printer, like the pawn insert.
+- **Dungeon pieces:** 3D prints if you have access to a printer, like the pawn insert.

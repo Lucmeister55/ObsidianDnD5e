@@ -10,10 +10,12 @@ One note per album, listing every track on it and which ones the campaign uses. 
 | Album | Tracks used | Album index |
 |---|---|---|
 | Phoenix Wright - Ace Attorney Trilogy | 9 | [[Phoenix Wright - Ace Attorney Trilogy]] |
-| Ambience (files in the repo) | 3 | not an album |
-| Fire Emblem Awakening | 25 | [[Fire Emblem Awakening]] |
+| Ambience (files in the repo) | 28 | not an album |
+| Fire Emblem Awakening | 24 | [[Fire Emblem Awakening]] |
 | Fire Emblem Fates | 2 | [[Fire Emblem Fates]] |
-| Fire Emblem Echoes - Shadows of Valentia | 7 | [[Fire Emblem Echoes - Shadows of Valentia]] |
+| Fire Emblem Echoes - Shadows of Valentia | 12 | [[Fire Emblem Echoes - Shadows of Valentia]] |
 | Monster Hunter World | 1 | [[Monster Hunter World]] |
 | Zelda - Ocarina of Time 3D | 1 | [[Zelda - Ocarina of Time 3D]] |
 | Zelda - Majora's Mask 3D | 0 | [[Zelda - Majora's Mask 3D]] |
+| Divinity - Original Sin 2 | 0 | [[Divinity - Original Sin 2]] |
+| The Witcher 3 - Wild Hunt | 2 | [[The Witcher 3 - Wild Hunt]] |

@@ -8,7 +8,7 @@ tags:
 
 *Back to [[Index]]*
 
-Index of the whole album: 154 tracks, 6h 33m, 2017. **7 of 154** are used in the campaign. They are played from the media server, and no audio files are kept in the repo. Those tracks say "yes". The rest are listed so you can see what else exists.
+Index of the whole album: 154 tracks, 6h 33m, 2017. **12 of 154** are used in the campaign. They are played from the media server, and no audio files are kept in the repo. Those tracks say "yes". The rest are listed so you can see what else exists.
 
 ## Disc 1
 
@@ -19,17 +19,17 @@ Index of the whole album: 154 tracks, 6h 33m, 2017. **7 of 154** are used in the
 | 3 | Fire Emblem Theme | Yuka Tsujiyoko | 1:57 |  |
 | 4 | An Ordinary Day | Yasuhisa Baba | 3:07 | yes |
 | 5 | Spring Radiance | Shoh Murakami | 3:32 | yes |
-| 6 | Treason | Takafumi Wada | 2:36 |  |
-| 7 | Courage in Numbers | Takafumi Wada | 2:38 |  |
+| 6 | Treason | Takafumi Wada | 2:36 | yes |
+| 7 | Courage in Numbers | Takafumi Wada | 2:38 | yes |
 | 8 | The Approaching Menace | Takafumi Wada | 2:23 |  |
-| 9 | Parting | Yasuhisa Baba | 4:03 |  |
+| 9 | Parting | Yasuhisa Baba | 4:03 | yes |
 | 10 | Opening | Yuka Tsujiyoko | 2:36 |  |
 | 11 | Serenity | Yasuhisa Baba | 3:06 |  |
 | 12 | Uprising | Yuka Tsujiyoko | 1:52 |  |
 | 13 | Where the Wind Rustles | Yuka Tsujiyoko | 2:13 | yes |
 | 14 | March to Deliverance (Prologue) | Yuka Tsujiyoko | 2:16 | yes |
 | 15 | The Dauntless Blade | Yuka Tsujiyoko | 1:22 |  |
-| 16 | The Air of Brutality (Prologue) | Yuka Tsujiyoko | 2:33 |  |
+| 16 | The Air of Brutality (Prologue) | Yuka Tsujiyoko | 2:33 | yes |
 | 17 | Undercurrents | Yuka Tsujiyoko | 2:59 |  |
 | 18 | Calamity's Advent | Yasuhisa Baba | 3:12 |  |
 | 19 | Melody of Water | Yuka Tsujiyoko | 2:43 |  |
@@ -49,7 +49,7 @@ Index of the whole album: 154 tracks, 6h 33m, 2017. **7 of 154** are used in the
 | 1 | Undiscovered Horizons | Yuka Tsujiyoko | 4:17 |  |
 | 2 | Preparations: Deliverance | Takafumi Wada | 3:13 | yes |
 | 3 | March to Deliverance | Yuka Tsujiyoko | 4:04 |  |
-| 4 | The Air of Brutality | Yuka Tsujiyoko | 2:28 |  |
+| 4 | The Air of Brutality | Yuka Tsujiyoko | 2:28 | yes |
 | 5 | The Fiends' Rapture | Yuka Tsujiyoko | 1:16 |  |
 | 6 | The Fallen Knight | Yasuhisa Baba | 2:31 |  |
 | 7 | Borders | Takeru Kanazaki | 2:28 |  |
@@ -220,3 +220,23 @@ Track 2, 3:13.
 ### Where the Hammer Sings
 
 Track 9, 2:07.
+
+### The Air of Brutality (Prologue)
+
+Track 16, 2:33.
+
+### The Air of Brutality
+
+Track 4 on disc 2, 2:28.
+
+### Treason
+
+Track 6, 2:36.
+
+### Courage in Numbers
+
+Track 7, 2:38.
+
+### Parting
+
+Track 9, 4:03.

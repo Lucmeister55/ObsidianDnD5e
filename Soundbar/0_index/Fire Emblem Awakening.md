@@ -8,7 +8,7 @@ tags:
 
 *Back to [[Index]]*
 
-Index of the whole album: 101 tracks, 4h 25m, 2013. **25 of 101** are used in the campaign. They are played from the media server, and no audio files are kept in the repo. Those tracks say "yes". The rest are listed so you can see what else exists. The two unlabelled bonus groups at the end are numbered separately in the listing they came from, so their order is a guess.
+Index of the whole album: 101 tracks, 4h 25m, 2013. **24 of 101** are used in the campaign. They are played from the media server, and no audio files are kept in the repo. Those tracks say "yes". The rest are listed so you can see what else exists. The two unlabelled bonus groups at the end are numbered separately in the listing they came from, so their order is a guess.
 
 ## Disc 1
 
@@ -21,7 +21,7 @@ Index of the whole album: 101 tracks, 4h 25m, 2013. **25 of 101** are used in th
 | 5 | Prelude | 5:20 | yes |
 | 6 | Prelude~Ablaze | 5:20 | yes |
 | 7 | Assault | 1:56 | yes |
-| 8 | Assault~Galvanised | 1:56 | yes |
+| 8 | Assault~Galvanised | 1:56 |  |
 | 9 | Gods, have the Risen spread this far? | 1:39 |  |
 | 10 | Menace - Intro | 0:46 |  |
 | 11 | Menace | 2:33 | yes |
@@ -164,10 +164,6 @@ Track 6, 5:20.
 ### Assault
 
 Track 7, 1:56.
-
-### Assault~Galvanised
-
-Track 8, 1:56.
 
 ### Menace
 
