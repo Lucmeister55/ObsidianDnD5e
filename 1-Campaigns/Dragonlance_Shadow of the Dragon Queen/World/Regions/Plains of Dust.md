@@ -6,5 +6,4 @@
 
 ## Who Knows What
 
-- **Everyone:** dust, nomads and not much else.
 - **Plains nomads:** that long lines of elves crossed the plains towards Southern Ergoth (Canon).

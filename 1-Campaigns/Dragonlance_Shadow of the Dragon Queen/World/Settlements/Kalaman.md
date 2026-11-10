@@ -32,14 +32,14 @@ wrap: true               # wrap text; useful with left/right alignment
 
 > [!module] Source: **Module** ([[01-war-comes-to-krynn#City of Kalaman|"City of Kalaman"]], [[05-chapter-4-shadow-of-war#Kalaman Gazetteer|ch. 4, "Kalaman Gazetteer"]]) and **Companion** ([[3-Shadow_of_War.pdf]], Appendix B).
 
-**The Beacon of the East.** Kalaman is the capital of Nightlund and one of the largest cities in Solamnia, a deepwater port on the Turbidus Ocean near the mouth of the Vingaard, about thirty miles downriver from [[Vogler]]. It's one of the nation's great gateways to the outside world. The Vingaard is Solamnia's greatest trade artery, and even goods from near Palanthas often travel cheaper by river to Kalaman. Crops and crafted goods come down from the Plains of Solamnia. Its Istarian walls have never been breached.
+**The Beacon of the East.** Nightlund's capital and one of Solamnia's largest cities: a deepwater port at the mouth of the Vingaard, thirty miles below [[Vogler]]. The river is Solamnia's great trade road, so goods from as far as Palanthas come down it to Kalaman's ships. Its Istarian walls have never been breached.
 
-**Who lives here.** Solamnic humans and families descended from the Istarian founders, with traders who settled here from Abanasinia, Nordmaar, Ergoth, Estwilde and further afield. Kender, hill dwarves and gnomes are common, and a few elves and mountain dwarves live here too. The city is cosmopolitan, while the country around it fishes and farms. Anyone is welcome who comes peaceably with goods to trade.
+**Who lives here.** Solamnic humans, old Istarian families, and traders from all over Ansalon. Kender, hill dwarves and gnomes are common. Anyone with goods to trade is welcome.
 
 **Who rules.** Three powers, who rarely agree:
 - **The Governor,** Calof Miat, who speaks for the people in council. The five great guilds appoint him (Companion).
 - **The Guild Council,** which oversees the city's business and runs its public services. Its leaders are human and hill dwarf nobles, always bickering: **Alexandra Nightvane** (Cartographers), **Oflyn Vinhollow** (Dockhands), **Reynold Costwyn** (Fishers), **Uri Stonegrey** (Masons) and **Sigmund Pross** (Shipwrights). See [[The Guild Council]] and [[Kalaman Guilds]].
-- **The Marshal,** [[Nestra Vendri]]. The city keeps a strong army of its own because the Knights are headquartered far to the west, and it can't send for them every time raiders cross from Estwilde or monsters come down from the Dargaard Mountains. See [[Kalaman Military]].
+- **The Marshal,** [[Nestra Vendri]], with an army of the city's own for Estwilde raiders and mountain monsters, since the Knights are far to the west ([[Kalaman Military]]).
 
 **The mood.** Proud, rich and stubborn. Because of the Dread Knight, the city doesn't trust the Knights of Solamnia. The weather is grey and drizzly, and the Dargaard Mountains sit on the southern skyline under their own dark clouds ([[Dargaard Keep]]). People blame the storms on the old gods' disfavour.
 
@@ -47,12 +47,12 @@ wrap: true               # wrap text; useful with left/right alignment
 
 > [!module] Source: **Module** ([[05-chapter-4-shadow-of-war#Knowledge of Kalaman|ch. 4, "Knowledge of Kalaman"]]) for what everyone knows. The rest is **Homebrew**, sorted from canon facts on this page.
 
-**Everyone** (locals, or DC 12 History). It's Nightlund's capital. Its walls, castle and beacons all predate the Cataclysm. A governor, a guild council and a marshal run it. The army is there for Estwilde's raiders and the Dargaard Mountains' monsters. It sits at the mouth of the Vingaard, about thirty miles below Vogler.
+**Everyone** (locals, or DC 12 History) knows "The City" above, and that the walls, castle and beacons predate the Cataclysm.
 
 **Some people:**
 - **Soldiers, and Jesen Thold's regulars,** know how thin the army is stretched, and that Vendri has to obey the council to keep her post.
 - **Castle staff and old guards** know the catacombs are magically sealed, the dungeons are ruined, and the fourth floor is falling apart.
-- **Priests of the old ways and anyone who reads the stonework** recognise Kiri-Jolith all through the castle (DC 12 Religion), and know whose castle this once was.
+- **Anyone who reads the stonework** (DC 12 Religion) sees **Kiri-Jolith**, patron of the Knights of the Sword, all through the castle: it was a knights' castle first.
 - **Dockhands** know to pay the Firefishers. Very few know who pays the Firefishers.
 - **Scholars, and Istarian families,** remember the blockade and the Age of Might wars as more than a boast.
 - **Spellcasters, and anyone who knows what to ask,** know what's in Wyhan's back room.
@@ -63,7 +63,7 @@ wrap: true               # wrap text; useful with left/right alignment
 
 - **A fishing village.** Kalaman was a sleepy village on the coast until an Istarian trading mission arrived, centuries before the Cataclysm. Istar saw a deep harbour close to a great river's mouth, and invested heavily.
 - **Istar and Solamnia.** The port boomed, and Solamnia found Istar's grip on it intolerable. The two wrestled for the city through the Age of Might, until a climactic battle on the plains west of the city, when Istar ceded it. Kalaman is proud of having survived a war with the most powerful empire in the world.
-- **Knightlund.** For generations, the Soths of Dargaard Keep ruled this province. Before the Cataclysm, the gods of good warned Lord Loren Soth of the coming destruction and gave him a chance to stop it, and he failed.
+- **Knightlund.** For generations, the Soths of Dargaard Keep ruled this province. Before the Cataclysm, the gods warned Lord Loren Soth and gave him a chance to stop it, and he failed. (**DM only:** in this campaign the name is forgotten until [[3.13 The Raided Catacombs|the catacombs]]. To everyone else it's just "the Dread Knight".)
 - **The Cataclysm.** Kalaman was one of the few large communities to come through with little damage, and the region went on flourishing. The province's name did not: people have called it **Nightlund** ever since.
 
 > [!info] Source: **Canon** ([Dragonlance Wiki](https://dragonlance.fandom.com/wiki/Kalaman), [ForgottenLance](https://www.forgottenlance.com/atlas/kalaman.htm)).
@@ -82,7 +82,6 @@ wrap: true               # wrap text; useful with left/right alignment
   - **Fourth floor:** mostly empty and falling apart. The party sleeps in an old ballroom with knight-carved pillars and tall windows facing the mountains.
   - **Basement:** storage, and the sealed doors to the old dungeons.
   - **Who:** Governor Miat, Vendri and Darrett. As the war gets closer, worried citizens crowd the castle gates asking for news (Companion).
-- **Solamnic statuary.** All through the castle, the stonework shows **Kiri-Jolith**, patron of the Knights of the Sword (DC 12 Religion). It's a quiet reminder that this was a knights' castle before it was the city's.
 - **The catacombs.** Long passages under the castle, sealed by magic for centuries. Soth wants what's inside them ([[3.13 The Raided Catacombs#The Lord's Arrival and the Raided Catacombs|Storm Clouds]]).
 
 ### The Walls and Gates
@@ -120,7 +119,7 @@ wrap: true               # wrap text; useful with left/right alignment
 - **The Trade Camps.** East and west of the city, rows of shacks on muddy streets. They started as caravan camps. Now hundreds who can't find room inside live there, and the [[Vogler Refugees]] join them.
 - **Esker Brook.** The road south through fields, hills and scattered woods. **[[Tatina Rookledust|Tatina Rookledust's]]** workshop is twelve miles down it, until the goblins come.
 - **Hawker's Grove.** A wood southwest of the city, where Clystran brings his dragonnels in the siege. It burns.
-- **The Dargaard Mountains.** On the southern skyline, always under cloud. Nightlund is said to be a land where the sun never shines. Really it's just gloomy, and it drizzles a lot ([[Dargaard Keep]]).
+- **The Dargaard Mountains.** On the southern skyline, always under cloud ([[Dargaard Keep]]).
 
 ## Further Afield
 

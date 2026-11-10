@@ -12,9 +12,9 @@ See [[Faction Rules]].
 
 > [!companion] Source: **Companion** ([[3-Shadow_of_War.pdf]]) for the gang, Vinhollow and Hetch Warehouse. As a faction, it's **Homebrew**.
 
-Kalaman's dockside underworld: smugglers, loan sharks, card rooms and protection, run out of Hetch Warehouse and the Cinque Teste in the cisterns below it. They're violent and well organised, and in a city going hungry, they're often the only people who can get you what you need. Everyone knows they exist. Nobody admits to dealing with them. Most of the city does.
+Kalaman's dockside underworld: smugglers, loan sharks, card rooms and protection, run out of Hetch Warehouse and the Cinque Teste in the cisterns below it. Violent, organised, and in a hungry city often the only ones who can get what you need. Nobody admits dealing with them. Most of the city does.
 
-**Who speaks for them:** **Marta Dace** runs the street, and she's the one the party deals with. Councillor **Oflyn Vinhollow** is the local boss, in secret ([[The Guild Council]]). Above him, there are only stories. After Soth's massacre, **[[Peppino Fettuccini|Mister Fettuccini]]** comes to run things himself.
+**Who speaks for them:** **Marta Dace** runs the street. Councillor **Oflyn Vinhollow** is the secret local boss ([[The Guild Council]]). Above him, only stories, until **[[Peppino Fettuccini|Mister Fettuccini]]** arrives after Soth's massacre.
 
 **They want:** money, quiet, their cut of everything, and debts paid.
 **They hate:** informers above all, the watch, anyone who breaks a deal, and being laughed at.

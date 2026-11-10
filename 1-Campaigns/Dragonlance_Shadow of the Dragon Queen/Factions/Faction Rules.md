@@ -5,134 +5,95 @@ tags:
 
 # Faction Rules
 
-> [!homebrew] Source: **Homebrew**. The factions themselves come from the **Module** ([[05-chapter-4-shadow-of-war#Power in Kalaman|ch. 4, "Power in Kalaman"]]).
+> [!homebrew] Source: **Homebrew**. The factions come from the **Module** ([[05-chapter-4-shadow-of-war#Power in Kalaman|ch. 4, "Power in Kalaman"]]).
 
-Kalaman is a city under strain, and six groups in it all want something from the party: the [[Kalaman Military]], the [[Knights of Solamnia]], the [[Mages of High Sorcery]], the [[Kalaman Guilds]], the [[Kalaman Smallfolk]] and [[The Firefishers]]. They rarely want the same thing. Helping one often costs you with another, and that's the point.
+Six factions, who rarely want the same thing: the [[Kalaman Military]], [[Knights of Solamnia]], [[Mages of High Sorcery]], [[Kalaman Guilds]], [[Kalaman Smallfolk]] and [[The Firefishers]]. It runs through [[3.00 Storm Clouds]], where the party stocks up for the Wastes and the siege.
 
-The system runs during [[3.00 Storm Clouds]], with every downtime event mapped out in [[3.00 Storm Clouds]]. It's where the party stocks up for the two ordeals still ahead: the survival trek through the **Northern Wastes**, and the **Siege of Kalaman**.
+## Standing
 
-## The Only Thing You Track
+**One number per faction, -5 to +10**, shared by the party and kept on the slider board. Everyone starts at 0, except the Smallfolk, who inherit the [[Vogler Refugees]] track ("In Vogler" below).
 
-**One number per faction: Standing, from -5 to +10.** It's shared by the whole party and kept on the slider board at the table. That's it.
-
-**Every faction starts at 0.** The one exception is the Smallfolk, who can start a little higher or lower because of what the party did for the [[Vogler Refugees]], the small track that introduces the system (see "In Vogler" below).
-
-Standing falls into five **bands**, and every faction uses the same ones:
-
-| Band | Standing | What it feels like |
+| Band | Standing | Feels like |
 |---|---|---|
-| **Honoured** | +6 to +10 | They'd follow you anywhere, and they pay out big. |
-| **Trusted** | +3 to +5 | Doors open, real rewards, and you can **call in favours**. |
-| **Neutral** | 0 to +2 | A small, basic reward. Helping the war is in everyone's interest. |
+| **Honoured** | +6 to +10 | They'd follow you anywhere, and pay out big. |
+| **Trusted** | +3 to +5 | Doors open, real rewards, **favours**. |
+| **Neutral** | 0 to +2 | A small reward. |
 | **Wary** | -1, -2 | Nothing. They watch you. |
 | **Hostile** | -3 to -5 | They cost you something. |
 
-**What to expect.** Nobody gets to make the whole city happy, least of all a company of half-convicts. A party that tries to please everyone ends Storm Clouds with two or three factions **Trusted**, the rest Neutral, and maybe one Honoured. A party that picks favourites can get two to +10, at the cost of the rest going Wary or Hostile ([[Playtest Ideas]] has the simulation).
-
-**Some factions are harder than others, and pay better for it.** The Military and the Smallfolk are the easy ones: soldiers need bodies, and the poor notice anyone who helps. The Knights, the Mages and the Firefishers don't warm to convicts, so their rewards are the strongest in the game. The Guilds are easy to lose, and they pay while they can.
-
-Each faction's note has one table showing what each band means for that faction.
+**What to expect.** Pleasing everyone ends Storm Clouds with two or three Trusted, the rest Neutral, maybe one Honoured. Picking favourites gets two to +10, and the rest go Wary or Hostile ([[Playtest Ideas#Balance Checks]]). The Military and Smallfolk are easy. The Knights, Mages and Firefishers don't warm to convicts, and pay best. The Guilds are easy to lose, and pay while they can.
 
 ## Moving Standing
 
-- **±1** for a meaningful choice that faction would notice.
-- **±2** for a big one, like saving their people, a public betrayal, or a choice made in front of the whole city.
-- **Almost every choice costs someone.** Most options are +1 to one faction and -1 to another. In any decision, at most **one** option should be free, and it should be the hard or unglamorous one.
-
-Change each faction **at most once per event**, and always tell the players what changed and why. Seeing the cost is half the fun.
-
-The changes listed in the timeline and chapters are **defaults**, not a complete list. When the party does something nobody planned for, ask two questions: which faction would notice, and would it be small (±1) or big (±2)? Then decide whether a rival would mind.
+- **±1** for a choice the faction would notice, **±2** for a big one (saving their people, a public betrayal).
+- **Almost every choice costs someone.** At most **one** option per decision is free, and it should be the hard or unglamorous one.
+- **At most one change per faction per event.** Always tell the players what changed and why.
+- The chapters' changes are defaults. For anything unplanned: which faction would notice, small or big, and would a rival mind?
 
 ## Hidden Consequences
 
-> [!homebrew] Source: **Homebrew**.
+About **one decision in three** moves no Standing, or less than it seems, and leaves a **hidden mark** that comes back later.
+- **Narrate the reaction, not the meaning** ("Vendri nods slowly and writes something down").
+- **One line on a physical card** in your DM folder: the choice, who remembers, where it pays off ([[IRL tracking|tracking rule]]).
+- **Every mark pays off at least once.** Name the cause when it lands: "You remember the baker you didn't help."
+- A mark can sit on top of a Standing change: a +1 with a rival's grudge.
 
-**Not every choice moves a number.** About one decision in three should change **no Standing at all**, or less than it seems, and instead leave a **hidden mark**: an unseen effect that comes back later. A faction can like you today and still hold something against you, or a quiet favour can cost nothing now and pay off in the siege.
-
-- **Say what happened, not what it means.** Narrate the scene and the reaction ("Vendri nods slowly and writes something down"). Don't announce a mark, and don't move the slider.
-- **Write it on a card, not in the vault.** Per the [[IRL tracking|tracking rule]], each mark is one line on a physical card in your DM folder: the choice, who remembers, and where it pays off.
-- **It must come back.** Each mark has a payoff scene, so it pays off at least once. Tell the players the cause in the moment it lands: "You remember the baker you didn't help."
-- **A mark can also sit on top of a Standing change.** A +1 with a rival's grudge is more interesting than a clean +1.
-
-**Where they pay off.**
-
-| Horizon | Scene | What a mark does there |
+| Horizon | Scene | What a mark does |
 |---|---|---|
 | The council massacre | [[3.13 The Raided Catacombs]] | Who is in the room, and who warned the party |
-| The Trial | [[4.01 The Trial]] and [[4.02 The Trial - Testimony]] | A witness appears or refuses, evidence is offered or withheld, Thren's patience starts higher or lower |
-| The Wastes | [[4.04 The Deadline]] to [[4.15 Break the Walls]] | A supply, a guide, an ambush that someone sold |
+| The Trial | [[4.01 The Trial]], [[4.02 The Trial - Testimony]] | A witness appears or refuses, evidence offered or withheld, Thren's patience higher or lower |
+| The Wastes | [[4.04 The Deadline]] to [[4.15 Break the Walls]] | A supply, a guide, an ambush someone sold |
 | The siege | [[6.02 Return to Kalaman#The Siege Ledger]] to [[6.05 Siege of Kalaman]] | A gate watched or unwatched, an extra unit, a sabotaged wall |
-
-**Examples.**
 
 | The choice | Hidden mark | Pays off |
 |---|---|---|
-| Favour the locals over the refugees at the bread cart | The Spokesperson remembers | At the Trial, the refugees' voice won't speak for the party |
-| Let Bakaris keep his story at the Steady Beacon | The soldiers keep believing it | At the Trial, the hall opens already convinced; Thren's patience starts one lower |
+| Favour the locals over the refugees at the bread cart | The Spokesperson remembers | At the Trial, the refugees won't speak for the party |
+| Let Bakaris keep his story at the Steady Beacon | The soldiers keep believing it | At the Trial, Thren's patience starts one lower |
 | Refuse to name a refugee voice | The militia captain takes over | At the siege, the refugee wall answers to him, not Vendri |
-| Pay the Firefishers to quiet a guildmaster | The fishermen now owe Peppino | In the Wastes or the siege, someone calls the debt in |
-| Spare a Dragon Army prisoner | The prisoner talks to the wrong person | A leak: an ambush in the Wastes |
-| Take a guild's gift without asking what it cost | A guild son owes a favour to a rival | At the siege, a barricade is thinner than it should be |
+| Pay the Firefishers to quiet a guildmaster | The fishermen owe Peppino | In the Wastes or the siege, someone calls the debt in |
+| Spare a Dragon Army prisoner | He talks to the wrong person | An ambush in the Wastes |
+| Take a guild's gift without asking its cost | A guild son owes a rival | At the siege, a barricade is thinner than it should be |
 
 ## The Big Moments
 
-Two one-off moments make the ends of the track matter:
-- **The first time a faction reaches +10**, it gives the party its **signature reward**, something big and memorable, once (listed in each note).
-- **The first time a faction drops to -5**, it triggers its **signature disaster** at once (listed in each note).
+The first time a faction reaches **+10**, it gives its **signature reward**. The first time it drops to **-5**, its **signature disaster** happens at once. Both are in each faction's note.
 
 ## In Vogler
 
-Before the party reaches Kalaman, the only track in play is the **Vogler Refugees**, a seventh, temporary one. Introduce the system here. Mention it once, show the players the number moving, and let them see that the village remembers. Keep it small, with **at most +3 or -2** in total before the end of the arrival. The chances are in [[1.00 An Ordinary Day]], [[2.00 Broken Silence]] and [[3.01 Arrival in Kalaman]].
-
-At the end of the arrival, the track pays **one last dividend** and closes ([[Vogler Refugees#The Last Dividend]]). From then on, Vogler's people are part of the Smallfolk.
+Before Kalaman, the only track is the temporary **Vogler Refugees**. Show the players the number moving once, and cap it at **+3 / -2** by the end of the arrival ([[1.00 An Ordinary Day]], [[2.00 Broken Silence]], [[3.01 Arrival in Kalaman]]). Then it pays a last dividend and folds into the Smallfolk ([[Vogler Refugees#The Last Dividend]]).
 
 ## Working a Faction (downtime)
 
-The players don't have to wait for events. Any character can spend **their whole downtime** on a project to win over a faction, instead of their personal activity, Bastion turn or crafting. It might be teaching the refugee children to read, guarding a guild warehouse, carrying messages for Vendri, or helping Wyhan with an experiment. They pitch it, you pick a fitting check, and:
-- **DC 15:** +1 with that faction.
-- **Failed by 5 or more:** it backfires, -1.
+A character can spend **their whole downtime** on a project for a faction (teaching refugee children, guarding a warehouse, running Vendri's messages) instead of their personal activity, Bastion turn or crafting. They pitch it, you pick the check:
+- **DC 15:** +1.
+- **Failed by 5 or more:** -1.
 
-Each faction can gain **at most +1 per downtime** from projects like this, however many characters work on it. It's a reliable way to climb, but it costs that character's entire downtime.
+At most **+1 per faction per downtime** from projects, however many work on it.
 
 ## Mission Check-ins
 
-Even the long-term factions should pay off now and then during Storm Clouds, in small ways. **At the start of every major mission or scenario,** glance down the six tracks:
-- Every faction at **Trusted or better** gives the party its **mission perk**: one small, concrete help for that mission.
-- Every faction at **Hostile** throws in its **mission complication** instead.
-
-Each faction's note lists its perk and complication. It takes ten seconds, and it means Standing is always visibly doing *something*. The big payoffs still come later.
+At the start of every major mission or scenario, glance down the tracks. Each faction at **Trusted or better** gives its **mission perk**, and each at **Hostile** its **mission complication** (both in its note).
 
 ## Favours
 
-At **Trusted or better**, the party can call in **one favour per faction per downtime**. That's anything reasonable within the faction's power, with examples in each note. Asking for something the faction hates costs 1 Standing, even if they agree.
+At **Trusted or better**, **one favour per faction per downtime**, within its power (examples in each note). Asking for something it hates costs 1 Standing, even if it agrees.
 
 ## Dividends
 
-Every faction pays out according to its band, but on a different **horizon**:
-
 | Faction | Horizon | Pays out |
 |---|---|---|
-| [[Kalaman Guilds]] | **Short** | At the end of every downtime, until the council massacre |
-| [[The Firefishers]] | **Short** | At the end of every downtime, and they stay until the end |
+| [[Kalaman Guilds]] | **Short** | Every downtime until the council massacre, then one final dividend for the Wastes |
+| [[The Firefishers]] | **Short** | Every downtime, to the end |
 | [[Kalaman Smallfolk]] | **Mixed** | A little every downtime, and in the siege |
-| [[Mages of High Sorcery]] | **Mixed** | A little every downtime, and when leaving for the Wastes |
+| [[Mages of High Sorcery]] | **Mixed** | A little every downtime, and for the Wastes |
 | [[Kalaman Military]] | **Long** | In the siege |
 | [[Knights of Solamnia]] | **Long** | In the siege |
 
-**The Guilds' clock.** The Guilds pay every downtime, but their leaders die in the council massacre at the end of Storm Clouds. Everything stockpiled by then stays with the party, and the new leaders give **one final dividend** when the party leaves for the Wastes.
-
-## Supply
-
-Provisions for the Wastes come in two kinds, both counted per character per day:
-- **Supply** is food. **1 Supply is one ration**, one day of food for one character, and it weighs **2 pounds**.
-- **Water** is fresh water. **1 Water** is a gallon, one day's drinking for one character, and it weighs **8 pounds**. It's the hard part in a land flooded with salt.
-
-See [[4.99 Survival Rules]] for how they're used.
+Supply and Water are defined in [[4.99 Survival Rules#Supply and Water]].
 
 ## Personal Ties
 
-A few characters' own threads are good reasons to move Standing:
-- **[[Davos Bloodbane|Davos]]:** if he's caught cheating at cards with magic, -1 Mages.
-- **[[Milo Geartickle|Milo]]:** "borrowing" from the guilds and getting caught, -1 Guilds.
-- **[[Ser Edric of Brackenridge|Edric]]:** reaching 4 progress in "Raising a Company", +1 Knights.
-- **[[Wurm]]** and **[[Aeltharion Caladon (Thorn)|Thorn]]:** their downtime events are in [[3.00 Storm Clouds]].
+- **[[Davos Bloodbane|Davos]]** caught cheating with magic: -1 Mages.
+- **[[Milo Geartickle|Milo]]** caught "borrowing" from the guilds: -1 Guilds.
+- **[[Ser Edric of Brackenridge|Edric]]** at 4 progress in "Raising a Company": +1 Knights.
+- **[[Wurm]]** and **[[Aeltharion Caladon (Thorn)|Thorn]]:** their events are in [[3.00 Storm Clouds]].

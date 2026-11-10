@@ -10,9 +10,9 @@ tags:
 See [[Faction Rules#In Vogler]].
 **This track closes at the end of the arrival.** It's the party's introduction to the faction system.
 
-The survivors of Vogler, housed in rough wooden buildings outside Kalaman's Trade Gate. They lost their homes, their festival and many of their people in a single night. They're the **first faction the party meets**: their Standing starts at 0 and moves in Vogler itself, during [[1.00 An Ordinary Day]], [[2.00 Broken Silence]] and the arrival in Kalaman. They're proud, grieving and determined to pull their weight, and they're always one bad week away from despair.
+Vogler's survivors, in rough shacks outside the Trade Gate. The **first faction the party meets**: Standing starts at 0 and moves in [[1.00 An Ordinary Day]], [[2.00 Broken Silence]] and the arrival. Proud, grieving, determined to pull their weight, and one bad week from despair.
 
-**Who speaks for them:** nobody, at first. Their mayor, [[Raven Uth Vogler|Raven]], was snatched from the last boat by Kansaldi's red dragon and burned on Vogler's Crossing while they watched. In Kalaman the refugees are leaderless and grieving. Whoever rises to speak for them is shaped by the party (see "A new voice" in [[3.00 Storm Clouds]]): the captain of Vogler's surviving militia, an old ferryman everyone trusts, or **Cudgel Ironsmile** when she returns. Call this leader **the Spokesperson**.
+**Who speaks for them:** nobody, after [[Raven Uth Vogler|Raven]] burns on Vogler's Crossing. The party shapes who rises ("A new voice", [[3.02 Downtime 1]]): the militia captain, an old ferryman, or **Cudgel** when she returns. Call them **the Spokesperson**.
 
 **They want:** their people fed, housed and safe, to be useful instead of pitied, Vogler taken back one day, and justice for the dead.
 **They hate:** being abandoned, being used as cheap labour, being blamed for the war, and Lord Bakaris.
@@ -30,7 +30,7 @@ Pay this once, at the end of 16 Brookgreen, after the council. Then stop using t
 
 ## After That
 
-Vogler's people don't go away. They just stop being a separate number:
+They stop being a separate number:
 - Later changes to the refugees are **Smallfolk** changes. The camps and the lower city share a bread queue, and news travels both ways.
 - The **Spokesperson** stays a voice in the story ([[3.02 Downtime 1]]), and speaks for the camps in [[Kalaman Smallfolk]].
 - Their militia, boats and dried fish are in the [[Kalaman Smallfolk]] table now.

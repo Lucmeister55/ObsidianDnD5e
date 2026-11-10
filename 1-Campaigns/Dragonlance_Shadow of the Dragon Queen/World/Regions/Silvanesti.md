@@ -25,7 +25,6 @@
 
 ## Who Knows What
 
-- **Everyone:** a hidden elf kingdom far to the south. Few humans have ever seen it.
 - **Sailors and merchants on the southern routes:** that elf refugee ships have been seen, and that something is wrong.
 - **Silvanesti exiles and Kagonesti:** the land is lost, and that Lorac stayed behind.
 - **Dragon Army high command:** what Lorac's Orb did, and that the forest is useless to them. Very few know about the truce.

@@ -6,29 +6,27 @@ tags:
 
 # One-Turn Resolution
 
-> [!homebrew] Source: **Homebrew**. This is the DM-side procedure for the "one-turn" described to the players in [[Session 1.5]].
+> [!homebrew] Source: **Homebrew**. The DM side of the one-turn in [[Session 1.5]].
 
-**The point:** skip padding fights without skipping the fun. When the party is clearly going to win, everyone gets one cinematic turn, and the description decides the cost.
+When the party is clearly going to win, everyone gets one cinematic turn, and the description decides the cost.
 
 ## When to Call It
 
 Call a one-turn when **all** of these are true:
 - The party will obviously win: the enemies are outclassed, outnumbered or already broken.
 - Nobody important is in the fight, on either side.
-- Playing it out would take more than one round of real time and teach nobody anything.
+- Playing it out would take longer than a round and teach nobody anything.
 
-**Be honest about it.** Don't one-turn a fight just because the party will win. If it's a mission, the first time they meet a new kind of enemy, a villain's first appearance, or the main event of the session, play it out. Winning isn't the only thing a fight is for: it's also where the players feel the danger and the world.
+**Play it out anyway** for a mission, a new kind of enemy, a villain's first appearance or the session's main event.
 
-**Offer it, don't impose it.** Ask the table: "One-turn this, or play it out?" Playing it out gives them more control over what they spend (slots, potions, hit points). A one-turn is faster and more cinematic. It's their call.
+**Offer it, don't impose it:** "One-turn this, or play it out?" Playing it out gives them more control over what they spend.
 
 ## The Combat Budget
 
-Aim for **one full, played-out fight every 2–4 sessions**. Everything else is a one-turn, a skirmish, a chase or a conversation.
-
-Every encounter in the chapter notes is tagged:
+**One full fight every 2–4 sessions.** Everything else is a one-turn, a skirmish, a chase or a conversation. Encounters in the chapters are tagged:
 - **One-turn?**: a good candidate. Offer it.
 - **Avoidable**: it only happens if the party gets it wrong.
-- **Full fight** with an **objective**: worth playing out. These fights are rarely about killing everything. They're about holding a gate, saving someone, grabbing something, or getting out alive, and the objective decides the reward. Tell the players the objective at the start of the fight, so they can play for it.
+- **Full fight** with an **objective** (hold the gate, save someone, get out alive), which decides the reward. Tell the players the objective at the start.
 
 ## Procedure
 
@@ -46,6 +44,17 @@ Every encounter in the chapter notes is tagged:
 5. **Narrate the ending** in one paragraph, using everyone's turn in the order it makes the best story.
 
 **Roll only for the implausible.** If an idea is a stretch ("I kick the ogre off the cliff"), call for one check at a fair DC. On a failure, it still works, but they take the Basic cost.
+
+## Quick Resolve
+
+For when one-turns come in a row (a run of Wastes days, a string of patrols) and nobody wants to describe another one. Skip the descriptions, and everyone counts as **Solid**:
+
+1. **Damage.** Each character takes **one hit**: the average damage of the enemies' strongest attack, from the stat block. No attack roll.
+2. **Spells.** Each spellcaster spends **one spell slot** (any level they choose), or takes a second hit instead.
+3. **Complication.** Roll a d6. On a **1**, the encounter's complication lands on one random character ([[4.99 Survival Rules#One-Turn Complications|Wastes complications]]).
+4. **Loot** as normal.
+
+A player who wants to do better can still describe their turn, and rate it as usual. Weak enemies (a few baaz against a 7th-level party) can cost **half** a hit instead.
 
 ## Things to Watch
 

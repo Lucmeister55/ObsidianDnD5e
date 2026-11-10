@@ -78,3 +78,4 @@ Lore notes for when players ask. Each gives what a traveller in Kalaman would kn
 - **Peoples:** [[Elves]], [[Dwarves]], [[Kender]], [[Gnomes]], [[Draconians]] (DM only)
 - **Powers:** [[Forces of Kalaman]] (DM only), [[Dragon Armies]] (DM only), [[Soth's Host]] (DM only)
 - **Time:** [[Calendar]]
+- **History and faith:** [[The Cataclysm and the Gods]]

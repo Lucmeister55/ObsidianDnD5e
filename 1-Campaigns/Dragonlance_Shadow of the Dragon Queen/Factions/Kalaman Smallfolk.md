@@ -10,9 +10,9 @@ tags:
 See [[Faction Rules]].
 **Horizon: mixed.** A little every downtime, and a lot in the siege.
 
-The ordinary people of Kalaman: dock labourers, fishwives, carters, washerwomen, farmers from the villages outside the walls, the survivors of Vogler in the trade camps, and children underfoot everywhere. They don't sit on any council, but there are more of them than anyone else, and they're the ones who will suffer first if the city falls. They're tough and suspicious, gossip travels fast among them, and they never forget who helped them and who didn't.
+Kalaman's ordinary people: dockers, fishwives, carters, farmers from outside the walls, Vogler's survivors in the camps. No council seat, but the most numerous, and the first to suffer if the city falls. Tough, suspicious, gossiping, and they never forget who helped.
 
-**Who speaks for them:** no one officially. **Jesen Thold** at the Steady Beacon hears everything. **Meulara**, the kender who runs Meulara's Oddities, knows every family in the poor quarters (and every kender in town). In the trade camps, Vogler's **Spokesperson** does ([[Vogler Refugees]]).
+**Who speaks for them:** no one officially. **Jesen Thold** at the Steady Beacon hears everything, **Meulara** knows every poor family (and every kender), and the camps have Vogler's **Spokesperson** ([[Vogler Refugees]]).
 
 **They want:** bread, safety, their families protected, honest dealing, and to be noticed by those in charge.
 **They hate:** nobles and guilds who profit from their misery, broken promises, and anything that brings the war to their door.

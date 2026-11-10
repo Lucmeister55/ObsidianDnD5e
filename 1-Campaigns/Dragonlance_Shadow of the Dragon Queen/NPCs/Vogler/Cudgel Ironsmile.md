@@ -6,7 +6,7 @@ tags:
 
 # Cudgel Ironsmile
 
-**Ridomir "Cudgel" Ironsmile**, a hill dwarf from Kayolin, south of Solamnia, and captain of the **Ironclad Regiment**, a small mercenary company with a reputation for beating the odds. She spent most of her life on the road with Ispin and Becklin, which is where she earned the name. She's loud, warm and practical, she loves a good plan and a better tavern, and she grins at everything, especially trouble. Her people would follow her anywhere, and at Vogler most of them do.
+**Ridomir "Cudgel" Ironsmile**, a hill dwarf from Kayolin, south of Solamnia, and captain of the **Ironclad Regiment**, a small mercenary company with a reputation for beating the odds. She earned the name on the road with Ispin and Becklin. Loud, warm and practical, she loves a good plan and a better tavern, and her people would follow her anywhere.
 
 **At a glance:** neutral hill dwarf woman, a veteran, **120 years old** though physically in her mid-30s. Friend and former adventuring companion of [[Ispin Greenshield]].
 
@@ -33,8 +33,7 @@ Short, broad and solid as a door, with copper braids bound in iron rings and the
 - **[[Ispin Greenshield]]:** her old friend, and half the stories about him are really about her.
 - **[[Becklin Uth Viharin]]:** her oldest friend. They held the pass at Vogler together.
 - **[[Raven Uth Vogler]]:** hired her to train Vogler's militia.
-- **[[Jeyev Veldrews]]:** her lieutenant, whom she trusts completely.
-- **Gragonis:** her other lieutenant, who betrayed her at High Hill.
+- **[[Jeyev Veldrews]]** and **[[Gragonis]]:** her lieutenants (see Secret).
 - **[[Nestra Vendri]]:** they don't get on. Vendri hates mercenaries, and Cudgel hates being told what to do. Vendri still knows she can't afford to lose her.
 - **The party:** she met them at the funeral, and a knight PC knows her from Ispin's road. After the Missing Scouts mission she owes them her life.
 

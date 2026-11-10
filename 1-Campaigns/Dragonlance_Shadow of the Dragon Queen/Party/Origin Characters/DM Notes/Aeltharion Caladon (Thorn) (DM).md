@@ -22,6 +22,20 @@ What Thorn doesn't know, or what the other players shouldn't learn early.
 - **The Bloodbane name.** Davos's family is the **Bloodbanes**, disgraced for a sin during the Cataclysm. The name comes from a company of humans who served Cyan in the Third Dragon War, and that service was the family's sin. That ties Davos and Thorn together through the dragon who destroyed Thorn's home. See [[Davos Bloodbane (DM)]].
 - **Silvanesti refugees in the Northern Wastes.** Some of them may have known the royal family. Affects [[Aeltharion Caladon (Thorn)#^bond-silvanesti|Silvanesti]] and [[Aeltharion Caladon (Thorn)#^flaw-shame|shame]].
 
+## What Lorac Told Him
+
+> [!homebrew] Source: **Homebrew**, built on **Module** facts ([[The Cataclysm and the Gods]]). Lorac was alive before the Cataclysm, and the Orb came to him from Istar's wizards.
+
+Lore only Thorn knows. Before the Orb, Lorac was a loving father who told his children stories, and some of those stories were things he had seen himself. Thorn grew up thinking they were parables. Give them to him as **fragments** (a lullaby, a bedtime story, a phrase he never understood), so he doesn't solve the Wastes before the party gets there. Each one pays off somewhere.
+
+- **The kingpriest wanted to be a god.** Humans say Istar fell for its pride. Lorac told his son plainly: the last kingpriest tried to make himself a god, and the gods warned the whole world first. Thorn knows this the way other people know a nursery rhyme, and doesn't realise how few humans do.
+- **The trees that wept blood.** Lorac saw some of the Thirteen Warnings himself, on the road out of Istar. To the party they're folk tales, but to Thorn they're his father's memories.
+- **Why the wizards gave Lorac the Orb.** Istar had turned on magic. The wizards sent the Orb out of the empire with an elf they trusted, to keep it out of the kingpriest's hands (*my guess at the reason, since the DM note only says they entrusted it to him*). Thorn has always known the Orb was a wizards' gift. He doesn't know it was **made** in Istar. When Demelin tells the party that in [[5.01 Path of Memories]], it's a reveal for him.
+- **The white city in the sky.** Lorac's favourite story: a city of Istar that floated above the clouds, where the elves raised a tower as a token of peace, and the elves who went there never came home. Thorn took it for a parable about pride. It's Onyari, which every record in the world has forgotten. The tower is [[4.10 Wakenreth|Wakenreth]]. He doesn't know its name, the city's name or where it fell.
+  - **The lullaby.** Lorac sang his children to sleep with a Silvanesti song of that city. It's the song Thorn sings in the dark at his level 8 moment, and the echo answers in more voices than his because the dead of Onyari remember it.
+  - **The silver coin.** The coin he leaves on Wakenreth's pedestal is from his father's story: you pay the tower's guardian in silver.
+- **The gods have names.** Humans have nearly forgotten them. Thorn learned all of them as a child, and Branchala was the one he sang for.
+
 ## Hooks
 
 - **Why Thorn fights the Dragon Queen.** He's the one who needs no persuading, but his reasons can change.

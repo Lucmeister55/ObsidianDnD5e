@@ -8,9 +8,7 @@ tags:
 
 > [!homebrew] Source: **Homebrew**, inspired by *Blades in the Dark*: its engagement roll, stress and flashbacks, cut down for D&D.
 
-**The point:** skip the hour of planning. The players pick a plan in one sentence, roll once to see how it starts, and fill in the clever preparation as they go: "Of course we bribed the cook last week." Everything else is ordinary D&D checks, and combat if it comes to that.
-
-**Use it for** any job where getting in unseen matters more than fighting:
+No planning hour: a one-sentence plan, one roll to start, and the clever preparation filled in as flashbacks ("Of course we bribed the cook last week"). Everything else is ordinary checks. **Use it for:**
 - **Wheelwatch Outpost** (the first time, [[3.11 Mission 5 - Wheelwatch Outpost]]).
 - **Bakaris's contract** from the Bakaris house ([[3.10 Downtime 5]]).
 - **Hetch Warehouse**, against the Firefishers ([[Kalaman Guilds]]).
@@ -20,7 +18,7 @@ tags:
 
 ## 1. The Plan (one sentence)
 
-The players pick **one plan** and give **one detail**. That's all the planning there is. If they start discussing guard rotations, stop them: that's what flashbacks are for.
+**One plan, one detail.** If they start on guard rotations, stop them: that's what flashbacks are for.
 
 | Plan | The detail they give | For example |
 |---|---|---|
@@ -31,12 +29,7 @@ The players pick **one plan** and give **one detail**. That's all the planning t
 | **Social** | The contact | "The cook owes Milo a favour." |
 | **Transport** | The route or vehicle | "Up the river in a fishing boat, under the nets." |
 
-**Loadout.** Each player says only how much they carry:
-- **Light:** fast and quiet, with **1** "of course I packed it".
-- **Normal:** **3**.
-- **Heavy:** **5**, but disadvantage on Stealth.
-
-An "of course I packed it" is any ordinary item they could plausibly have (rope, a crowbar, a Dragon Army tabard, oil). They name it when they need it.
+**Loadout:** Light gives **1** "of course I packed it" (any plausible ordinary item, named when needed), Normal **3**, Heavy **5** with disadvantage on Stealth.
 
 ## 2. The Engagement Roll
 
@@ -57,7 +50,7 @@ One player, whoever leads the plan, makes **one check** with the skill the plan 
 | **Failure** | **In trouble** | Inside, but something's already gone wrong: a guard is looking right at them. The enemy acts first. |
 | **Fail by 5 or more** | **In trouble, and the Alarm is at 2** | As above, and someone's suspicious already. |
 
-Then **cut straight to the action**. No walking up to the walls.
+Then cut straight to the action.
 
 ## 3. Stress
 
@@ -74,19 +67,19 @@ Each character has **4 Stress**. Tick a box when they spend one. It clears when 
 
 ## 4. Two Clocks
 
-Draw two circles and cut them into segments. That's the only tracking.
+Two circles cut into segments:
 - **Alarm (6 segments).** Tick 1 for a failed Stealth or Deception check, a loud action, or a consequence nobody resisted. Tick 2 for a body found or a fight that makes noise. **At 6, the alarm goes up**: horns, bells, the whole garrison. Switch to a normal objective fight or an escape.
 - **The job (4 to 6 segments).** Tick 1 for each real step towards the goal: the yard crossed, the gate control found, the door opened. **When it's full, they've done it.** Getting out is part of the job unless the plan says otherwise.
 
 ## 5. After the Job
 
-Standing moves as the chapter says. A clean job (the Alarm never got past 3) earns **one extra +1** with the faction that sent them, because the city loves a story about the one that went perfectly.
+Standing moves as the chapter says. A clean job (Alarm never past 3) earns **+1 more** with the faction that sent them.
 
 ## Example: Wheelwatch
 
 - **Security:** Guarded, DC 15. **+2** for the survivor's sketch, **+2** if they spend 8 hours watching the patrols (module).
 - **Alarm:** the **alarm horns** in the towers. If the party destroys or guards them (module), the Alarm can't go past 5 until someone gets to a horn.
-- **The job (5 segments):** in, the prisoners found, the keys taken, the gate control reached, the gate open. the 10 Kalaman soldiers come in when the gate opens, and from there it's the module's battle.
+- **The job (5 segments):** in, the prisoners found, the keys taken, the gate control reached, the gate open. Then the 10 Kalaman soldiers come in, and it's the module's battle.
 - **Good flashbacks:**
   - A Dragon Army tabard taken off a body at the farmstead.
   - Cudgel's people starting a fight at the front gate at exactly the right moment.
@@ -94,6 +87,6 @@ Standing moves as the chapter says. A clean job (the Alarm never got past 3) ear
 
 ## Things to Watch
 
-- **Did it skip the planning without losing the fun of being clever?** If players still plan for twenty minutes, be firmer about the one sentence.
-- **Was 4 Stress enough?** If nobody ever breaks, try 3. If everybody breaks, try 5.
-- **Did flashbacks feel like cheating?** They're meant to feel like a heist film. If a flashback strains belief, make it cost 2 and ask for a check.
+- If players still plan for twenty minutes, be firmer about the one sentence.
+- Nobody ever breaks: try 3 Stress. Everybody breaks: try 5.
+- If a flashback feels like cheating, make it cost 2 and ask for a check.

@@ -2,7 +2,7 @@
 
 > [!module] Source: **Module** ([[02-chapter-1-character-creation#Solamnia|ch. 1, "Solamnia"]] and "Knights of Solamnia", [[01-war-comes-to-krynn#Kalaman Region|"Kalaman Region"]]), with wider Dragonlance lore.
 
-**What everyone knows.** Once a mighty empire, still one of the largest and richest nations in Ansalon. Its provinces look after themselves and squabble constantly. Vinas Solamnus founded the Knights of Solamnia here. After the Cataclysm people blamed the knights for Istar, and they are fewer and less loved than they were.
+**What everyone knows.** Once a mighty empire, still one of the largest and richest nations in Ansalon. Its provinces look after themselves and squabble constantly. Vinas Solamnus founded the Knights here, and Huma was one of them. After the Cataclysm people blamed the knights for Istar, and they are fewer and less loved than they were.
 
 **The land.** The **Plains of Solamnia** are grain country, crossed by the **Vingaard River**, the nation's great trade road down to the sea at [[Kalaman]]. North of the eastern provinces lie the [[Kalaman & Northern Wastes|Northern Wastes]].
 
@@ -28,7 +28,6 @@
 
 ## Who Knows What
 
-- **Everyone:** Huma's name, and that the Knights were somehow to blame for the Cataclysm.
 - **Knights and squires:** the Oath and the Measure, and how few of them are left.
 - **Scholars:** that Solamnia began as a rebellion, led by a traitor to Ergoth.
 - **Nobles of the eastern provinces:** how little the Knights in the west can actually do for them.

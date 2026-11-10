@@ -8,6 +8,5 @@
 
 ## Who Knows What
 
-- **Everyone:** gnomes live in a volcano.
 - **Kalaman's market traders:** which curios are safe to stand near.
 - **Tinkerers:** that some of it works, some of the time.

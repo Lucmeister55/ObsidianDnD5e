@@ -21,7 +21,6 @@
 
 ## Who Knows What
 
-- **Everyone:** Istar was punished, and sailors avoid the middle of the Blood Sea.
 - **Minotaur crews and old sailors:** the Maelstrom's currents, and how far in you can go.
 - **Priests of the old ways and scholars:** the Proclamation, and how a holy empire turned into what it became.
 - **Lohezet's circle and very few others:** that Istar's secrets didn't all sink ([[5.00 Destiny]]).

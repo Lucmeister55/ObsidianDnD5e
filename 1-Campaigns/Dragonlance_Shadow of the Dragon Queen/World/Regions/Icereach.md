@@ -9,6 +9,5 @@
 
 ## Who Knows What
 
-- **Everyone:** nothing lives in the far south.
 - **Sailors and whalers:** the thanoi, and the Ice Folk who hunt beside them.
 - **Dragon Army officers:** that the White Army has gone south, and why.

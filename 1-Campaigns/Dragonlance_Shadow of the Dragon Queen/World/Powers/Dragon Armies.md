@@ -17,8 +17,6 @@ Takhisis's forces, five armies of draconians ([[Draconians]]), humans, goblins, 
 | **Black** | Lucien of Takar, a half-ogre | Occupies [[Nordmaar]] and [[Goodlund]]. |
 | **White** | Feal-Thas, a Silvanesti Black Robe | Small. Conquering [[Icereach]]. |
 
-**What people in Kalaman know.** Rumours of "invaders from the east", "lizard-men", and Nordmaar and Goodlund falling. Nobody in the city has seen a dragon yet, and most don't believe in them.
-
 ## The War So Far
 
 | When | What |
@@ -36,7 +34,7 @@ Takhisis's forces, five armies of draconians ([[Draconians]]), humans, goblins, 
 
 > [!homebrew] Source: **Homebrew**, built on the module's note that the armies include "humans, goblins, hobgoblins, ogres, and others".
 
-The Dragon Army isn't all draconians. Mix these in, so every fight doesn't look the same. Most reuse a stat block you already have.
+Mix these in so every fight doesn't look the same.
 
 | Who | What they're like | Stat blocks | Use them for |
 |---|---|---|---|
@@ -49,15 +47,13 @@ The Dragon Army isn't all draconians. Mix these in, so every fight doesn't look 
 | **Minotaur corsairs** | Hired ships out of Mithas. Honour among themselves, none for anyone else | Minotaur of Baphomet (no demon lord), Pirate, Pirate Captain | The sea: the crossing, the bay, anything with a sail |
 | **Black Robes and zealots** | Takhisis's priests and the Army's mages | Cultist, Mage, Priest | The citadel, Lohezet's people, the night before a battle |
 
-**A rule of thumb:** any fight that isn't a set piece gets at most **one kind** of draconian, plus one other face from this list.
+**Rule of thumb:** outside set pieces, one kind of draconian plus one other face.
 
 ## How Big, and Where
 
 > [!homebrew] Source: **Homebrew**. Numbers sized to the module's "hundreds" and "thousands", and to [[The War in Numbers]].
 
 ### What a Force Looks Like
-
-Use this whenever the party sees the enemy on the move, finds a camp, or hears a scout's report.
 
 | What | How many | Where you'll see one |
 |---|---|---|
@@ -69,13 +65,11 @@ Use this whenever the party sees the enemy on the move, finds a camp, or hears a
 | **Field army** | 1,500 to 2,500 | Kansaldi's army at Steel Springs |
 | **Host** | 5,000 and more | The siege of Kalaman |
 
-**Telling them apart.** A camp of 100 is a few dozen tents and one cookfire smoke. A camp of 2,000 is a town of canvas with its own latrine stink, visible for miles, and its night fires look like a second sky. A column of 500 takes an hour to pass a point on the road. Draconians don't need tents, which makes their camps look smaller than they are.
+**Telling them apart.** 100 is a few dozen tents and one cookfire. 2,000 is a canvas town visible for miles, its night fires a second sky. A column of 500 takes an hour to pass. Draconians need no tents, so their camps look smaller than they are.
 
 ### The Kalaman Front (Kansaldi)
 
-About **2,500** when the party reaches Kalaman, and growing by about 200 each downtime as mercenaries flock north.
-
-**What it's made of:**
+About **2,500** when the party reaches Kalaman, growing about 200 per downtime.
 
 | Arm | Men | Skirmish unit |
 |---|---|---|
@@ -117,7 +111,7 @@ About **7,000**: the Kalaman front, what's left of the Wastes army, 1,000 fresh 
 
 ### The Armies Abroad
 
-Rough sizes, for rumours and for scale. Nobody in Kalaman knows these.
+For rumours and scale. Nobody in Kalaman knows these.
 
 | Army | About | Where |
 |---|---|---|
@@ -129,7 +123,7 @@ Rough sizes, for rumours and for scale. Nobody in Kalaman knows these.
 
 ## Who Knows What
 
-- **Everyone:** invaders from the east, somewhere far away, until they aren't.
+- **Everyone:** rumours of "invaders from the east" and "lizard-men", and of Nordmaar and Goodlund falling. Nobody has seen a dragon, and most don't believe in them.
 - **Kalaman's soldiers and refugees:** that there are dragons, and draconians, and that it's a real army.
 - **Vendri, Darrett and their scouts:** the rough numbers, and that the Blue Army is a second force.
 - **Very few in the west:** the highlords' names, or that Ariakas commands them.

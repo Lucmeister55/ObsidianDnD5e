@@ -13,6 +13,5 @@
 
 ## Who Knows What
 
-- **Everyone:** it fell without a fight, far away.
 - **Kender and Meulara's friends:** exactly what's happening, in far too much detail.
 - **Tribes in the Istarian ruins:** what still works out there.

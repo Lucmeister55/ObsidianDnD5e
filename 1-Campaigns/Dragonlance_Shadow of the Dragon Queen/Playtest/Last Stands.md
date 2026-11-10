@@ -6,27 +6,25 @@ tags:
 
 # Last Stands
 
-> [!homebrew] Source: **Homebrew**. This is the mechanics for the "blaze of glory" deaths promised in [[Session 1.5]].
-
-**The point:** when a character dies, it should be a scene, not a dice roll. The player gets to choose a last stand, and it's always worth something.
+> [!homebrew] Source: **Homebrew**. The "blaze of glory" deaths promised in [[Session 1.5]].
 
 ## When It's Offered
 
-When a character **fails their third death saving throw**, or would die outright from massive damage, the DM pauses and offers the player a **Last Stand**. The player can always say no. A quiet death is allowed too.
+When a character **fails their third death save** or dies outright from massive damage, offer a **Last Stand**. The player can say no.
 
 ## The Last Stand
 
 The character rises one last time, on their next turn or immediately (the player's choice):
-- They regain hit points equal to **twice their level** and can't drop below 1 hit point until the end of their **next turn**. Nothing can stop the stand: no damage, condition or spell.
+- They regain hit points equal to **twice their level** and can't drop below 1 hit point until the end of their **next turn**.
 - They're immune to every condition for the duration.
 - They get **one full turn** with an extra action. Every attack roll they make has advantage, and every save they force is made with disadvantage.
 - They can spend any resource as if it were fully recharged: one spell slot of their highest level, one use of any feature.
 
-At the end of that turn, the character dies. Nothing reverses it, short of a story-level miracle.
+Then they die. Only a story-level miracle reverses it.
 
 ## The Legacy
 
-Before the stand, the player chooses **one Legacy** for their character. It's what the death buys:
+Before the stand, the player picks **one Legacy**:
 
 | Legacy | Effect |
 |---|---|
@@ -38,13 +36,13 @@ Before the stand, the player chooses **one Legacy** for their character. It's wh
 
 ## Origin Characters
 
-Some of the origin characters have their own deaths waiting, which are better than any Legacy. Check the DM notes before the stand:
+Some have their own death waiting, better than any Legacy:
 - **[[Milo Geartickle (DM)|Milo]]:** the ring will try to keep Milo alive by taking someone else. A Last Stand where Milo *refuses* the ring is the ultimate version of their arc.
 - **[[Wurm (DM)|Wurm]]:** the voice will offer him its power to survive. Dying as himself, not as her vessel, is the stand.
 - **[[Ser Edric of Brackenridge (DM)|Edric]]:** his ancestor died holding Dargaard's gate with a shield. If Edric dies holding a gate, Old Moss stays standing where he fell.
 
 ## Things to Watch
 
-- Do players want it? Ask after the first death whether it felt earned.
-- Does the extra action plus advantage feel big enough? It should be the best turn of the character's life.
-- Make sure "Take Them With You" never cheapens a villain's arc.
+- After the first death, ask whether it felt earned.
+- It should be the best turn of the character's life. If not, add more.
+- "Take Them With You" must never cheapen a villain's arc.

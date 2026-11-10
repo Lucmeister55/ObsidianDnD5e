@@ -10,9 +10,9 @@ tags:
 See [[Faction Rules]].
 **Horizon: long.** Banks everything for the siege.
 
-Kalaman can't afford to call on the Knights of Solamnia every time raiders cross the border, so it keeps its own army: tough, practical soldiers who have spent their lives fighting Estwilde raiders and Taman Busuk ogres, and who have never seen anything like the Dragon Army. The party will likely end up working for them as esquires of Kalaman.
+Kalaman's own army ([[Forces of Kalaman]]): practical soldiers used to raiders and ogres, who've never seen anything like the Dragon Army. The party serves it as esquires.
 
-**Who speaks for them:** [[Nestra Vendri|Marshal Nestra Vendri]], pragmatic and stern, who hates wasted lives. [[Darrett Highwater]] is the party's liaison. **Jesen Thold**, who runs the Steady Beacon tavern, is Vendri's old friend and hears every soldier's gossip.
+**Who speaks for them:** [[Nestra Vendri|Marshal Nestra Vendri]]. [[Darrett Highwater]] is the party's liaison. **Jesen Thold** of the Steady Beacon, Vendri's old friend, hears every soldier's gossip.
 
 **They want:** Kalaman defended, good intelligence, soldiers who come home alive, and orders that are followed.
 **They hate:** cowardice, wasting lives on glory, disobeying orders, and nobles playing at generals (Lord Bakaris above all).

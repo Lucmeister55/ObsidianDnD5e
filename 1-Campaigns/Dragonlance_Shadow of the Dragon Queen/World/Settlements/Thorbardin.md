@@ -16,6 +16,5 @@
 
 ## Who Knows What
 
-- **Everyone:** the gates are shut.
 - **Hill dwarves:** their grandparents' version of the Dwarfgate War.
 - **Mountain dwarves:** the clans' feuds, and how few outsiders have seen the halls.

@@ -8,16 +8,14 @@ tags:
 
 > [!homebrew] Source: **Homebrew**, after the "troop" approach to units-as-creatures (as in MCDM's *Flee, Mortals!* and *Strongholds & Followers*), stripped down. The big battles still use **WoK**.
 
-**The point:** a mass-combat mode for the battlemap, with a handful of units on each side and the heroes in the middle of them. It plays like normal 5e combat. A unit is just a big creature with a few extra rules. Use it when a battle is too small for *[[Warriors of Krynn]]*, or when you want the party in the fray instead of above it.
-
-**Good fits in this campaign:** the Inkwater crossing at Steel Springs, the Trade Gate in the siege, Wheelwatch's courtyard, Darrett's assault in Scenario 7 (instead of WoK), and any WoK scenario you'd rather zoom in on.
+Mass combat on the battlemap: a handful of units per side, heroes in the middle, played like normal 5e. For battles too small for *[[Warriors of Krynn]]*, or when the party should be in the fray. **Good fits:** the Inkwater crossing at Steel Springs, the Trade Gate in the siege, Wheelwatch's courtyard, Darrett's assault in Scenario 7 (instead of WoK), and any WoK scenario you'd rather zoom in on.
 
 > [!tip] Only three operations
 > Every modifier in these rules is **half**, **double** or **doesn't strike back**. Nothing stacks: a unit that's both halved and doubled deals normal damage, and two halves are still just half.
 
 ## Units
 
-A **unit** is about **ten soldiers** fighting as one, on a **2 × 2** base, facing one way (its **front**). It has **HP**, a **Damage** number, an **AC** and attack bonus for fighting heroes, a **troop type** (below), and a **Morale** bonus. The [[Combat Extras#Weapon Triangle|Weapon Triangle]] is for heroes only. Units have their own matchups.
+A **unit** is about **ten soldiers** on a **2 × 2** base, facing one way (its **front**), with **HP**, **Damage**, **AC** and an attack bonus (against heroes), a **troop type** and a **Morale** bonus. The weapon triangle doesn't apply.
 
 - **Bloodied** (half HP or less): it deals **half**.
 - **0 HP:** it's broken. Take it off the table.
@@ -35,7 +33,7 @@ A **unit** is about **ten soldiers** fighting as one, on a **2 × 2** base, faci
 
 ### Troop Types
 
-Like *Advance Wars*: every unit is one of six types. Pikes stop charges, Horse runs down Shooters and Engines, Shooters shred Foot and Fliers, and everyone wants to reach the Engines.
+Like *Advance Wars*: pikes stop charges, horse runs down shooters and engines, shooters shred foot and fliers.
 
 | Type | Units | Good at | Bad at |
 |---|---|---|---|
@@ -50,13 +48,7 @@ Like *Advance Wars*: every unit is one of six types. Pikes stop charges, Horse r
 
 ### Slopes and High Ground
 
-Units use the same slopes as heroes ([[Combat Extras#Slopes and High Ground|what counts as a slope]]), with the same three operations:
-- **Movement.** Moving downhill, a unit covers **double** the distance. Moving uphill, it covers **half**.
-- **Charging downhill.** Any unit, not only Horse, that moves downhill into a clash gets the Horse charge: it deals **double** (see the table above). Horse charging downhill still deals just double. Nothing stacks.
-- **Holding the high ground.** The unit on top counts as behind cover against melee from below, so it takes **half**. A **Shooters** or **Engines** unit on the high ground also Volleys at **+50% range**.
-- **Fliers** ignore all of it.
-
-A hill therefore does two things: it makes the army on top hard to dislodge, and it punishes the army that waits at the bottom. Say which way is up when you set up the map.
+[[Combat Extras#Slopes and High Ground|Slopes]] as for heroes: double distance downhill, half uphill. Any unit charging downhill deals **double** (Horse too, no stacking). The unit on top takes **half** from melee below, and Shooters or Engines up there Volley at **+50% range**. Fliers ignore slopes.
 
 ## Units and Heroes
 
@@ -80,7 +72,7 @@ Enemy officers embed the same way.
 
 > [!homebrew] Source: **Homebrew**.
 
-Allied units turn up in a battle whatever the party's Standing, led by NPC commanders (Darrett, Cudgel, a sergeant). The question is which of them the **party** commands. The party are esquires of Kalaman, with a lieutenant's rank, but rank isn't the same as soldiers. What they get to lead themselves depends on **Military Standing** at the start of each skirmish or mission. It's a short-term reward: lose the Military's trust, and the soldiers take their orders from someone else.
+Allied units always fight, under NPC commanders. **Military Standing** at the start of each skirmish or mission decides which ones the **party** commands.
 
 | Military Standing | The party commands |
 |---|---|
@@ -90,10 +82,9 @@ Allied units turn up in a battle whatever the party's Standing, led by NPC comma
 | **Trusted** (+3 to +5) | One Kalaman unit attached for the whole mission or battle, which takes their orders without question. |
 | **Honoured** (+6 to +10) | Every allied unit on the field, as the commanders of record. |
 
-On top of that:
 - **Their own units** (Edric's Company, the Wild Hunt and the rest) always answer to their hero, whatever the Standing.
 - **Knights** come through [[Knights of Solamnia]] Standing, and Edric can always command them.
-- **Field command.** When the officers fall, whoever is standing commands, whatever the Standing. The first time this happens is **Steel Springs**: at the Inkwater crossing, the commanders are dead or fled, and the soldiers look to the party. That's the first skirmish of the campaign ([[3.00 Storm Clouds]]).
+- **Field command.** When the officers fall, whoever is standing commands, whatever the Standing. The first time is the Inkwater crossing at [[3.12 Steel Springs|Steel Springs]], the first skirmish of the campaign.
 - **Edric's rank** ([[Ser Edric of Brackenridge (DM)]]): from Captain onwards, he commands one more Kalaman unit, whatever the Standing.
 
 ## Turns and Orders
@@ -118,11 +109,11 @@ When a unit is **Bloodied for the first time**, or its **commander falls**, or *
 
 ## Winning
 
-Give every skirmish **an objective and a clock**: hold the gate for 5 rounds, get the boats away by round 6, take the dragonnel pens. It ends when an objective is met, or one side has nothing left that isn't Shaken. When the result is obvious, stop and narrate the rest, like a [[One-Turn Resolution|one-turn]].
+Every skirmish gets **an objective and a clock** (hold the gate 5 rounds). It ends when the objective is met or one side is all Shaken. When the result is obvious, narrate the rest ([[One-Turn Resolution|one-turn]]).
 
 ## Allied Units
 
-Generic troop types. The "In this campaign" column says who they are at the table. Use the same stats for anyone similar, and just change the name.
+Reuse the stats for anyone similar under a new name.
 
 | Unit | Type | AC | HP | Speed | Attack (vs heroes) | Damage | Morale | Special | In this campaign |
 |---|---|---|---|---|---|---|---|---|---|
@@ -137,7 +128,7 @@ Generic troop types. The "In this campaign" column says who they are at the tabl
 
 ### Heroes' Own Units
 
-One unit per origin character, on top of the generic ones. They're earned through that character's story, and only that character commands them, at any distance.
+One per origin character, earned through their story. Only they command it, at any distance.
 
 | Unit | Type | AC | HP | Speed | Attack (vs heroes) | Damage | Morale | Special | Earned by |
 |---|---|---|---|---|---|---|---|---|---|
@@ -145,13 +136,11 @@ One unit per origin character, on top of the generic ones. They're earned throug
 | **Davos's Apprentices** | Shooters | 12 | 30 | 30 | +5 (120 ft) | 20 | +0 | **Spell Volley:** counts as an area attack, so it deals **double** to units. **Wild:** roll a d6 each Volley. On a 1, roll on the wild magic table, centred on the apprentices. | [[Davos Bloodbane\|Davos]], with the [[Mages of High Sorcery]] at Trusted: Wyhan's students, a few untested hedge-wizards and moon-touched sorcerers Davos has been quietly teaching. |
 | **Milo's Bombard Crew** | Engines | 13 | 30 | 20 | +5 (200 ft) | 25 | +1 | **Bombard:** its target and every unit within 10 feet take the Damage. **Gnomish:** roll a d6 each shot. On a 1, it misfires and nothing happens. On a 6, it deals **double**. | [[Milo Geartickle\|Milo]] building it with Tatina's help: a few drone-tinkering workweeks and the Guilds or Military at Trusted. The crew are guild apprentices and very excited refugees. |
 | **Thorn's Wild Hunt** | Horse | 13 | 60 | 50 | +5 | 20 | +2 | **Pack Run:** ignores difficult terrain, and can move around a unit to hit its side or rear in the same turn. Never routs while Thorn is in sight. | [[Aeltharion Caladon (Thorn)\|Thorn]]'s grove at progress 6 ("The beasts know him"): wolves, boars and one great stag from the woods around Kalaman. |
-| **Wurm's Unchained** | Foot | 14 | 55 | 30 | +4 | 20 | +3 | **Follow Him:** never Shaken while Wurm fights within 30 feet. **The Burning Eyes:** whenever Wurm rages, it makes a Morale check. They've seen what's in him too. | [[Wurm]]'s followers. It starts with the refugees who began leaving offerings at his door after High Hill ("Kneeling to Wurm" in [[3.00 Storm Clouds]]), if he treated them as people instead of worshippers. Runaway serfs, freed prisoners and the people the city spits on join them. If he spared draconians in the Wastes, one or two deserters stand with them. |
+| **Wurm's Unchained** | Foot | 14 | 55 | 30 | +4 | 20 | +3 | **Follow Him:** never Shaken while Wurm fights within 30 feet. **The Burning Eyes:** whenever Wurm rages, it makes a Morale check. They've seen what's in him too. | [[Wurm]]'s followers: the refugees who left offerings at his door ([[3.06 Downtime 3]]), if he treated them as people, plus runaway serfs, freed prisoners, and a draconian deserter or two if he spared any in the Wastes. |
 
-**Where the numbers come from:** [[Kalaman Military]] supplies most of these (more units the higher the band), [[Knights of Solamnia]] the knights, and [[Kalaman Smallfolk]] the militia. Cudgel brings her regiment. See [[6.02 Return to Kalaman#The Siege Ledger]].
+**Sources:** [[Kalaman Military]] (most units), [[Knights of Solamnia]] (knights), [[Kalaman Smallfolk]] (militia), Cudgel (her regiment). See [[6.02 Return to Kalaman#The Siege Ledger]].
 
 ## Enemy Units
-
-The Red Dragon Army as the module fields it: draconians, human soldiers, hired goblinoids and ogres, dragonnel riders and war machines, plus Soth's undead.
 
 | Unit | Type | AC | HP | Speed | Attack (vs heroes) | Damage | Morale | Special | In this campaign |
 |---|---|---|---|---|---|---|---|---|---|
@@ -179,7 +168,7 @@ Big single creatures fight with their **normal stat blocks**, not as units: deat
 
 ## Things to Watch
 
-- How long does a round take with 6 or more units? If it drags past 10 minutes, cut the roster down or have enemy units act all at once.
-- Do the players enjoy commanding, or do they just want to fight? If it's the latter, give command to NPCs (Darrett, Cudgel) and have them run the allied units.
-- Are units too tanky or too fragile next to the PCs? Adjust the HP multiplier (2 × to 4 ×) before anything else. The current 3 × gives a straight clash of 2–5 rounds, which fits a 5–6 round clock.
+- If a round with 6+ units drags past 10 minutes, cut the roster or have enemy units act at once.
+- If players would rather fight than command, let Darrett or Cudgel run the allied units.
+- Too tanky or too fragile? Adjust the HP multiplier (2–4 ×) first. At 3 × a straight clash lasts 2–5 rounds, inside a 5–6 round clock.
 - Do the troop types make unit choice interesting (pikes against horse, horse against archers)?

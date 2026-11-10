@@ -30,7 +30,6 @@ tags:
 
 ## Who Knows What
 
-- **Everyone:** it's a cursed ruin, and you don't go there.
 - **Knights, and readers of the Order's old records:** that Soth was a Knight of the Rose who broke his vows.
 - **Very few:** that he was offered the chance to stop the Cataclysm. The Knights don't tell that part.
 - **Bards and old people in Nightlund:** the song of a fallen knight and an elf-maid, without knowing it's true.

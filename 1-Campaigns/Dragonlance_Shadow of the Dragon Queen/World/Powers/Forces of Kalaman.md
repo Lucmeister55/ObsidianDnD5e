@@ -7,15 +7,15 @@ tags:
 
 > [!module] Source: **Module** ([[05-chapter-4-shadow-of-war#Power in Kalaman|ch. 4, "Power in Kalaman"]], "Wheelwatch Outpost", and [[08-chapter-7-siege-of-kalaman|ch. 7]]) and **Homebrew** (the party's ranks, the allies and the skirmish units).
 
-**Why Kalaman has an army.** The Knights of Solamnia are headquartered far to the west, and the city can't call on them every time raiders cross the border. So Kalaman keeps its own army: tough, practical soldiers who have spent their lives fighting Estwilde raiders and Taman Busuk ogres, and monsters from the Dargaard Mountains. None of them has ever faced dragons. See [[Kalaman Military]] for the faction.
+**Why Kalaman has an army.** The Knights are far to the west, so the city keeps its own: hard soldiers used to Estwilde raiders, ogres and mountain monsters, none of whom has faced a dragon ([[Kalaman Military]]).
 
 ## Chain of Command
 
 - **The council** holds the purse. Governor Calof Miat and the five guild leaders decide what the army can afford, and they don't believe in the threat ([[Kalaman Guilds]]).
-- **[[Nestra Vendri|Marshal Nestra Vendri]]** commands everything else, from the castle's second floor. She is pragmatic and stern, and she hates wasted lives.
+- **[[Nestra Vendri|Marshal Nestra Vendri]]** commands everything else, from the castle's second floor.
 - **Captains** hold the gates and the outposts. One is **Captain Oklid Narnhelm** at the Trade Gate, who lowers its portcullis on the refugees in the siege.
 - **[[Darrett Highwater]]** trains the new recruits and is the party's liaison with Vendri.
-- **The esquires** are the party: special operatives with a lieutenant's rank and 5 gp a week. They were sworn in under duress, in the cells, with Bakaris's charges in a file on Vendri's desk ([[DM Guide#Why They Stay Together]]). A knight PC can climb from esquire to Grand Marshal ([[Ser Edric of Brackenridge (DM)#Arc: Rising Through the Ranks|his ranks]]).
+- **The esquires** are the party: a lieutenant's rank, 5 gp a week, sworn in under duress ([[DM Guide#Why They Stay Together]]). A knight PC can climb from esquire to Grand Marshal ([[Ser Edric of Brackenridge (DM)#Arc: Rising Through the Ranks|his ranks]]).
 
 ## Where They Are
 
@@ -43,7 +43,7 @@ How many of these the party commands depends on Military Standing ([[Skirmish Ba
 
 ## Allies Who Join the Fight
 
-Each comes in through the story or through a faction. [[6.02 Return to Kalaman#The Siege Ledger|The Siege Ledger]] counts them up before the battle.
+Counted up in [[6.02 Return to Kalaman#The Siege Ledger|the Siege Ledger]].
 
 | Ally | What they bring | How |
 |---|---|---|
@@ -65,7 +65,7 @@ Each comes in through the story or through a faction. [[6.02 Return to Kalaman#T
 
 ## Order of Battle
 
-> [!homebrew] Source: **Homebrew**. The module only says "hundreds" at Steel Springs and "thousands" at the siege. These numbers are sized to fit that, and to make the briefings add up. The enemy's side is in [[Dragon Armies#How Big, and Where]], and how both change battle by battle is in [[The War in Numbers]].
+> [!homebrew] Source: **Homebrew**, sized to the module's "hundreds" and "thousands". The enemy is in [[Dragon Armies#How Big, and Where]], and how both change battle by battle is in [[The War in Numbers]].
 
 **Kalaman, on 16 Brookgreen 351 AC.** About **2,000 regulars**, in a city of around 30,000.
 

@@ -12,5 +12,4 @@ Tarsis was a major port before the Cataclysm. When the Empire of Ergoth built a 
 
 ## Who Knows What
 
-- **Everyone:** the port with no sea.
 - **Plains traders:** that the Dragon Armies have been asking about the south.

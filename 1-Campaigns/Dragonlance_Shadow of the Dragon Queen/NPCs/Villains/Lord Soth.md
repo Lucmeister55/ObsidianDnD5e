@@ -6,7 +6,7 @@ tags:
 
 # Lord Soth
 
-To the world he isn't a person at all, just a legend: **the Dread Knight**, a shadow over the black ruin of Dargaard Keep, the curse of some ancient evil that some say was once a Knight of Solamnia. In truth he's Lord Loren Soth, once the perfect Knight of the Rose. The gods gave him the chance to stop the Cataclysm, and his pride let it happen. He burned with his keep and rose as the most powerful death knight on Krynn. For three and a half centuries he brooded in Dargaard. Now the Dragon Queen has called, and he has ridden out again.
+To the world he's only a legend, **the Dread Knight** of Dargaard Keep. In truth he's Lord Loren Soth, once the perfect Knight of the Rose. The gods gave him the chance to stop the Cataclysm, and his pride let it happen. He burned with his keep, rose as Krynn's greatest death knight, and brooded there for three and a half centuries, until the Dragon Queen called.
 
 ## Voice
 
@@ -26,8 +26,8 @@ A huge knight in ancient, fire-blackened Solamnic plate, a rose withered black o
 > [!homebrew] Source: **Homebrew**, built on the **Module**: the Queen's rituals for the Cataclysm's fire, the fire that "responds to the memories of the dead" ([[05-chapter-4-shadow-of-war|ch. 4]]), and the name he whispers into the mirror.
 
 He doesn't serve her. He uses her, and she lets him think so.
-- **Spite.** The gods of good gave him his quest, and then his curse. Takhisis is the one power that stands against them. Every city he helps her burn is an answer to the gods who damned him.
-- **Isolde.** The violet fire is the fire that took his wife and son, the night Dargaard burned and he let it, and it remembers the dead. The Queen has whispered him the rituals to shape it. She has let him believe that with enough of it, he can bring them back as they were, and undo the night Dargaard burned. That's why he wants the catacombs' fire, and why he wants Onyari, where the fire already raises dead dragons.
+- **Spite.** Every city he helps Takhisis burn answers the gods who damned him.
+- **Isolde.** The violet fire is the fire that took his wife and son, the night Dargaard burned and he let it, and it remembers the dead. The Queen has taught him to shape it, and let him believe enough of it could bring them back. That's why he wants the catacombs' fire, and Onyari, where it already raises dead dragons.
 - **She lies.** The fire only remembers. It can make him an Isolde out of flame, never the real one, and the Queen knows it. A spellcaster PC who studies the fire, or Leedara, can find this out.
 - **The Greenshields** are his own grudge, on the side. The Queen doesn't care about them, which is why Caradoc thinks it's all a distraction.
 
@@ -44,7 +44,7 @@ He doesn't serve her. He uses her, and she lets him think so.
 - **[[Ispin Greenshield]]:** the last of the line he swore to end.
 - **[[Red Ruin]]:** his dagger, through his alliance with [[Kansaldi Fire-Eyes]].
 - **Caradoc:** his charming, cowardly undead seneschal, who does his talking (module, chapter 4).
-- **[[Soth's Host]]:** the undead of Nightlund who rise for him: fell bats, barrow guard, barrow knights, vargheists and blood knights.
+- **[[Soth's Host]]:** Nightlund's dead, who rise for him.
 
 ## Under Pressure
 

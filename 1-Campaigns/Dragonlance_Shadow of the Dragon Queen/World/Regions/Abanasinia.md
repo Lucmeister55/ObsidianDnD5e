@@ -22,6 +22,5 @@
 
 ## Who Knows What
 
-- **Everyone:** a quiet land far away.
 - **Traders from the south:** the Seekers' rule, and that slave caravans have been seen.
 - **Dragon Army officers:** where Verminaard has gone, and why.

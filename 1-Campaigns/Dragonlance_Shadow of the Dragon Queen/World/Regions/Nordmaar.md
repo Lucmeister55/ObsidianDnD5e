@@ -11,6 +11,5 @@
 
 ## Who Knows What
 
-- **Everyone:** there's a war somewhere over the sea.
 - **Nordmaar refugees and Kalaman's dockhands:** how fast it fell, and what dragons do to a city.
 - **Knights and Solamnic nobles:** the old ties, and that no help was sent.

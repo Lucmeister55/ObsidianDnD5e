@@ -10,6 +10,5 @@
 
 ## Who Knows What
 
-- **Everyone:** a whole city of kender, which is a frightening thought.
 - **Kender:** that there's a war on, and that it's going rather well.
 - **Black Army quartermasters:** exactly how many pairs of boots have gone missing.

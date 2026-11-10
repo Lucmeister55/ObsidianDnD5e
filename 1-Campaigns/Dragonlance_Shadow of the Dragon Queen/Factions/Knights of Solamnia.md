@@ -10,7 +10,7 @@ tags:
 See [[Faction Rules]].
 **Horizon: long.** Banks everything for the siege, and for Edric.
 
-The Knights are headquartered far to the west, and in Kalaman they are a small presence: a cold chapterhouse with a handful of knights, a lot of old banners and a great deal of pride. Many in Kalaman still blame the Order for the Cataclysm, and the Knights know it. They live by the Oath and the Measure, they remember every slight, and they badly need someone to make them look good again.
+In Kalaman, a cold chapterhouse with a handful of knights, old banners and a great deal of pride. The city still blames them for the Cataclysm. They live by the Oath and the Measure, remember every slight, and badly need someone to make them look good.
 
 **Who speaks for them:** the knight-commander of the Kalaman chapterhouse, an old, proud Knight of the Rose (name them yourself), [[Becklin Uth Viharin]] if she survived Vogler, and [[Ser Edric of Brackenridge|Edric]] himself.
 
@@ -19,7 +19,7 @@ The Knights are headquartered far to the west, and in Kalaman they are a small p
 **Rivals:** the [[Mages of High Sorcery]], and, uneasily, the [[Kalaman Smallfolk]], who don't trust them.
 
 > [!warning] The false knights
-> When Caradoc and Soth's undead "Knights of Solamnia" murder the council, the city blames the Order. The case is decided at **the Trial** right after the catacombs ([[4.01 The Trial#The Trial]]). Until it's cleared there, or later, any choice that sides openly with the Knights also costs **-1 Smallfolk**.
+> After Caradoc's undead "knights" murder the council, the city blames the Order until [[4.01 The Trial|the Trial]] clears it. Until then, openly siding with the Knights also costs **-1 Smallfolk**.
 
 ## By Band
 

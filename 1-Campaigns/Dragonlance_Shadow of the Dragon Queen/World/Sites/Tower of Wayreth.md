@@ -19,7 +19,6 @@
 
 ## Who Knows What
 
-- **Everyone:** mages are dangerous, and there's a tower somewhere.
 - **Palanthians:** stay away from the Tower, and from Shoikan Grove.
 - **Robed mages:** the Lost Battles, and how close their Orders came to the end.
 - **Only Conclave members:** how to reach Wayreth, and what's kept there.

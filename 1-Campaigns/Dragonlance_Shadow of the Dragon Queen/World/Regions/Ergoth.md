@@ -22,6 +22,5 @@
 
 ## Who Knows What
 
-- **Everyone:** there used to be an Empire of Ergoth.
 - **Ergothian merchants and sailors:** that their towns still claim the empire's name.
 - **Kagonesti:** how many Silvanesti have landed, and how badly it's going.

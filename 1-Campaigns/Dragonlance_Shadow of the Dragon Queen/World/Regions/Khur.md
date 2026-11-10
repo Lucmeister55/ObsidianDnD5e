@@ -13,6 +13,5 @@
 
 ## Who Knows What
 
-- **Everyone:** Khur is where raiders and slavers come from.
 - **Refugees and caravan guards:** that Salah-Khan went over to the invaders.
 - **Khur resisters:** that he may have done it to spare his people, and whether he's forgiven.

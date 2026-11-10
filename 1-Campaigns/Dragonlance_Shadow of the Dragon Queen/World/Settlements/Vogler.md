@@ -33,24 +33,24 @@ wrap: true               # wrap text; useful with left/right alignment
 
 > [!module] Source: **Module** ([[04-chapter-3-when-home-burns#Vogler Gazetteer|ch. 3, "Vogler Gazetteer"]]) and **Companion** ([[2-When_Home_Burns.pdf]], Part 2 and Appendix B).
 
-**A fishing village on the Vingaard.** Vogler clings to a spit of land in the river, in Hinterlund, under wooded cliffs. The only road from the north comes down past a crumbling keep. Its wooden buildings cluster around a green and along the bank, and dozens of small boats work the slow, murky water. [[Kalaman]] is about thirty miles downriver.
+**A fishing village on the Vingaard,** on a spit of land under wooded cliffs in Hinterlund, thirty miles above [[Kalaman]]. The only road comes down from the north past a crumbling keep.
 
-**Who lives here.** Fishers, lumberers, hunters and farmers. Bandits and predators from the Northern Wastes are the only usual trouble. Vogler is first and foremost a fishing village, so there are carvings of fish and the river everywhere.
+**Who lives here.** About four hundred fishers, lumberers, hunters and farmers, with fish carvings on everything. The usual trouble is bandits and beasts from the Wastes.
 
 **Who rules.** Mayor [[Raven Uth Vogler]], a practical, empathetic woman in her thirties who grew up on the river. Her father was mayor before her.
 
-**Who protects it.** Vogler is nominally under [[Maelgoth]], Hinterlund's capital, though that mostly means an occasional representative and Becklin's reports. In practice it's a retired knight, [[Becklin Uth Viharin]], at a ruined keep, and a volunteer militia of retired farmers and fishers, with more zeal than skill.
+**Who protects it.** On paper, [[Maelgoth]]. In practice, [[Becklin Uth Viharin]] at the ruined keep and a militia of old farmers and fishers, with more zeal than skill.
 
-**The mood.** Famously hospitable. Play up the quaint charm, so it feels like a home away from home, but not so warm that it seems unnatural. The villagers are grateful to Ispin and Becklin, yet they share the region's distrust of the Knights. Mention the knighthood and you'll usually get an awkward silence and a change of subject.
+**The mood.** Famously hospitable: play it as a home away from home. They love Ispin and Becklin but distrust the Knights, and mentioning the Order gets an awkward silence.
 
-**The old faith.** The village still carries traces of Habbakuk, the Fisher King, god of animal life and natural balance. He isn't widely worshipped any more, but a few villagers wear his symbol.
+**The old faith.** A few villagers still wear the symbol of Habbakuk, the Fisher King, god of animal life and balance ([[The Cataclysm and the Gods]]).
 
 ## History
 
 > [!module] Source: **Module** ([[04-chapter-3-when-home-burns#Vogler Gazetteer|ch. 3]]).
 
 - **The Battle of High Hill.** Hundreds of years before the Cataclysm, a Knight of Solamnia, **Lord Decater Vogler**, beat the forces of Istar in a clash a mile north of here. The village was founded on that victory.
-- **The bridge.** Before the Cataclysm, someone began a great stone bridge across the Vingaard, using techniques lost since. It was never finished, and now it looks like a glorified pier.
+- **The bridge.** Before the Cataclysm, someone began a great stone bridge across the Vingaard, using techniques lost since. It stops halfway, like a glorified pier.
 - **Thornwall Keep.** An ancient Solamnic keep, now more of a landmark than a fortification.
 
 ## Who Knows What
@@ -69,7 +69,7 @@ wrap: true               # wrap text; useful with left/right alignment
 
 > [!module] Source: **Module** ([[04-chapter-3-when-home-burns#The Kingfisher Festival|ch. 3, "The Kingfisher Festival"]]) and **Companion** ([[2-When_Home_Burns.pdf]], Part 4).
 
-An annual celebration of the victory at High Hill, with music, food and games. The kingfisher is a symbol of the Knights of Solamnia and a bird Vogler's fishers call lucky, and the Companion ties the name to Habbakuk the Fisher King. It ends with the villagers reenacting the battle, which nominally honours the spirits on the hill. For the last several years, Ispin has donated common magic items as prizes, and each winner gets a sash and the honour of being a "general" in the mock battle.
+A yearly celebration of the victory at High Hill, ending in a reenactment of the battle for the spirits on the hill. The kingfisher is a Solamnic symbol, a lucky bird to the fishers, and tied to Habbakuk (Companion). Winners get a sash, a "general's" rank in the mock battle, and a common magic item, which Ispin used to donate.
 
 The events and rules are in [[1.03 The Kingfisher Festival]].
 
@@ -90,12 +90,12 @@ The events and rules are in [[1.03 The Kingfisher Festival]].
 - **The Brass Crab.** A single-storey inn on the wharf, shaped a little like its name. A faded mural inlaid with brass shows two huge crabs fighting. No one knows who made it, but the owner, an Ergothian woman named **Yalme**, calls them Fancy and Gorgeous George. She has an odd love of bad storytellers and inept musicians.
 - **The Fishbowl.** Vogler's one tavern, cramped and well kept, known for its baked fish pies and its weak ale. It's run by **Elthar**, in his seventies, whom everyone calls Uncle.
 - **Wharfinger's Office.** A stuffy two-storey office across from the market, where boats must register. **Umpton Lanth**, in his sixties, is up before anyone to fine leaky boats. His son **Nesau** usually runs the desk, and forgives the fines when his father's away, which makes him very popular.
-- **Vogler's Crossing.** The unfinished bridge, south of the village. Ropes and winches run on from its supports to the far shore, and rafts and skiffs take travellers and small wagons over in about ten minutes. It's safe and slow, and a ferrier costs 1 sp.
+- **Vogler's Crossing.** The unfinished bridge, south of the village. Ropes and winches run on from its supports to the far shore, and rafts and skiffs take travellers and small wagons over in about ten minutes. Safe, slow, and 1 sp.
 
 ### The Edges
 
-- **River Gate.** The northern entrance: a 15-foot wooden arch carved with two leaping fish, whose coin-sized scales locals have etched with prayers for good fishing. It's unguarded, and its doors have stood open so long they're sunk in the dirt.
-- **Thornwall Keep.** On a rocky rise at the western edge of town, ruined walls surround a three-storey tower. The ground floor has a small library and over forty rusty relics of tools and armour. [[Darrett Highwater]], Becklin's squire, sleeps on the second floor, and Becklin has the bare room at the top. A ladder goes to the roof, where **Than**, the village's tinker gnome, has built a **gnomeflinger**. It looks like a catapult, and it launches people. Becklin puts up with the early-morning tinkering because it might deter attackers.
+- **River Gate.** The northern entrance: a 15-foot wooden arch carved with two leaping fish, whose coin-sized scales locals have etched with prayers for good fishing. Unguarded, its doors sunk open in the dirt.
+- **Thornwall Keep.** On a rocky rise at the western edge of town, ruined walls surround a three-storey tower. The ground floor has a small library and over forty rusty relics of tools and armour. [[Darrett Highwater]], Becklin's squire, sleeps on the second floor, and Becklin has the bare room at the top. A ladder goes to the roof, where **Than**, the village's tinker gnome, has built a **gnomeflinger**. It launches people. Becklin tolerates the dawn tinkering because it might deter attackers.
 - **High Hill.** A mile north. Legend says the spirits of the fallen knights haunt it and watch over the town.
 - **The Mercenary Camp.** A mile past High Hill on the north road. [[Cudgel Ironsmile]] brought the **Ironclad Regiment** here a week ago for Ispin's funeral, with her lieutenants [[Gragonis]] and [[Jeyev Veldrews]] and several dozen mercenaries. They drill by day, keep to themselves at night, and have strict orders not to bother the locals.
 

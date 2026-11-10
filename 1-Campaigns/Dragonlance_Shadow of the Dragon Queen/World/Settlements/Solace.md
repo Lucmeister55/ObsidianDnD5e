@@ -9,6 +9,5 @@
 
 ## Who Knows What
 
-- **Everyone:** the tree village, if they've heard of it at all.
 - **Travellers:** the Inn of the Last Home's spiced potatoes.
 - **Dragon Army officers:** that it's on the march route.

@@ -8,7 +8,7 @@ tags:
 
 > [!companion] Source: **Monster Loot: Dragonlance** by Anne Gregersen ([[1315435-Monster_Loot_-_Dragonlance.pdf]], DMs Guild), with **Homebrew** campaign hooks.
 
-**The point:** monsters leave something behind worth taking, and someone in the party knows how to take it. It's most interesting for [[Aeltharion Caladon (Thorn)|Thorn]] (a hunter who wastes nothing) and [[Milo Geartickle|Milo]] (a tinkerer who can't leave a strange part alone), and it gives the Wastes a second source of food. Every encounter in the chapter notes lists what it yields.
+Monsters leave parts worth taking, mostly for [[Aeltharion Caladon (Thorn)|Thorn]] and [[Milo Geartickle|Milo]], and food in the Wastes. Every encounter in the chapters lists its yield.
 
 ## Harvesting
 
@@ -32,12 +32,12 @@ tags:
 
 > [!homebrew] Source: **Homebrew**.
 
-- **Rations count as Supply** ([[4.99 Survival Rules]]). One ration is 1 Supply. A dragonnel is 2d6 Supply. A purple worm feeds an army.
-- **The draconian problem.** Draconians turn to stone, acid or fire when they die, so there's nothing to harvest from their bodies, only the gear they carried. A draconian knocked out with a club ([[Combat Extras#Where Each Weapon Shines]]) can be questioned instead.
+- **Rations count as Supply**, and land beasts also give Water ([[4.99 Survival Rules#Finding Food and Water]]).
+- **The draconian problem.** Dead draconians leave only their gear. A knocked-out one can be questioned ([[Combat Extras#Where Each Weapon Shines]]).
 - **Who crafts:**
-  - **In Kalaman:** the **Hammerstrike Forges** (Kadmos for armour, Tiria for weapons). A crafting job runs during downtime, while the party does other things. Guilds at Trusted: 10% off.
+  - **In Kalaman:** the **Hammerstrike Forges** (Kadmos for armour, Tiria for weapons). Jobs run during downtime. Guilds Trusted: 10% off.
   - **Tatina Rookledust** for anything mechanical, and anything from an Istarian drone.
-  - **In the Wastes:** **Grasha Migan** at Bluemaw Cave and **End Pike** at Heart's Hollow. Neither has the gear for months-long jobs, but either can turn a hide into armour or a claw into a dagger.
+  - **In the Wastes:** **Grasha Migan** at Bluemaw Cave and **End Pike** at Heart's Hollow. Short jobs only: a hide into armour, a claw into a dagger.
 - **Thorn** harvests with advantage, and he always buries what's left (his rite). He's the obvious one to make **ammunition**: anhkolox spikes and dragon teeth make arrows his bow will remember.
 - **Milo** gets the strange parts. An **Istarian drone eye** is the best thing in this list for them: crafted into an *eye of enhanced seeing* (30 ft blindsight), or, homebrew, fitted into their own drone as a free upgrade.
 - **Wurm** wants nothing from a dragon. Let him say so the first time someone cuts one open.
@@ -48,7 +48,7 @@ tags:
 
 | Item | From | Needs | Cost and time | Where it drops |
 |---|---|---|---|---|
-| **Bag of holding** | Spirit cloth | 1 | 200 gp, 14 days | Wraiths and ghosts. **Not before the Wastes** (homebrew): Caradoc leaves nothing behind, and there are no ghosts in Storm Clouds, so the first spirit cloth is at Wakenreth, and nobody in the Wastes can craft it. It can only be made back in Kalaman, after the trek. |
+| **Bag of holding** | Spirit cloth | 1 | 200 gp, 14 days | Wraiths and ghosts. **Not before the Wastes** (homebrew): the first spirit cloth is at Wakenreth, and only Kalaman can craft it, after the trek. |
 | **Boots of striding and springing** | Bulette feet | 2 | 200 gp, 14 days | The bulette at Camp Carrionclay |
 | **Plate or half plate** | Bulette plated hide, or 2 purple worm plates, or 2 treant bark plates | as listed | 1,500 gp / 750 gp, 5 / 4 days | Carrionclay, the Wastes, Duskwalker |
 | **Half plate** | Giant scorpion hide | 1 | 1,200 gp, 5 days | Wastes predators |
@@ -74,6 +74,6 @@ tags:
 
 ## Things to Watch
 
-- Does anyone actually stop to harvest, or does it slow the game down? If it drags, make it a single roll after the fight, with the time spent noted.
-- Is the Wastes' food supply now too easy? If hunting predators solves Supply, halve the rations.
-- Do the expensive items (60-day armour) feel like rewards, or just a list? Keep them for after the siege.
+- If harvesting drags, make it one roll after the fight, and note the time.
+- If hunting solves Supply in the Wastes, halve the rations.
+- Keep the 60-day items as rewards for after the siege.

@@ -12,6 +12,5 @@
 
 ## Who Knows What
 
-- **Everyone:** keep your hand on your purse.
 - **City watchmen and innkeepers:** that a kender rarely means it, and that shouting doesn't work.
 - **Meulara and travelling kender:** the news from every road in Ansalon, and what's happening in occupied Goodlund.

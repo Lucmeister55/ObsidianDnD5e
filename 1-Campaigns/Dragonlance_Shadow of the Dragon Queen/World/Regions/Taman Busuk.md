@@ -14,7 +14,6 @@
 
 ## Who Knows What
 
-- **Everyone:** bad country, and lately the source of bad news.
 - **Hobgoblin and ogre bands:** that the Dragon Armies offer a choice: join, or be crushed.
 - **Dragon Army officers:** the temple at Neraka, and how the highlords really get along.
 - **Only Takhisis's inner circle:** what the temple is, and what it's missing.
