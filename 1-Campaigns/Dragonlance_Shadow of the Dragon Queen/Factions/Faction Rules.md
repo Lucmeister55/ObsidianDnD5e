@@ -54,6 +54,43 @@ About **one decision in three** moves no Standing, or less than it seems, and le
 | Spare a Dragon Army prisoner | He talks to the wrong person | An ambush in the Wastes |
 | Take a guild's gift without asking its cost | A guild son owes a rival | At the siege, a barricade is thinner than it should be |
 
+## Vendors
+
+The [[Mages of High Sorcery#Wyhan's Back Room|Mages]] and [[Kalaman Guilds#Guild Services|Guilds]] sell to the party at **Trusted or better**, the [[The Firefishers#The Black Market|Firefishers]] at **+1 or better**. Some stock opens only at Honoured. The Guilds' price change applies to their services and the City Market, not to the Mages or the Firefishers.
+
+### Prices
+
+Kalaman has no magic shop. An esquire earns 5 gp a week, a labourer 2 sp a day, and magic costs years of either. These prices hold everywhere, whoever sells:
+
+| Item | Price |
+|---|---|
+| *Potion of healing* | **150 gp** |
+| Spell scroll, 1st / 2nd / 3rd level | **200 / 500 / 1,200 gp** |
+| Common magic item | **500 gp** |
+| Uncommon magic item, by commission only | **3,000 gp** |
+| Rare or better | **Never for sale** |
+
+**Where.** Only the Mages and the Firefishers ever sell magic. The City Market, foreign ships and Meulara sell curios that look magical and aren't. **A commission** is one uncommon item, named in advance, ordered through the Firefishers at Trusted. Paid up front, it arrives a downtime later. The best magic comes only from faction rewards (heirlooms, relics, signature rewards) and crafting from harvested parts ([[Harvesting and Crafting]]).
+
+**Selling magic.** Nobody honest buys it. The Firefishers pay a **quarter** of the price above, and the Mages take it "into safekeeping" for **+1 Mages** and nothing else.
+
+Gold also goes on the City Market (anything in the Player's Handbook, +50% in wartime, [[Kalaman#Harbour and Market]]), the Bastion, bribes, and Peppino's deals.
+
+## Trouble
+
+At each payday, roll a d6 for every faction at **Wary** (trouble on a 1) or **Hostile** (on 1 to 3). Run it as one of that downtime's events.
+
+| d6 | Trouble |
+|---|---|
+| 1 | **Scammed.** One purchase this downtime is fake, rotten, or never arrives. |
+| 2 | **Robbed.** Rooms or Bastion turned over: lose 2d10 × 5 gp, or one item that isn't worn. |
+| 3 | **Shaken down.** Pay 50 gp "for protection", or fight 1d4 + 2 thugs in an alley. |
+| 4 | **Beaten up.** One character, caught alone, loses their downtime activity and starts the next mission with 1 level of Exhaustion. |
+| 5 | **Sabotage.** One Bastion facility does nothing this turn, or a hireling quits. |
+| 6 | **Bad word.** A lie about the party spreads. Leave a hidden mark ([[#Hidden Consequences]]). |
+
+The Firefishers, Guilds and Smallfolk use the whole table. The Military, Knights and Mages don't stoop to it: their trouble is always a 6.
+
 ## The Big Moments
 
 The first time a faction reaches **+10**, it gives its **signature reward**. The first time it drops to **-5**, its **signature disaster** happens at once. Both are in each faction's note.
@@ -76,18 +113,20 @@ At the start of every major mission or scenario, glance down the tracks. Each fa
 
 ## Favours
 
-At **Trusted or better**, **one favour per faction per downtime**, within its power (examples in each note). Asking for something it hates costs 1 Standing, even if it agrees.
+At **Trusted or better**, **one favour per faction per downtime**, within its power (examples in each note). The Military, Smallfolk and Knights use tokens instead ([[Kalaman Military#Commendations|Commendations]], [[Kalaman Smallfolk#Goodwill|Goodwill]], [[Knights of Solamnia#Pledges|Pledges]]). Asking for something it hates costs 1 Standing, even if it agrees.
 
 ## Dividends
 
 | Faction | Horizon | Pays out |
 |---|---|---|
-| [[Kalaman Guilds]] | **Short** | Every downtime until the council massacre, then one final dividend for the Wastes |
+| [[Kalaman Guilds]] | **Short** | Patronage every week until the council massacre, then a send-off of heirlooms and gear for the Wastes |
 | [[The Firefishers]] | **Short** | Every downtime, to the end |
-| [[Kalaman Smallfolk]] | **Mixed** | A little every downtime, and in the siege |
+| [[Kalaman Smallfolk]] | **Short** | Goodwill every downtime |
 | [[Mages of High Sorcery]] | **Mixed** | A little every downtime, and for the Wastes |
-| [[Kalaman Military]] | **Long** | In the siege |
-| [[Knights of Solamnia]] | **Long** | In the siege |
+| [[Kalaman Military]] | **Long** | Commendations and kit every downtime, Morale in every battle |
+| [[Knights of Solamnia]] | **Long** | Pledges and relics every downtime, reinforcements from Maelgoth in the siege |
+
+**Paydays.** Band rewards are read at fixed points: the start of each downtime, each mission check-in, the Wastes send-off and the start of the siege. What's paid stays paid, so a dip in Standing between paydays costs nothing, and a climb back is rewarded at the next one.
 
 Supply and Water are defined in [[4.99 Survival Rules#Supply and Water]].
 

@@ -14,12 +14,12 @@ tags:
 > [!abstract] Milo Geartickle
 > **Tinkerer** · **Fearless** · **Just Browsing**
 > 
-> - **You are** a 31-year-old kender rogue from Kendermore, a wanderer, tinkerer and self-appointed archaeologist who rescues relics for "safekeeping".
-> - **You were** in a kender resistance band until it got boring. Since then you've wandered Ansalon "borrowing" things, learned machines from a dwarf and a gnome, and saw a bronze dragon in the Northern Wastes that nobody believes in. A little drone you found up north follows you everywhere, and no one can tell you what it is. You also wear an iron ring that won't come off, and as far as you can tell, it won't let you die.
-> - **Now** you've come to Vogler because the famous Ispin Greenshield's shield is here, and you'd very much like to hold it.
-> - **You love** relics, old stories, locks, gadgets, and anything you haven't seen before.
-> - **You can't stand** closed doors, boredom, people who won't let you look, and the Dragonarmies, who are smashing up every ancient ruin they can find.
-> - **Play them** cheerful, nosy and genuinely fearless. Ask too many questions, pocket interesting things without thinking about it, and jump from one mad idea to the next. Every so often, one of them is brilliant.
+> - **You are** Milo Geartickle, 31, kender, tinkerer and self-appointed archaeologist. You don't steal relics. You rescue them, for safekeeping, indefinitely.
+> - **You were** in a kender resistance band until it got boring. Since then it's been Solamnia, a gnome's workshop, a great many locked doors, and a bronze dragon in the Northern Wastes that nobody believes you saw. A little drone followed you home from up there, and nobody can tell you what it is. You also wear an iron ring that won't come off. As far as you can tell, it won't let you die either. You've checked.
+> - **Now** you're in Vogler, because the famous Ispin Greenshield's shield is here, and you would very much like to hold it.
+> - **You love** relics, old stories, locks, gadgets, and anything you haven't seen yet.
+> - **You can't stand** closed doors, boredom, people who won't let you look, and the Dragonarmies, who melt down ruins older than their grandmothers' grandmothers for scrap.
+> - **Play them** cheerful, nosy and fearless. Ask too many questions, pocket things without noticing, and have one mad idea after another. Every so often, one of them is brilliant.
 
 ## Appearance
 

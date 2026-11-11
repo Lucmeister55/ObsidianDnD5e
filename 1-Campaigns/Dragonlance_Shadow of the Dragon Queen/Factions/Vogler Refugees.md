@@ -23,9 +23,9 @@ Pay this once, at the end of 16 Brookgreen, after the council. Then stop using t
 
 | Final Standing | What they do | Smallfolk starts at |
 |---|---|---|
-| **+3** | The Vogler fighters put themselves under the party's word as well as Vendri's, and the fishermen land **5 Supply** of dried fish at the Bastion. A free Bastion hireling. | **+2** |
-| **+1, +2** | **3 Supply** of dried fish, and a free Bastion hireling. | **+1** |
-| **0** | Grateful and tired. A free Bastion hireling. | **0** |
+| **+3** | **2 [[Kalaman Smallfolk#Goodwill\|Goodwill]]**, and the Vogler fighters answer to the party's word as well as Vendri's. | **+2** |
+| **+1, +2** | **1 Goodwill**. | **+1** |
+| **0** | Grateful and tired. Nothing more. | **0** |
 | **-1 or lower** | The camps tell the city what happened on the Vogler road. | **-1** |
 
 ## After That
@@ -33,4 +33,4 @@ Pay this once, at the end of 16 Brookgreen, after the council. Then stop using t
 They stop being a separate number:
 - Later changes to the refugees are **Smallfolk** changes. The camps and the lower city share a bread queue, and news travels both ways.
 - The **Spokesperson** stays a voice in the story ([[3.02 Downtime 1]]), and speaks for the camps in [[Kalaman Smallfolk]].
-- Their militia, boats and dried fish are in the [[Kalaman Smallfolk]] table now.
+- Their militia and boats are in the [[Kalaman Smallfolk]] table now.

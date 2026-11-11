@@ -67,7 +67,10 @@ Every time the ring brings Milo back from 0 hit points, log it here. Each reviva
 1. Strays and small creatures, while Milo has no one.
 2. Animals the party has grown fond of, like a mount, a pet or the drone's favourite perch-bird.
 3. People Milo has befriended on the road, such as a villager, a soldier or a fellow kender.
-4. Finally, someone who truly matters. Pick an NPC the whole table loves, or someone tied to Milo's past like Elgo or Tatina Rookledust. Never a player character unless that player agrees.
+4. Finally, someone who truly matters. Pick an NPC the whole table loves, or someone tied to Milo's past like Elgo or Tatina Rookledust.
+5. **Out of hand: a party member.** If Milo keeps dying after step 4, and knows what the ring costs, the next life it reaches for is the PC Milo is most bound to. That character **drops to 0 hit points where they stand**, wherever they are, and starts making death saves. The party can still save them, but if they fail, they're dead for real, and the ring has made Milo whole again. Offer a [[Last Stands|Last Stand]]. It happens at most once, and the whole table should feel it coming: a PC who feels cold whenever Milo goes down, a nosebleed, the drone turning to stare at them.
+
+**The table has to agree** to step 5 in advance. At [[Session 1.5]], say only that some characters' magic can endanger the people around them, up to a player character's death, and ask whether everyone is fine with that. If anyone isn't, the ring stops at step 4.
 
 **The log so far:**
 - **High Hill** (prologue): beheaded by a mercenary's axe, and grows a new head on their next turn. The price: a kingfisher, dead out of the tree above.

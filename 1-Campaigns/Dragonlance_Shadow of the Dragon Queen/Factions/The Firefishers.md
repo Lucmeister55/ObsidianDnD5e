@@ -24,11 +24,23 @@ Kalaman's dockside underworld: smugglers, loan sharks, card rooms and protection
 
 | Band | How they treat you | Each downtime | In the siege |
 |---|---|---|---|
-| **Honoured** (+6 to +10) | "Friends of the family." Doors open, and bills get lost. | One black-market purchase at cost, and one secret. | Mister Fettuccini's [[Peppino Fettuccini#In Kalaman, Late|last deal]] is yours for free: the tunnels, the boats, and no sabotage. |
-| **Trusted** (+3 to +5) | They nod at you in the street. | One useful secret about a councillor or a shipment. | He offers the last deal first, at a fair price, before anything burns. |
-| **Neutral** (0 to +2) | Business is business. | Nothing. You can buy, at their prices. | The sabotage runs as written. |
-| **Wary** (-1, -2) | Prices double, and you're followed. | Nothing. | The sabotage runs as written, and they loot what they can. |
-| **Hostile** (-3 to -5) | You're a problem. | Someone goes through your rooms. | They sell a gate's watch rota to whoever's buying. |
+| **Honoured** (+6 to +10) | "Friends of the family." Doors open, and bills get lost. | One black-market purchase at cost, and one secret. | [[Peppino Fettuccini#In Kalaman, Late\|The last deal]], free: no sabotage, and the tunnels let one hero's unit enter anywhere on the Trade Gate board on round 2. |
+| **Trusted** (+3 to +5) | They nod at you in the street. | One useful secret about a councillor or a shipment. | The last deal is offered first, for **500 gp**. |
+| **Neutral** (0 to +2) | Business is business. | Nothing. | **One** sabotage. |
+| **Wary** (-1, -2) | Prices double, and you're followed. | Nothing. | **Two** sabotages. |
+| **Hostile** (-3 to -5) | You're a problem. | [[Faction Rules#Trouble\|Trouble]] on 1 to 3. | **Two** sabotages, and they sell the watch rota: **+1 Dragon Army Soldiers** unit at the Trade Gate. |
+
+## The Black Market
+
+At **+1 or better** ([[Faction Rules#Vendors]]), off the books and no questions. Mundane goods are **25% under** the City Market's war price; magic is at [[Faction Rules#Prices|full price]].
+- Anything in the Player's Handbook, including what the war has made scarce: horses, steel, arrows.
+- Poisons, thieves' tools, disguise kits.
+- Forged papers: a pass through one gate or patrol (**25 gp**), a false name on a ship's list (**50 gp**).
+- *Potion of healing* (**150 gp**).
+- One common magic item a downtime, "found in the bay" (**500 gp**).
+- At Trusted, a **commission**: one uncommon item, named in advance, lifted from a guild vault or a wreck (**3,000 gp** up front, arriving next downtime, and **-1 Guilds** if that guild ever sees it). One at a time.
+
+**Hot goods.** Roll a d6 for each purchase: on a 1, it's someone's, and they want it back. Buying here isn't a deal for Standing ([[Peppino Fettuccini#Doing Business]]).
 
 **Mission perk (Trusted+):** a smuggler's route that avoids the checkpoints, or a forged pass that gets the party through one gate or patrol without a check.
 **Mission complication (Hostile):** someone told the enemy which road you're taking, and got paid for it.

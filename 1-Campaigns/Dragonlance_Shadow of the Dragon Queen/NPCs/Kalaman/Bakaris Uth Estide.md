@@ -47,7 +47,7 @@ He blusters and then folds, or backs down the moment someone stands up to him (D
 | Faction | If there's proof | If there's only suspicion |
 |---|---|---|
 | [[Kalaman Guilds]] | -3. They backed him. | -1 |
-| [[Kalaman Military]] | -2. Vendri adds a murder charge to the file, and won't burn it this act. | -1. Vendri asks them once, to their face, and remembers the answer. |
+| [[Kalaman Military]] | -2. Vendri adds a murder charge to the file. | -1. Vendri asks them once, to their face, and remembers the answer. |
 | [[Knights of Solamnia]] | -2. A knight PC's friends murder lords in their beds. | No change |
 | [[Kalaman Smallfolk]] | +1, quietly | +1, quietly |
 

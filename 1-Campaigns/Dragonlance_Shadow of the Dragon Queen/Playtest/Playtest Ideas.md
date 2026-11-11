@@ -18,6 +18,7 @@ Run each for two or three sessions, ask its "Things to Watch" questions, then ke
 | **Scrolls and Quick Items** | Not yet tested | [[Combat Extras#Scrolls and Quick Items\|Scrolls and Quick Items]] |
 | **Skirmish Battles** | Not yet tested | [[Skirmish Battles]] |
 | **Harvesting and Crafting** | Not yet tested | [[Harvesting and Crafting]] |
+| **Bloodied and Bruised** | Not yet tested | [[Bloodied and Bruised]] |
 | **One-Turn Resolution** | Not yet tested | [[One-Turn Resolution]] |
 | **Last Stands** | Not yet tested | [[Last Stands]] |
 | **Infiltrations** | Not yet tested | [[Infiltrations]] |
@@ -42,6 +43,7 @@ Run each for two or three sessions, ask its "Things to Watch" questions, then ke
 | 9 | **Mission 1: Rookledust** | **Mission check-ins** and the **Weapon Triangle** | The goblins are all blades: let someone notice the polearm edge. |
 | 10 | **Downtime 2** | **The Bastion** and **Working a Faction** | Both are on the same downtime list. |
 | 11 | **Mission 2 or 3** | **Combo Attacks** | Hint with a pairing. |
+| 11b | **Mission 2: the wight** ([[3.05 Mission 2 - Ambushing the Enemy]]) | **Bloodied** | Say "it's Bloodied" out loud, and let the wight's retreat show what that means. |
 | 12 | **Mission 3: the Blockade** | **Supply** (the stolen food) | The word only. No rules yet. |
 | 12b | **Mission 4: Missing Scouts** | **Harvesting and Crafting** | The wyrmlings are the first kill worth taking apart, crafted at the Hammerstrike Forges in Downtime 5. |
 | 12c | **Mission 5: Wheelwatch** ([[3.11 Mission 5 - Wheelwatch Outpost]]) | **Infiltrations** | Too big to fight, horns to silence, a gate to open. Explain the plan and Stress only. |

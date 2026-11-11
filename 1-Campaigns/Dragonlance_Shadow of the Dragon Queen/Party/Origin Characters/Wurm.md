@@ -14,12 +14,12 @@ tags:
 > [!abstract] Wurm
 > **Feral** · **Chosen** · **Groomed**
 > 
-> - **You are** Wurm, a 53-year-old black-scaled dragonborn and the slave of the Bakaris family.
-> - **You were** pulled from a river as a hatchling, worshipped and locked up by a cult of Paladine, then sold to the Bakarises when the cult fell. The only kindness you ever knew was an elf lady, whose name you never learned, who taught you a few words and folded you paper kingfishers. One day she was taken away, and you're sure they killed her.
-> - **Now** you've just died on High Hill. A great grey dragon came to you in a vision and sent you back. Your eyes burn with light, and a voice told you to kill them all.
-> - **You love** stories, paper kingfishers, the memory of the elf lady, and anyone who treats you as a person.
-> - **You can't stand** chains, orders, and the Bakarises (though you've never dared to show it).
-> - **Play him** quiet and submissive out of long habit, eyes down, obeying before he's told. But something new is burning under the surface, and when it breaks loose it is terrifying.
+> - **You are** Wurm, 53, a black-scaled dragonborn, and the property of the Bakaris family. There's a contract. They like showing it to people.
+> - **You were** fished out of a river as a hatchling, worshipped and locked in a room by a cult of Paladine, then sold to the Bakarises like an ox when the cult fell. The only kind person you ever knew was an elf lady who taught you a few words and folded you paper kingfishers. You never learned her name. One day she stopped coming, and you're sure they killed her.
+> - **Now** you've just died on High Hill. A great grey dragon came to you in the dark and sent you back. Your eyes are burning, and a voice is telling you to kill them all.
+> - **You love** stories, paper kingfishers, the elf lady, and anyone who treats you like a person. It's a short list.
+> - **You can't stand** chains, orders, and the Bakarises, though you've never once let it show.
+> - **Play him** quiet and submissive out of long habit, eyes down, obeying before he's told. But something new is burning under the surface, and when it gets out, it's terrifying.
 
 ## Appearance
 

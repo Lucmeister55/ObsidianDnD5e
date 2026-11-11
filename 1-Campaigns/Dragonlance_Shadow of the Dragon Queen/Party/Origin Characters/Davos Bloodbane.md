@@ -9,17 +9,17 @@ tags:
   - player-facing
 ---
 
-![[1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Party/Origin Characters/Portraits/Davos.jpg]]
+![[1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Party/Origin Characters/Portraits/Davos.png]]
 
 > [!abstract] Davos Bloodbane
 > **Gifted** · **Cheats** · **AWOOOOOO**
 > 
-> - **You are** a 19-year-old human sorcerer from the slums of Relgoth, and the eldest of three.
-> - **You were** a con artist posing as a hedge-mage in stolen robes, selling fake charms, until a guard caught you, and magic you never knew you had tore loose under a full black moon and killed him. The Mages of High Sorcery saved you from the gallows, and now they own your future. Your hair changes colour with the moons and your mood.
-> - **Now** you've passed your first trial and carry a sealed scroll to a mage in Kalaman. You're stuck in Vogler waiting for a ferry, and there are Solamnic Knights in town worth impressing.
-> - **You love** your family, who live on the wages you send home, and the power you're finally starting to hold.
-> - **You can't stand** nobles, officials, and anyone who preaches honour from a full belly.
-> - **Play him** sharp, charming and cynical. Always read the room and work the angle. You keep a lid on your temper until someone pushes, and then the moons answer.
+> - **You are** Davos Bloodbane, 19, human sorcerer, eldest of three, from the wrong side of Relgoth's walls.
+> - **You were** a con man in stolen wizard's robes, selling painted tin as lucky charms. Then a guard caught you, a black moon nobody else could see looked down, and the guard died in the street. You'd never cast a spell in your life. The Mages of High Sorcery kept you off the gallows, and they've owned you ever since. Your hair hasn't been the same colour two days running since that night.
+> - **Now** you're carrying a sealed scroll to a mage in Kalaman, and you're stuck in Vogler waiting on a ferry. There are knights in town. Knights have money, and they're terrible at cards.
+> - **You love** your mother, brother and sister, who live on the wages you send home. And, if you're honest, the power.
+> - **You can't stand** nobles, officials, and anyone who preaches honour on a full stomach.
+> - **Play him** sharp, charming and always working an angle. Keep a lid on the temper until someone pushes, and then the moons answer.
 
 ## Appearance
 

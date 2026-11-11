@@ -91,8 +91,7 @@ So each of them is held by all the others, whether they like it or not. Standing
 
 **4. From coerced to chosen.**
 - **At the Trial,** Bakaris drags the file out as proof that "they ran before" ([[4.01 The Trial#The Charges]]).
-- **At Trusted with the Military**, or once the Bakaris contract is dealt with ([[3.08 Downtime 4]]), Vendri burns the file in front of them: "You were never deserters. I needed you." From then on they're free to go. The point is that they stay.
-- **At the end,** the honourable discharge is a handout in the RPGPrintables pack.
+- **Vendri never burns it** for Standing, favours or a cleared charge. Only saving Kalaman does: after the battle, if they helped win it, she burns it in front of them ("You were never deserters. I needed you.") and hands over the honourable discharge (a handout in the RPGPrintables pack, [[6.07 Kalaman Victorious]]).
 
 **Every character needs the company for something of their own,** on top of the file.
 
@@ -143,7 +142,7 @@ Origin characters can die, and the chapters are written so that losing one doesn
 | Thread | If the character is gone |
 |---|---|
 | **Ispin's shield** (Edric) | It passes to whoever Edric gives it to, as his Last Stand Bequest, or to Darrett. It still holds back the Cataclysm fire in the citadel, for whoever carries it. Soth still wants it destroyed. |
-| **The leak to Takhisis** (Wurm) | It ends with him. If you still want the Wastes ambush, the spy is [[Jeyev Veldrews|Jeyev]] or Caradoc instead. |
+| **The leak to Takhisis** (Wurm) | It ends with him. If you still want the Wastes ambush, the spy is [[Jeyev Veldrews\|Jeyev]] or Caradoc instead. |
 | **The ring and the drone** (Milo) | The drone stays with the party and still leads them home to Onyari. The ring goes back to the forge in M8, or into Demelin's hands. |
 | **The Test of High Sorcery** (Davos) | Optional anyway. Offer it to any other caster. |
 | **Silvanesti and the Orb shard** (Thorn) | Zhelsuel and Dalamar run as the module has them. |

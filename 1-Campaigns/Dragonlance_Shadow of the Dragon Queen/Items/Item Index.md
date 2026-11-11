@@ -5,15 +5,15 @@
 
 ## Character Items
 
-| Item | Who | What it does | Rules |
-|---|---|---|---|
-| **Old Moss** (Ispin's shield) | Edric | Stage 1: +1 shield, unburnt, undead can't hold it. Stage 2 (Temple of Paladine): Shield of the Cavalier with **Through the Flames** (fire resistance, immune to Cataclysm fire). | [[Ser Edric of Brackenridge (DM)#Ispin's Shield]] |
-| **Edric's banner** | Edric | Allies who see it have advantage on their next save against fear when he rallies. | [[Ser Edric of Brackenridge (DM)#Downtime: Raising a Company]] (progress 6) |
-| **The iron ring** | Milo | Won't come off, and won't let them die: a life for a life. | [[Milo Geartickle#The Iron Ring]], [[Milo Geartickle (DM)]] |
-| **The Istarian drone** | Milo | Upgrades unlock through tinkering (lantern, Help action, and more). | [[Milo Geartickle (DM)#Drone Tinkering]] |
-| **Thorn's yew bow** | Thorn | Counts as magic for overcoming resistance. | [[Aeltharion Caladon (Thorn) (DM)#Downtime: The Grove]] (progress 2) |
-| **The silver mirror** | Wurm | From the old man, "for when you want to see who's really looking". Works like the mirror of reflected pasts against Soth. | [[Wurm (DM)]], [[6.06 The Flying Citadel]] |
-| **Radiant greatsword** | Wurm | Replaces his dragon-bone axe if he rejects Takhisis. | [[Wurm (DM)#Arc]], [[6.06 The Flying Citadel#Clash of Fallen Flames]] |
+| Item                          | Who   | What it does                                                                                                                                                                     | Rules                                                                       |
+| ----------------------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| **Old Moss** (Ispin's shield) | Edric | Stage 1: +1 shield, unburnt, undead can't hold it. Stage 2 (Temple of Paladine): Shield of the Cavalier with **Through the Flames** (fire resistance, immune to Cataclysm fire). | [[Ser Edric of Brackenridge (DM)#Ispin's Shield]]                           |
+| **Edric's banner**            | Edric | Allies who see it have advantage on their next save against fear when he rallies.                                                                                                | [[Ser Edric of Brackenridge (DM)#Downtime: Raising a Company]] (progress 6) |
+| **The iron ring**             | Milo  | Won't come off, and won't let them die: a life for a life.                                                                                                                       | [[Milo Geartickle#The Iron Ring]], [[Milo Geartickle (DM)]]                 |
+| **The Istarian drone**        | Milo  | Upgrades unlock through tinkering (lantern, Help action, and more).                                                                                                              | [[Milo Geartickle (DM)#Drone Tinkering]]                                    |
+| **Thorn's yew bow**           | Thorn | Counts as magic for overcoming resistance.                                                                                                                                       | [[Aeltharion Caladon (Thorn) (DM)#Downtime: The Grove]] (progress 2)        |
+| **The silver mirror**         | Wurm  | From the old man, "for when you want to see who's really looking". Works like the mirror of reflected pasts against Soth.                                                        | [[Wurm (DM)]], [[6.06 The Flying Citadel]]                                  |
+| **Radiant greatsword**        | Wurm  | Replaces his dragon-bone axe if he rejects Takhisis.                                                                                                                             | [[Wurm (DM)#Arc]], [[6.06 The Flying Citadel#Clash of Fallen Flames]]       |
 
 ## NPC Items
 
@@ -24,12 +24,13 @@
 
 ## Faction Rewards
 
-| Item | From | What it does | Rules |
-|---|---|---|---|
-| **Istarian heirlooms** | Guilds (Honoured, once per act) | One uncommon item on loan, plus a rare one at +10. Each is a favour owed. -1 Mages if Wyhan learns it was kept from the Order. | [[Kalaman Guilds#By Band]], [[Kalaman Guilds#Old Money]] |
-| **The Order's war banner** | Knights (+10) | Once per battle, allies within 60 feet auto-succeed on saves against fear, even against Soth. | [[Knights of Solamnia]] |
-| **Tower vault item** | Mages (+10) | One rare item, lent under the Order's laws. The Conclave can recall it. | [[Mages of High Sorcery]] |
-| **Expedition gear** | Guilds | Gnomish still (2 Water a day while the Wash is high), the Cartographers' map (advantage on navigation), mule or pack sled (300 lb). | [[4.99 Survival Rules#Ways the Party Can Fight Back]] |
+| Item                       | From                                          | What it does                                                                                                                                                                                                                                            | Rules                                                 |
+| -------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| **Istarian heirlooms**     | Guilds send-off (Trusted 1, Honoured 2)       | Alchemy jug, gauntlets of ogre power, boots of striding and springing, cloak of the manta ray, rope of climbing, eyes of the eagle. At +10, Daern's instant fortress or the ivory goats. On loan; -1 Mages if Wyhan learns one was kept from the Order. | [[Kalaman Guilds#Heirlooms]]                          |
+| **Solamnic relics**        | Knights (Trusted 1, Honoured 3 with one rare) | Martial arms: +1 weapon or shield, sentinel shield, weapon of warning, mithral or adamantine armour, javelin of lightning. Rare: mace of disruption, dragon slayer, sun blade, +1 plate.                                                                | [[Knights of Solamnia#Relics]]                        |
+| **The Order's war banner** | Knights (+10)                                 | Once per battle, allies within 60 feet auto-succeed on saves against fear, even against Soth.                                                                                                                                                           | [[Knights of Solamnia]]                               |
+| **Tower vault item**       | Mages (+10)                                   | One rare item, lent under the Order's laws. The Conclave can recall it.                                                                                                                                                                                 | [[Mages of High Sorcery]]                             |
+| **Expedition gear**        | Guilds                                        | Gnomish still (2 Water a day while the Wash is high), the Cartographers' map (advantage on navigation), mule or pack sled (300 lb).                                                                                                                     | [[4.99 Survival Rules#Ways the Party Can Fight Back]] |
 
 ## Found in the Wastes
 
@@ -317,5 +318,3 @@ dv.table(
     rows.sort((a, b) => a[0].localeCompare(b[0]))
 );
 ```
-
-

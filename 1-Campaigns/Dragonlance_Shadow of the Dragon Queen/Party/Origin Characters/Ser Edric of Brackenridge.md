@@ -14,12 +14,12 @@ tags:
 > [!abstract] Ser Edric of Brackenridge
 > **Vanguard** · **Unforgiven** · **Horse Girl**
 > 
-> - **You are** a 26-year-old human Knight of the Crown, knighted only weeks ago.
-> - **You were** orphaned at twelve when Khur raiders burned your village. Ser Ispin Greenshield freed you from the slavers and took you on as his squire. You spent the next fourteen years on the road with him.
-> - **Now** Ispin is dead, supposedly killed by a beast near Vogler. Neither you nor Becklin believes it, so you've come to help her escort two nobles home to Vogler, for his funeral and for answers.
-> - **You love** horses (especially your scarred, bad-tempered steppe mare), the people who depend on you, and the Knights' ideals.
-> - **You can't stand** cruelty to the helpless, and the silence of gods who let it happen.
-> - **Play him** calm, steady and reassuring, the one holding the group together. Inside, you doubt you deserve the spurs.
+> - **You are** Ser Edric of Brackenridge, 26, human, and a Knight of the Crown for all of a few weeks. The spurs still squeak.
+> - **You were** twelve when Khur raiders burned your village and roped you up for the slave markets. Ser Ispin Greenshield cut you loose, told you no when you asked to be his squire, and gave up a week later. You spent the next fourteen years on the road with him, doing the cooking, because he couldn't.
+> - **Now** Ispin is dead. A beast near Vogler, they say. Neither you nor Becklin believes it, so you've volunteered to escort two insufferable nobles home to Vogler, for his funeral and for answers.
+> - **You love** horses, above all the scarred, bad-tempered steppe mare who won't let anyone else near her. Also the people who depend on you, and the Knights' ideals, on a good day.
+> - **You can't stand** cruelty to the helpless, and gods who stay quiet while it happens.
+> - **Play him** calm, steady and reassuring, the one who holds everyone together. Inside, you're not sure you deserve the spurs.
 
 ## Appearance
 

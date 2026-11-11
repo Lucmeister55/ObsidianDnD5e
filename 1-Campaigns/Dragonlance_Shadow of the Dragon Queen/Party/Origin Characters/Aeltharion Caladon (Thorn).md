@@ -14,12 +14,12 @@ tags:
 > [!abstract] Thorn
 > **Stalker** · **Nameless** · **Bites**
 > 
-> - **You are** Thorn, a 66-year-old Silvanesti elf ranger, scarred, half-blind and lame in one leg.
-> - **You were** a singer, a poet and a powerful archmage in Silvanost. You stayed when others fled, and watched sorcery destroy your homeland. Then the Dragonarmies took you captive and dragged you from camp to camp for months, and somewhere in that misery you tore your own magic out of yourself.
-> - **Now** you've just escaped the Red Dragon Army's camp west of Vogler. You killed the draconians who chased you with your bare hands, and you've stumbled out of the woods straight into a battle.
-> - **You love** killing draconians, more than you'd ever admit. Underneath, you still love music, poetry, and the old, deep study of how the world is woven together, but you won't let anyone see it.
-> - **You can't stand** dragons, draconians (kapaks most of all, the only thing that still frightens you), and arcane magic in any form, from sorcerers and wizards to enchanted trinkets.
-> - **Play him** silent, watchful and cold, always checking for exits and threats. Around dragonkin, your rage takes over. Sometimes, when you think you're alone, you still hum. You never tell anyone you were a prince.
+> - **You are** Thorn, 66, a Silvanesti elf ranger, half-blind, lame in one leg, and in no mood.
+> - **You were** a singer, a poet and an archmage of Silvanost, once. You stayed when your people fled, and watched sorcery tear your homeland apart. Then the Dragonarmies dragged you from camp to camp for months, and somewhere along the way you ripped the magic out of yourself. You don't miss it. You tell yourself that a lot.
+> - **Now** you've just broken out of the Red Dragon Army's camp west of Vogler. The draconians who came after you are dead, and you didn't need a weapon. Then you heard steel through the trees.
+> - **You love** killing draconians, more than you'll ever admit. Under that there's still music, poetry and the old study of how the world is put together, and nobody gets to see that part.
+> - **You can't stand** dragons, draconians, and magic in any form. Kapaks most of all, the only thing that still frightens you.
+> - **Play him** silent, watchful and cold, always eyeing the exits. Around dragonkin, the rage takes over. When you think you're alone, you hum. You never tell anyone you were a prince.
 
 ## Appearance
 

@@ -79,10 +79,10 @@ Vinhollow dies in Soth's massacre and the money stops. Days later a door opens i
 **"Not in front of him."** The first time he's in a room with the dragonborn PC, the colour goes out of his scales and he puts out his cigar: "Your friend waits outside, with respect, or we got nothing to talk about." Pushed: "I got a feeling about him. In my business, you listen to your feelings." He never shares a room with him again.
 
 **The sabotage.** He does what he's told and no more. Before the siege, unless the party stops him, pick one or two:
-- The Firefishers empty an arsenal, and the walls run short of bolts.
-- A cistern sluice is left open, and kapaks come up under the lower city (under the Cistern House, if that's the Bastion).
-- The harbour boats are cut loose on the night they're needed.
-- He calls in the party's favours at the worst moment.
+- **The arsenal:** the Trade Gate's ballista has no bolts.
+- **The sluice:** a cistern is left open, and **+1 Kapaks** unit comes up inside the walls at the Trade Gate (under the Cistern House, if that's the Bastion).
+- **The boats:** cut loose. No boats for the siege, and no Goodwill boat rides.
+- **The favours:** he calls them in. The party loses **2 tokens** of its choice (Commendations, Goodwill or Pledges).
 
 The party can trace it to the Firefishers, but never gets more out of him than "business".
 

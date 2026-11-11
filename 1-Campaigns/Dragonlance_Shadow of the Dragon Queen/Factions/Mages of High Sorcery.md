@@ -22,16 +22,36 @@ The White, Red and Black Robes stand apart from the wars of kings and care who u
 
 | Band | How they treat you | Each downtime | When leaving for the Wastes |
 |---|---|---|---|
-| **Honoured** (+6 to +10) | They share secrets no one outside a Tower should know. | One spell scroll of up to 3rd level, and they'll identify anything you bring them and tell you what it's really for. | A *decanter of endless water*, and a scrying of the route to the City of Lost Names. |
-| **Trusted** (+3 to +5) | Wyhan opens her back room. | Free identification, components at cost, and one spell scroll of up to 2nd level. | **Two** scrolls of *create food and water*. |
-| **Neutral** (0 to +2) | Wyhan answers questions, mostly. | One item identified for free. | **One** scroll of *create food and water*. |
+| **Honoured** (+6 to +10) | They share secrets no one outside a Tower should know. | **One scroll from each list**, and they tell you what any item you bring them is really for. | A *decanter of endless water*, and a scrying of the route to the City of Lost Names. |
+| **Trusted** (+3 to +5) | Wyhan opens her back room. | **One 2nd-level** and **one 1st-level** scroll, and components at cost. | **Two** scrolls of *create food and water*. |
+| **Neutral** (0 to +2) | Wyhan answers questions, mostly. | **One 1st-level** scroll. | **One** scroll of *create food and water*. |
 | **Wary** (-1, -2) | Watched. Davos's wage is "delayed". | Nothing. | Nothing. |
 | **Hostile** (-3 to -5) | Wyhan's shop is closed to you. | Nothing. | Someone in the Order tells the Dragon Army's black robes the party is coming. |
+
+**Scrolls.** The party picks from these lists. Never *identify*: Wyhan does that herself, over tea.
+
+| Level   | Scrolls                                                                                                                |
+| ------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **1st** | *shield*, *feather fall*, *fog cloud*, *longstrider*, *sleep*, *protection from evil and good*, *comprehend languages* |
+| **2nd** | *misty step*, *invisibility*, *web*, *see invisibility*, *levitate*, *rope trick*, *darkvision*                        |
+| **3rd** | *counterspell*, *dispel magic*, *fly*, *haste*, *Leomund's tiny hut*, *water breathing*, *protection from energy*      |
+
+## Wyhan's Back Room
+
+At **Trusted or better** ([[Faction Rules#Vendors]]):
+
+| For sale | Price |
+|---|---|
+| A scroll from the lists above: 1st level / 2nd level | **200 gp** / **500 gp** |
+| A 3rd-level scroll (Honoured) | **1,200 gp** |
+| *Potion of healing* | **150 gp** |
+| A question answered: old Istar, the moons, prophecy, what a relic was made for | **50 gp** |
+| A *sending* or a scrying, done for you (Honoured) | **500 gp** |
 
 **Mission perk (Trusted+):** Wyhan hands over one *potion of healing* or one 1st-level spell scroll suited to the mission, "on loan".
 **Mission complication (Hostile):** Wyhan "forgets" to mention a magical danger she knew about.
 
-**In the siege:** at Trusted or better, one great working at the decisive moment, like a fog over the harbour, a ward on a gate or a scrying of the enemy's plan.
+**In the siege:** at **Trusted**, the Mages burn the **War Engine** before the Trade Gate fight: remove it. At **Honoured**, they also bring down the **Dragonnel Riders**: remove them too.
 
 **Signature reward (+10):** the Orders give the party a fragment of Istarian lore about Onyari, the key to entering one sealed place in the City of Lost Names without a fight. They also lend one character a **rare magic item** from a Tower's vault, chosen to suit them. It's a loan, bound by the Order's laws, and the Conclave can call it back.
 
@@ -40,7 +60,7 @@ The White, Red and Black Robes stand apart from the wars of kings and care who u
 
 ## Favours (Trusted or better)
 
-- Identify a magic item, or translate an ancient text.
+- Translate an ancient text, or say what an Istarian relic was made for.
 - A *sending*, a scrying, or one specific ritual done for you.
 - A difficult question about the moons, prophecy or old Istar answered honestly.
 - A problem made to quietly disappear.

@@ -23,9 +23,14 @@ Monsters leave parts worth taking, mostly for [[Aeltharion Caladon (Thorn)|Thorn
 
 ## Using What You Harvest
 
-- **Consumables** (glands, essences, flesh) must be treated first: **1 hour** with alchemist's supplies (potions), cook's utensils (food) or brewer's supplies (drinks), DC 5 + CR. Eaten raw, they do nothing, and the eater makes a DC 15 Constitution save or spends a turn retching.
+- **Consumables** (glands, essences, flesh) must be treated first: **1 hour** with alchemist's supplies (potions), cook's utensils (food) or brewer's supplies (drinks), DC 5 + CR (minimum 10). Eaten raw, they do nothing, and the eater makes a DC 15 Constitution save or spends a turn retching.
 - **Spell components** (arcane dust, wight hearts, flameskull eyes) are declared before the roll and used up.
 - **Ammunition tips** (teeth, spikes): anyone proficient with the weapon can fit one in **10 minutes**. Each works once.
+- **Recipes are secret.** The players get the part ("a blue wyrmling's claw"), never the table below. They learn what it makes by:
+  - showing it to an artisan (a day, free, and only for the artisan's own trade),
+  - studying it for an hour (the harvesting skill, DC 10 + CR). On a failure, nobody can study that part again until the next downtime,
+  - asking Wyhan ([[Mages of High Sorcery#Wyhan's Back Room|a question, 50 gp]]), or a night in the Knights' records for anything draconic.
+  Holding parts until they know is a fair choice, but forge time doesn't wait for them.
 - **Gear** (hides, claws, fangs, wings) has to go to an **artisan** who can craft magic items. The listed cost covers materials and the artisan's time, and the time is how long they take. Crafted gear counts as magical.
 
 ## In This Campaign
@@ -35,7 +40,7 @@ Monsters leave parts worth taking, mostly for [[Aeltharion Caladon (Thorn)|Thorn
 - **Rations count as Supply**, and land beasts also give Water ([[4.99 Survival Rules#Finding Food and Water]]).
 - **The draconian problem.** Dead draconians leave only their gear. A knocked-out one can be questioned ([[Combat Extras#Where Each Weapon Shines]]).
 - **Who crafts:**
-  - **In Kalaman:** the **Hammerstrike Forges** (Kadmos for armour, Tiria for weapons). Jobs run during downtime. Guilds Trusted: 10% off.
+  - **In Kalaman:** the **Hammerstrike Forges**: Kadmos (armour, cloaks, boots) and Tiria (weapons), **one job each at a time**, during downtime only. The Guilds' prices apply.
   - **Tatina Rookledust** for anything mechanical, and anything from an Istarian drone.
   - **In the Wastes:** **Grasha Migan** at Bluemaw Cave and **End Pike** at Heart's Hollow. Short jobs only: a hide into armour, a claw into a dagger.
 - **Thorn** harvests with advantage, and he always buries what's left (his rite). He's the obvious one to make **ammunition**: anhkolox spikes and dragon teeth make arrows his bow will remember.
@@ -44,12 +49,14 @@ Monsters leave parts worth taking, mostly for [[Aeltharion Caladon (Thorn)|Thorn
 
 ## What's Worth Crafting
 
+**What to expect** (simulated, November 2026): forge time is the limit, not parts. The wyrmlings leave about 7 weapon parts, and Tiria has time for **two** before the crossing. In the Wastes, **two or three** leathers and a stealthy cloak (if they wait 6 days, off the deadline). In the last week, each smith fits **one** job of 7 days or less: the bulette plate (1,500 gp) or a leather. The 9- and 14-day recipes from the Wastes and the city finish only after the siege, unless you give the party more time.
+
 > [!companion] Source: **Companion** (Monster Loot), filtered to the creatures in this campaign.
 
 | Item | From | Needs | Cost and time | Where it drops |
 |---|---|---|---|---|
 | **Bag of holding** | Spirit cloth | 1 | 200 gp, 14 days | Wraiths and ghosts. **Not before the Wastes** (homebrew): the first spirit cloth is at Wakenreth, and only Kalaman can craft it, after the trek. |
-| **Boots of striding and springing** | Bulette feet | 2 | 200 gp, 14 days | The bulette at Camp Carrionclay |
+| **Boots of striding and springing** | Bulette feet | 2 (it has 1d3 + 1) | 200 gp, 14 days | The bulette at Camp Carrionclay |
 | **Plate or half plate** | Bulette plated hide, or 2 purple worm plates, or 2 treant bark plates | as listed | 1,500 gp / 750 gp, 5 / 4 days | Carrionclay, the Wastes, Duskwalker |
 | **Half plate** | Giant scorpion hide | 1 | 1,200 gp, 5 days | Wastes predators |
 | **Leather or studded leather** | Dragonnel, giant octopus, giant shark, plesiosaurus, purple worm or warhorse hide | 1 | 10 / 45 gp, 2 / 3 days | Wind's End, the Wastes |
@@ -77,3 +84,5 @@ Monsters leave parts worth taking, mostly for [[Aeltharion Caladon (Thorn)|Thorn
 - If harvesting drags, make it one roll after the fight, and note the time.
 - If hunting solves Supply in the Wastes, halve the rations.
 - Keep the 60-day items as rewards for after the siege.
+- Forge time is the choice: which two wyrmling weapons, whether to wait 6 days in the Wastes for a cloak. Don't add forge time.
+- Harvest DCs follow the rule (10 + CR). The anhkolox is DC 19, so its claws are a coin flip.
