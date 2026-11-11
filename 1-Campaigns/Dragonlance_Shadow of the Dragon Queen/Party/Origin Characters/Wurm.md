@@ -12,7 +12,7 @@ tags:
 ![[Wurm.jpg]]
 
 > [!abstract] Wurm
-> **Berserker** · **Chosen** · **Sorry**
+> **Feral** · **Chosen** · **Groomed**
 > 
 > - **You are** Wurm, a 53-year-old black-scaled dragonborn and the slave of the Bakaris family.
 > - **You were** pulled from a river as a hatchling, worshipped and locked up by a cult of Paladine, then sold to the Bakarises when the cult fell. The only kindness you ever knew was an elf lady, whose name you never learned, who taught you a few words and folded you paper kingfishers. One day she was taken away, and you're sure they killed her.

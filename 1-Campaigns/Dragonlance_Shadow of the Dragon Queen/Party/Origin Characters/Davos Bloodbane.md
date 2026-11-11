@@ -9,10 +9,10 @@ tags:
   - player-facing
 ---
 
-![[1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Party/Origin Characters/Portraits/Davos.png]]
+![[1-Campaigns/Dragonlance_Shadow of the Dragon Queen/Party/Origin Characters/Portraits/Davos.jpg]]
 
 > [!abstract] Davos Bloodbane
-> **Gifted** · **Claimed** · **Cheats**
+> **Gifted** · **Cheats** · **AWOOOOOO**
 > 
 > - **You are** a 19-year-old human sorcerer from the slums of Relgoth, and the eldest of three.
 > - **You were** a con artist posing as a hedge-mage in stolen robes, selling fake charms, until a guard caught you, and magic you never knew you had tore loose under a full black moon and killed him. The Mages of High Sorcery saved you from the gallows, and now they own your future. Your hair changes colour with the moons and your mood.
