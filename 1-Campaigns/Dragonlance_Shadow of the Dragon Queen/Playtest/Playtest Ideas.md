@@ -22,7 +22,7 @@ Run each for two or three sessions, ask its "Things to Watch" questions, then ke
 | **One-Turn Resolution** | Not yet tested | [[One-Turn Resolution]] |
 | **Last Stands** | Not yet tested | [[Last Stands]] |
 | **Infiltrations** | Not yet tested | [[Infiltrations]] |
-| **Variant encumbrance** | Running all campaign | [[4.99 Survival Rules#Encumbrance]] |
+| **Variant encumbrance** | Running all campaign (food and water only count in the Wastes) | [[4.99 Survival Rules#Encumbrance]] |
 | **Faction Standing** | Starts in Vogler | [[Faction Rules]] |
 | **Warriors of Krynn** | Scenario 1 in Vogler is required. Later scenarios are optional, kept only if it works. | [[2.00 Broken Silence]] |
 
@@ -50,7 +50,7 @@ Run each for two or three sessions, ask its "Things to Watch" questions, then ke
 | 13 | **Steel Springs** | **Skirmish Battles** | The Inkwater crossing. |
 | 14 | **The catacombs** | **The Deadline** | Soth's taunt. The countdown starts in the Wastes. |
 | 15 | **The Wastes, days 1–3** ([[4.99 Survival Rules]]) | **Survival**, in stages | Day 1 Supply, Water, exhaustion. Day 2 navigation and the Wastes Day table. Day 3 the Wash and foraging. |
-| 16 | **The Wastes** | **Weapon situations** | Underwater (the Wash, the shrine) and tight spaces (Bluemaw). |
+| 16 | **The Wastes** | **Underwater combat** (PHB) | The Wash and the Blue Phoenix Shrine. |
 | 17 | **The siege** ([[6.00 Conquest]]) | **The Siege Ledger** | The payoff of every faction track. |
 
 **Last Stands** can be offered whenever a character falls. In the prologue, explain it in the moment.
@@ -63,17 +63,14 @@ Run each for two or three sessions, ask its "Things to Watch" questions, then ke
 
 | System | Target | Result | Change made |
 |---|---|---|---|
-| **Factions** | Pleasing everyone: mostly Trusted, none Honoured. Favourites: two or three Honoured, the rest Wary or Hostile. | At -3 to +5, all six were Trusted or better **87%** of the time. | Scale widened to **-5 to +10**, rival costs on almost every choice, projects cost a whole downtime. Now: everyone Trusted only about 9% of the time, and Honoured is rare without focus. |
+| **Factions** (PF2 Reputation, November 2026) | Pleasing everyone: mostly Liked, none Admired. Favourites: one or two Admired, rivals Disliked. Harder factions pay better. | Pleasing everyone: Military and Smallfolk Liked, the rest Liked about half the time, all six 4%, Admired never. Favourites: Military Admired 75%, Smallfolk 50%, both 27%, Guilds Disliked. Casual: one Admired 32%. Hated only after a brazen act. | Moved to -50 to +50 and the seven tiers. Mission results became moderate (+2); Steel Springs, the Trial and the Test major (+5); three betrayals major disservices (-5). The catacombs reward to every faction moved to the Trial (it made all six Liked 39%). |
 | **Knights and Mages** | As many chances to move as the others | About a sixth of the options of the Military or Refugees | Three more briefing options. Still worth adding Mages events. |
 | **Wastes supply** | Carry the longest water gap, Encumbered but not Heavily | About 10 days carried against gaps of about 4 | Fine. "Travel light" added. |
 | **Wastes encounters** | Near the combat budget | 13–15 random fights | Cut to 40% a day (10–12), and most are "fight or avoid" choices. |
 | **Deadline** | Some pressure on rest days | About 45 days against 25–30 needed | Left lenient on purpose. |
-| **Skirmish clashes** | 2–5 rounds | 4–6 at 4 × HP | HP cut to **3 ×**. Units no longer have disadvantage against heroes. |
+| **Skirmish clashes** | 2–5 rounds | Homebrew replaced by Trekiros's *Mass Combat Simplified* (November 2026). A clash of two full battalions takes ~7 rounds; battles end when the commanders fall. | Run as written. PCs go for the commanders. |
 | **Weapon Triangle** | Noticeable, not mandatory | +17–22% damage | Fine. |
 | **Slopes and High Ground** | Noticeable when a map has a hill, never mandatory | Ranged +2: hit chance 55% to 65% at AC 15 and +5 to hit, about **+18%** damage. Downhill charge: one extra weapon die on the first hit, about **+30%** damage that round, once. | Fine, and it works both ways. |
-| **Against fliers** (in Where Each Weapon Shines) | Bows and crossbows matter when something is in the air | +1d6 on a longbow hit (avg 3.5 on about 7.5, so **about +45%** on that hit), but only against flying or gliding targets: dragonnels, gliding kapaks, the death dragons. | Fine: situational, and the party has few fliers to shoot at. |
-| **Storm Clouds content** (re-check after new events) | As for Factions above | 39 of 45 decisions had a free gain, 11 had several. Pleasing everyone left four factions Honoured (Military about 9). | Rival costs added to 32 options, so at most one free option per decision. Pleasing everyone now averages 2.4 to 4.8, mostly Trusted, with Military or Refugees sometimes Honoured. |
-| **Factions after the fold** (Refugees closed, Firefishers added) | Convicts can't please everyone. Harder factions pay better. | Pleasing everyone: Military 4.7, Smallfolk 4.1, Knights 2.9, Guilds 2.5, Firefishers 2.3, Mages 2.3. All six Trusted 7%. Favourites: two at +10, Guilds at -5. Casual: Smallfolk Honoured 82%, Guilds below 0 77%. | Left uneven on purpose. Knights and Mages signature rewards raised, Mages Trusted gets a scroll, three Smallfolk options got a cost. |
 | **Wastes and factions** (Nov 2026) | Capacity is the limit. Kalaman choices should change the trek | No help: dry 2–4 days on a short route. Siege-focused: about 6. With mules, map, still and scrolls: about 0. Ration dividends barely matter (packs are full). Favouring Guilds and Mages leaves Military around -3.5. | "What to expect" added to [[4.99 Survival Rules]]. Spare rations best sent to Darrett's camp. |
 
 ## Feedback Log

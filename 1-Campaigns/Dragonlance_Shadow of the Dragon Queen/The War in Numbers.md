@@ -23,7 +23,7 @@ Kalaman's numbers are its regulars. The enemy's are its Kalaman front, until the
 | Before Mission 5 | Wheelwatch falls, and the party retakes it | | Retaken 2,260. Not retaken 2,220. | Retaken 3,000. Not retaken 3,300. |
 | After Wheelwatch | [[3.12 Steel Springs\|Scenario 4: Steel Springs]] | 1,400 v. 2,500 and Ignia | 1,810 / 1,660 / 1,460 | 2,800 / 2,850 / 2,900 |
 | The retreat | [[3.12 Steel Springs#Scenario 5: Valley of Barbed Tails\|Scenario 5: Valley of Barbed Tails]] | 300 v. 400 | **1,630 / 1,600 / 1,510** | 2,750 / 2,790 / 2,830 |
-| Leaving Kalaman | Darrett's expedition sails | 500, Cudgel's 10, and the chapterhouse at Trusted+ | 1,100 stay with Vendri | |
+| Leaving Kalaman | Darrett's expedition sails | 500, Cudgel's 10, and the chapterhouse at Liked+ | 1,100 stay with Vendri | |
 
 **The expedition**
 

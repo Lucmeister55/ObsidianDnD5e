@@ -53,7 +53,7 @@ Counted up in [[6.02 Return to Kalaman#The Siege Ledger|the Siege Ledger]].
 | **The Mages** | One great working at the decisive moment. | [[Mages of High Sorcery]] Standing |
 | **The smallfolk and refugees** | Bodies on the walls, cooks, runners and healers. | [[Kalaman Smallfolk]] |
 | **The Wastes** | Heart's Hollow scouts, Zhelsuel's exiles, and Clystran's dragonnels. | [[4.00 Duty]] |
-| **The party's own units** | A knight PC's Company and the other heroes' units. | [[Skirmish Battles#Heroes' Own Units]] |
+| **The party's own units** | A knight PC's Company and the other heroes' units. | [[Skirmish Battles#Our Roster]] |
 
 ## Weak Points
 

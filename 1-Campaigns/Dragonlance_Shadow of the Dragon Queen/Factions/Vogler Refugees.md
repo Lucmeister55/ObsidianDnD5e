@@ -23,8 +23,8 @@ Pay this once, at the end of 16 Brookgreen, after the council. Then stop using t
 
 | Final Standing | What they do | Smallfolk starts at |
 |---|---|---|
-| **+3** | **2 [[Kalaman Smallfolk#Goodwill\|Goodwill]]**, and the Vogler fighters answer to the party's word as well as Vendri's. | **+2** |
-| **+1, +2** | **1 Goodwill**. | **+1** |
+| **+3** | The Vogler fighters answer to the party's word as well as Vendri's. | **+2** |
+| **+1, +2** | Grateful, and they say so in the camps. | **+1** |
 | **0** | Grateful and tired. Nothing more. | **0** |
 | **-1 or lower** | The camps tell the city what happened on the Vogler road. | **-1** |
 

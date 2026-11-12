@@ -81,8 +81,8 @@ Vinhollow dies in Soth's massacre and the money stops. Days later a door opens i
 **The sabotage.** He does what he's told and no more. Before the siege, unless the party stops him, pick one or two:
 - **The arsenal:** the Trade Gate's ballista has no bolts.
 - **The sluice:** a cistern is left open, and **+1 Kapaks** unit comes up inside the walls at the Trade Gate (under the Cistern House, if that's the Bastion).
-- **The boats:** cut loose. No boats for the siege, and no Goodwill boat rides.
-- **The favours:** he calls them in. The party loses **2 tokens** of its choice (Commendations, Goodwill or Pledges).
+- **The boats:** cut loose. No boats for the siege, and no Smallfolk boat rides.
+- **The favours:** he calls them in. The next **two favours** the party asks of any faction are refused.
 
 The party can trace it to the Firefishers, but never gets more out of him than "business".
 

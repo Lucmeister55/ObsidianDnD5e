@@ -109,7 +109,7 @@ wrap: true               # wrap text; useful with left/right alignment
 
 > [!homebrew] Source: **Homebrew**.
 > - **The Knights' Chapterhouse.** A cold hall with a handful of knights, a great many old banners and a great deal of pride ([[Knights of Solamnia]]).
-> - **The Cinque Teste.** A private casino in the old Istarian cisterns, reached through Hetch Warehouse, run by the Firefishers. Few people know it's there, and the chips have five little heads on them ([[Peppino Fettuccini#The Five Heads]]).
+> - **The Cinque Teste.** A private casino in the old Istarian cisterns, reached through Hetch Warehouse, run by the Firefishers. Few people know it's there, and the chips have five little heads on them ([[Peppino Fettuccini#The Cinque Teste]]).
 > - **The Bastion.** Six empty properties the city can spare, from a beacon house on the harbour wall to a house over an Istarian cistern ([[3.03 Mission 1 - Rookledust Rescue#Choosing the Bastion|Choosing the Bastion]]).
 
 ### Outside the Walls

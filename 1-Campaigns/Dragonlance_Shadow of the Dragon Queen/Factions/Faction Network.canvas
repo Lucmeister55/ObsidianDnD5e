@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"MIL","type":"text","text":"### [[Kalaman Military]]","x":-120,"y":-515,"width":240,"height":70,"color":"4"},
+		{"id":"KNI","type":"text","text":"### [[Knights of Solamnia]]","x":300,"y":-275,"width":240,"height":70,"color":"5"},
+		{"id":"SMA","type":"text","text":"### [[Kalaman Smallfolk]]","x":300,"y":205,"width":240,"height":70,"color":"3"},
+		{"id":"FIR","type":"text","text":"### [[The Firefishers]]","x":-120,"y":445,"width":240,"height":70,"color":"1"},
+		{"id":"GUI","type":"text","text":"### [[Kalaman Guilds]]","x":-540,"y":205,"width":240,"height":70,"color":"2"},
+		{"id":"MAG","type":"text","text":"### [[Mages of High Sorcery]]","x":-540,"y":-275,"width":240,"height":70,"color":"6"},
+		{"id":"KEY","type":"text","text":"**Both ways** (⇄, arrow at each end)\n- Green: they like each other\n- Red: they dislike each other\n\n**One way** (single arrow)\n- Cyan: likes\n- Orange: dislikes\n\nNo line: neutral. Reasons: each note's **Other factions** table.","x":620,"y":380,"width":280,"height":260}
+	],
+	"edges":[
+		{"id":"e0","fromNode":"MIL","fromSide":"right","toNode":"KNI","toSide":"left","fromEnd":"arrow","color":"4","label":"⇄ fellow soldiers"},
+		{"id":"e1","fromNode":"MIL","fromSide":"bottom","toNode":"GUI","toSide":"top","fromEnd":"arrow","color":"1","label":"⇄ the purse"},
+		{"id":"e2","fromNode":"MIL","fromSide":"bottom","toNode":"FIR","toSide":"top","fromEnd":"arrow","color":"1","label":"⇄ the noose"},
+		{"id":"e3","fromNode":"SMA","fromSide":"top","toNode":"MIL","toSide":"bottom","color":"5","label":"their sons serve"},
+		{"id":"e4","fromNode":"KNI","fromSide":"left","toNode":"MAG","toSide":"right","fromEnd":"arrow","color":"1","label":"⇄ the old grudge"},
+		{"id":"e5","fromNode":"KNI","fromSide":"bottom","toNode":"FIR","toSide":"top","color":"2","label":"the Measure"},
+		{"id":"e6","fromNode":"GUI","fromSide":"right","toNode":"KNI","toSide":"left","color":"5","label":"old names"},
+		{"id":"e7","fromNode":"MAG","fromSide":"bottom","toNode":"FIR","toSide":"top","color":"2","label":"black-market magic"},
+		{"id":"e8","fromNode":"SMA","fromSide":"left","toNode":"MAG","toSide":"right","color":"2","label":"fear of wizards"},
+		{"id":"e9","fromNode":"GUI","fromSide":"right","toNode":"SMA","toSide":"left","fromEnd":"arrow","color":"1","label":"⇄ prices and wages"},
+		{"id":"e10","fromNode":"FIR","fromSide":"left","toNode":"GUI","toSide":"right","color":"5","label":"best customers"},
+		{"id":"e11","fromNode":"SMA","fromSide":"left","toNode":"FIR","toSide":"right","color":"2","label":"their cut"},
+		{"id":"e12","fromNode":"KNI","fromSide":"right","toNode":"SMA","toSide":"right","color":"5","label":"sworn to protect"},
+		{"id":"e13","fromNode":"SMA","fromSide":"top","toNode":"KNI","toSide":"bottom","color":"2","label":"the Cataclysm"}
+	]
+}

@@ -125,14 +125,14 @@ Edric climbs two ladders at once: **Kalaman's army**, where rank means soldiers,
 | Rank | When | Military Standing | What it means |
 |---|---|---|---|
 | **Esquire** (lieutenant's rank) | Arrival in Kalaman | any | Leads the party on missions. No soldiers of his own. |
-| **Captain** | After Steel Springs, if he held the Inkwater | Neutral or better | Commands one Kalaman unit in any battle, whatever the party's Standing ([[Skirmish Battles#Who Commands What]]). |
-| **Commander** | Back from the Wastes | Trusted or better | Several companies. A seat in Vendri's war room as an officer, not a guest. |
-| **Marshal** (of a wall, or the field army) | During the siege | Honoured | Commands a whole section of the defence. |
-| **Grand Marshal of Kalaman** | After the siege, **only if Vendri has fallen** and Kalaman stands | Honoured, and the city's trust | Commands all of Kalaman's armies. The war's next chapter is his to fight. |
+| **Captain** | After Steel Springs, if he held the Inkwater | Ignored or better | Commands one Kalaman unit in any battle, whatever the party's Standing ([[Skirmish Battles#Who Commands What]]). |
+| **Commander** | Back from the Wastes | Liked or better | Several companies. A seat in Vendri's war room as an officer, not a guest. |
+| **Marshal** (of a wall, or the field army) | During the siege | Admired | Commands a whole section of the defence. |
+| **Grand Marshal of Kalaman** | After the siege, **only if Vendri has fallen** and Kalaman stands | Admired, and the city's trust | Commands all of Kalaman's armies. The war's next chapter is his to fight. |
 
 How the war goes decides how far he gets. If Steel Springs is a rout, or the Wastes go badly, he stays a rank lower. If Vendri dies in the siege and the city holds, the council turns to the knight who held the gate.
 
-**The Knights of Solamnia.** Edric starts as a **Knight of the Crown**. Reaching +10 with the Knights ([[Knights of Solamnia]]) gets him knighted in the **Sword** or the **Rose** on the spot. Raising a Company (his downtime) gets him his forty. A Knight of the Rose who is also Grand Marshal of a Nightlund city is a very unusual man, and Dargaard Keep is in Nightlund.
+**The Knights of Solamnia.** Edric starts as a **Knight of the Crown**. Reaching Admired with the Knights ([[Knights of Solamnia]]) gets him knighted in the **Sword** or the **Rose** on the spot. Raising a Company (his downtime) gets him his forty. A Knight of the Rose who is also Grand Marshal of a Nightlund city is a very unusual man, and Dargaard Keep is in Nightlund.
 
 **If Edric dies,** the promotions go to whoever held the line with him, most likely Darrett, if he's still alive.
 

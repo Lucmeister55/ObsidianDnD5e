@@ -6,169 +6,133 @@ tags:
 
 # Skirmish Battles
 
-> [!homebrew] Source: **Homebrew**, after the "troop" approach to units-as-creatures (as in MCDM's *Flee, Mortals!* and *Strongholds & Followers*), stripped down. The big battles still use **WoK**.
+> [!info] Source: **Community: Trekiros, *Mass Combat Simplified* v2** ([[Trekiros - Mass Combat Simplified v2.pdf]]), run as written. Only the roster (which of our units is which battalion) and "Who Commands What" are **Homebrew**. The big battles still use **WoK**.
 
-Mass combat on the battlemap: a handful of units per side, heroes in the middle, played like normal 5e. For battles too small for *[[Warriors of Krynn]]*, or when the party should be in the fray. **Good fits:** the Inkwater crossing at Steel Springs, the Trade Gate in the siege, Wheelwatch's courtyard, Darrett's assault in Scenario 7 (instead of WoK), and any WoK scenario you'd rather zoom in on.
+**The point:** mass combat on the battlemap, with battalions on each side and the heroes in the middle of them. A battalion is a big creature with a stat block. Use it when a battle is too small for *[[Warriors of Krynn]]*, or when you want the party in the fray.
 
-> [!tip] Only three operations
-> Every modifier in these rules is **half**, **double** or **doesn't strike back**. Nothing stacks: a unit that's both halved and doubled deals normal damage, and two halves are still just half.
+**Good fits:** the Inkwater crossing at Steel Springs, the Trade Gate in the siege, Wheelwatch's courtyard, the raid on the beached fleet, the black rose on the road, and any WoK scenario you'd rather zoom in on.
 
-## Units
+## Before the Battle
 
-A **unit** is about **ten soldiers** on a **2 × 2** base, facing one way (its **front**), with **HP**, **Damage**, **AC** and an attack bonus (against heroes), a **troop type** and a **Morale** bonus. The weapon triangle doesn't apply.
+- **Outcomes.** Prepare a range of end states and tell the players what they're judged on: surviving battalions (each one is soldiers' lives, and a faction notices), NPCs in jeopardy (when a battalion drops to half or 0 HP, an NPC in it may be among the casualties), information (prisoners), reputation, a favour.
+- **Enemy army.** Build a balanced fight between the PCs (plus allied NPCs) and the enemy's **commanders**. Then add battalions until the enemy army has **10 to 20 creatures** in total. About half should be core battalions (Infantry, Archers, Cavalry, slightly more Infantry), the rest support battalions, commanders and specials. The number of battalions you add is the players' **military budget**.
+- **Players' army.** The players get as many battalions as the military budget (or you design it, with the same mix). In this campaign the budget is also capped by **Who Commands What** (below) and [[6.02 Return to Kalaman#The Siege Ledger|the Siege Ledger]].
+- **Scouting.** Give the players a chance to scout the enemy's size and composition first.
+- **Mounts.** Give each PC a warhorse or another mount, so they can get across the field to the action.
 
-- **Bloodied** (half HP or less): it deals **half**.
-- **0 HP:** it's broken. Take it off the table.
+## Running It
 
-## Unit Against Unit: The Clash
+- **Engagement.** The armies start **600 feet** apart. Recommended scale: **30 feet per square**.
+- **Initial advance.** Let the armies approach without initiative. Roll only when timing matters, usually when someone declares an attack.
+- **Initiative.** Only **commanders** (PCs and named NPCs) roll. Battalions act on **initiative count 0**: allied battalions first, in any order, then enemy battalions.
+- **Orders.** As an **action**, a commander gives an order to an allied battalion within **120 feet** that can hear them. A battalion always follows the **last order** it was given, unless a condition stops it.
+- **Battalion against battalion.** **No rolls.** Attacks hit automatically, and saving throws fail automatically. Use average damage. **Advantage doubles** the damage and **disadvantage halves** it.
+- **Commanders.** When a commander attacks or is attacked by a battalion or another commander, roll attacks, saves and damage as usual.
+- **Winning.** Once **all of an army's commanders** are defeated or have fled, the army routs and the battle is lost. Other common goals:
+  - **Protect / Destroy:** one side protects a creature or object for **10 rounds**, the other must destroy it (a gate, a ritual, hostages).
+  - **Escape / Chase:** one side starts surrounded and wins if its commanders get off the field.
 
-**No rolls.** When a unit attacks another unit in melee, **both deal their Damage to each other at the same time**. Then check the situation:
+## The Battlefield
 
-| Situation | What changes |
-|---|---|
-| **Hit in the side or rear** | The defender **doesn't strike back**. |
-| **Behind cover** (a wall, a barricade, the top of a gate) | Takes **half**. |
-| **Charged downhill** (the attacker moved at least 20 feet downhill, in a line, into the clash) | The attacker deals **double**, as a Horse charge does. Pikes stop it, as they stop any charge: into Pikes' front it gets no bonus. |
-| **On higher ground** (the defender holds a hill, a ramp or a rampart above the attacker) | The defender counts as **behind cover**, and takes **half** from the unit clashing up at it. |
+Use a few of these on every map:
+- **Slopes:** high ground sees more of the field, and gives archers more range (see Archers below).
+- **Forests and ruins:** creatures inside are **heavily obscured** to creatures 90 feet or more away.
+- **Swamp, mud, uneven ground:** **difficult terrain**.
+- **Cliffs, rivers, lakes:** practically impassable to battalions (except druids).
+- **Caves and tunnels:** another line of attack, underground.
+- **Fortifications:** creatures on a wall have **advantage** against creatures not on it, which have **disadvantage** against them. Walls and gates have **100 to 500 HP**.
 
-### Troop Types
+## Battalions
 
-Like *Advance Wars*: pikes stop charges, horse runs down shooters and engines, shooters shred foot and fliers.
+All battalions are swarms (Gargantuan, or Huge for 50 HP ones) with **AC 10** and **Group Morale** (while above half HP, advantage on saves against being charmed, frightened, paralyzed, stunned, restrained or knocked prone). All are **CR 5**. Most attacks deal **25**, or **12** once the battalion is at half HP or fewer.
 
-| Type | Units | Good at | Bad at |
+| Battalion | HP | Speed | Key traits and actions |
 |---|---|---|---|
-| **Foot** (swords, axes, shields) | Militia, Infantry, Mercenaries, Rabble, Hired Blades, draconians, Dragon Army Soldiers, Ogres | All-rounders. Solid in any clash. | Arrows hurt them on the way in. |
-| **Pikes** (spears, pikes, halberds) | Pikes, gate guards | **A Charge into their front** gets no bonus, and the pikes deal **double**. | In any other clash, they deal **half**. |
-| **Horse** | Knights, Undead Knights, mounted soldiers | **Charge:** deals **double**. | Pikes. |
-| **Shooters** | Archers, Crossbows, Bozaks, Davos's Apprentices | **Volley:** deals its Damage and takes nothing back. | In a clash, they deal **half**. |
-| **Engines** | Siege Crew, War Engines, Milo's Bombards | Big Damage at long range. | They can't move, and they never strike back. |
-| **Fliers** | Dragonnel Riders | Only Shooters, Engines, Pikes and other Fliers can hit them, and they never take damage back when they swoop in. | They take **double** from volleys. |
+| **Infantry** | 100 | 30 ft | Resists bludgeoning. **Shield Wall:** a 30-foot square, or a 90 × 10-foot line, chosen as it moves. **Brawl** +6, 25 slashing. |
+| **Archers** | 100 | 30 ft | Resists slashing, Stealth +7. **High Ground:** +30 feet of range per 30 feet of height (max 600). **Volley** +6, 150 ft, 25 piercing. |
+| **Cavalry** | 100 | 60 ft | Resists piercing. **Trample** +6, 25 bludgeoning. |
+| **Artillery** | 50 | 30 ft | **Bombard:** a 30-foot burning area within 600 feet for 10 minutes (start a turn there: DC 15 Dex, 4d6 fire, half on a save). **Reload:** roll d6 (d4 at half HP) each turn it doesn't move; at 10 total it can fire again. |
+| **Arcane** | 50 | 30 ft | **Arcane Barrage:** 120 × 30-foot line, DC 15 Dex, 4d6 lightning (2d6 at half). **Tactical Illusion** (1/day). **Telepathic Hub.** |
+| **Divine** | 50 | 30 ft | **Morale Boost:** allied battalions within 120 feet act as if above half HP. **Cure Wounds:** allies within 30 feet regain 4d8 (2d8 at half). **Miracle:** roll d20 each turn; at 100 total (reset if it moves or is hurt), its god intervenes. |
+| **Druidic** | 50 | 30 ft, swim 60, climb 30, burrow 15 | **Trample** +6, 25 bludgeoning. **Tree Stride** (1/day, inside a forest). |
+| **Flying Cavalry** | 50 | 30 ft, fly 60 | **Flyby.** **Talons** +7, 25 piercing, DC 15 Dex or grappled. **Dropped Spikes:** creatures 90 feet or less below, DC 15 Dex, 25 piercing (half on a save). |
 
-**Example.** Kalaman Soldiers (Foot, Damage 20) attack Baaz (Foot, Damage 15) head-on: the baaz take 20, and the soldiers take 15. Then the Knights charge the baaz in the flank: double, so the baaz take 50, and strike nothing back. If the Knights had charged Kalaman's Pikes head-on instead, the knights would deal a plain 25 and take 30.
+Full stat blocks are in the PDF.
 
-### Slopes and High Ground
+### Army Traits
 
-[[Combat Extras#Slopes and High Ground|Slopes]] as for heroes: double distance downhill, half uphill. Any unit charging downhill deals **double** (Horse too, no stacking). The unit on top takes **half** from melee below, and Shooters or Engines up there Volley at **+50% range**. Fliers ignore slopes.
+Each army gets **one** trait, shared by every battalion in it (already counted in CR). For story reasons an army can mix a few, but keep it to a few. This campaign's choices:
 
-## Units and Heroes
+| Trait | Effect | Our use |
+|---|---|---|
+| **Aggressive** | Bonus action: move up to its speed toward a hostile creature it can see. | Draconian fanatics, the Red Dragon Army's line |
+| **Nimble Escape** | Disengage or Hide as a bonus action. | Goblins, kapak skirmishers, Thorn's Wild Hunt |
+| **Undead Fortitude** | At 0 HP, Con save (DC 5 + damage) to drop to 1 instead, unless radiant or a critical hit. | Soth's skeletal knights |
+| **Giant Army** | +50 maximum HP. | Ogres |
+| **Poison Splash** | When it takes damage (not psychic or poison), each creature within 5 feet takes 2d8 poison. | Kapaks (their acid death) |
+| **Vampiric** | Regains half the damage it deals with melee attacks. | Soth's Blood Knights |
+| **Elemental Army** | Immune to one damage type, and its attacks deal that type. | Bozaks (lightning) |
+| **Infernal Legion** | Magical darkness doesn't block its vision. | Soth's host at night |
+| **Amphibious** | Breathes water, swim speed equal to walking. | The Firefishers' boat crews |
+| **Incorporeal Movement** | Moves through objects as difficult terrain (3d10 force if it ends inside one). | Ghosts |
+| **Demonic Horde** | Half max HP, and **Summon** (1/day, coin flip: an identical battalion appears). | (none yet) |
 
-Units are built to fight units, and heroes are built to fight heroes:
-- **A unit attacking a lone hero** rolls once, for **half** its Damage.
-- **A lone hero attacking a unit** with weapons or single-target spells deals **half**.
-- **Area effects** (*fireball*, breath weapons) deal **double** to a unit.
-- Effects that would stop one person (grappled, stunned, charmed) don't work on a unit.
+## Our Roster
 
-## Leading from the Ranks
+> [!homebrew] Source: **Homebrew**. Which of our units is which battalion. The names in the chapters still work.
 
-A PC or NPC champion (Darrett, Cudgel, a Dragon Army officer) can **step into a friendly unit** as part of their move. From then on, **you are part of the unit:**
-- **You don't take your own turn.** You do whatever the unit does, and nothing else.
-- **The unit can't be Shaken**, and it acts on your initiative.
-- **You're hard to reach.** Enemy units clash with the unit, not you. Heroes and monsters can still pick you out, but you have three-quarters cover.
-- **Stepping out** takes your whole turn. If the unit is destroyed, you're left in the open, prone.
+| Unit in the chapters | Battalion | Trait | Who they are |
+|---|---|---|---|
+| **Militia** | Infantry | | Vogler's villagers, the refugees, Kalaman's smallfolk |
+| **Infantry** | Infantry | | Kalaman's garrison |
+| **Pikes** | Infantry | | Kalaman's spearmen, the gate guards |
+| **Archers** | Archers | | Kalaman's bowmen, scouts |
+| **Mercenaries** | Infantry | | Cudgel's Ironclad Regiment |
+| **Knights** | Cavalry | | Solamnic knights, Darrett's knights |
+| **Veterans** | Infantry | | The Military's forty veterans |
+| **Siege Crew** | Artillery | | Kalaman's ballistae |
+| **Edric's Company** | Infantry | | [[Ser Edric of Brackenridge\|Edric]]'s "Raising a Company" at progress 8 |
+| **Davos's Apprentices** | Arcane | | [[Davos Bloodbane\|Davos]], with the Mages at Liked |
+| **Milo's Bombard Crew** | Artillery | | [[Milo Geartickle\|Milo]] and Tatina |
+| **Thorn's Wild Hunt** | Druidic | Nimble Escape | [[Aeltharion Caladon (Thorn)\|Thorn]]'s grove at progress 6 |
+| **Wurm's Unchained** | Infantry | Aggressive | [[Wurm]]'s followers |
+| **Rabble** | Infantry | Nimble Escape | Goblins in Dragon Army colours |
+| **Hired Blades** | Infantry | | Hobgoblin mercenaries, turncoats |
+| **Baaz** | Infantry | Aggressive | The draconian rank and file |
+| **Kapaks** | Infantry | Poison Splash | Draconian skirmishers |
+| **Bozaks** | Arcane | Elemental Army (lightning) | Draconian spellcasters |
+| **Dragon Army Soldiers** | Infantry | Aggressive | The Red Dragon Army's human troops |
+| **Dragon Army Crossbows** | Archers | Aggressive | Behind the soldiers |
+| **Ogres** | Infantry | Giant Army | Hired brutes |
+| **Dragonnel Riders** | Flying Cavalry | | The Army's air wing |
+| **War Engine** | Artillery | | The siege engines before Kalaman |
+| **Undead Knights** | Cavalry | Undead Fortitude | Soth's skeletal knights |
 
-Enemy officers embed the same way.
+**Siege engines:** a single engine on the board uses its own stat block, and only a distant battery is a battalion ([[Siege Engines]]).
+
+**Sivaks** don't need a battalion: a few in stolen faces do more as **monsters** inside your lines. Big single creatures (death dragons, Akhviri, Red Ruin, Wersten Kern, the grove's treant) fight with their **normal stat blocks**, as commanders do: roll as usual against battalions.
 
 ## Who Commands What
 
 > [!homebrew] Source: **Homebrew**.
 
-Allied units always fight, under NPC commanders. **Military Standing** at the start of each skirmish or mission decides which ones the **party** commands.
+Allied battalions turn up whatever the party's Standing, led by NPC commanders (Darrett, Cudgel, a sergeant). What the **party** can give orders to depends on **Military Standing** at the start of each skirmish:
 
-| Military Standing | The party commands |
+| Military Standing | The party can order |
 |---|---|
-| **Hostile** (-3 to -5) | Only their own heroes' units and volunteers. Kalaman's units still fight, under NPC commanders, and ignore the party's orders. |
-| **Wary** (-1, -2) | Their own heroes' units and volunteers (Vogler Militia, Smallfolk). |
-| **Neutral** (0 to +2) | As above, plus one Kalaman unit **on missions only**, under a sergeant who checks every order with Darrett. |
-| **Trusted** (+3 to +5) | One Kalaman unit attached for the whole mission or battle, which takes their orders without question. |
-| **Honoured** (+6 to +10) | Every allied unit on the field, as the commanders of record. |
+| **Hated** (-15 or worse) | Only their own heroes' battalions and volunteers. |
+| **Disliked** (-5 to -14) | Their own battalions and volunteers (Vogler Militia, Smallfolk). |
+| **Ignored** (-4 to 4) | As above, plus one Kalaman battalion **on missions only**. |
+| **Liked** (5 to 14) | One Kalaman battalion for the whole battle. |
+| **Admired** (15 or more) | Every allied battalion on the field. |
 
-- **Their own units** (Edric's Company, the Wild Hunt and the rest) always answer to their hero, whatever the Standing.
-- **Knights** come through [[Knights of Solamnia]] Standing, and Edric can always command them.
-- **Field command.** When the officers fall, whoever is standing commands, whatever the Standing. The first time is the Inkwater crossing at [[3.12 Steel Springs|Steel Springs]], the first skirmish of the campaign.
-- **Edric's rank** ([[Ser Edric of Brackenridge (DM)]]): from Captain onwards, he commands one more Kalaman unit, whatever the Standing.
-
-## Turns and Orders
-
-- **Allied units** act on the initiative of the PC commanding them, within **60 feet**. **Enemy units** act together on initiative count 10.
-- Each turn, a unit **moves and does one thing**. Without orders, it **Holds**. A commanding PC can give one unit a better order as a **bonus action**.
-
-| Order | What it does |
-|---|---|
-| **Hold** (default) | Stays put, turns to face anything, and fights whatever reaches it. |
-| **Advance** | Moves up to its speed, then clashes with an enemy unit or attacks a hero. |
-| **Charge** (Horse only, and any unit going downhill) | Moves up to double its speed in a straight line, then clashes. It can't move next turn. |
-| **Volley** (Shooters and Engines) | Shoots at anything in range. |
-| **Rally** | The commander, standing beside it, spends their action: it's no longer Shaken. |
-
-## Morale
-
-When a unit is **Bloodied for the first time**, or its **commander falls**, or **something terrifying** happens (a dragon arrives, Soth walks through the gate), it rolls **d20 + Morale** against **DC 12**.
-- **Fail:** it's **Shaken**: half damage, it doesn't strike back, and it won't move toward the enemy.
-- **Fail again** while Shaken: it **routs** and leaves the table.
-- Draconians roll with advantage (Draconic Devotion).
-
-## Winning
-
-Every skirmish gets **an objective and a clock** (hold the gate 5 rounds). It ends when the objective is met or one side is all Shaken. When the result is obvious, narrate the rest ([[One-Turn Resolution|one-turn]]).
-
-## Allied Units
-
-Reuse the stats for anyone similar under a new name.
-
-| Unit | Type | AC | HP | Speed | Attack (vs heroes) | Damage | Morale | Special | In this campaign |
-|---|---|---|---|---|---|---|---|---|---|
-| **Militia** | Foot | 12 | 30 | 30 | +3 | 10 | +0 | **Home Ground:** +3 Morale when defending their own homes or people. | Vogler's villagers, the refugees, Kalaman's smallfolk on the walls |
-| **Infantry** | Foot | 18 | 60 | 30 | +5 | 20 | +2 | **Hold the Line:** never Shaken while Holding. | Kalaman's garrison (the module's Kalaman soldiers) |
-| **Pikes** | Pikes | 16 | 45 | 30 | +4 | 15 | +2 | **Second Rank:** can clash from behind a friendly unit, and takes nothing back when it does. | Kalaman's spearmen, the gate guards |
-| **Archers** | Shooters | 13 | 40 | 30 | +4 (150 ft) | 15 | +1 | | Kalaman's bowmen on the walls, scouts |
-| **Mercenaries** | Foot | 16 | 55 | 30 | +5 | 20 | +3 | **Veterans:** reroll one failed Morale check per battle. | Cudgel's Ironclad Regiment |
-| **Knights** | Horse | 18 | 90 | 50 | +5 | 25 | +5 | | Solamnic knights from the chapterhouse, Darrett's knights |
-| **Veterans** | Foot | 17 | 75 | 30 | +5 | 20 | +5 | **Oathbound:** never Shaken while their leader is in sight. | The Military's forty veterans (signature reward at +10), Kalaman's oldest garrison companies |
-| **Siege Crew** | Engines | 14 | 30 | 0 | +5 (300 ft) | 25 | +1 | | Kalaman's ballistae on the walls |
-
-### Heroes' Own Units
-
-One per origin character, earned through their story. Only they command it, at any distance.
-
-| Unit | Type | AC | HP | Speed | Attack (vs heroes) | Damage | Morale | Special | Earned by |
-|---|---|---|---|---|---|---|---|---|---|
-| **Edric's Company** | Foot | 18 | 85 | 30 | +5 | 20 | +5 | **Oathbound:** never Shaken while Edric is in sight. | [[Ser Edric of Brackenridge\|Edric]]'s "Raising a Company" downtime at progress 8: about forty Solamnic foot-knights and sworn veterans, in mismatched armour, under a green-shield banner. |
-| **Davos's Apprentices** | Shooters | 12 | 30 | 30 | +5 (120 ft) | 20 | +0 | **Spell Volley:** counts as an area attack, so it deals **double** to units. **Wild:** roll a d6 each Volley. On a 1, roll on the wild magic table, centred on the apprentices. | [[Davos Bloodbane\|Davos]], with the [[Mages of High Sorcery]] at Trusted: Wyhan's students, a few untested hedge-wizards and moon-touched sorcerers Davos has been quietly teaching. |
-| **Milo's Bombard Crew** | Engines | 13 | 30 | 20 | +5 (200 ft) | 25 | +1 | **Bombard:** its target and every unit within 10 feet take the Damage. **Gnomish:** roll a d6 each shot. On a 1, it misfires and nothing happens. On a 6, it deals **double**. | [[Milo Geartickle\|Milo]] building it with Tatina's help: a few drone-tinkering workweeks and the Guilds or Military at Trusted. The crew are guild apprentices and very excited refugees. |
-| **Thorn's Wild Hunt** | Horse | 13 | 60 | 50 | +5 | 20 | +2 | **Pack Run:** ignores difficult terrain, and can move around a unit to hit its side or rear in the same turn. Never routs while Thorn is in sight. | [[Aeltharion Caladon (Thorn)\|Thorn]]'s grove at progress 6 ("The beasts know him"): wolves, boars and one great stag from the woods around Kalaman. |
-| **Wurm's Unchained** | Foot | 14 | 55 | 30 | +4 | 20 | +3 | **Follow Him:** never Shaken while Wurm fights within 30 feet. **The Burning Eyes:** whenever Wurm rages, it makes a Morale check. They've seen what's in him too. | [[Wurm]]'s followers: the refugees who left offerings at his door ([[3.06 Downtime 3]]), if he treated them as people, plus runaway serfs, freed prisoners, and a draconian deserter or two if he spared any in the Wastes. |
-
-**Sources:** [[Kalaman Military]] (most units), [[Knights of Solamnia]] (knights), [[Kalaman Smallfolk]] (militia), Cudgel (her regiment). See [[6.02 Return to Kalaman#The Siege Ledger]].
-
-## Enemy Units
-
-| Unit | Type | AC | HP | Speed | Attack (vs heroes) | Damage | Morale | Special | In this campaign |
-|---|---|---|---|---|---|---|---|---|---|
-| **Rabble** | Foot | 15 | 30 | 30 | +4 | 10 | +0 | **Nimble:** can break off from a clash and move away without being struck. | Goblins in Dragon Army colours |
-| **Hired Blades** | Foot | 18 | 40 | 30 | +3 | 20 | +1 | **Paid, Not Loyal:** their Morale DC is 15, not 12. | Hobgoblin mercenaries, Gragonis's turncoats, Bakaris's knights at the gate |
-| **Baaz** | Foot | 14 | 70 | 30 | +4 | 15 | +4 | **Stone Death:** when destroyed, its squares become difficult terrain. | The draconian rank and file |
-| **Kapaks** | Foot | 15 | 75 | 30 | +5 | 20 | +4 | **Poison:** whatever it clashes with deals **half** on its next turn. **Glide** down from walls. | Draconian skirmishers and wall-climbers |
-| **Bozaks** | Shooters | 15 | 75 | 30 | +5 (60 ft) | 20 | +4 | **Lightning:** its Volley hits two touching units. **Death Burst:** when destroyed, every unit touching it takes its Damage. | Draconian spellcasters and sergeants |
-| **Dragon Army Soldiers** | Foot | 17 | 70 | 30 | +5 | 20 | +4 | | The Red Dragon Army's human troops |
-| **Dragon Army Crossbows** | Shooters | 15 | 45 | 30 | +4 (100 ft) | 20 | +3 | | Behind the soldiers |
-| **Ogres** | Foot | 11 | 135 | 40 | +6 | 30 | +1 | **Smash:** a unit it clashes with is pushed back 10 feet. | Hired brutes |
-| **Dragonnel Riders** | Fliers | 16 | 115 | fly 60 | +6 | 30 | +4 | | The Army's air wing |
-| **War Engine** | Engines | 15 | 60 | 0 | +5 (300 ft) | 30 | +2 | **Bombard:** its target and every unit within 10 feet take the Damage. | The siege engines before Kalaman |
-| **Undead Knights** | Horse | 17 | 105 | 50 | +6 | 25 | Never Shaken | **Dread:** the first time it clashes with a unit, that unit makes a Morale check. | Soth's skeletal knights |
-
-**Sivaks** don't need a unit. A few in stolen faces do more damage as **monsters** inside your lines than a hundred in the open.
-
-## Monsters on the Field
-
-Big single creatures fight with their **normal stat blocks**, not as units: death dragons, Akhviri, Red Ruin on her dragonnel, Wersten Kern, the grove's treant.
-- Their attacks against a unit deal **full damage**, and their area attacks deal **double**.
-- A unit that clashes with a monster deals its Damage to it, and the monster strikes back with one attack.
-
-**Building your own unit.** Take a stat block: AC and attack bonus stay the same, HP is about **3 ×** its hit points, and Damage is about **1.5 ×** its damage per turn, rounded to the nearest 5. Morale is +0 for rabble, +2 for trained troops, and +4 for veterans or fanatics.
+- **Heroes' own battalions** always answer to their hero.
+- **Knights** come through [[Knights of Solamnia]] Standing, and Edric can always order them.
+- **Field command.** When the officers fall, whoever is standing commands. The first time is **Steel Springs**, at the Inkwater crossing ([[3.00 Storm Clouds]]).
+- **Edric's rank** ([[Ser Edric of Brackenridge (DM)]]): from Captain on, one more Kalaman battalion.
 
 ## Things to Watch
 
-- If a round with 6+ units drags past 10 minutes, cut the roster or have enemy units act at once.
-- If players would rather fight than command, let Darrett or Cudgel run the allied units.
-- Too tanky or too fragile? Adjust the HP multiplier (2–4 ×) first. At 3 × a straight clash lasts 2–5 rounds, inside a 5–6 round clock.
-- Do the troop types make unit choice interesting (pikes against horse, horse against archers)?
+- Do the players enjoy giving orders, or do they just want to fight? If the latter, let Darrett or Cudgel order the allied battalions.
+- A battalion hit is **25** damage. At levels 5–6 that's a lot against a PC: keep the PCs on the commanders, as the system intends.
+- A straight clash between two full battalions takes about **7 rounds** (100 HP, 25 then 12 at half). If that drags against a 5–6 round clock, decide the battle by its commanders, as the rules say.

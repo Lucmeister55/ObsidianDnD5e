@@ -22,7 +22,15 @@ The five great guilds run Kalaman's trade, and their leaders sit on the council:
 **They want:** profit, stable trade, contracts honoured, and power on the council protected.
 **They hate:** broken deals, disrupted trade, theft, price controls, and having their warehouses searched.
 **Friendly with:** the old nobility, and above all [[Bakaris Uth Estide|Lord Bakaris]]., for his Solamnic name and money: they're his only voice on the council. Humiliating the Bakarises costs a little Guilds Standing, and [[Bakaris the Younger]] turns the guilds on the party ([[3.00 Storm Clouds#Running Threads]]).
-**Rivals:** the [[Kalaman Military]] (over money and council power), [[The Firefishers]] (whom they use, and deny knowing), and the [[Kalaman Smallfolk]] (cheap labour).
+**Other factions** (tendencies, for rival costs nobody planned):
+
+| Faction | Tends to | Why |
+|---|---|---|
+| [[Kalaman Military]] | Dislike | The army eats the budget. |
+| [[Knights of Solamnia]] | Like | Solamnic names and old nobility. |
+| [[Mages of High Sorcery]] | Neutral | Business partners, and rivals for artefacts. |
+| [[Kalaman Smallfolk]] | Dislike | Price caps and wage demands. |
+| [[The Firefishers]] | Neutral | Denied in public, used in private (Vinhollow is one of their own). |
 
 ## Old Money
 
@@ -41,17 +49,17 @@ The five great guilds run Kalaman's trade, and their leaders sit on the council:
 > [!warning] The council massacre
 > All five guild leaders die with the governor in the Lord's Arrival. Their successors keep the party's Standing and honour the old leaders' loans, so the heirlooms and expedition gear still come for the Wastes.
 
-## By Band
+## By Tier
 
-| Band                     | How they treat you                                  | Prices in Kalaman                    | Patronage                                | Send-off for the Wastes                                                                        |
+| Tier                     | How they treat you                                  | Prices in Kalaman                    | Patronage                                | Send-off for the Wastes                                                                        |
 | ------------------------ | --------------------------------------------------- | ------------------------------------ | ---------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| **Honoured** (+6 to +10) | Guild leaders ask your opinion on council business. | **25% off**                          | **25 gp a week**                         | **Two** heirlooms and the **full** expedition kit                                              |
-| **Trusted** (+3 to +5)   | Guild halls and warehouses are open to you.         | **10% off**                          | **15 gp a week**                         | **One** heirloom and **three** expedition items                                                |
-| **Neutral** (0 to +2)    | Fair prices and a polite word.                      | Full price                           | Nothing                                  | **One** expedition item                                                                        |
-| **Wary** (-1, -2)        | "Out of stock."                                     | **+25%**                             | Nothing                                  | Nothing                                                                                        |
-| **Hostile** (-3 to -5)   | Blacklisted.                                        | **+50%**, and many won't sell at all | Your Bastion's suppliers stop delivering | Rotten provisions: **1d4 × 5** of your Supply is spoiled and the same of your Water casks leak |
+| **Admired** (15 or more) | Guild leaders ask your opinion on council business. | **25% off**                          | **25 gp a week**                         | **Two** heirlooms and the **full** expedition kit                                              |
+| **Liked** (5 to 14)   | Guild halls and warehouses are open to you.         | **10% off**                          | **15 gp a week**                         | **One** heirloom and **three** expedition items                                                |
+| **Ignored** (-4 to 4)    | Fair prices and a polite word.                      | Full price                           | Nothing                                  | **One** expedition item                                                                        |
+| **Disliked** (-5 to -14)        | "Out of stock."                                     | **+25%**                             | Nothing                                  | Nothing                                                                                        |
+| **Hated** (-15 or worse)   | Blacklisted.                                        | **+50%**, and many won't sell at all | Your Bastion's suppliers stop delivering | Rotten provisions: **1d4 × 5** of your Supply is spoiled and the same of your Water casks leak |
 
-**The council.** The party sits in on council meetings by default. At a payday at **Hostile**, they're dropped from the list, and the council votes without them until a payday back at Wary or better ([[3.00 Storm Clouds#How a Briefing Works]]).
+**The council.** The party sits in on council meetings by default. While **Hated**, they're dropped from the list, and the council votes without them ([[3.00 Storm Clouds#How a Briefing Works]]).
 
 Prices apply to anything bought commercially anywhere in Kalaman: the market, the forges, the inns, a ship's passage.
 
@@ -59,7 +67,7 @@ Prices apply to anything bought commercially anywhere in Kalaman: the market, th
 
 ## Guild Services
 
-At **Trusted or better** ([[Faction Rules#Vendors]]), at the guild prices above:
+At **Liked or better** ([[Faction Rules#Vendors]]), at the guild prices above:
 
 | Service | Guild | Price |
 |---|---|---|
@@ -67,9 +75,9 @@ At **Trusted or better** ([[Faction Rules#Vendors]]), at the guild prices above:
 | A map of a mission area (advantage on navigation there) | Cartographers | **25 gp** |
 | A clerk's copy of any council record, permit or deed | Cartographers | **10 gp** |
 | Passage up or down the coast | Shipwrights | **5 gp** a person a day |
-| A ship and crew, chartered (Honoured) | Shipwrights | **50 gp** a day |
+| A ship and crew, chartered (Admired) | Shipwrights | **50 gp** a day |
 | Hot fish for the refugee camps (**+1 Smallfolk**, once per downtime) | Fishers | **50 gp** |
-| A strongpoint built for the siege: one unit fighting there has half cover (+2 AC) (Honoured) | Masons | **500 gp** |
+| A strongpoint built for the siege: one unit fighting there has half cover (+2 AC) (Admired) | Masons | **500 gp** |
 
 ## Heirlooms
 
@@ -86,7 +94,7 @@ The guild families lend Istarian heirlooms out of their vaults, and they're what
 | [[rope-of-climbing-xdmg\|Rope of climbing]] | Dockhands (Vinhollow) | Canyon walls, cliffs, and every Wash flood the party doesn't want to be in. |
 | [[eyes-of-the-eagle-xdmg\|Eyes of the eagle]] | Cartographers (Nightvane) | Scouting the canyons, and the Dragon Army's patrols, from far off. |
 
-**Rare, at +10** (signature reward), the party picks one:
+**Rare, at Admired** (signature reward), the party picks one:
 - [[daerns-instant-fortress-xdmg|Daern's instant fortress]]: a sheltered long rest anywhere in the Wastes.
 - [[figurine-of-wondrous-power-ivory-goats-xdmg|Figurine of wondrous power (ivory goats)]]: the goat of travelling carries a rider through the canyons.
 
@@ -100,13 +108,13 @@ The guild families lend Istarian heirlooms out of their vaults, and they're what
 - the Cartographers' map of the Wastes (advantage on navigation)
 - passage up the coast, cutting the first days of the march
 
-**Mission perk (Trusted+):** one heirloom on loan for the mission, a Cartographers' map of the area, or a fast boat or wagon.
-**Mission complication (Hostile):** the map they sold you is wrong, and you arrive late or lost.
+**Mission perk (Liked+):** one heirloom on loan for the mission, a Cartographers' map of the area, or a fast boat or wagon.
+**Mission complication (Hated):** the map they sold you is wrong, and you arrive late or lost.
 
-**Signature reward (+10):** a fully outfitted expedition: three pack mules, a guide who has been to the edge of the Wastes, and a **rare heirloom**.
-**Signature disaster (-5): the ledger closes.** No guild deals with the party: no ship, no merchant, and the Bastion's lease is called in. The council docks the army's budget for "keeping such company", and Vendri has to answer for it. It lifts with a public apology, a huge payment, or the guild leaders' funerals.
+**Signature reward (first time Admired):** a fully outfitted expedition: three pack mules, a guide who has been to the edge of the Wastes, and a **rare heirloom**.
+**Signature disaster (first time Hated): the ledger closes.** No guild deals with the party: no ship, no merchant, and the Bastion's lease is called in. The council docks the army's budget for "keeping such company", and Vendri has to answer for it. It lifts with a public apology, a huge payment, or the guild leaders' funerals.
 
-## Favours (Trusted or better)
+## Favours (Liked or better)
 
 - A ship and crew, or a wagon train, for one journey.
 - Masons to fortify or repair something (your Bastion, a wall, a bridge).

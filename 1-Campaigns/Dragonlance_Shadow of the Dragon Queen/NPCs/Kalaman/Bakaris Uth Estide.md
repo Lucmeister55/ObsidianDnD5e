@@ -42,7 +42,7 @@ He blusters and then folds, or backs down the moment someone stands up to him (D
 
 > [!homebrew] Source: **Homebrew**. A loose plan, in case the party decides the simplest way to deal with the file is to deal with the man who started it.
 
-**They're suspected, whatever happens.** The motive is in Vendri's desk. However clean the job, the whole city's first thought is the esquires. If they plan it, run it as an [[Infiltrations|infiltration]]: the Bakaris house by night is Lax (DC 10). A clean job (the Alarm never passes 3) leaves suspicion but no proof.
+**They're suspected, whatever happens.** The motive is in Vendri's desk. However clean the job, the whole city's first thought is the esquires. If they plan it, run it as an [[Infiltrations|infiltration]]: the Bakaris house by night is a soft target (+1d). A clean job (the Alarm never passes 3) leaves suspicion but no proof.
 
 | Faction | If there's proof | If there's only suspicion |
 |---|---|---|

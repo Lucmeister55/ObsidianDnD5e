@@ -21,12 +21,13 @@ The gap. Only **larger terrain pieces** are listed here: things the figures stan
 | 1 | **Forest** | 6 trees, a sloped hill, a log, a lookout platform, a grass barrow mound | High Hill, the woods west of Vogler, the missing scouts, the farmstead, both road ambushes, the Inkwater, the Temple of Paladine, Hawker's Grove | Prologue |
 | 2 | **Rocks and rubble** | 10 boulders, 3 rubble piles, floating wall fragments and floating rocks (on flight stands) | The cliffs, the missing scouts, Wakenreth, Bluemaw, both canyons, Dread Wolf Cove, the Shadowfell, the citadel surface, the rising city, the Clash of Fallen Flames | Prologue |
 | 3 | **Camps and carts** | 4 red tents, a supply cart, 2 toppled wagons, 3 market stalls, beached hulls | The wharf, High Hill, the blockade, the raid on the fleet, the Sunward camp, Camp Carrionclay, Wind's End, the trade camps, Highmaster's Message | Prologue |
-| 4 | **Walls and gates** | Low stone walls, 6 crenellated wall sections, a gatehouse with portcullis, a watchtower, 3 ballistae, a war engine, siege ladders and a ram | High Hill, the workshop, the blockade, Wheelwatch, Camp Carrionclay, Testing the Defences, the Warrior's Gate, the Trade Gate | Prologue (low walls), Conquest (the rest) |
+| 4 | **Walls and gates** | Low stone walls, 6 crenellated wall sections, a gatehouse with portcullis, a watchtower, siege ladders | High Hill, the workshop, Wheelwatch, Camp Carrionclay, Testing the Defences, the Warrior's Gate, the Trade Gate | Prologue (low walls), Conquest (the rest) |
 | 5 | **Dungeon pieces** | 6 coffins, 2 twin pillars, 2 stone crypts, a coral altar and phoenix statue, the Dragon Queen's idol, 4 crystal-banded columns, blue salt crystals, a sunburst throne on a dais | The catacombs, the Blue Phoenix Shrine, Wakenreth, Camp Carrionclay, Bluemaw, the Threshold of the Heavens, the bridge | Storm Clouds |
 | 6 | **Bridges and cages** | 2 footbridges, a wooden bridge, 4 cages, the dragonnel pens, an iron scaffold with stairs and supports | Sunward, Camp Carrionclay, Wind's End, the Mourning Sanctum | Duty |
 | 7 | **One-offs** | The Brass Crab, the burning Wharfinger's office, the hide hut, the fallen stone spire | One encounter each | Varies |
+| 8 | **Siege engines** | 3 ballistae, the gnomeflinger, a ram, a siege tower, a suspended cauldron, a trebuchet, and up to 2 of Tatina's builds ([[Siege Engines]]) | Thornwall Keep, the blockade, the raid on the fleet, Testing the Defences, the Trade Gate | Prologue (gnomeflinger), Storm Clouds (a ballista), Conquest (the rest) |
 
-**Buy first:** sets 1–3 cover the whole prologue and most of Storm Clouds. Then set 5 before the catacombs, set 6 before the Wastes, and the rest of set 4 before the siege.
+**Buy first:** sets 1–3 cover the whole prologue and most of Storm Clouds. Then set 5 before the catacombs, set 6 before the Wastes, and the rest of sets 4 and 8 before the siege.
 
 **Cheap routes:**
 - **Forest:** aquarium plants glued to washers.

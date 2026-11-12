@@ -46,7 +46,7 @@ She knows Kalaman can't hold against a real Dragon Army assault, not without hel
 
 - **The party:** her esquires, special operatives on a lieutenant's rank and 5 gp a week (module, chapter 4). In truth they're her suicide squad: accused of desertion, theft and conspiracy against Vogler by Lord Bakaris, and sworn to her as one company to escape the noose. She keeps the charges in a file on her desk ([[DM Guide#Why They Stay Together]]). Her reasons: she needs fighters she can trust, and she has a feeling she can't explain that the dragonborn is the first sign of the gods coming back.
 - **[[Darrett Highwater]]:** her liaison with the party, trusted faster than anyone. He's what the Vendris were before they hung up their spurs, and on his first day he told her to her face that a lord was lying. Within weeks he has a hundred recruits to train. She tells herself it's because he's useful.
-- **[[Wurm]]:** she makes it known that Wurm serves under her esquires, and that anyone who lays a hand on him answers to her. That protection lasts as long as the party's Military Standing stays Neutral or better (see [[3.00 Storm Clouds]]).
+- **[[Wurm]]:** she makes it known that Wurm serves under her esquires, and that anyone who lays a hand on him answers to her. That protection lasts as long as the party's Military Standing stays Ignored or better (see [[3.00 Storm Clouds]]).
 - **[[Bakaris Uth Estide|Lord Bakaris]]:** she despises him, and he goes over her head at Steel Springs.
 - **Jesen Thold:** her old friend who runs the Steady Beacon.
 - **[[Kalaman Military]]:** she *is* the faction's voice.

@@ -30,7 +30,7 @@ Before the stand, the player picks **one Legacy**:
 |---|---|
 | **Hold the Line** | The objective of this fight is secured: the gate holds, the boats get away, the ritual is broken. Not the whole war, just this. |
 | **Take Them With You** | One enemy within reach dies with the character, whatever its hit points, as long as it isn't a campaign villain (Kansaldi, Soth, Takhisis). Against a campaign villain, it takes half its hit point maximum in damage instead. |
-| **Inspire** | Every ally who sees the stand gains Heroic Inspiration, and every allied unit in a [[Skirmish Battles\|skirmish]] passes its Morale checks for the rest of the battle. |
+| **Inspire** | Every ally who sees the stand gains Heroic Inspiration, and every allied battalion in a [[Skirmish Battles|skirmish]] acts as if above half HP (Group Morale) for the rest of the battle. |
 | **Bequest** | The character's signature item or ability passes on: their weapon becomes a +1 weapon in an ally's hands, or a feature of theirs is taught to an ally as a feat. |
 | **Remembered** | One faction gains **+2 Standing** ([[Faction Rules]]), and the character's name becomes a rallying cry in the siege. |
 

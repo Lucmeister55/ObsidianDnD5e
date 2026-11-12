@@ -38,7 +38,7 @@ Monsters leave parts worth taking, mostly for [[Aeltharion Caladon (Thorn)|Thorn
 > [!homebrew] Source: **Homebrew**.
 
 - **Rations count as Supply**, and land beasts also give Water ([[4.99 Survival Rules#Finding Food and Water]]).
-- **The draconian problem.** Dead draconians leave only their gear. A knocked-out one can be questioned ([[Combat Extras#Where Each Weapon Shines]]).
+- **The draconian problem.** Dead draconians leave only their gear. A knocked-out one can be questioned ([[Combat Extras#Underwater and Mounted]]).
 - **Who crafts:**
   - **In Kalaman:** the **Hammerstrike Forges**: Kadmos (armour, cloaks, boots) and Tiria (weapons), **one job each at a time**, during downtime only. The Guilds' prices apply.
   - **Tatina Rookledust** for anything mechanical, and anything from an Istarian drone.

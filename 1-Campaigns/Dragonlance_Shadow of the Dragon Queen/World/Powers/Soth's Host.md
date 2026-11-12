@@ -21,7 +21,7 @@ Since the Dragon Queen woke [[Lord Soth]], Nightlund's dead have been getting up
 | **Blood Knights** | Vampire nobles of Nightlund in black plate, on undead destriers | [[vampire-nightbringer-xmm\|Vampire Nightbringer]] on a [[warhorse-skeleton-xmm\|Warhorse Skeleton]] | Courteous and terrifying. They talk before they kill. |
 | **Terrorgheist / Zombie Dragon** | | [[lesser-death-dragon-dsotdq\|Lesser Death Dragon]] | The module's death dragons. |
 
-**Skirmish units:** barrow and blood knights are **Undead Knights**. A Deadwalker horde is Foot (AC 8, HP 90, Damage 15, never Shaken, speed 20). A fell bat swarm is Fliers (AC 13, HP 40, Damage 10, Morale +2).
+For [[Skirmish Battles]], use **Undead Knights** for barrow knights and blood knights. A Deadwalker horde is an **Infantry** battalion with **Undead Fortitude** (speed 20). A fell bat swarm is **Flying Cavalry**.
 
 ## Where Do They Come From?
 

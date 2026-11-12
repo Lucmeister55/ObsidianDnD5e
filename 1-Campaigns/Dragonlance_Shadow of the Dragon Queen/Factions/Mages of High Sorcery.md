@@ -16,17 +16,25 @@ The White, Red and Black Robes stand apart from the wars of kings and care who u
 
 **They want:** magic kept under the Orders' control, rogue magic dealt with, lore recovered, and Davos kept safe and watched.
 **They hate:** renegade magic, magic-hating mobs, the destruction of knowledge, and being made to take sides.
-**Rivals:** the [[Knights of Solamnia]].
+**Other factions** (tendencies, for rival costs nobody planned):
 
-## By Band
+| Faction | Tends to | Why |
+|---|---|---|
+| [[Kalaman Military]] | Neutral | The Orders help the war, they don't serve it. |
+| [[Knights of Solamnia]] | Dislike | An old grudge: the Knights want magic on a leash. |
+| [[Kalaman Guilds]] | Neutral | Customers, and rivals for any artefact worth having. |
+| [[Kalaman Smallfolk]] | Neutral | Wary: a frightened mob is how wizards die. |
+| [[The Firefishers]] | Dislike | Black-market magic, and Davos's debts. |
 
-| Band | How they treat you | Each downtime | When leaving for the Wastes |
+## By Tier
+
+| Tier | How they treat you | Each downtime | When leaving for the Wastes |
 |---|---|---|---|
-| **Honoured** (+6 to +10) | They share secrets no one outside a Tower should know. | **One scroll from each list**, and they tell you what any item you bring them is really for. | A *decanter of endless water*, and a scrying of the route to the City of Lost Names. |
-| **Trusted** (+3 to +5) | Wyhan opens her back room. | **One 2nd-level** and **one 1st-level** scroll, and components at cost. | **Two** scrolls of *create food and water*. |
-| **Neutral** (0 to +2) | Wyhan answers questions, mostly. | **One 1st-level** scroll. | **One** scroll of *create food and water*. |
-| **Wary** (-1, -2) | Watched. Davos's wage is "delayed". | Nothing. | Nothing. |
-| **Hostile** (-3 to -5) | Wyhan's shop is closed to you. | Nothing. | Someone in the Order tells the Dragon Army's black robes the party is coming. |
+| **Admired** (15 or more) | They share secrets no one outside a Tower should know. | **One scroll from each list**, and they tell you what any item you bring them is really for. | A *decanter of endless water*, and a scrying of the route to the City of Lost Names. |
+| **Liked** (5 to 14) | Wyhan opens her back room. | **One 2nd-level** and **one 1st-level** scroll, and components at cost. | **Two** scrolls of *create food and water*. |
+| **Ignored** (-4 to 4) | Wyhan answers questions, mostly. | **One 1st-level** scroll. | **One** scroll of *create food and water*. |
+| **Disliked** (-5 to -14) | Watched. Davos's wage is "delayed". | Nothing. | Nothing. |
+| **Hated** (-15 or worse) | Wyhan's shop is closed to you. | Nothing. | Someone in the Order tells the Dragon Army's black robes the party is coming. |
 
 **Scrolls.** The party picks from these lists. Never *identify*: Wyhan does that herself, over tea.
 
@@ -38,27 +46,27 @@ The White, Red and Black Robes stand apart from the wars of kings and care who u
 
 ## Wyhan's Back Room
 
-At **Trusted or better** ([[Faction Rules#Vendors]]):
+At **Liked or better** ([[Faction Rules#Vendors]]):
 
 | For sale | Price |
 |---|---|
 | A scroll from the lists above: 1st level / 2nd level | **200 gp** / **500 gp** |
-| A 3rd-level scroll (Honoured) | **1,200 gp** |
+| A 3rd-level scroll (Admired) | **1,200 gp** |
 | *Potion of healing* | **150 gp** |
 | A question answered: old Istar, the moons, prophecy, what a relic was made for | **50 gp** |
-| A *sending* or a scrying, done for you (Honoured) | **500 gp** |
+| A *sending* or a scrying, done for you (Admired) | **500 gp** |
 
-**Mission perk (Trusted+):** Wyhan hands over one *potion of healing* or one 1st-level spell scroll suited to the mission, "on loan".
-**Mission complication (Hostile):** Wyhan "forgets" to mention a magical danger she knew about.
+**Mission perk (Liked+):** Wyhan hands over one *potion of healing* or one 1st-level spell scroll suited to the mission, "on loan".
+**Mission complication (Hated):** Wyhan "forgets" to mention a magical danger she knew about.
 
-**In the siege:** at **Trusted**, the Mages burn the **War Engine** before the Trade Gate fight: remove it. At **Honoured**, they also bring down the **Dragonnel Riders**: remove them too.
+**In the siege:** at **Liked**, the Mages burn the **War Engine** before the Trade Gate fight: remove it. At **Admired**, they also bring down the **Dragonnel Riders**: remove them too.
 
-**Signature reward (+10):** the Orders give the party a fragment of Istarian lore about Onyari, the key to entering one sealed place in the City of Lost Names without a fight. They also lend one character a **rare magic item** from a Tower's vault, chosen to suit them. It's a loan, bound by the Order's laws, and the Conclave can call it back.
+**Signature reward (first time Admired):** the Orders give the party a fragment of Istarian lore about Onyari, the key to entering one sealed place in the City of Lost Names without a fight. They also lend one character a **rare magic item** from a Tower's vault, chosen to suit them. It's a loan, bound by the Order's laws, and the Conclave can call it back.
 
 **Why so little magic.** The Orders' whole purpose is keeping magic out of the wrong hands, and to them most hands are wrong. They pay in knowledge, scrolls and things that get used up, almost never in items that last. If the party wants lasting magic, they'll have to get it from the [[Kalaman Guilds#Old Money|guilds' vaults]], which the Orders would very much like to empty themselves.
-**Signature disaster (-5):** the Orders cut Davos loose. His protection is gone, and the old death sentence for the guard is suddenly back on the table.
+**Signature disaster (first time Hated):** the Orders cut Davos loose. His protection is gone, and the old death sentence for the guard is suddenly back on the table.
 
-## Favours (Trusted or better)
+## Favours (Liked or better)
 
 - Translate an ancient text, or say what an Istarian relic was made for.
 - A *sending*, a scrying, or one specific ritual done for you.

@@ -53,7 +53,7 @@ Every section in the chapter notes starts with a coloured bar showing where it c
 - **No easy outs.** The party has no cleric, paladin, druid or artificer on purpose, so nothing trivialises food, water or carrying. Watch for:
   - ***Goodberry*** only heals in this campaign. It gives no nourishment.
   - **Bags of holding** and similar items don't exist before the Wastes. The first chance to craft one is back in Kalaman, after the trek ([[Harvesting and Crafting]]).
-  - ***Create food and water*** comes only from Mages scrolls, and the ***decanter of endless water*** only from Mages at Honoured. They're meant to make the Wastes easier, as the reward for a lot of investment.
+  - ***Create food and water*** comes only from Mages scrolls, and the ***decanter of endless water*** only from Mages at Admired. They're meant to make the Wastes easier, as the reward for a lot of investment.
   - ***Rope trick*** (Davos might take it) lasts an hour, so it can't shelter a long rest.
 - **Factions**: [[Faction Rules]].
 - **Combat budget**: aim for **one full, played-out fight every 2–4 sessions**. Every encounter in the chapter notes is tagged as a **one-turn** candidate, **avoidable**, or a **full fight** with an objective. Offer one-turns to the table rather than imposing them ([[One-Turn Resolution]]).

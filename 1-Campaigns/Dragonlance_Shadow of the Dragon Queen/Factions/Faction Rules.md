@@ -5,30 +5,44 @@ tags:
 
 # Faction Rules
 
-> [!homebrew] Source: **Homebrew**. The factions come from the **Module** ([[05-chapter-4-shadow-of-war#Power in Kalaman|ch. 4, "Power in Kalaman"]]).
+> [!info] Source: **Community: Paizo, *Pathfinder 2e GM Core*, "Reputation"** ([[Paizo - Pathfinder 2e GM Core - Chapter 4 Subsystems.pdf]]): the scale, tiers and favour sizes, as written. Everything the factions give and take is **Homebrew**. The factions come from the **Module** ([[05-chapter-4-shadow-of-war#Power in Kalaman|ch. 4, "Power in Kalaman"]]).
 
 Six factions, who rarely want the same thing: the [[Kalaman Military]], [[Knights of Solamnia]], [[Mages of High Sorcery]], [[Kalaman Guilds]], [[Kalaman Smallfolk]] and [[The Firefishers]]. It runs through [[3.00 Storm Clouds]], where the party stocks up for the Wastes and the siege.
 
 ## Standing
 
-**One number per faction, -5 to +10**, shared by the party and kept on the slider board. Everyone starts at 0, except the Smallfolk, who inherit the [[Vogler Refugees]] track ("In Vogler" below).
+**One number per faction, -50 to +50**, shared by the party and kept on the board. Everyone starts at 0, except the Smallfolk, who inherit the [[Vogler Refugees]] track ("In Vogler" below). The players only hear the tier.
 
-| Band | Standing | Feels like |
-|---|---|---|
-| **Honoured** | +6 to +10 | They'd follow you anywhere, and pay out big. |
-| **Trusted** | +3 to +5 | Doors open, real rewards, **favours**. |
-| **Neutral** | 0 to +2 | A small reward. |
-| **Wary** | -1, -2 | Nothing. They watch you. |
-| **Hostile** | -3 to -5 | They cost you something. |
+| Tier | Standing | Feels like | Raised by | Lowered by |
+|---|---|---|---|---|
+| **Revered** | 30 to 50 | Heroes. Every member would take major risks for you. | Major favours | Moderate or major disservices |
+| **Admired** | 15 to 29 | They'd follow you anywhere, and pay out big. | Major favours | Any disservice |
+| **Liked** | 5 to 14 | Doors open, real rewards, **favours**. | Moderate or major favours | Any disservice |
+| **Ignored** | -4 to 4 | A small reward. | Any favour | Any disservice |
+| **Disliked** | -5 to -14 | Nothing. They watch you. | Any favour | Moderate or major disservices |
+| **Hated** | -15 to -29 | They cost you something, and jump at a chance to hurt you. | Any favour | Major disservices |
+| **Hunted** | -30 to -50 | They come for you, whatever it costs them. | Moderate or major favours | Major disservices |
 
-**What to expect.** Pleasing everyone ends Storm Clouds with two or three Trusted, the rest Neutral, maybe one Honoured. Picking favourites gets two to +10, and the rest go Wary or Hostile ([[Playtest Ideas#Balance Checks]]). The Military and Smallfolk are easy. The Knights, Mages and Firefishers don't warm to convicts, and pay best. The Guilds are easy to lose, and pay while they can.
+A favour or disservice that its tier ignores changes nothing: once Liked, small kindnesses stop impressing them, and once Disliked, small slights are already expected. **Revered** and **Hunted** have no rows in the faction notes: Revered pays as Admired, plus **one extra unit** in the [[6.02 Return to Kalaman#The Siege Ledger|Siege Ledger]]; Hunted is Hated, and its signature disaster comes back for a second round.
+
+**What to expect** (Storm Clouds, [[Playtest Ideas#Balance Checks]]). Pleasing everyone leaves the Military and Smallfolk Liked and the rest split between Liked and Ignored, with no one Admired. Picking favourites gets one faction Admired almost always and a second about a quarter of the time, before the Trial adds more. Hated needs a brazen act. The Military and Smallfolk are easy. The Knights, Mages and Firefishers don't warm to convicts, and pay best. The Guilds are easy to lose, and pay while they can.
 
 ## Moving Standing
 
-- **±1** for a choice the faction would notice, **±2** for a big one (saving their people, a public betrayal).
+| Size | Points | For example |
+|---|---|---|
+| **Minor** | ±1 | A downtime choice, a small slight |
+| **Moderate** | ±2 | A mission done their way, saving their people, a public snub |
+| **Major** | ±5 | A quest over several sessions (Steel Springs, the Trial, the Test), or one brazen act (selling Vendri out to the council) |
+
+- The chapters list every change at its size already: **+1** is minor, **+2** moderate, **+5** major.
 - **Almost every choice costs someone.** At most **one** option per decision is free, and it should be the hard or unglamorous one.
 - **At most one change per faction per event.** Always tell the players what changed and why.
-- The chapters' changes are defaults. For anything unplanned: which faction would notice, small or big, and would a rival mind?
+- For anything unplanned: which faction would notice, how big, and would a rival mind? (Each note's **Other factions** table.)
+
+## Network
+
+Who tends to like or dislike whom: [[Faction Network.canvas|the faction network]] (a Canvas: green and red both ways, cyan and orange one way, no line neutral). Reasons are in each note's **Other factions** table.
 
 ## Hidden Consequences
 
@@ -56,7 +70,7 @@ About **one decision in three** moves no Standing, or less than it seems, and le
 
 ## Vendors
 
-The [[Mages of High Sorcery#Wyhan's Back Room|Mages]] and [[Kalaman Guilds#Guild Services|Guilds]] sell to the party at **Trusted or better**, the [[The Firefishers#The Black Market|Firefishers]] at **+1 or better**. Some stock opens only at Honoured. The Guilds' price change applies to their services and the City Market, not to the Mages or the Firefishers.
+The [[Mages of High Sorcery#Wyhan's Back Room|Mages]] and [[Kalaman Guilds#Guild Services|Guilds]] sell to the party at **Liked or better**, the [[The Firefishers#The Black Market|Firefishers]] at **+1 or better**. Some stock opens only at Admired. The Guilds' price change applies to their services and the City Market, not to the Mages or the Firefishers.
 
 ### Prices
 
@@ -70,30 +84,15 @@ Kalaman has no magic shop. An esquire earns 5 gp a week, a labourer 2 sp a day, 
 | Uncommon magic item, by commission only | **3,000 gp** |
 | Rare or better | **Never for sale** |
 
-**Where.** Only the Mages and the Firefishers ever sell magic. The City Market, foreign ships and Meulara sell curios that look magical and aren't. **A commission** is one uncommon item, named in advance, ordered through the Firefishers at Trusted. Paid up front, it arrives a downtime later. The best magic comes only from faction rewards (heirlooms, relics, signature rewards) and crafting from harvested parts ([[Harvesting and Crafting]]).
+**Where.** Only the Mages and the Firefishers ever sell magic. The City Market, foreign ships and Meulara sell curios that look magical and aren't. **A commission** is one uncommon item, named in advance, ordered through the Firefishers at Liked. Paid up front, it arrives a downtime later. The best magic comes only from faction rewards (heirlooms, relics, signature rewards) and crafting from harvested parts ([[Harvesting and Crafting]]).
 
 **Selling magic.** Nobody honest buys it. The Firefishers pay a **quarter** of the price above, and the Mages take it "into safekeeping" for **+1 Mages** and nothing else.
 
 Gold also goes on the City Market (anything in the Player's Handbook, +50% in wartime, [[Kalaman#Harbour and Market]]), the Bastion, bribes, and Peppino's deals.
 
-## Trouble
-
-At each payday, roll a d6 for every faction at **Wary** (trouble on a 1) or **Hostile** (on 1 to 3). Run it as one of that downtime's events.
-
-| d6 | Trouble |
-|---|---|
-| 1 | **Scammed.** One purchase this downtime is fake, rotten, or never arrives. |
-| 2 | **Robbed.** Rooms or Bastion turned over: lose 2d10 × 5 gp, or one item that isn't worn. |
-| 3 | **Shaken down.** Pay 50 gp "for protection", or fight 1d4 + 2 thugs in an alley. |
-| 4 | **Beaten up.** One character, caught alone, loses their downtime activity and starts the next mission with 1 level of Exhaustion. |
-| 5 | **Sabotage.** One Bastion facility does nothing this turn, or a hireling quits. |
-| 6 | **Bad word.** A lie about the party spreads. Leave a hidden mark ([[#Hidden Consequences]]). |
-
-The Firefishers, Guilds and Smallfolk use the whole table. The Military, Knights and Mages don't stoop to it: their trouble is always a 6.
-
 ## The Big Moments
 
-The first time a faction reaches **+10**, it gives its **signature reward**. The first time it drops to **-5**, its **signature disaster** happens at once. Both are in each faction's note.
+The first time a faction reaches **Admired**, it gives its **signature reward**. The first time it drops to **Hated**, its **signature disaster** happens at once. Both are in each faction's note.
 
 ## In Vogler
 
@@ -102,18 +101,18 @@ Before Kalaman, the only track is the temporary **Vogler Refugees**. Show the pl
 ## Working a Faction (downtime)
 
 A character can spend **their whole downtime** on a project for a faction (teaching refugee children, guarding a warehouse, running Vendri's messages) instead of their personal activity, Bastion turn or crafting. They pitch it, you pick the check:
-- **DC 15:** +1.
-- **Failed by 5 or more:** -1.
+- **DC 15:** a moderate favour, **+2**.
+- **Failed by 5 or more:** a minor disservice, **-1**.
 
-At most **+1 per faction per downtime** from projects, however many work on it.
+At most **one project per faction per downtime**, however many work on it. Projects stop counting at Admired, which only major favours move.
 
 ## Mission Check-ins
 
-At the start of every major mission or scenario, glance down the tracks. Each faction at **Trusted or better** gives its **mission perk**, and each at **Hostile** its **mission complication** (both in its note).
+At the start of every major mission or scenario, glance down the tracks. Each faction at **Liked or better** gives its **mission perk**, and each at **Hated** its **mission complication** (both in its note).
 
 ## Favours
 
-At **Trusted or better**, **one favour per faction per downtime**, within its power (examples in each note). The Military, Smallfolk and Knights use tokens instead ([[Kalaman Military#Commendations|Commendations]], [[Kalaman Smallfolk#Goodwill|Goodwill]], [[Knights of Solamnia#Pledges|Pledges]]). Asking for something it hates costs 1 Standing, even if it agrees.
+At **Liked or better**, **one favour per faction per downtime**, within its power (examples in each note). Asking for something it hates is a minor disservice (**-1**), even if it agrees.
 
 ## Dividends
 
@@ -121,12 +120,12 @@ At **Trusted or better**, **one favour per faction per downtime**, within its po
 |---|---|---|
 | [[Kalaman Guilds]] | **Short** | Patronage every week until the council massacre, then a send-off of heirlooms and gear for the Wastes |
 | [[The Firefishers]] | **Short** | Every downtime, to the end |
-| [[Kalaman Smallfolk]] | **Short** | Goodwill every downtime |
+| [[Kalaman Smallfolk]] | **Short** | Rumours and free lodging every downtime |
 | [[Mages of High Sorcery]] | **Mixed** | A little every downtime, and for the Wastes |
-| [[Kalaman Military]] | **Long** | Commendations and kit every downtime, Morale in every battle |
-| [[Knights of Solamnia]] | **Long** | Pledges and relics every downtime, reinforcements from Maelgoth in the siege |
+| [[Kalaman Military]] | **Long** | Kit every downtime, Group Morale in every battle |
+| [[Knights of Solamnia]] | **Long** | Relics every downtime, reinforcements from Maelgoth in the siege |
 
-**Paydays.** Band rewards are read at fixed points: the start of each downtime, each mission check-in, the Wastes send-off and the start of the siege. What's paid stays paid, so a dip in Standing between paydays costs nothing, and a climb back is rewarded at the next one.
+**When rewards are read:** the start of each downtime, each mission check-in, the Wastes send-off and the start of the siege.
 
 Supply and Water are defined in [[4.99 Survival Rules#Supply and Water]].
 
